@@ -1,0 +1,181 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md",
+          "samples/**/*.*"
+        ],
+        "group": "framework",
+        "src": "framework"
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md",
+          "samples/**/*.*"
+        ],
+        "group": "net",
+        "src": "net"
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "framework",
+          "net",
+
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md",
+          "samples/**/*.*"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.gif",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "samples/**/*.*"
+        ],
+        "group": "framework",
+        "src": "framework"
+      },
+      {
+        "files": [
+          "**/*.png",
+          "**/*.gif",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "samples/**/*.*"
+        ],
+        "group": "net",
+        "src": "net"
+      },
+      {
+        "files": [
+          "**/*.png",
+          "**/*.gif",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "framework",
+          "net",
+          
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "samples/**/*.*"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/dotnet/desktop/breadcrumb/toc.json",
+      "extendBreadcrumb": false,
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "dotnet/docs-desktop",
+      "feedback_product_url": "https://developercommunity.visualstudio.com/spaces/61/index.html",
+      "author": "adegeo",
+      "ms.author": "adegeo"
+    },
+    "fileMetadata": {
+      "breadcrumb_path": {
+        "xaml-services/**/**.md": "/dotnet/desktop/xaml-services/breadcrumb/toc.json"
+      },
+      "titleSuffix": {
+        "framework/winforms/**/**.md": "Windows Forms .NET Framework",
+        "net/winforms/**/**.md": "Windows Forms .NET",
+        "framework/wpf/**/**.md": "WPF .NET Framework",
+        "net/wpf/**/**.md": "WPF .NET",
+        "xaml-services/**/*.md": "XAML"
+      },
+      "ms.technology": {
+        "framework/winforms/**/**.md": "dotnet-winforms",
+        "framework/wpf/**/**.md": "dotnet-wpf",
+        "net/winforms/**/**.md": "dotnet-winforms",
+        "net/wpf/**/**.md": "dotnet-wpf",
+        "xaml-services/**/*.md": "dotnet-wpf"
+      },
+      "ms.prod": {
+        "framework/winforms/**/**.md": "dotnet-framework",
+        "framework/wpf/**/**.md": "dotnet-framework",
+        "net/winforms/**/**.md": "dotnet-desktop",
+        "net/wpf/**/**.md": "dotnet-desktop",
+        "xaml-services/**/*.md": "dotnet-desktop"
+      },
+      "ms.topic": {
+        "xaml-services/**/*.md": "reference",
+        "**/*how-to*.md": "how-to"
+      }
+    },
+    "template": [],
+    "dest": "dotnet-desktop-guide",
+    "markdownEngineName": "markdig",
+    "groups": {
+      "framework": {
+        "dest": "framework-dest",
+        "moniker_range": "netframeworkdesktop-4.8"
+      },
+      "net": {
+        "dest": "net-dest",
+        "moniker_range": "netdesktop-5.0"
+      }
+    }
+  }
+}

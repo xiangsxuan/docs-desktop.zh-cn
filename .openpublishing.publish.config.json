@@ -1,0 +1,79 @@
+{
+  "docsets_to_publish": [
+    {
+      "docset_name": "dotnet-desktop-guide",
+      "build_source_folder": "dotnet-desktop-guide",
+      "build_output_subfolder": "dotnet-desktop-guide",
+      "locale": "zh-cn",
+      "moniker_ranges": [
+        "netframeworkdesktop-4.8",
+        "netdesktop-5.0"
+      ],
+      "xref_query_tags": [
+        "/dotnet",
+        "/uwp/api"
+      ],
+      "filemap_share_depots": [
+        "VS.dotnet-api-docs"
+      ],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    }
+  ],
+  "notification_subscribers": [
+    "adegeo@microsoft.com"
+  ],
+  "sync_notification_subscribers": [],
+  "branches_to_filter": [
+    "live-sxs",
+    "main-sxs"
+  ],
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
+  "need_pr_comments": false,
+  "contribution_branch_mappings": {},
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/dotnet/docs-desktop",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "main": "main"
+      }
+    }
+  ],
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf",
+      "Intellisense"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
+}
