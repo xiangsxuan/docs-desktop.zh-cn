@@ -1,0 +1,46 @@
+---
+title: 为什么转换顺序非常重要
+ms.date: 03/30/2017
+dev_langs:
+- csharp
+- vb
+helpviewer_keywords:
+- transformations [Windows Forms], order significance
+ms.assetid: 37d5f9dc-a5cf-4475-aa5d-34d714e808a9
+ms.openlocfilehash: 08927ebaa460e19e558dce22f39c13c31f0e49d0
+ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96971351"
+---
+# <a name="why-transformation-order-is-significant"></a><span data-ttu-id="f1432-102">为什么转换顺序非常重要</span><span class="sxs-lookup"><span data-stu-id="f1432-102">Why Transformation Order Is Significant</span></span>
+<span data-ttu-id="f1432-103">单个 <xref:System.Drawing.Drawing2D.Matrix> 对象可以存储单个转换或转换序列。</span><span class="sxs-lookup"><span data-stu-id="f1432-103">A single <xref:System.Drawing.Drawing2D.Matrix> object can store a single transformation or a sequence of transformations.</span></span> <span data-ttu-id="f1432-104">后者称为复合转换。</span><span class="sxs-lookup"><span data-stu-id="f1432-104">The latter is called a composite transformation.</span></span> <span data-ttu-id="f1432-105">复合转换的矩阵通过将各个转换的矩阵相乘获得。</span><span class="sxs-lookup"><span data-stu-id="f1432-105">The matrix of a composite transformation is obtained by multiplying the matrices of individual transformations.</span></span>  
+  
+## <a name="composite-transform-examples"></a><span data-ttu-id="f1432-106">复合转换示例</span><span class="sxs-lookup"><span data-stu-id="f1432-106">Composite Transform Examples</span></span>  
+ <span data-ttu-id="f1432-107">在复合转换中，各个转换的顺序非常重要。</span><span class="sxs-lookup"><span data-stu-id="f1432-107">In a composite transformation, the order of individual transformations is important.</span></span> <span data-ttu-id="f1432-108">例如，如果您首先旋转，然后缩放，然后再翻译，则会得到不同于第一次平移、旋转和缩放的结果。</span><span class="sxs-lookup"><span data-stu-id="f1432-108">For example, if you first rotate, then scale, then translate, you get a different result than if you first translate, then rotate, then scale.</span></span> <span data-ttu-id="f1432-109">在 GDI + 中，复合转换是从左到右生成的。</span><span class="sxs-lookup"><span data-stu-id="f1432-109">In GDI+, composite transformations are built from left to right.</span></span> <span data-ttu-id="f1432-110">如果 S、R 和 T 分别为 "缩放"、"旋转" 和 "平移" 矩阵，则产品 SRT (按顺序) 是首次缩放、旋转然后平移的复合转换的矩阵。</span><span class="sxs-lookup"><span data-stu-id="f1432-110">If S, R, and T are scale, rotation, and translation matrices respectively, then the product SRT (in that order) is the matrix of the composite transformation that first scales, then rotates, then translates.</span></span> <span data-ttu-id="f1432-111">产品 SRT 所生成的矩阵与产品 TRS 生成的矩阵不同。</span><span class="sxs-lookup"><span data-stu-id="f1432-111">The matrix produced by the product SRT is different from the matrix produced by the product TRS.</span></span>  
+  
+ <span data-ttu-id="f1432-112">一个原因是重要的是，旋转和缩放等转换是相对坐标系统的原点完成的。</span><span class="sxs-lookup"><span data-stu-id="f1432-112">One reason order is significant is that transformations like rotation and scaling are done with respect to the origin of the coordinate system.</span></span> <span data-ttu-id="f1432-113">缩放位于原点中心的对象将生成与缩放离开原点的对象不同的结果。</span><span class="sxs-lookup"><span data-stu-id="f1432-113">Scaling an object that is centered at the origin produces a different result than scaling an object that has been moved away from the origin.</span></span> <span data-ttu-id="f1432-114">同样，旋转位于原点中心的对象会产生不同的结果，而不是旋转远离原点的对象。</span><span class="sxs-lookup"><span data-stu-id="f1432-114">Similarly, rotating an object that is centered at the origin produces a different result than rotating an object that has been moved away from the origin.</span></span>  
+  
+ <span data-ttu-id="f1432-115">下面的示例将缩放、旋转和平移 (按该顺序) ，以形成复合转换。</span><span class="sxs-lookup"><span data-stu-id="f1432-115">The following example combines scaling, rotation and translation (in that order) to form a composite transformation.</span></span> <span data-ttu-id="f1432-116"><xref:System.Drawing.Drawing2D.MatrixOrder.Append>传递给方法的参数 <xref:System.Drawing.Graphics.RotateTransform%2A> 指示旋转将遵循缩放。</span><span class="sxs-lookup"><span data-stu-id="f1432-116">The argument <xref:System.Drawing.Drawing2D.MatrixOrder.Append> passed to the <xref:System.Drawing.Graphics.RotateTransform%2A> method indicates that the rotation will follow the scaling.</span></span> <span data-ttu-id="f1432-117">同样， <xref:System.Drawing.Drawing2D.MatrixOrder.Append> 传递给方法的参数 <xref:System.Drawing.Graphics.TranslateTransform%2A> 指示转换将在旋转后执行。</span><span class="sxs-lookup"><span data-stu-id="f1432-117">Likewise, the argument <xref:System.Drawing.Drawing2D.MatrixOrder.Append> passed to the <xref:System.Drawing.Graphics.TranslateTransform%2A> method indicates that the translation will follow the rotation.</span></span> <span data-ttu-id="f1432-118"><xref:System.Drawing.Drawing2D.MatrixOrder.Append> 和 <xref:System.Drawing.Drawing2D.MatrixOrder.Prepend> 是枚举的成员 <xref:System.Drawing.Drawing2D.MatrixOrder> 。</span><span class="sxs-lookup"><span data-stu-id="f1432-118"><xref:System.Drawing.Drawing2D.MatrixOrder.Append> and <xref:System.Drawing.Drawing2D.MatrixOrder.Prepend> are members of the <xref:System.Drawing.Drawing2D.MatrixOrder> enumeration.</span></span>  
+  
+ [!code-csharp[System.Drawing.MiscLegacyTopics#21](~/samples/snippets/csharp/VS_Snippets_Winforms/System.Drawing.MiscLegacyTopics/CS/Class1.cs#21)]
+ [!code-vb[System.Drawing.MiscLegacyTopics#21](~/samples/snippets/visualbasic/VS_Snippets_Winforms/System.Drawing.MiscLegacyTopics/VB/Class1.vb#21)]  
+  
+ <span data-ttu-id="f1432-119">下面的示例与前面的示例一样，调用了相同的方法，但调用的顺序相反。</span><span class="sxs-lookup"><span data-stu-id="f1432-119">The following example makes the same method calls as the preceding example, but the order of the calls is reversed.</span></span> <span data-ttu-id="f1432-120">首先转换后的运算顺序，再旋转，然后按比例调整，这会产生与第一次缩放不同的结果，然后旋转、平移。</span><span class="sxs-lookup"><span data-stu-id="f1432-120">The resulting order of operations is first translate, then rotate, then scale, which produces a very different result than first scale, then rotate, then translate.</span></span>  
+  
+ [!code-csharp[System.Drawing.MiscLegacyTopics#22](~/samples/snippets/csharp/VS_Snippets_Winforms/System.Drawing.MiscLegacyTopics/CS/Class1.cs#22)]
+ [!code-vb[System.Drawing.MiscLegacyTopics#22](~/samples/snippets/visualbasic/VS_Snippets_Winforms/System.Drawing.MiscLegacyTopics/VB/Class1.vb#22)]  
+  
+ <span data-ttu-id="f1432-121">反转复合转换中各个转换顺序的一种方法是反转方法调用序列的顺序。</span><span class="sxs-lookup"><span data-stu-id="f1432-121">One way to reverse the order of individual transformations in a composite transformation is to reverse the order of a sequence of method calls.</span></span> <span data-ttu-id="f1432-122">控制操作顺序的另一种方法是更改矩阵顺序参数。</span><span class="sxs-lookup"><span data-stu-id="f1432-122">A second way to control the order of operations is to change the matrix order argument.</span></span> <span data-ttu-id="f1432-123">下面的示例与前面的示例相同，不同之处在于已 <xref:System.Drawing.Drawing2D.MatrixOrder.Append> 更改为 <xref:System.Drawing.Drawing2D.MatrixOrder.Prepend> 。</span><span class="sxs-lookup"><span data-stu-id="f1432-123">The following example is the same as the preceding example, except that <xref:System.Drawing.Drawing2D.MatrixOrder.Append> has been changed to <xref:System.Drawing.Drawing2D.MatrixOrder.Prepend>.</span></span> <span data-ttu-id="f1432-124">矩阵乘法按照顺序 SRT 完成，其中 S、R 和 T 分别是用于缩放、旋转和平移的矩阵。</span><span class="sxs-lookup"><span data-stu-id="f1432-124">The matrix multiplication is done in the order SRT, where S, R, and T are the matrices for scale, rotate, and translate, respectively.</span></span> <span data-ttu-id="f1432-125">复合转换的顺序依次为 "缩放"、"旋转" 和 "转换"。</span><span class="sxs-lookup"><span data-stu-id="f1432-125">The order of the composite transformation is first scale, then rotate, then translate.</span></span>  
+  
+ [!code-csharp[System.Drawing.MiscLegacyTopics#23](~/samples/snippets/csharp/VS_Snippets_Winforms/System.Drawing.MiscLegacyTopics/CS/Class1.cs#23)]
+ [!code-vb[System.Drawing.MiscLegacyTopics#23](~/samples/snippets/visualbasic/VS_Snippets_Winforms/System.Drawing.MiscLegacyTopics/VB/Class1.vb#23)]  
+  
+ <span data-ttu-id="f1432-126">前面的示例的结果与本主题中的第一个示例的结果相同。</span><span class="sxs-lookup"><span data-stu-id="f1432-126">The result of the immediately preceding example is the same as the result of the first example in this topic.</span></span> <span data-ttu-id="f1432-127">这是因为我们反转了方法调用的顺序和矩阵相乘的顺序。</span><span class="sxs-lookup"><span data-stu-id="f1432-127">This is because we reversed both the order of the method calls and the order of the matrix multiplication.</span></span>  
+  
+## <a name="see-also"></a><span data-ttu-id="f1432-128">另请参阅</span><span class="sxs-lookup"><span data-stu-id="f1432-128">See also</span></span>
+
+- <xref:System.Drawing.Drawing2D.Matrix>
+- [<span data-ttu-id="f1432-129">坐标系和坐标转换</span><span class="sxs-lookup"><span data-stu-id="f1432-129">Coordinate Systems and Transformations</span></span>](coordinate-systems-and-transformations.md)
+- [<span data-ttu-id="f1432-130">在托管 GDI+ 中使用变换</span><span class="sxs-lookup"><span data-stu-id="f1432-130">Using Transformations in Managed GDI+</span></span>](using-transformations-in-managed-gdi.md)
