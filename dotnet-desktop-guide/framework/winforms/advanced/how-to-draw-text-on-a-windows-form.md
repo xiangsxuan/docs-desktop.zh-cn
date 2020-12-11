@@ -1,0 +1,44 @@
+---
+title: 如何：在 Windows 窗体上绘制文本
+ms.date: 03/30/2017
+dev_langs:
+- csharp
+- vb
+- cpp
+helpviewer_keywords:
+- forms [Windows Forms], drawing text
+- text [Windows Forms], drawing
+ms.assetid: 5d2447a9-21a1-4adc-b954-5516f2bb9b2c
+ms.openlocfilehash: dc99a863765cd617c2ab4a636286f42f5e8daf79
+ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96971462"
+---
+# <a name="how-to-draw-text-on-a-windows-form"></a>如何：在 Windows 窗体上绘制文本
+下面的代码示例演示如何使用的 <xref:System.Drawing.Graphics.DrawString%2A> 方法在 <xref:System.Drawing.Graphics> 窗体上绘制文本。 或者，您可以使用 <xref:System.Windows.Forms.TextRenderer> 在窗体上绘制文本。 有关详细信息，请参阅 [如何：用 GDI 绘制文本](how-to-draw-text-with-gdi.md)。  
+  
+## <a name="example"></a>示例  
+ [!code-cpp[System.Drawing.ConceptualHowTos#7](~/samples/snippets/cpp/VS_Snippets_Winforms/System.Drawing.ConceptualHowTos/cpp/form1.cpp#7)]
+ [!code-csharp[System.Drawing.ConceptualHowTos#7](~/samples/snippets/csharp/VS_Snippets_Winforms/System.Drawing.ConceptualHowTos/CS/form1.cs#7)]
+ [!code-vb[System.Drawing.ConceptualHowTos#7](~/samples/snippets/visualbasic/VS_Snippets_Winforms/System.Drawing.ConceptualHowTos/VB/form1.vb#7)]  
+  
+## <a name="compiling-the-code"></a>编译代码  
+ 不能 <xref:System.Drawing.Graphics.DrawString%2A> 在 <xref:System.Windows.Forms.Form.Load> 事件处理程序中调用方法。 如果窗体调整或被其他窗体遮住，则不会重新绘制所绘制的内容。 若要自动重绘内容，应重写 <xref:System.Windows.Forms.Control.OnPaint%2A> 方法。  
+  
+## <a name="robust-programming"></a>可靠编程  
+ 以下情况可能会导致异常：  
+  
+- 未安装 Arial 字体。  
+  
+## <a name="see-also"></a>另请参阅
+
+- <xref:System.Drawing.Graphics.DrawString%2A>
+- <xref:System.Windows.Forms.TextRenderer.DrawText%2A>
+- <xref:System.Drawing.StringFormat.FormatFlags%2A>
+- <xref:System.Drawing.StringFormatFlags>
+- <xref:System.Windows.Forms.TextFormatFlags>
+- <xref:System.Windows.Forms.Control.OnPaint%2A>
+- [图形编程入门](getting-started-with-graphics-programming.md)
+- [如何：用 GDI 绘制文本](how-to-draw-text-with-gdi.md)
