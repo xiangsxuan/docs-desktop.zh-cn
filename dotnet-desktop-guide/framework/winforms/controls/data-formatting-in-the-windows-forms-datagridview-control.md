@@ -1,0 +1,44 @@
+---
+title: DataGridView 控件中的数据格式设置
+ms.date: 03/30/2017
+helpviewer_keywords:
+- DataGridView control [Windows Forms], formatting data
+- data [Windows Forms], formatting in grids
+- data grids [Windows Forms], formatting data
+ms.assetid: 07bf558d-3748-42ba-8ba0-37fdef924081
+ms.openlocfilehash: 3a09acf72841a2135ed2d155f3715ccc30860856
+ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96970132"
+---
+# <a name="data-formatting-in-the-windows-forms-datagridview-control"></a><span data-ttu-id="b06e2-102">Windows 窗体 DataGridView 控件中的数据格式设置</span><span class="sxs-lookup"><span data-stu-id="b06e2-102">Data Formatting in the Windows Forms DataGridView Control</span></span>
+
+<span data-ttu-id="b06e2-103"><xref:System.Windows.Forms.DataGridView>控件提供单元值与父列显示的数据类型之间的自动转换。</span><span class="sxs-lookup"><span data-stu-id="b06e2-103">The <xref:System.Windows.Forms.DataGridView> control provides automatic conversion between cell values and the data types that the parent columns display.</span></span> <span data-ttu-id="b06e2-104">例如，文本框列显示日期、时间、数字和枚举值的字符串表示形式，并将用户输入的字符串值转换为数据存储所需的类型。</span><span class="sxs-lookup"><span data-stu-id="b06e2-104">Text box columns, for example, display string representations of date, time, number, and enumeration values, and convert user-entered string values to the types required by the data store.</span></span>  
+  
+## <a name="formatting-with-the-datagridviewcellstyle-class"></a><span data-ttu-id="b06e2-105">用 DataGridViewCellStyle 类设置格式</span><span class="sxs-lookup"><span data-stu-id="b06e2-105">Formatting with the DataGridViewCellStyle class</span></span>  
+
+ <span data-ttu-id="b06e2-106"><xref:System.Windows.Forms.DataGridView>控件通过类提供单元格值的基本数据格式设置 <xref:System.Windows.Forms.DataGridViewCellStyle> 。</span><span class="sxs-lookup"><span data-stu-id="b06e2-106">The <xref:System.Windows.Forms.DataGridView> control provides basic data formatting of cell values through the <xref:System.Windows.Forms.DataGridViewCellStyle> class.</span></span> <span data-ttu-id="b06e2-107">使用 <xref:System.Windows.Forms.DataGridViewCellStyle.Format%2A> [格式设置类型](/dotnet/standard/base-types/formatting-types)中描述的格式说明符，你可以使用属性来设置当前默认区域性的日期、时间、数字和枚举值的格式。</span><span class="sxs-lookup"><span data-stu-id="b06e2-107">You can use the <xref:System.Windows.Forms.DataGridViewCellStyle.Format%2A> property to format date, time, number, and enumeration values for the current default culture using the format specifiers described in [Formatting Types](/dotnet/standard/base-types/formatting-types).</span></span> <span data-ttu-id="b06e2-108">你还可以使用属性为特定区域性设置这些值的格式 <xref:System.Windows.Forms.DataGridViewCellStyle.FormatProvider%2A> 。</span><span class="sxs-lookup"><span data-stu-id="b06e2-108">You can also format these values for specific cultures using the <xref:System.Windows.Forms.DataGridViewCellStyle.FormatProvider%2A> property.</span></span> <span data-ttu-id="b06e2-109">指定的格式用于显示数据，并用于分析用户输入的指定格式的数据。</span><span class="sxs-lookup"><span data-stu-id="b06e2-109">The specified format is used both to display data and to parse data that the user enters in the specified format.</span></span>  
+  
+ <span data-ttu-id="b06e2-110"><xref:System.Windows.Forms.DataGridViewCellStyle>类为换行、文本对齐方式和 null 数据库值的自定义显示提供附加格式设置属性。</span><span class="sxs-lookup"><span data-stu-id="b06e2-110">The <xref:System.Windows.Forms.DataGridViewCellStyle> class provides additional formatting properties for wordwrap, text alignment, and the custom display of null database values.</span></span> <span data-ttu-id="b06e2-111">有关详细信息，请参阅[如何：设置 Windows 窗体 DataGridView 控件中的数据格式](how-to-format-data-in-the-windows-forms-datagridview-control.md)。</span><span class="sxs-lookup"><span data-stu-id="b06e2-111">For more information, see [How to: Format Data in the Windows Forms DataGridView Control](how-to-format-data-in-the-windows-forms-datagridview-control.md).</span></span>  
+  
+## <a name="formatting-with-the-cellformatting-event"></a><span data-ttu-id="b06e2-112">用 CellFormatting 事件设置格式</span><span class="sxs-lookup"><span data-stu-id="b06e2-112">Formatting with the CellFormatting Event</span></span>  
+
+ <span data-ttu-id="b06e2-113">如果基本格式设置不能满足您的需要，您可以在事件处理程序中提供自定义数据格式设置 <xref:System.Windows.Forms.DataGridView.CellFormatting?displayProperty=nameWithType> 。</span><span class="sxs-lookup"><span data-stu-id="b06e2-113">If the basic formatting does not meet your needs, you can provide custom data formatting in a handler for the <xref:System.Windows.Forms.DataGridView.CellFormatting?displayProperty=nameWithType> event.</span></span> <span data-ttu-id="b06e2-114"><xref:System.Windows.Forms.DataGridViewCellFormattingEventArgs>传递给处理程序的 <xref:System.Windows.Forms.ConvertEventArgs.Value%2A> 属性最初包含单元值。</span><span class="sxs-lookup"><span data-stu-id="b06e2-114">The <xref:System.Windows.Forms.DataGridViewCellFormattingEventArgs> passed to the handler has a <xref:System.Windows.Forms.ConvertEventArgs.Value%2A> property that initially contains the cell value.</span></span> <span data-ttu-id="b06e2-115">通常，此值将自动转换为显示类型。</span><span class="sxs-lookup"><span data-stu-id="b06e2-115">Normally, this value is automatically converted to the display type.</span></span> <span data-ttu-id="b06e2-116">若要自行转换值，请将 <xref:System.Windows.Forms.ConvertEventArgs.Value%2A> 属性设置为显示类型的值。</span><span class="sxs-lookup"><span data-stu-id="b06e2-116">To convert the value yourself, set the <xref:System.Windows.Forms.ConvertEventArgs.Value%2A> property to a value of the display type.</span></span>  
+  
+> [!NOTE]
+> <span data-ttu-id="b06e2-117">如果单元格的格式字符串有效，则它会重写属性值的更改， <xref:System.Windows.Forms.ConvertEventArgs.Value%2A> 除非将 <xref:System.Windows.Forms.DataGridViewCellFormattingEventArgs.FormattingApplied%2A> 属性设置为 `true` 。</span><span class="sxs-lookup"><span data-stu-id="b06e2-117">If a format string is in effect for the cell, it overrides your change of the <xref:System.Windows.Forms.ConvertEventArgs.Value%2A> property value unless you set the <xref:System.Windows.Forms.DataGridViewCellFormattingEventArgs.FormattingApplied%2A> property to `true`.</span></span>  
+  
+ <span data-ttu-id="b06e2-118"><xref:System.Windows.Forms.DataGridView.CellFormatting>如果要 <xref:System.Windows.Forms.DataGridViewCellStyle> 基于单个单元格的值设置其属性，则此事件也很有用。</span><span class="sxs-lookup"><span data-stu-id="b06e2-118">The <xref:System.Windows.Forms.DataGridView.CellFormatting> event is also useful when you want to set <xref:System.Windows.Forms.DataGridViewCellStyle> properties for individual cells based on their values.</span></span> <span data-ttu-id="b06e2-119">有关详细信息，请参阅 [如何：自定义 Windows 窗体 DataGridView 控件中的数据格式](how-to-customize-data-formatting-in-the-windows-forms-datagridview-control.md)。</span><span class="sxs-lookup"><span data-stu-id="b06e2-119">For more information, see [How to: Customize Data Formatting in the Windows Forms DataGridView Control](how-to-customize-data-formatting-in-the-windows-forms-datagridview-control.md).</span></span>  
+  
+ <span data-ttu-id="b06e2-120">如果用户指定值的默认分析无法满足您的需要，您可以处理 <xref:System.Windows.Forms.DataGridView.CellParsing> 控件的事件， <xref:System.Windows.Forms.DataGridView> 以提供自定义的分析。</span><span class="sxs-lookup"><span data-stu-id="b06e2-120">If the default parsing of user-specified values does not meet your needs, you can handle the <xref:System.Windows.Forms.DataGridView.CellParsing> event of the <xref:System.Windows.Forms.DataGridView> control to provide custom parsing.</span></span>  
+  
+## <a name="see-also"></a><span data-ttu-id="b06e2-121">另请参阅</span><span class="sxs-lookup"><span data-stu-id="b06e2-121">See also</span></span>
+
+- <xref:System.Windows.Forms.DataGridView>
+- <xref:System.Windows.Forms.DataGridViewCellStyle>
+- [<span data-ttu-id="b06e2-122">在 Windows 窗体 DataGridView 控件中显示数据</span><span class="sxs-lookup"><span data-stu-id="b06e2-122">Displaying Data in the Windows Forms DataGridView Control</span></span>](displaying-data-in-the-windows-forms-datagridview-control.md)
+- [<span data-ttu-id="b06e2-123">Windows 窗体 DataGridView 控件中的单元格样式</span><span class="sxs-lookup"><span data-stu-id="b06e2-123">Cell Styles in the Windows Forms DataGridView Control</span></span>](cell-styles-in-the-windows-forms-datagridview-control.md)
+- [<span data-ttu-id="b06e2-124">如何：在 Windows 窗体 DataGridView 控件中设置数据格式</span><span class="sxs-lookup"><span data-stu-id="b06e2-124">How to: Format Data in the Windows Forms DataGridView Control</span></span>](how-to-format-data-in-the-windows-forms-datagridview-control.md)
+- [<span data-ttu-id="b06e2-125">如何：在 Windows 窗体 DataGridView 控件中自定义数据格式设置</span><span class="sxs-lookup"><span data-stu-id="b06e2-125">How to: Customize Data Formatting in the Windows Forms DataGridView Control</span></span>](how-to-customize-data-formatting-in-the-windows-forms-datagridview-control.md)

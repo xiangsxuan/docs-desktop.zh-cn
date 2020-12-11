@@ -1,0 +1,29 @@
+---
+title: 图形界面的结构
+ms.date: 03/30/2017
+helpviewer_keywords:
+- GDI+, using managed interface
+- graphics [Windows Forms], class structure
+ms.assetid: 010a1e46-656b-40a1-8d5d-87aa05ee1243
+ms.openlocfilehash: d3b16249b6bae4a113661f5a3a47097046ba20f1
+ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96970786"
+---
+# <a name="structure-of-the-graphics-interface"></a><span data-ttu-id="2957d-102">图形界面的结构</span><span class="sxs-lookup"><span data-stu-id="2957d-102">Structure of the Graphics Interface</span></span>
+<span data-ttu-id="2957d-103">GDI + 的托管类接口包含大约60类、50枚举和8个结构。</span><span class="sxs-lookup"><span data-stu-id="2957d-103">The managed class interface to GDI+ contains about 60 classes, 50 enumerations, and 8 structures.</span></span> <span data-ttu-id="2957d-104"><xref:System.Drawing.Graphics>类是 GDI + 功能的核心，它是实际绘制线条、曲线、图形、图像和文本的类。</span><span class="sxs-lookup"><span data-stu-id="2957d-104">The <xref:System.Drawing.Graphics> class is at the core of GDI+ functionality; it is the class that actually draws lines, curves, figures, images, and text.</span></span>  
+  
+## <a name="important-classes"></a><span data-ttu-id="2957d-105">重要的类</span><span class="sxs-lookup"><span data-stu-id="2957d-105">Important Classes</span></span>  
+ <span data-ttu-id="2957d-106">许多类与类一起使用 <xref:System.Drawing.Graphics> 。</span><span class="sxs-lookup"><span data-stu-id="2957d-106">Many classes work together with the <xref:System.Drawing.Graphics> class.</span></span> <span data-ttu-id="2957d-107">例如， <xref:System.Drawing.Graphics.DrawLine%2A> 方法接收一个 <xref:System.Drawing.Pen> 对象，该对象包含要绘制的线条的属性 (颜色、宽度、虚线样式和类似) 。</span><span class="sxs-lookup"><span data-stu-id="2957d-107">For example, the <xref:System.Drawing.Graphics.DrawLine%2A> method receives a <xref:System.Drawing.Pen> object, which holds attributes (color, width, dash style, and the like) of the line to be drawn.</span></span> <span data-ttu-id="2957d-108"><xref:System.Drawing.Graphics.FillRectangle%2A>方法可以接收指向对象的指针 <xref:System.Drawing.Drawing2D.LinearGradientBrush> ，该对象与 <xref:System.Drawing.Graphics> 对象配合使用来填充渐变颜色的矩形。</span><span class="sxs-lookup"><span data-stu-id="2957d-108">The <xref:System.Drawing.Graphics.FillRectangle%2A> method can receive a pointer to a <xref:System.Drawing.Drawing2D.LinearGradientBrush> object, which works with the <xref:System.Drawing.Graphics> object to fill a rectangle with a gradually changing color.</span></span> <span data-ttu-id="2957d-109"><xref:System.Drawing.Font> 和 <xref:System.Drawing.StringFormat> 对象会影响 <xref:System.Drawing.Graphics> 对象绘制文本的方式。</span><span class="sxs-lookup"><span data-stu-id="2957d-109"><xref:System.Drawing.Font> and <xref:System.Drawing.StringFormat> objects influence the way a <xref:System.Drawing.Graphics> object draws text.</span></span> <span data-ttu-id="2957d-110"><xref:System.Drawing.Drawing2D.Matrix>对象存储和操作对象的世界变换 <xref:System.Drawing.Graphics> ，该对象用于旋转、缩放和翻转图像。</span><span class="sxs-lookup"><span data-stu-id="2957d-110">A <xref:System.Drawing.Drawing2D.Matrix> object stores and manipulates the world transformation of a <xref:System.Drawing.Graphics> object, which is used to rotate, scale, and flip images.</span></span>  
+  
+ <span data-ttu-id="2957d-111">GDI + 提供几个结构 (例如，、 <xref:System.Drawing.Rectangle> <xref:System.Drawing.Point> 和 <xref:System.Drawing.Size>) 用于组织图形数据。</span><span class="sxs-lookup"><span data-stu-id="2957d-111">GDI+ provides several structures (for example, <xref:System.Drawing.Rectangle>, <xref:System.Drawing.Point>, and <xref:System.Drawing.Size>) for organizing graphics data.</span></span> <span data-ttu-id="2957d-112">此外，某些类主要用作结构化数据类型。</span><span class="sxs-lookup"><span data-stu-id="2957d-112">Also, certain classes serve primarily as structured data types.</span></span> <span data-ttu-id="2957d-113">例如， <xref:System.Drawing.Imaging.BitmapData> 类是类的帮助程序 <xref:System.Drawing.Bitmap> ， <xref:System.Drawing.Drawing2D.PathData> 类是类的帮助器 <xref:System.Drawing.Drawing2D.GraphicsPath> 。</span><span class="sxs-lookup"><span data-stu-id="2957d-113">For example, the <xref:System.Drawing.Imaging.BitmapData> class is a helper for the <xref:System.Drawing.Bitmap> class, and the <xref:System.Drawing.Drawing2D.PathData> class is a helper for the <xref:System.Drawing.Drawing2D.GraphicsPath> class.</span></span>  
+  
+ <span data-ttu-id="2957d-114">GDI + 定义多个枚举，这是相关常量的集合。</span><span class="sxs-lookup"><span data-stu-id="2957d-114">GDI+ defines several enumerations, which are collections of related constants.</span></span> <span data-ttu-id="2957d-115">例如， <xref:System.Drawing.Drawing2D.LineJoin> 枚举包含元素 <xref:System.Drawing.Drawing2D.LineJoin.Bevel> 、 <xref:System.Drawing.Drawing2D.LineJoin.Miter> 和 <xref:System.Drawing.Drawing2D.LineJoin.Round> ，它们指定可用于联接两行的样式。</span><span class="sxs-lookup"><span data-stu-id="2957d-115">For example, the <xref:System.Drawing.Drawing2D.LineJoin> enumeration contains the elements <xref:System.Drawing.Drawing2D.LineJoin.Bevel>, <xref:System.Drawing.Drawing2D.LineJoin.Miter>, and <xref:System.Drawing.Drawing2D.LineJoin.Round>, which specify styles that can be used to join two lines.</span></span>  
+  
+## <a name="see-also"></a><span data-ttu-id="2957d-116">另请参阅</span><span class="sxs-lookup"><span data-stu-id="2957d-116">See also</span></span>
+
+- [<span data-ttu-id="2957d-117">图形概述</span><span class="sxs-lookup"><span data-stu-id="2957d-117">Graphics Overview</span></span>](graphics-overview-windows-forms.md)
+- [<span data-ttu-id="2957d-118">关于 GDI+ 托管代码</span><span class="sxs-lookup"><span data-stu-id="2957d-118">About GDI+ Managed Code</span></span>](about-gdi-managed-code.md)
+- [<span data-ttu-id="2957d-119">使用托管图形类</span><span class="sxs-lookup"><span data-stu-id="2957d-119">Using Managed Graphics Classes</span></span>](using-managed-graphics-classes.md)
