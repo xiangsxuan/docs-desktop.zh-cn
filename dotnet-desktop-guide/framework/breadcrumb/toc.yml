@@ -1,0 +1,47 @@
+items:
+  - name: Docs
+    tocHref: /
+    topicHref: /
+    items:
+      - name: .NET
+        tocHref: /dotnet/
+        topicHref: /dotnet/index
+        items:
+          - name: 桌面指南
+            tocHref: /dotnet/desktop
+            topicHref: /dotnet/desktop/index
+            items:
+              - name: .NET Framework
+                items:
+                  - name: Windows 窗体
+                    tocHref: /dotnet/desktop/winforms
+                    topicHref: /dotnet/desktop/winforms/index
+                    items:
+                      - name: 增强 Windows 窗体应用程序
+                        tocHref: /dotnet/desktop/winforms/advanced/
+                        topicHref: /dotnet/desktop/winforms/advanced/index
+                      - name: 控件
+                        tocHref: /dotnet/desktop/winforms/controls/
+                        topicHref: /dotnet/desktop/winforms/controls/index
+              - name: Windows Presentation Foundation
+                tocHref: /dotnet/desktop/wpf/
+                topicHref: /dotnet/desktop/wpf/index
+                items:
+                  - name: 高级
+                    tocHref: /dotnet/desktop/wpf/advanced/
+                    topicHref: /dotnet/desktop/wpf/advanced/index
+                  - name: 应用程序开发
+                    tocHref: /dotnet/desktop/wpf/app-development/
+                    topicHref: /dotnet/desktop/wpf/app-development/index
+                  - name: 控件
+                    tocHref: /dotnet/desktop/wpf/controls/
+                    topicHref: /dotnet/desktop/wpf/controls/index
+                  - name: 数据
+                    tocHref: /dotnet/desktop/wpf/data/
+                    topicHref: /dotnet/desktop/wpf/data/index
+                  - name: 入门 (WPF)
+                    tocHref: /dotnet/desktop/wpf/getting-started/
+                    topicHref: /dotnet/desktop/wpf/getting-started/index
+                  - name: 图形和多媒体
+                    tocHref: /dotnet/desktop/wpf/graphics-multimedia/
+                    topicHref: /dotnet/desktop/wpf/graphics-multimedia/index
