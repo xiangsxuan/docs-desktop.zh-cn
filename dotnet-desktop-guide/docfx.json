@@ -127,6 +127,7 @@
     "externalReference": [],
     "globalMetadata": {
       "bilingual_type": "hover over",
+      "disable_contribution_on_translation_quality": ["MT","Blank"],
       "breadcrumb_path": "/dotnet/desktop/breadcrumb/toc.json",
       "extendBreadcrumb": false,
       "feedback_system": "GitHub",
