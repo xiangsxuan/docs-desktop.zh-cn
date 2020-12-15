@@ -1,0 +1,48 @@
+### YamlMime:Landing
+title: .NET、.NET Core 和 .NET Framework 桌面指南
+summary: 欢迎使用桌面指南。 桌面指南是一组适用于基于 .NET 的 Windows UI 技术（包括 Windows Presentation Foundation (WPF) 和 Windows 窗体 (WinForms)）的文档。 桌面指南涵盖 .NET 5（和 .NET Core 3.1）及更高版本，以及 .NET Framework。
+metadata:
+  title: 适用于 WPF 和 .NET 上的 Windows 窗体的桌面指南
+  description: 介绍适用于 WPF 以及 .NET 5 和 .NET Framework 的 Windows 窗体的桌面指南。
+  ms.topic: landing-page
+  ms.product: dotnet
+  author: adegeo
+  ms.author: adegeo
+  ms.date: 10/21/2020
+  ms.openlocfilehash: 93b82c4fec3d43addfbb8aaf04e3976d8a7e85b3
+  ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "96992809"
+landingContent:
+- title: .NET 5（和 .NET Core 3.1）
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Windows Presentation Foundation (WPF)
+      url: net/wpf/index.yml?view=netdesktop-5.0&preserve-view=true
+    - text: Windows 窗体 (WinForms)
+      url: net/winforms/index.yml?view=netdesktop-5.0&preserve-view=true
+- title: .NET Framework
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Windows Presentation Foundation (WPF)
+      url: framework/wpf/index.md?view=netframeworkdesktop-4.8&preserve-view=true
+    - text: Windows 窗体 (WinForms)
+      url: framework/winforms/index.yml?view=netframeworkdesktop-4.8&preserve-view=true
+  - linkListType: concept
+    links:
+    - text: WPF 介绍
+      url: framework/wpf/introduction-to-wpf.md?view=netframeworkdesktop-4.8&preserve-view=true
+    - text: WinForms 简介
+      url: framework/winforms/windows-forms-overview.md?view=netframeworkdesktop-4.8&preserve-view=true
+- title: 其他桌面技术
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 通用 Windows 应用
+      url: /uwp
+    - text: Xamarin Forms
+      url: /xamarin/xamarin-forms/
