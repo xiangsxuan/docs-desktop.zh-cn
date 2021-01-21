@@ -10,12 +10,12 @@ helpviewer_keywords:
 - resource dictionaries [WPF], application-scope
 - application-scope resource dictionaries
 ms.assetid: 53857682-bd2c-4f2c-8f25-1307d0b451a2
-ms.openlocfilehash: 7423cf03e5ebb94eb9ad5f3a0ee0bd5e524cccba
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 0d9c4f851c5ee03bf60dbdadc31d9fc4c6536746
+ms.sourcegitcommit: 302273bd74509dfbff11126753dd210d80f1bc37
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970699"
+ms.lasthandoff: 01/16/2021
+ms.locfileid: "98535983"
 ---
 # <a name="how-to-use-an-application-scope-resource-dictionary"></a>如何：使用应用程序范围的资源字典
 
@@ -43,7 +43,9 @@ ms.locfileid: "96970699"
  [!code-vb[HOWTOResourceDictionaries#3](~/samples/snippets/visualbasic/VS_Snippets_Wpf/HowToResourceDictionaries/VB/MainWindow.xaml.vb#3)]  
   
  使用时有两个注意事项 <xref:System.Windows.Application.Resources%2A> 。 首先，字典 *键* 是一个对象，因此在设置和获取属性值时，必须使用完全相同的对象实例。  (请注意，使用字符串时，该键区分大小写。 ) 秒，字典 *值* 是一个对象，因此在获取属性值时，必须将该值转换为所需的类型。  
-  
+
+某些资源类型可能会自动使用类型定义的属性作为显式键，如 <xref:System.Windows.Style> 和 <xref:System.Windows.DataTemplate> 类型。 这可能会覆盖你的 `x:Key` 值。 若要确保遵循你的 `x:Key` 密钥，请在显式键属性之前声明。 有关详细信息，请参阅 [样式、DataTemplates 和隐式键](../advanced/xaml-resources-define.md#styles-datatemplates-and-implicit-keys)。
+
 ## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.ResourceDictionary>

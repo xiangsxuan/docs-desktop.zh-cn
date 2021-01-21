@@ -9,12 +9,12 @@ helpviewer_keywords:
 - images [Windows Forms], changing encoder parameters
 - JPEG images [Windows Forms], setting quality level
 ms.assetid: 4b9a74e3-9504-43c1-9f28-ace651d0772e
-ms.openlocfilehash: 1f6a96e8a05fff40eb08da0ce318faa86a06cc3a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 20c34bdec1b55a74f7ec005b3948ac123585155d
+ms.sourcegitcommit: 302273bd74509dfbff11126753dd210d80f1bc37
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971414"
+ms.lasthandoff: 01/16/2021
+ms.locfileid: "98535990"
 ---
 # <a name="how-to-set-jpeg-compression-level"></a>如何：设置 JPEG 压缩级别
 在将图像保存到磁盘中时，可能需要修改图像的参数，以最大限度地减小文件的大小或提高其质量。 可以通过修改 JPEG 图像的压缩级别来调整其质量。 若要在保存 JPEG 图像时指定压缩级别，必须创建 <xref:System.Drawing.Imaging.EncoderParameters> 对象并将其传递给 <xref:System.Drawing.Image.Save%2A> 类的方法 <xref:System.Drawing.Image> 。 初始化 <xref:System.Drawing.Imaging.EncoderParameters> 对象，使其包含一个包含一个的数组 <xref:System.Drawing.Imaging.EncoderParameter> 。 当你创建时 <xref:System.Drawing.Imaging.EncoderParameter> ，请指定 <xref:System.Drawing.Imaging.Encoder.Quality> 编码器和所需的压缩级别。  
@@ -94,7 +94,7 @@ End Sub
 ```csharp  
 private ImageCodecInfo GetEncoder(ImageFormat format)  
 {  
-    ImageCodecInfo[] codecs = ImageCodecInfo.GetImageDecoders();  
+    ImageCodecInfo[] codecs = ImageCodecInfo.GetImageEncoders();  
     foreach (ImageCodecInfo codec in codecs)  
     {  
         if (codec.FormatID == format.Guid)  
@@ -109,7 +109,7 @@ private ImageCodecInfo GetEncoder(ImageFormat format)
 ```vb  
 Private Function GetEncoder(ByVal format As ImageFormat) As ImageCodecInfo  
   
-    Dim codecs As ImageCodecInfo() = ImageCodecInfo.GetImageDecoders()  
+    Dim codecs As ImageCodecInfo() = ImageCodecInfo.GetImageEncoders()  
     Dim codec As ImageCodecInfo  
     For Each codec In codecs  
         If codec.FormatID = format.Guid Then  
