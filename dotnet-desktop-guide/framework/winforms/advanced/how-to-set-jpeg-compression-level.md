@@ -9,18 +9,18 @@ helpviewer_keywords:
 - images [Windows Forms], changing encoder parameters
 - JPEG images [Windows Forms], setting quality level
 ms.assetid: 4b9a74e3-9504-43c1-9f28-ace651d0772e
-ms.openlocfilehash: 1f6a96e8a05fff40eb08da0ce318faa86a06cc3a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 20c34bdec1b55a74f7ec005b3948ac123585155d
+ms.sourcegitcommit: 302273bd74509dfbff11126753dd210d80f1bc37
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971414"
+ms.lasthandoff: 01/16/2021
+ms.locfileid: "98535990"
 ---
-# <a name="how-to-set-jpeg-compression-level"></a><span data-ttu-id="ae8e3-103">如何：设置 JPEG 压缩级别</span><span class="sxs-lookup"><span data-stu-id="ae8e3-103">How to: Set JPEG Compression Level</span></span>
-<span data-ttu-id="ae8e3-104">在将图像保存到磁盘中时，可能需要修改图像的参数，以最大限度地减小文件的大小或提高其质量。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-104">You may want to modify the parameters of an image when you save the image to disk to minimize the file size or improve its quality.</span></span> <span data-ttu-id="ae8e3-105">可以通过修改 JPEG 图像的压缩级别来调整其质量。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-105">You can adjust the quality of a JPEG image by modifying its compression level.</span></span> <span data-ttu-id="ae8e3-106">若要在保存 JPEG 图像时指定压缩级别，必须创建 <xref:System.Drawing.Imaging.EncoderParameters> 对象并将其传递给 <xref:System.Drawing.Image.Save%2A> 类的方法 <xref:System.Drawing.Image> 。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-106">To specify the compression level when you save a JPEG image, you must create an <xref:System.Drawing.Imaging.EncoderParameters> object and pass it to the <xref:System.Drawing.Image.Save%2A> method of the <xref:System.Drawing.Image> class.</span></span> <span data-ttu-id="ae8e3-107">初始化 <xref:System.Drawing.Imaging.EncoderParameters> 对象，使其包含一个包含一个的数组 <xref:System.Drawing.Imaging.EncoderParameter> 。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-107">Initialize the <xref:System.Drawing.Imaging.EncoderParameters> object so that it has an array that consists of one <xref:System.Drawing.Imaging.EncoderParameter>.</span></span> <span data-ttu-id="ae8e3-108">当你创建时 <xref:System.Drawing.Imaging.EncoderParameter> ，请指定 <xref:System.Drawing.Imaging.Encoder.Quality> 编码器和所需的压缩级别。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-108">When you create the <xref:System.Drawing.Imaging.EncoderParameter>, specify the <xref:System.Drawing.Imaging.Encoder.Quality> encoder, and the desired compression level.</span></span>  
+# <a name="how-to-set-jpeg-compression-level"></a><span data-ttu-id="914cb-103">如何：设置 JPEG 压缩级别</span><span class="sxs-lookup"><span data-stu-id="914cb-103">How to: Set JPEG Compression Level</span></span>
+<span data-ttu-id="914cb-104">在将图像保存到磁盘中时，可能需要修改图像的参数，以最大限度地减小文件的大小或提高其质量。</span><span class="sxs-lookup"><span data-stu-id="914cb-104">You may want to modify the parameters of an image when you save the image to disk to minimize the file size or improve its quality.</span></span> <span data-ttu-id="914cb-105">可以通过修改 JPEG 图像的压缩级别来调整其质量。</span><span class="sxs-lookup"><span data-stu-id="914cb-105">You can adjust the quality of a JPEG image by modifying its compression level.</span></span> <span data-ttu-id="914cb-106">若要在保存 JPEG 图像时指定压缩级别，必须创建 <xref:System.Drawing.Imaging.EncoderParameters> 对象并将其传递给 <xref:System.Drawing.Image.Save%2A> 类的方法 <xref:System.Drawing.Image> 。</span><span class="sxs-lookup"><span data-stu-id="914cb-106">To specify the compression level when you save a JPEG image, you must create an <xref:System.Drawing.Imaging.EncoderParameters> object and pass it to the <xref:System.Drawing.Image.Save%2A> method of the <xref:System.Drawing.Image> class.</span></span> <span data-ttu-id="914cb-107">初始化 <xref:System.Drawing.Imaging.EncoderParameters> 对象，使其包含一个包含一个的数组 <xref:System.Drawing.Imaging.EncoderParameter> 。</span><span class="sxs-lookup"><span data-stu-id="914cb-107">Initialize the <xref:System.Drawing.Imaging.EncoderParameters> object so that it has an array that consists of one <xref:System.Drawing.Imaging.EncoderParameter>.</span></span> <span data-ttu-id="914cb-108">当你创建时 <xref:System.Drawing.Imaging.EncoderParameter> ，请指定 <xref:System.Drawing.Imaging.Encoder.Quality> 编码器和所需的压缩级别。</span><span class="sxs-lookup"><span data-stu-id="914cb-108">When you create the <xref:System.Drawing.Imaging.EncoderParameter>, specify the <xref:System.Drawing.Imaging.Encoder.Quality> encoder, and the desired compression level.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="ae8e3-109">示例</span><span class="sxs-lookup"><span data-stu-id="ae8e3-109">Example</span></span>  
- <span data-ttu-id="ae8e3-110">下面的示例代码创建一个 <xref:System.Drawing.Imaging.EncoderParameter> 对象，并保存三个 JPEG 图像。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-110">The following example code creates an <xref:System.Drawing.Imaging.EncoderParameter> object and saves three JPEG images.</span></span> <span data-ttu-id="ae8e3-111">通过修改 `long` 传递到构造函数的值，每个 JPEG 图像都以不同质量级别保存 <xref:System.Drawing.Imaging.EncoderParameter> 。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-111">Each JPEG image is saved with a different quality level, by modifying the `long` value passed to the <xref:System.Drawing.Imaging.EncoderParameter> constructor.</span></span> <span data-ttu-id="ae8e3-112">质量级别 0 对应于最大压缩，而质量级别 100 对应于最小压缩。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-112">A quality level of 0 corresponds to the greatest compression, and a quality level of 100 corresponds to the least compression.</span></span>  
+## <a name="example"></a><span data-ttu-id="914cb-109">示例</span><span class="sxs-lookup"><span data-stu-id="914cb-109">Example</span></span>  
+ <span data-ttu-id="914cb-110">下面的示例代码创建一个 <xref:System.Drawing.Imaging.EncoderParameter> 对象，并保存三个 JPEG 图像。</span><span class="sxs-lookup"><span data-stu-id="914cb-110">The following example code creates an <xref:System.Drawing.Imaging.EncoderParameter> object and saves three JPEG images.</span></span> <span data-ttu-id="914cb-111">通过修改 `long` 传递到构造函数的值，每个 JPEG 图像都以不同质量级别保存 <xref:System.Drawing.Imaging.EncoderParameter> 。</span><span class="sxs-lookup"><span data-stu-id="914cb-111">Each JPEG image is saved with a different quality level, by modifying the `long` value passed to the <xref:System.Drawing.Imaging.EncoderParameter> constructor.</span></span> <span data-ttu-id="914cb-112">质量级别 0 对应于最大压缩，而质量级别 100 对应于最小压缩。</span><span class="sxs-lookup"><span data-stu-id="914cb-112">A quality level of 0 corresponds to the greatest compression, and a quality level of 100 corresponds to the least compression.</span></span>  
   
 ```csharp  
 private void VaryQualityLevel()  
@@ -94,7 +94,7 @@ End Sub
 ```csharp  
 private ImageCodecInfo GetEncoder(ImageFormat format)  
 {  
-    ImageCodecInfo[] codecs = ImageCodecInfo.GetImageDecoders();  
+    ImageCodecInfo[] codecs = ImageCodecInfo.GetImageEncoders();  
     foreach (ImageCodecInfo codec in codecs)  
     {  
         if (codec.FormatID == format.Guid)  
@@ -109,7 +109,7 @@ private ImageCodecInfo GetEncoder(ImageFormat format)
 ```vb  
 Private Function GetEncoder(ByVal format As ImageFormat) As ImageCodecInfo  
   
-    Dim codecs As ImageCodecInfo() = ImageCodecInfo.GetImageDecoders()  
+    Dim codecs As ImageCodecInfo() = ImageCodecInfo.GetImageEncoders()  
     Dim codec As ImageCodecInfo  
     For Each codec In codecs  
         If codec.FormatID = format.Guid Then  
@@ -121,17 +121,17 @@ Private Function GetEncoder(ByVal format As ImageFormat) As ImageCodecInfo
 End Function  
 ```  
   
-## <a name="compiling-the-code"></a><span data-ttu-id="ae8e3-113">编译代码</span><span class="sxs-lookup"><span data-stu-id="ae8e3-113">Compiling the Code</span></span>  
- <span data-ttu-id="ae8e3-114">此示例需要：</span><span class="sxs-lookup"><span data-stu-id="ae8e3-114">This example requires:</span></span>  
+## <a name="compiling-the-code"></a><span data-ttu-id="914cb-113">编译代码</span><span class="sxs-lookup"><span data-stu-id="914cb-113">Compiling the Code</span></span>  
+ <span data-ttu-id="914cb-114">此示例需要：</span><span class="sxs-lookup"><span data-stu-id="914cb-114">This example requires:</span></span>  
   
-- <span data-ttu-id="ae8e3-115">Windows 窗体应用程序。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-115">A Windows Forms application.</span></span>  
+- <span data-ttu-id="914cb-115">Windows 窗体应用程序。</span><span class="sxs-lookup"><span data-stu-id="914cb-115">A Windows Forms application.</span></span>  
   
-- <span data-ttu-id="ae8e3-116">一个 <xref:System.Windows.Forms.PaintEventArgs> ，它是的参数 <xref:System.Windows.Forms.PaintEventHandler> 。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-116">A <xref:System.Windows.Forms.PaintEventArgs>, which is a parameter of <xref:System.Windows.Forms.PaintEventHandler>.</span></span>  
+- <span data-ttu-id="914cb-116">一个 <xref:System.Windows.Forms.PaintEventArgs> ，它是的参数 <xref:System.Windows.Forms.PaintEventHandler> 。</span><span class="sxs-lookup"><span data-stu-id="914cb-116">A <xref:System.Windows.Forms.PaintEventArgs>, which is a parameter of <xref:System.Windows.Forms.PaintEventHandler>.</span></span>  
   
-- <span data-ttu-id="ae8e3-117">一个位于 **c:\\** 位置的名为 `TestPhoto.jpg` 的图像文件。</span><span class="sxs-lookup"><span data-stu-id="ae8e3-117">An image file that is named `TestPhoto.jpg` and located at **c:\\**.</span></span>  
+- <span data-ttu-id="914cb-117">一个位于 **c:\\** 位置的名为 `TestPhoto.jpg` 的图像文件。</span><span class="sxs-lookup"><span data-stu-id="914cb-117">An image file that is named `TestPhoto.jpg` and located at **c:\\**.</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="ae8e3-118">另请参阅</span><span class="sxs-lookup"><span data-stu-id="ae8e3-118">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="914cb-118">另请参阅</span><span class="sxs-lookup"><span data-stu-id="914cb-118">See also</span></span>
 
-- [<span data-ttu-id="ae8e3-119">如何：确定编码器支持的参数</span><span class="sxs-lookup"><span data-stu-id="ae8e3-119">How to: Determine the Parameters Supported by an Encoder</span></span>](how-to-determine-the-parameters-supported-by-an-encoder.md)
-- [<span data-ttu-id="ae8e3-120">位图类型</span><span class="sxs-lookup"><span data-stu-id="ae8e3-120">Types of Bitmaps</span></span>](types-of-bitmaps.md)
-- [<span data-ttu-id="ae8e3-121">在托管 GDI+ 中使用图像编码器和解码器</span><span class="sxs-lookup"><span data-stu-id="ae8e3-121">Using Image Encoders and Decoders in Managed GDI+</span></span>](using-image-encoders-and-decoders-in-managed-gdi.md)
+- [<span data-ttu-id="914cb-119">如何：确定编码器支持的参数</span><span class="sxs-lookup"><span data-stu-id="914cb-119">How to: Determine the Parameters Supported by an Encoder</span></span>](how-to-determine-the-parameters-supported-by-an-encoder.md)
+- [<span data-ttu-id="914cb-120">位图类型</span><span class="sxs-lookup"><span data-stu-id="914cb-120">Types of Bitmaps</span></span>](types-of-bitmaps.md)
+- [<span data-ttu-id="914cb-121">在托管 GDI+ 中使用图像编码器和解码器</span><span class="sxs-lookup"><span data-stu-id="914cb-121">Using Image Encoders and Decoders in Managed GDI+</span></span>](using-image-encoders-and-decoders-in-managed-gdi.md)
