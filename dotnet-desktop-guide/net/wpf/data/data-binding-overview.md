@@ -8,12 +8,12 @@ ms.topic: overview
 dev_langs:
 - csharp
 - vb
-ms.openlocfilehash: 73a8307950d55d51fa67be97918c83cd9013ce70
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: d441ad76fa684f3a99b1d1404bd02640402693f0
+ms.sourcegitcommit: 7e271d44c89687f0a96a249a9f658a2e6c067957
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96942148"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98570455"
 ---
 # <a name="data-binding-overview-wpf-net"></a>数据绑定概述 (WPF .NET)
 
