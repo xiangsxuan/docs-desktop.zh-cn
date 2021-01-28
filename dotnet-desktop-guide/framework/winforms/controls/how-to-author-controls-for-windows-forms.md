@@ -6,15 +6,12 @@ helpviewer_keywords:
 - UserControl class [Windows Forms], Windows Forms
 - custom controls [Windows Forms], creating
 ms.assetid: 7570e982-545b-4c3a-a7c7-55581d313400
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 169104f51898f9bda08efa08685207e50406a7ff
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: f7ad85bc0cafabacdd7bd48d7ccb8d7f6111e3e6
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971902"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957029"
 ---
 # <a name="how-to-author-controls-for-windows-forms"></a>如何：创作 Windows 窗体的控件
 

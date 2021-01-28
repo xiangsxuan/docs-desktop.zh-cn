@@ -8,15 +8,12 @@ helpviewer_keywords:
 - assembly folder registration [Windows Forms], Choose Toolbox Items dialog box
 - Choose Toolbox Items dialog box [Windows Forms], display control
 ms.assetid: 01ef6eba-d044-40f0-951d-78eff7ebd9a9
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: b105c45e0d55417066c7f8658f0cb23a12c7f768
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 501fd1054a0c7cc1accec6c7a3f8257da1a94417
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971197"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957521"
 ---
 # <a name="how-to-display-a-control-in-the-choose-toolbox-items-dialog-box"></a>如何：在“选择工具箱项”对话框中显示控件
 
@@ -26,7 +23,7 @@ ms.locfileid: "96971197"
 
 - 将控件程序集安装到全局程序集缓存中。 有关详细信息，请参阅 [如何：将程序集安装到全局程序集缓存中](/dotnet/framework/app-domains/install-assembly-into-gac)。
 
-  -或-
+  - 或 -
 
 - 使用 AssemblyFoldersEx 注册过程注册控件及其关联的设计时程序集。 AssemblyFoldersEx 是一个注册表位置，其中第三方供应商为其支持的每个框架版本存储路径。 设计时解决方案可以在此注册表位置查找引用程序集。 注册表脚本可以指定想要在 "工具箱" 中显示的控件。
 

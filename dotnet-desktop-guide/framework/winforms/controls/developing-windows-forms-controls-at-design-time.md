@@ -9,15 +9,12 @@ helpviewer_keywords:
 - user controls [Windows Forms]
 - custom controls [Windows Forms]
 ms.assetid: e5a8e088-7ec8-4fd9-bcb3-9078fd134829
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 4e192983c5818ddb81ed4581d91ae61375bb808e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: d5285bd4190e74a86e20d951d9ebb2256c21c544
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970076"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98956975"
 ---
 # <a name="develop-windows-forms-controls-at-design-time"></a>在设计时开发 Windows 窗体控件
 
@@ -28,7 +25,7 @@ ms.locfileid: "96970076"
 
 如果要创建在 Web 窗体上使用的自定义控件，请参阅[开发自定义 ASP.NET 服务器控件](/previous-versions/aspnet/zt27tfhy(v=vs.100)).。
 
-## <a name="in-this-section"></a>在本节中
+## <a name="in-this-section"></a>本节内容
 
 [演练：创作复合控件](walkthrough-authoring-a-composite-control-with-visual-csharp.md)\
 演示如何在 C# 中创建简单的复合控件。
@@ -89,7 +86,7 @@ ms.locfileid: "96970076"
 
 ## <a name="related-sections"></a>相关章节
 
-[利用 .NET Framework 开发自定义 Windows 窗体控件](developing-custom-windows-forms-controls.md)\
+[使用 .NET Framework 开发自定义 Windows 窗体控件](developing-custom-windows-forms-controls.md)\
 讨论如何通过 .NET Framework 创建自己的自定义控件。
 
 [语言独立性和 Language-Independent 组件](/dotnet/standard/language-independence-and-language-independent-components)\

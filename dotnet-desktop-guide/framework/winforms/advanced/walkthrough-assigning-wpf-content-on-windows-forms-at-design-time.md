@@ -9,15 +9,12 @@ helpviewer_keywords:
 - Windows Forms, content assignments
 - WPF user control [Windows Forms], hosting in Windows Forms
 ms.assetid: b3e9ef93-7e0f-4a2f-8f1e-3437609a1eb7
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: c1532206b467c523ffd8e4cf4f85c168a4aad80b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: ba003c020be1f04c2024eaab0125f074d5b7bc18
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971360"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957377"
 ---
 # <a name="walkthrough-assign-wpf-content-on-windows-forms-at-design-time"></a>演练：在设计时在 Windows 窗体上分配 WPF 内容
 

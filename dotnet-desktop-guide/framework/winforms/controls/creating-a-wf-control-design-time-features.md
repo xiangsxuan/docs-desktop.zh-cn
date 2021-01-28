@@ -11,15 +11,12 @@ helpviewer_keywords:
 - DocumentDesigner class [Windows Forms]
 - walkthroughs [Windows Forms], controls
 ms.assetid: 6f487c59-cb38-4afa-ad2e-95edacb1d626
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 708871de391824bceec67fe57a35873ccc967adb
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: b58a466e026d06d795134f3930f7259972cb39b9
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970157"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957456"
 ---
 # <a name="walkthrough-create-a-control-that-takes-advantage-of-design-time-features"></a>演练：创建利用设计时功能的控件
 

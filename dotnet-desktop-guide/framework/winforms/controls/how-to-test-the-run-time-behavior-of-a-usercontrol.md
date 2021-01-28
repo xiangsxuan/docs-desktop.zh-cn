@@ -8,15 +8,12 @@ helpviewer_keywords:
 - UserControl Test Container
 - UserControl class [Windows Forms], run-time behavior
 ms.assetid: 4e4d5c49-1346-40ac-9d96-40211b573583
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: c619900ea0b7f1b50976fec8d26dd3145dc07693
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 5b5570658e4625fdcece3441af61f6c477ae66e7
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972647"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957080"
 ---
 # <a name="how-to-test-the-run-time-behavior-of-a-usercontrol"></a>如何：测试 UserControl 的运行时行为
 

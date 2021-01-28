@@ -11,15 +11,12 @@ helpviewer_keywords:
 - collections [Windows Forms], serializing
 - collections [Windows Forms], standard types
 ms.assetid: 020c9df4-fdc5-4dae-815a-963ecae5668c
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 06ef484ffed76bad124ca33d240a4054fd937c14
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: f4fb9c6e7c48a1c6671b14ba05a63dc61195105a
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970055"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957612"
 ---
 # <a name="walkthrough-serialize-collections-of-standard-types"></a>演练：序列化标准类型的集合
 
@@ -45,10 +42,10 @@ ms.locfileid: "96970055"
 
 5. 选择 <xref:System.Windows.Forms.TextBox> 控件。 在 " **属性** " 窗口中，设置以下属性。
 
-    |属性|更改为|
+    |properties|更改为|
     |--------------|---------------|
     |**多行**|`true`|
-    |**程序坞**|<xref:System.Windows.Forms.DockStyle.Fill>|
+    |**靠接**|<xref:System.Windows.Forms.DockStyle.Fill>|
     |**ScrollBars**|<xref:System.Windows.Forms.ScrollBars.Vertical>|
     |**ReadOnly**|`true`|
 

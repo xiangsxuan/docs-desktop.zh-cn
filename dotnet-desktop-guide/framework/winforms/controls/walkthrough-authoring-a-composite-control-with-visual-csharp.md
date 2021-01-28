@@ -10,15 +10,12 @@ helpviewer_keywords:
 - user controls [C#]
 - custom controls [Windows Forms], creating
 ms.assetid: f88481a8-c746-4a36-9479-374ce5f2e91f
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 3ad9aad026a1a6a1266845736d7651db77fd5d5c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 1b1ad5daab8e62817d94ca6bb942ede293949c88
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971827"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957599"
 ---
 # <a name="walkthrough-author-a-composite-control-with-c"></a>演练：使用 C 创作复合控件\#
 
@@ -55,10 +52,10 @@ ms.locfileid: "96971827"
 
 3. 在设计器中，单击 " **label1**"。 在“属性”窗口中，设置下列属性。
 
-    |属性|更改为|
+    |properties|更改为|
     |--------------|---------------|
     |**名称**|`lblDisplay`|
-    |**文本**|`(blank space)`|
+    |**Text**|`(blank space)`|
     |**TextAlign**|`MiddleCenter`|
     |**字体大小**|`14`|
 
@@ -256,7 +253,7 @@ ms.locfileid: "96971827"
     |Property|设置|
     |--------------|-------------|
     |**名称**|`lblAlarm`|
-    |**文本**|**警报!**|
+    |**Text**|**警报!**|
     |**TextAlign**|`MiddleCenter`|
     |**Visible**|`false`|
 
@@ -326,10 +323,10 @@ ms.locfileid: "96971827"
 
 2. 将按钮添加到控件。 按如下方式设置该按钮的属性。
 
-    |属性|值|
+    |properties|值|
     |--------------|-----------|
     |**名称**|`btnAlarmOff`|
-    |**文本**|**禁用警报**|
+    |**Text**|**禁用警报**|
 
 3. 在设计器中，双击“btnAlarmOff”控件。
 
@@ -377,7 +374,7 @@ ms.locfileid: "96971827"
 
     |控制|属性|值|
     |-------------|--------------|-----------|
-    |`label1`|**文本**|`(blank space)`|
+    |`label1`|**Text**|`(blank space)`|
     ||**名称**|`lblTest`|
     |`dateTimePicker1`|**名称**|`dtpTest`|
     ||**格式**|<xref:System.Windows.Forms.DateTimePickerFormat.Time>|
@@ -400,7 +397,7 @@ ms.locfileid: "96971827"
 
 12. 在 **解决方案资源管理器** 中，右键单击 " **测试**"，然后单击 " **设为启动项目**"。
 
-13. 在 **“调试”** 菜单中，单击 **“启动调试”** 。
+13. 在“调试”菜单上，单击“启动调试”。
 
      测试程序随即启动。 请注意，控件中的当前时间已更新 `ctlAlarmClock` ，并且开始时间显示在 <xref:System.Windows.Forms.DateTimePicker> 控件中。
 

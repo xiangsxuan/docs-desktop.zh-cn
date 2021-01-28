@@ -6,15 +6,12 @@ helpviewer_keywords:
 - interoperability [WDF]
 - styles [Windows Forms], WPF content
 ms.assetid: e574aac7-7ea4-4cdb-8034-bab541f000df
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: b7b23976caf7e6ac16e05b57cf904139fd89fd24
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: f7acec4edb31dba0aa014943dde7f758fe8e4575
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971582"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957391"
 ---
 # <a name="walkthrough-style-wpf-content"></a>演练：样式 WPF 内容
 
@@ -141,5 +138,5 @@ ms.locfileid: "96971582"
 - [迁移和互操作性](/dotnet/framework/wpf/advanced/migration-and-interoperability)
 - [使用 WPF 控件](using-wpf-controls.md)
 - [在 Visual Studio 中设计 XAML](/visualstudio/xaml-tools/designing-xaml-in-visual-studio)
-- [WPF)  (XAML 概述 ](/dotnet/desktop-wpf/fundamentals/xaml)
+- [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

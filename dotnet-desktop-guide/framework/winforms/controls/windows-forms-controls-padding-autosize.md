@@ -15,15 +15,12 @@ helpviewer_keywords:
 - layout [Windows Forms], margins and padding
 - Windows Forms, layout
 ms.assetid: f8ae2a6b-db13-4630-8e25-d104091205c7
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: ca7942c04434592f2541252c47ac3dd17e03dbac
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 84b1a5d20d273bb9dee6e7f97cf8bd569e5e97ab
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970888"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957573"
 ---
 # <a name="walkthrough-lay-out-controls-with-padding-margins-and-the-autosize-property"></a>演练：按填充、边距和 AutoSize 属性对控件进行布局
 

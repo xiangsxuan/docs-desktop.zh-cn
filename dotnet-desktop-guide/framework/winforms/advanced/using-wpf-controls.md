@@ -5,15 +5,12 @@ helpviewer_keywords:
 - Windows Forms Designer [Windows Forms], interoperability with WPF
 - interoperability [WPF]
 ms.assetid: 03c85dce-26ad-44cd-bc1d-8e0cb56de096
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: dfc086b4873c41bf1919b680d472807283e8a340
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: e2e9fd6f0828d76494ed3d602b00b5d67770fc47
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970760"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957534"
 ---
 # <a name="use-wpf-controls-in-windows-forms-apps"></a>在 Windows 窗体应用中使用 WPF 控件
 

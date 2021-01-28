@@ -8,15 +8,12 @@ helpviewer_keywords:
 - Windows Forms, grid options in designer
 - Windows Forms Designer
 ms.assetid: 36967466-1dfd-4fae-a7f1-7bf2cbc94048
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 14934763e6f17948dfc0494adae2a22d8352580d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: c00f7432f052faac7c309e896905e4d4ad26a950
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971122"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957053"
 ---
 # <a name="how-to-set-grid-options-for-all-windows-forms"></a>如何：为所有 Windows 窗体设置网格选项
 

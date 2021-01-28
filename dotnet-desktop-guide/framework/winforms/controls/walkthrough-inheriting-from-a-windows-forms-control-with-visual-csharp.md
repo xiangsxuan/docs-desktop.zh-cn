@@ -8,15 +8,12 @@ helpviewer_keywords:
 - inheritance [Windows Forms], walkthroughs
 - custom controls [Windows Forms], inheritance
 ms.assetid: 09476da0-8d4c-4a4c-b969-649519dfb438
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 83bd1b09049dc4650e6b48d1cb0dbe6b452eda26
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: e49ba47ccc37876c05b5b3440ee5febf128e925e
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972502"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957183"
 ---
 # <a name="walkthrough-inherit-from-a-windows-forms-control-with-c"></a>演练：使用 C 从 Windows 窗体控件继承\#
 

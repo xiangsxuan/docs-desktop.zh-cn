@@ -9,15 +9,12 @@ helpviewer_keywords:
 - controls [Windows Forms], positioning
 - controls [Windows Forms], aligning
 ms.assetid: b7175656-f532-49e9-b0b1-177d1b40af3e
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 4bde1926b89fe553ec9eda29ca5dfc1f3373af52
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: f9faac1957720fc5561ff08524a6e95bf20a7bff
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971282"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957028"
 ---
 # <a name="how-to-align-multiple-controls-on-windows-forms"></a>如何：在 Windows 窗体上对齐多个控件
 
@@ -35,7 +32,7 @@ ms.locfileid: "96971282"
 
 - [Windows 窗体控件](index.md)
 - [如何：向 Windows 窗体添加控件](how-to-add-controls-to-windows-forms.md)
-- [在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
+- [要在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
 - [根据功能列出的 Windows 窗体控件](windows-forms-controls-by-function.md)
 - [演练：使用对齐线在 Windows 窗体上排列控件](walkthrough-arranging-controls-on-windows-forms-using-snaplines.md)
 - [演练：使用 TableLayoutPanel 在 Windows 窗体上排列控件](walkthrough-arranging-controls-on-windows-forms-using-a-tablelayoutpanel.md)

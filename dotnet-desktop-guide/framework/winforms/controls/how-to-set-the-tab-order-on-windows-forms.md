@@ -11,15 +11,12 @@ helpviewer_keywords:
 - controls [Windows Forms], setting tab order
 - Windows Forms, setting tab order
 ms.assetid: 71fa8e76-0472-414b-ad3c-0f90166e0ad7
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 3d16da1ac73cc030b92bb36c4bfa3a79985339bf
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: ff322c8d8fced4db06239f80e3fffbaa3233276f
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972563"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957508"
 ---
 # <a name="how-to-set-the-tab-order-on-windows-forms"></a>如何：在 Windows 窗体上设置 tab 键顺序
 
@@ -59,5 +56,5 @@ Tab 键顺序是用户通过按 Tab 键将焦点从一个控件移动到另一�
 ## <a name="see-also"></a>另请参阅
 
 - [Windows 窗体控件](index.md)
-- [在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
+- [要在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
 - [根据功能列出的 Windows 窗体控件](windows-forms-controls-by-function.md)

@@ -7,15 +7,12 @@ helpviewer_keywords:
 - user controls [Windows Forms], creating
 - composite controls [Windows Forms], creating
 ms.assetid: 67713625-e2e4-4f6a-bce7-0855ee5043d9
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 5c278cfadd1bb0c9720718c08791a37f90d964d7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 0b37f68501372e491170e450b60ca1dab9806132
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972521"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957690"
 ---
 # <a name="how-to-inherit-from-the-usercontrol-class"></a>如何：从 UserControl 类继承
 

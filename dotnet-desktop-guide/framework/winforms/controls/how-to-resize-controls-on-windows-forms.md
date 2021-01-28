@@ -9,15 +9,12 @@ helpviewer_keywords:
 - size [Windows Forms], controls
 - Windows Forms controls, size
 ms.assetid: d2dba441-a8c0-4705-b8e8-2e5d86d6e7ec
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 771de6e3962df241357307b0af7682eb45283892
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: acae4ec6ec0aab8a2a070935b3c1a592bd75753d
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970536"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957625"
 ---
 # <a name="how-to-resize-controls-on-windows-forms"></a>如何：在 Windows 窗体上调整控件的大小
 
@@ -40,6 +37,6 @@ ms.locfileid: "96970536"
 
 - [Windows 窗体控件](index.md)
 - [标记单个 Windows 窗体控件并提供它们的快捷方式](labeling-individual-windows-forms-controls-and-providing-shortcuts-to-them.md)
-- [在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
+- [要在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
 - [根据功能列出的 Windows 窗体控件](windows-forms-controls-by-function.md)
 - [如何：使用设计器调整 Windows 窗体的大小](/previous-versions/visualstudio/visual-studio-2010/37k2zkwx(v=vs.100))

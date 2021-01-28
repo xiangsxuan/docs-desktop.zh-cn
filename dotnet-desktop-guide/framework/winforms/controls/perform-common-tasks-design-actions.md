@@ -4,15 +4,12 @@ ms.date: 02/13/2019
 helpviewer_keywords:
 - designer actions
 ms.assetid: cac337e6-00f6-4584-80f4-75728f5ea113
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 342741b9ce032b1b8ec50a6c689d9109d12f5b3b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 81ed6b8914ee79fa4633dfe2cdcd708aca6effdc
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971767"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957248"
 ---
 # <a name="walkthrough-perform-common-tasks-using-designer-actions"></a>演练：使用设计操作执行常规任务
 

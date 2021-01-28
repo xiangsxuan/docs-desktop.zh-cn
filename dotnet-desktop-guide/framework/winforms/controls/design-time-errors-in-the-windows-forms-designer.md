@@ -10,15 +10,12 @@ helpviewer_keywords:
 - errors [Windows Forms Designer]
 - design-time errors [Windows Forms Designer]
 ms.assetid: ad408380-825a-46d8-9a4a-531b130b88ce
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 350fc57ea4ad1edc5f77aed0728555e6707c726f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 21be6c80bb960ec37517784a256cc1745049a2db
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970093"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957417"
 ---
 # <a name="windows-forms-designer-error-page"></a>Windows 窗体设计器错误页
 

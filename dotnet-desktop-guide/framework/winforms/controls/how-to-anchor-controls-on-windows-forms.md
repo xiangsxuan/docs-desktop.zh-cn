@@ -12,15 +12,12 @@ helpviewer_keywords:
 - Windows Forms, resizing
 - controls [Windows Forms], positioning
 ms.assetid: 59ea914f-fbd3-427a-80fe-decd02f7ae6d
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 7c307d8c5b3bc32e15e6de048c434854ef1bbc65
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: e7bc514f7347f257a6e2df67571c09df78f3c547
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971268"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957158"
 ---
 # <a name="how-to-anchor-controls-on-windows-forms"></a>如何：在 Windows 窗体上定位控件
 

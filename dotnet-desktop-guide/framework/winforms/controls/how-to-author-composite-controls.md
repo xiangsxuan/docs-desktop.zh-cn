@@ -7,15 +7,12 @@ helpviewer_keywords:
 - user controls [Windows Forms], inheriting from
 - composite controls [Windows Forms], creating
 ms.assetid: 79c9cf05-5ab6-4a18-886d-88a64748b098
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 42ea424507b89576df8099fd4849dd2665135a55
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 96704b4acbba8c0e466e8d3ef4d2f569e1d1c7fb
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972071"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98956962"
 ---
 # <a name="how-to-author-composite-controls"></a>如何：创作复合控件
 

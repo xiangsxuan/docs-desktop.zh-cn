@@ -7,15 +7,12 @@ helpviewer_keywords:
 - SnapLine class [Windows Forms], walkthroughs
 - Windows Forms controls, arranging
 ms.assetid: d5c9edc7-cf30-4a97-8ebe-201d569340f8
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: 0b68a70b55cbf03d480fd388a637a4caf78b6eaa
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: b916fd83ed35e16864366ba899c9dc9ab4e0624d
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972853"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957222"
 ---
 # <a name="walkthrough-arrange-controls-on-windows-forms-using-snaplines"></a>演练：使用对齐线排列 Windows 窗体上的控件
 

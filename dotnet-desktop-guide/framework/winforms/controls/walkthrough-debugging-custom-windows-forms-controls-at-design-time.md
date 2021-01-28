@@ -15,15 +15,12 @@ helpviewer_keywords:
 - walkthroughs [Windows Forms], debugging
 - design-time debugging
 ms.assetid: 1fd83ccd-3798-42fc-85a3-6cba99467387
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: d9e292a1219c24571bcb35db2fe357b0197c8812
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 3827be560c097685e1448b65704a943618b2b45d
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96972506"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957196"
 ---
 # <a name="walkthrough-debug-custom-windows-forms-controls-at-design-time"></a>演练：在设计时调试自定义 Windows 窗体控件
 

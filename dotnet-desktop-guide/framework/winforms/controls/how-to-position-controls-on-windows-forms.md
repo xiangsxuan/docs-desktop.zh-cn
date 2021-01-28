@@ -16,15 +16,12 @@ helpviewer_keywords:
 - snaplines
 - controls [Windows Forms], positioning
 ms.assetid: 4693977e-34a4-4f19-8221-68c3120c2b2b
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: e7b26d1741046ea242bd58a9216b8958697e1879
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: be79dd4b105a956afdbfc6f9a4f3eb6cc278da4d
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970551"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957664"
 ---
 # <a name="how-to-position-controls-on-windows-forms"></a>如何：在 Windows 窗体上定位控件
 
@@ -104,6 +101,6 @@ button1->Left += 200;
 - [演练：使用 TableLayoutPanel 在 Windows 窗体上排列控件](walkthrough-arranging-controls-on-windows-forms-using-a-tablelayoutpanel.md)
 - [演练：使用 FlowLayoutPanel 在 Windows 窗体上排列控件](walkthrough-arranging-controls-on-windows-forms-using-a-flowlayoutpanel.md)
 - [标记单个 Windows 窗体控件并提供它们的快捷方式](labeling-individual-windows-forms-controls-and-providing-shortcuts-to-them.md)
-- [在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
+- [要在 Windows 窗体上使用的控件](controls-to-use-on-windows-forms.md)
 - [根据功能列出的 Windows 窗体控件](windows-forms-controls-by-function.md)
 - [如何：设置的屏幕位置 Windows 窗体](/previous-versions/visualstudio/visual-studio-2010/52aha046(v=vs.100))

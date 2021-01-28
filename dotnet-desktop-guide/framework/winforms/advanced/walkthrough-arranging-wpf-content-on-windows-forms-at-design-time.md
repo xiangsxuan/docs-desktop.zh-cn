@@ -10,15 +10,12 @@ helpviewer_keywords:
 - Windows Forms, anchoring and docking WPF content
 - interoperability [WPF]
 ms.assetid: 5efb1c53-1484-43d6-aa8a-f4861b99bb8a
-author: jillre
-ms.author: jillfra
-manager: jillfra
-ms.openlocfilehash: b3acf39bdf6628737c328dc6e451c3ffac4896ee
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 9977edf657468ecb5269d22df838f8fedc79e461
+ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971579"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98957495"
 ---
 # <a name="walkthrough-arrange-wpf-content-on-windows-forms-at-design-time"></a>演练：在设计时在 Windows 窗体上排列 WPF 内容
 
