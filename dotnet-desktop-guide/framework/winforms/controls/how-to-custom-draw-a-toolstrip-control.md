@@ -16,12 +16,12 @@ helpviewer_keywords:
 - custom drawing
 - owner drawing
 ms.assetid: 94e7d7bd-a752-441c-b5b3-7acf98881163
-ms.openlocfilehash: a9f603efdb4b4a5f68154da9c6a8bd05b55b8f46
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 9f34c0d62370b72de2c3ddf68fcc5fada918faa3
+ms.sourcegitcommit: d7d89e96c827b6e20d9353d34c0aa329fdae0144
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971865"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99506667"
 ---
 # <a name="how-to-custom-draw-a-toolstrip-control"></a>如何：自定义绘制 ToolStrip 控件
 <xref:System.Windows.Forms.ToolStrip> 控件具有以下关联的呈现（绘制）类：  
@@ -36,76 +36,99 @@ ms.locfileid: "96971865"
   
  下面的过程描述自定义绘制的各个方面。  
   
-### <a name="to-switch-between-the-provided-renderers"></a>在提供的呈现器之间切换  
+## <a name="switch-between-the-provided-renderers"></a>在提供的呈现器之间切换
   
 - 将 <xref:System.Windows.Forms.ToolStrip.RenderMode%2A> 属性设置为所需的 <xref:System.Windows.Forms.ToolStripRenderMode> 值。  
   
      使用 <xref:System.Windows.Forms.ToolStripRenderMode.ManagerRenderMode>，静态 <xref:System.Windows.Forms.ToolStrip.RenderMode%2A> 为应用程序确定呈现器。 <xref:System.Windows.Forms.ToolStripRenderMode> 的其他值为 <xref:System.Windows.Forms.ToolStripRenderMode.Custom>、<xref:System.Windows.Forms.ToolStripRenderMode.Professional> 和 <xref:System.Windows.Forms.ToolStripRenderMode.System>。  
   
-### <a name="to-change-the-microsoft-officestyle-borders-to-straight"></a>将 Microsoft Office 样式边框更改为直线  
+## <a name="change-the-officestyle-borders"></a>更改 Office 样式边框
   
 - 重写 <xref:System.Windows.Forms.ToolStripProfessionalRenderer.OnRenderToolStripBorder%2A?displayProperty=nameWithType>，但不调用基类。  
   
 > [!NOTE]
 > 此方法没有针对 <xref:System.Windows.Forms.ToolStripRenderer>、<xref:System.Windows.Forms.ToolStripSystemRenderer> 和 <xref:System.Windows.Forms.ToolStripProfessionalRenderer> 的版本。  
   
-### <a name="to-change-the-professionalcolortable"></a>更改 ProfessionalColorTable  
+## <a name="change-the-professionalcolortable"></a>更改 ProfessionalColorTable
   
 - 重写 <xref:System.Windows.Forms.ProfessionalColorTable> 并更改所需的颜色。  
+
+  ```csharp
+  public partial class Form1 : Form
+  {
+      public Form1()
+      {
+          InitializeComponent();
+      }
   
-    ```vb  
-    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As _  
-    System.EventArgs) Handles Me.Load  
-        Dim t As MyColorTable = New MyColorTable  
-        ToolStrip1.Renderer = New ToolStripProfessionalRenderer(t)  
-    End Sub  
+      private void Form1_Load(object sender, EventArgs e)
+      {
+          var colorTable = new MyColorTable();
+          toolStrip1.Renderer = new ToolStripProfessionalRenderer(colorTable);
+      }
   
-    Class MyColorTable
-    Inherits ProfessionalColorTable  
+      class MyColorTable: ProfessionalColorTable
+      {
+          public override System.Drawing.Color ButtonPressedGradientBegin => Color.Red;
+          public override System.Drawing.Color ButtonPressedGradientMiddle => Color.Blue;
+          public override System.Drawing.Color ButtonPressedGradientEnd => Color.Green;
+          public override System.Drawing.Color ButtonSelectedGradientBegin => Color.Yellow;
+          public override System.Drawing.Color ButtonSelectedGradientMiddle => Color.Orange;
+          public override System.Drawing.Color ButtonSelectedGradientEnd => Color.Violet;
+      }
+  }
+  ```
+
+  ```vb
+  Public Class Form1
+      Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+          Dim colorTable As New MyColorTable
+          ToolStrip1.Renderer = New ToolStripProfessionalRenderer(colorTable)
+      End Sub
   
-    Public Overrides ReadOnly Property ButtonPressedGradientBegin() As Color  
-        Get  
-            Return Color.Red  
-        End Get  
-    End Property  
+      Class MyColorTable
+          Inherits ProfessionalColorTable
   
-    Public Overrides ReadOnly Property ButtonPressedGradientMiddle() _  
-    As System.Drawing.Color  
-        Get  
-            Return Color.Blue  
-        End Get  
-            End Property  
+          Public Overrides ReadOnly Property ButtonPressedGradientBegin() As System.Drawing.Color
+              Get
+                  Return Color.Red
+              End Get
+          End Property
   
-    Public Overrides ReadOnly Property ButtonPressedGradientEnd() _  
-    As System.Drawing.Color  
-        Get  
-            Return Color.Green  
-        End Get  
-    End Property  
+          Public Overrides ReadOnly Property ButtonPressedGradientMiddle() As System.Drawing.Color
+              Get
+                  Return Color.Blue
+              End Get
+          End Property
   
-    Public Overrides ReadOnly Property ButtonSelectedGradientBegin() _  
-    As Color  
-        Get  
-            Return Color.Yellow  
-        End Get  
-    End Property  
+          Public Overrides ReadOnly Property ButtonPressedGradientEnd() As System.Drawing.Color
+              Get
+                  Return Color.Green
+              End Get
+          End Property
   
-    Public Overrides ReadOnly Property ButtonSelectedGradientMiddle() As System.Drawing.Color  
-        Get  
-            Return Color.Orange  
-        End Get  
-    End Property  
+          Public Overrides ReadOnly Property ButtonSelectedGradientBegin() As System.Drawing.Color
+              Get
+                  Return Color.Yellow
+              End Get
+          End Property
   
-    Public Overrides ReadOnly Property ButtonSelectedGradientEnd() _  
-    As System.Drawing.Color  
-        Get  
-            Return Color.Violet  
-        End Get  
-    End Property  
-    End Class  
-    ```  
+          Public Overrides ReadOnly Property ButtonSelectedGradientMiddle() As System.Drawing.Color
+              Get
+                  Return Color.Orange
+              End Get
+          End Property
   
-### <a name="to-change-the-rendering-for-all-toolstrip-controls-in-your-application"></a>更改应用程序中所有 ToolStrip 控件的呈现  
+          Public Overrides ReadOnly Property ButtonSelectedGradientEnd() As System.Drawing.Color
+              Get
+                  Return Color.Violet
+              End Get
+          End Property
+      End Class
+  End Class
+  ```
+  
+## <a name="change-rendering-for-all-toolstrips"></a>更改所有 ToolStrips 的渲染
   
 1. 使用 <xref:System.Windows.Forms.ToolStripManager.RenderMode%2A?displayProperty=nameWithType> 属性从提供的呈现器中选择一个。  
   
@@ -113,25 +136,25 @@ ms.locfileid: "96971865"
   
 3. 确保 <xref:System.Windows.Forms.ToolStrip.RenderMode%2A?displayProperty=nameWithType> 已设置为默认值 <xref:System.Windows.Forms.ToolStripRenderMode.ManagerRenderMode>。  
   
-### <a name="to-turn-off-the-microsoft-office-colors-for-the-entire-application"></a>关闭整个应用程序的 Microsoft Office 颜色  
+## <a name="turn-off-the-office-colors"></a>关闭办公室颜色
   
 - 将 <xref:System.Windows.Forms.ToolStripManager.VisualStylesEnabled%2A?displayProperty=nameWithType> 设置为 `false`。  
   
-### <a name="to-turn-off-the-microsoft-office-colors-for-one-toolstrip-control"></a>关闭一个 ToolStrip 控件的 Microsoft Office 颜色  
+## <a name="turn-off-the-office-colors-for-one-toolstrip"></a>关闭一个 ToolStrip 的办公室颜色
   
 - 使用类似于以下代码示例的代码。  
+
+  ```csharp
+  ProfessionalColorTable colorTable = new ProfessionalColorTable();
+  colorTable.UseSystemColors = true;
+  toolStrip1.Renderer = new ToolStripProfessionalRenderer(colorTable);
+  ```
   
-    ```vb  
-    Dim colorTable As ProfessionalColorTable()  
-    colorTable.UseSystemColors = True  
-    Dim toolStrip.Renderer As ToolStripProfessionalRenderer(colorTable)  
-    ```  
-  
-    ```csharp  
-    ProfessionalColorTable colorTable = new ProfessionalColorTable();  
-    colorTable.UseSystemColors = true;  
-    toolStrip.Renderer = new ToolStripProfessionalRenderer(colorTable);  
-    ```  
+  ```vb
+  Dim colorTable As New ProfessionalColorTable
+  colorTable.UseSystemColors = True
+  ToolStrip1.Renderer = new ToolStripProfessionalRenderer(colorTable)
+  ```
   
 ## <a name="see-also"></a>另请参阅
 
