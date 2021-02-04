@@ -3,12 +3,12 @@ title: 将 Windows 窗体应用迁移到 .NET 5
 description: 了解如何将 .NET Framework Windows 窗体应用程序移植到 .NET 5。
 ms.date: 11/02/2020
 ms.topic: how-to
-ms.openlocfilehash: 84d12aeb376091aca2f10a750aff6f2fb3471d6f
-ms.sourcegitcommit: cf26656c126a55cfbfc06e2a89fe01c2b8df2b27
+ms.openlocfilehash: adf87df169217a5d190338bf9c4beaec873f0b69
+ms.sourcegitcommit: d7d89e96c827b6e20d9353d34c0aa329fdae0144
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/19/2020
-ms.locfileid: "97697419"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99506706"
 ---
 # <a name="how-to-migrate-a-windows-forms-desktop-app-to-net-5"></a>如何将 Windows 窗体桌面应用迁移到 .NET 5
 
@@ -163,9 +163,9 @@ ms.locfileid: "97697419"
 
 Windows 窗体项目还包含 Properties/Settings.settings 和 Properties/Resources.resx 等 Windows 窗体项目特定文件 。 可能需要迁移这些文件，因为它们在原始项目中进行了声明。
 
-将旧项目文件中的条目复制到新项目的 `<ItemGroup>` 元素中。 复制条目后，将任何 `<Compile Include="value">` 或 `<EmbeddedResource Include="value">` 元素更改为改用 `Update`，而不是 `Include`。
+将旧项目文件中的条目复制到新项目的 `<ItemGroup>` 元素中。 复制条目后，将所有 `<Compile Include="value">` 元素更改为改用 `Update` 属性而不是 `Include`。
 
-- 导入 Settings.settings 文件的配置。 请注意，`<Compile>` 项的 `Update` 属性已从 `Include` 更改为 `Update`，因为代码文件已包含在内：
+- 导入 Settings.settings 文件的配置。
 
   ```xml
   <ItemGroup>
@@ -186,7 +186,7 @@ Windows 窗体项目还包含 Properties/Settings.settings 和 Properties/Resour
   > [!IMPORTANT]
   > Visual Basic 项目通常使用“我的项目”文件夹来存储默认项目设置文件，而 C# 项目通常使用“属性”文件夹 。
   
-- 导入任何 resx 文件（如 properties/Resources.resx 文件）的配置 。 请注意，`Include` 已更改为 `<Compile>` 和 `<EmbeddedResource>` 元素上的 `Update`，并且从 `<EmbeddedResource>` 中删除了 `<SubType>`：
+- 导入任何 resx 文件（如 properties/Resources.resx 文件）的配置 。 请注意，`Include` 属性已更改为 `<Compile>` 元素上的 `Update`，并且从 `<EmbeddedResource>` 中删除了 `<SubType>`：
 
   ```xml
   <ItemGroup>
