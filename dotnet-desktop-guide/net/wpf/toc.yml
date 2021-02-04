@@ -6,7 +6,7 @@ items:
       - name: 概述
         href: overview/index.md
       - name: 创建 WPF 应用程序
-        href: /visualstudio/get-started/csharp/tutorial-wpf?view=vs-2019
+        href: get-started/create-app-visual-studio.md
   - name: 迁移
     items:
       - name: 与 .NET Framework 的差异
