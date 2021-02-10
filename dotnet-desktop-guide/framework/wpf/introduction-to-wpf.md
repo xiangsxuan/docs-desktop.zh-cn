@@ -8,12 +8,12 @@ ms.assetid: b8d7cf43-d1f2-4f3d-adb0-4f3a6428edc0
 dev_langs:
 - csharp
 - vb
-ms.openlocfilehash: 9eb2ca898413a07c58ac868900a278e02fd1f587
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: c2ae7f4ad127d98cc909e99d036260ee10b76ae4
+ms.sourcegitcommit: 0a512a7965f8efa476eb024208479e4432a1fa72
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96974088"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100101932"
 ---
 # <a name="wpf-overview"></a>WPF 概述
 
@@ -184,7 +184,7 @@ End Namespace
 
 应用程序通常具有复杂的输入要求。 WPF 提供了[命令系统](advanced/commanding-overview.md)，用于将用户输入操作与对这些操作做出响应的代码分隔开来。
 
-## <a name="layout"></a>Layout
+## <a name="layout"></a>布局
 
 创建用户界面时，按照位置和大小排列控件以形成布局。 任何布局的一项关键要求都是适应窗口大小和显示设置的变化。 WPF 为你提供一流的可扩展布局系统，而不强制你编写代码以适应这些情况下的布局。
 
@@ -519,22 +519,29 @@ WPF 控件的默认用户界面通常是从其他控件和形状构造的。 例
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     x:Class="SDKSample.StyleWindow"
     Title="Styles">
-  <!-- Style that will be applied to all buttons -->
-  <Style TargetType="{x:Type Button}">
-    <Setter Property="Background" Value="Orange" />
-    <Setter Property="BorderBrush" Value="Crimson" />
-    <Setter Property="FontSize" Value="20" />
-    <Setter Property="FontWeight" Value="Bold" />
-    <Setter Property="Margin" Value="5" />
-  </Style>
-  <!-- This button will have the style applied to it -->
-  <Button>Click Me!</Button>
+    
+    <Window.Resources>
+        <!-- Style that will be applied to all buttons for this window -->
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Orange" />
+            <Setter Property="BorderBrush" Value="Crimson" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Margin" Value="5" />
+        </Style>
+    </Window.Resources>
+    <StackPanel>
 
-  <!-- This label will not have the style applied to it -->
-  <Label>Don't Click Me!</Label>
+        <!-- This button will have the style applied to it -->
+        <Button>Click Me!</Button>
 
-  <!-- This button will have the style applied to it -->
-  <Button>Click Me!</Button>
+        <!-- This label will not have the style applied to it -->
+        <Label>Don't Click Me!</Label>
+
+        <!-- This button will have the style applied to it -->
+        <Button>Click Me!</Button>
+        
+    </StackPanel>
 </Window>
 ```
 
