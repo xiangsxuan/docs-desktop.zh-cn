@@ -3,12 +3,12 @@ title: 将 Windows 窗体应用迁移到 .NET 5
 description: 了解如何将 .NET Framework Windows 窗体应用程序移植到 .NET 5。
 ms.date: 11/02/2020
 ms.topic: how-to
-ms.openlocfilehash: adf87df169217a5d190338bf9c4beaec873f0b69
-ms.sourcegitcommit: d7d89e96c827b6e20d9353d34c0aa329fdae0144
+ms.openlocfilehash: c855c074090c386f60e783b3a9b2bee9a7704c23
+ms.sourcegitcommit: 0a512a7965f8efa476eb024208479e4432a1fa72
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99506706"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100101828"
 ---
 # <a name="how-to-migrate-a-windows-forms-desktop-app-to-net-5"></a>如何将 Windows 窗体桌面应用迁移到 .NET 5
 
@@ -186,11 +186,11 @@ Windows 窗体项目还包含 Properties/Settings.settings 和 Properties/Resour
   > [!IMPORTANT]
   > Visual Basic 项目通常使用“我的项目”文件夹来存储默认项目设置文件，而 C# 项目通常使用“属性”文件夹 。
   
-- 导入任何 resx 文件（如 properties/Resources.resx 文件）的配置 。 请注意，`Include` 属性已更改为 `<Compile>` 元素上的 `Update`，并且从 `<EmbeddedResource>` 中删除了 `<SubType>`：
+- 导入任何 resx 文件（如 properties/Resources.resx 文件）的配置 。 请注意，`Include` 特性已设置为 `<Compile>` 和 `<EmbeddedResource>` 元素上的 `Update`，并且已从 `<SubType>` 中删除 `<EmbeddedResource>`：
 
   ```xml
   <ItemGroup>
-    <EmbeddedResource Include="Properties\Resources.resx">
+    <EmbeddedResource Update="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
