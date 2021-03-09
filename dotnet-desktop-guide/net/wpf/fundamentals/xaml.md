@@ -22,12 +22,12 @@ helpviewer_keywords:
 - content models [XAML]
 - Extensible Application Markup Language (see XAML)
 - attribute syntax [XAML]
-ms.openlocfilehash: 5012cc06d411fc33ce208ef6eb2435f106f0ea11
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 455f0eb49491250913998015f38948a2d864432e
+ms.sourcegitcommit: 03df1de4077d996809eca885f6e2948774cf0fe7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96941938"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102101603"
 ---
 # <a name="xaml-overview-wpf-net"></a>XAML 概述 (WPF .NET)
 
