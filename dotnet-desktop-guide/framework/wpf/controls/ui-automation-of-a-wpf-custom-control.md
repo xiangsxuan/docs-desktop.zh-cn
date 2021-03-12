@@ -11,12 +11,12 @@ helpviewer_keywords:
 - custom controls [WPF], improving accessibility
 - UI Automation [WPF], using with custom controls
 ms.assetid: 47b310fc-fbd5-4ce2-a606-22d04c6d4911
-ms.openlocfilehash: 684f08a2a56c2095163c3deeed0223dabad2cea7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 94b7c09c65e42f4bfb371bccb0aeec511e9eb674
+ms.sourcegitcommit: 069786bcadbf9cd931d7dc3d892262cd852d2ffb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96973603"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102604311"
 ---
 # <a name="ui-automation-of-a-wpf-custom-control"></a>WPF 自定义控件的 UI 自动化
 [!INCLUDE[TLA#tla_uiautomation](../../../includes/tlasharptla-uiautomation-md.md)] 提供了一个通用接口，自动化客户端可使用该接口来检查或操作各种平台和框架的用户界面。 [!INCLUDE[TLA2#tla_uiautomation](../../../includes/tla2sharptla-uiautomation-md.md)] 使质量保证（测试）代码和具有辅助功能的应用程序（如屏幕阅读器）能够检查用户界面元素，以及能够模拟与其他代码中的用户元素进行的用户交互。 有关跨所有平台的 [!INCLUDE[TLA2#tla_uiautomation](../../../includes/tla2sharptla-uiautomation-md.md)] 的信息，请参阅“辅助功能”。  
@@ -145,7 +145,7 @@ Public Class RangePeer2
 End Class  
 ```  
   
-有关示例实现，请参阅 [c #](https://github.com/dotnet/docs/tree/master/samples/snippets/csharp/VS_Snippets_Wpf/CustomControlNumericUpDown/CSharp) 或实现和使用 NumericUpDown 自定义控件的 [Visual Basic](https://github.com/dotnet/docs/tree/master/samples/snippets/visualbasic/VS_Snippets_Wpf/CustomControlNumericUpDown/visualbasic) 源代码。  
+有关示例实现，请参阅 [c #](https://github.com/dotnet/docs-desktop/tree/main/dotnet-desktop-guide/samples/snippets/csharp/VS_Snippets_Wpf/CustomControlNumericUpDown/CSharp) 或实现和使用 NumericUpDown 自定义控件的 [Visual Basic](https://github.com/dotnet/docs-desktop/tree/main/dotnet-desktop-guide/samples/snippets/visualbasic/VS_Snippets_Wpf/CustomControlNumericUpDown/visualbasic) 源代码。  
   
 ### <a name="raise-events"></a>引发事件  
  自动化客户端可订阅自动化事件。 自定义控件必须通过调用方法来报告对控件状态的更改 <xref:System.Windows.Automation.Peers.AutomationPeer.RaiseAutomationEvent%2A> 。 同样，在属性值更改时，调用 <xref:System.Windows.Automation.Peers.AutomationPeer.RaisePropertyChangedEvent%2A> 方法。 以下代码演示了如何在控件代码内获取对等对象，并调用一个方法来引发事件。 作为一种优化，该代码会确定是否有适用于此事件类型的任何侦听器。 仅当有侦听器时才引发事件，可避免不必要的开销，有助于控件保持响应状态。  
@@ -157,5 +157,5 @@ End Class
 
 - [UI 自动化概述](/dotnet/framework/ui-automation/ui-automation-overview)
 - [服务器端 UI 自动化提供程序的实现](/dotnet/framework/ui-automation/server-side-ui-automation-provider-implementation)
-- [GitHub 上的 NumericUpDown 自定义控件 (c # ) ](https://github.com/dotnet/docs/tree/master/samples/snippets/csharp/VS_Snippets_Wpf/CustomControlNumericUpDown/CSharp)  
-- [GitHub 上的 NumericUpDown 自定义控件 (Visual Basic) ](https://github.com/dotnet/docs/tree/master/samples/snippets/visualbasic/VS_Snippets_Wpf/CustomControlNumericUpDown/visualbasic)
+- [GitHub 上的 NumericUpDown 自定义控件 (c # ) ](https://github.com/dotnet/docs-desktop/tree/main/dotnet-desktop-guide/samples/snippets/csharp/VS_Snippets_Wpf/CustomControlNumericUpDown/CSharp)  
+- [GitHub 上的 NumericUpDown 自定义控件 (Visual Basic) ](https://github.com/dotnet/docs-desktop/tree/main/dotnet-desktop-guide/samples/snippets/visualbasic/VS_Snippets_Wpf/CustomControlNumericUpDown/visualbasic)
