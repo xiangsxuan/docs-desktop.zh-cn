@@ -5,16 +5,16 @@ author: mjrousos
 ms.date: 09/12/2019
 ms.author: mikerou
 ms.topic: how-to
-ms.openlocfilehash: f9267ca1da922858f8d6acf470bf4831301335fd
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 148c1e4b21ccf4dbdb80bc17f1637a8407732cf0
+ms.sourcegitcommit: 069786bcadbf9cd931d7dc3d892262cd852d2ffb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96942017"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102604324"
 ---
 # <a name="migrating-wpf-apps-to-net-core"></a>将 WPF 应用迁移到 .NET Core
 
-本文介绍将 Windows Presentation Foundation (WPF) 应用从 .NET Framework 迁移到 .NET Core 3.0 所需的步骤。 如果手头没有可供移植的 WPF 应用，但是要尝试该过程，则可以使用 [GitHub](https://github.com/dotnet/windows-desktop/tree/master/Samples/BeanTrader) 上提供的 Bean Trader 示例应用。 原始应用（面向 .NET Framework 4.7.2）在 NetFx\BeanTraderClient 文件夹中提供。 首先，我们将说明一般情况下移植应用所需的步骤，然后演练适用于 Bean Trader 示例的特定更改。
+本文介绍将 Windows Presentation Foundation (WPF) 应用从 .NET Framework 迁移到 .NET Core 3.0 所需的步骤。 如果手头没有可供移植的 WPF 应用，但是要尝试该过程，则可以使用 [GitHub](https://github.com/dotnet/windows-desktop/tree/main/Samples/BeanTrader) 上提供的 Bean Trader 示例应用。 原始应用（面向 .NET Framework 4.7.2）在 NetFx\BeanTraderClient 文件夹中提供。 首先，我们将说明一般情况下移植应用所需的步骤，然后演练适用于 Bean Trader 示例的特定更改。
 
 [!INCLUDE [desktop guide under construction](../../includes/desktop-guide-preview-note.md)]
 
@@ -46,7 +46,7 @@ ms.locfileid: "96942017"
 
 ## <a name="about-the-sample"></a>关于本示例
 
-本文引用 [Bean Trader 示例应用](https://github.com/dotnet/windows-desktop/tree/master/Samples/BeanTrader)，因为它使用了各种依赖项，而这些依赖项类似于实际 WPF 应用可能包含的依赖项。 该应用并不大，但在复杂性方面要比“Hello World”高出一步。 该应用演示在移植实际应用时可能会遇到的一些问题。 该应用与 WCF 服务进行通信，因此若要使它正常运行，还需要运行 BeanTraderServer 项目（在同一个 GitHub 存储库中提供），并确保 BeanTraderClient 配置指向正确的终结点。 （默认情况下，该示例假设服务器在 `http://localhost:8090` 处的相同计算机上运行，如果在本地启动 BeanTraderServer，则是这种情况。）
+本文引用 [Bean Trader 示例应用](https://github.com/dotnet/windows-desktop/tree/main/Samples/BeanTrader)，因为它使用了各种依赖项，而这些依赖项类似于实际 WPF 应用可能包含的依赖项。 该应用并不大，但在复杂性方面要比“Hello World”高出一步。 该应用演示在移植实际应用时可能会遇到的一些问题。 该应用与 WCF 服务进行通信，因此若要使它正常运行，还需要运行 BeanTraderServer 项目（在同一个 GitHub 存储库中提供），并确保 BeanTraderClient 配置指向正确的终结点。 （默认情况下，该示例假设服务器在 `http://localhost:8090` 处的相同计算机上运行，如果在本地启动 BeanTraderServer，则是这种情况。）
 
 请记住，此示例应用旨在演示 .NET Core 移植挑战和解决方案。 它并不打算演示 WPF 最佳做法。 事实上，它故意包含一些反模式，以确保在移植时至少遇到几个有趣的挑战。
 
