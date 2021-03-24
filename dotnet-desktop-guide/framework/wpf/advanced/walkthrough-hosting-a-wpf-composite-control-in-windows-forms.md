@@ -5,12 +5,12 @@ ms.date: 03/30/2017
 helpviewer_keywords:
 - hosting WPF content in Windows Forms [WPF]
 ms.assetid: 0ac41286-4c1b-4b17-9196-d985cb844ce1
-ms.openlocfilehash: 6220609fb14219ea54727ef9cac832e9eec71d9f
-ms.sourcegitcommit: 069786bcadbf9cd931d7dc3d892262cd852d2ffb
+ms.openlocfilehash: b0663dbf361502ab803b5f6ff16bc697decabbf4
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "104665104"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105026698"
 ---
 # <a name="walkthrough-hosting-a-wpf-composite-control-in-windows-forms"></a>演练：在 Windows 窗体中承载 WPF 复合控件
 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 提供了用于创建应用程序的丰富环境。 但是，当您对 Windows 窗体代码做了大量投资时，使用来扩展现有 Windows 窗体应用程序会更有效， [!INCLUDE[TLA2#tla_winclient](../../../includes/tla2sharptla-winclient-md.md)] 而不是从头重新编写。 常见的一种情况是，当你想要在 [!INCLUDE[TLA2#tla_winclient](../../../includes/tla2sharptla-winclient-md.md)] Windows 窗体应用程序中嵌入一个或多个实现的控件。 有关自定义 WPF 控件的详细信息，请参阅 [控件自定义](../controls/control-customization.md)。  
@@ -27,7 +27,7 @@ ms.locfileid: "104665104"
   
  有关本演练中阐释的任务的完整代码列表，请参阅 [在 Windows 窗体示例中承载 WPF 复合控件](https://github.com/microsoft/WPF-Samples/tree/master/Migration%20and%20Interoperability/WindowsFormsHostingWpfControl)。  
   
-## <a name="prerequisites"></a>必备条件  
+## <a name="prerequisites"></a>先决条件  
 
 若要完成本演练，必须具有 Visual Studio。  
   
@@ -183,7 +183,7 @@ namespace MyControls
 ## <a name="implementing-the-windows-forms-host-application"></a>实现 Windows 窗体主机应用程序  
  Windows 窗体主机应用程序使用 <xref:System.Windows.Forms.Integration.ElementHost> 对象承载 [!INCLUDE[TLA2#tla_winclient](../../../includes/tla2sharptla-winclient-md.md)] 复合控件。 应用程序处理 `OnButtonClick` 事件以从复合控件接收数据。 应用程序还具有一组选项按钮，可用于修改控件的外观。 下图显示应用程序。  
 
-下图显示了在 Windows 窗体应用程序中承载的 WPF 复合控件  
+下图显示了在 Windows 窗体应用程序中承载的 WPF 复合控件
 
  ![显示托管 Avalon 控件的 Windows 窗体的屏幕截图。](./media/walkthrough-hosting-a-wpf-composite-control-in-windows-forms/windows-form-hosting-avalon-control.png)  
   
@@ -323,7 +323,7 @@ namespace MyControls
   
  生成并运行应用程序。 单击不同的单选按钮来查看在 WPF 复合控件上的效果。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Forms.Integration.ElementHost>
 - <xref:System.Windows.Forms.Integration.WindowsFormsHost>

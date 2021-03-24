@@ -15,12 +15,12 @@ helpviewer_keywords:
 - dependency properties [WPF]
 - resources [WPF], references to
 ms.assetid: d119d00c-3afb-48d6-87a0-c4da4f83dee5
-ms.openlocfilehash: 4351e349453425aa425d40b5bb0a8960373456f3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 750db567c995d80f8ddf82e821dcd3ca72a1762b
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971942"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105026668"
 ---
 # <a name="dependency-properties-overview"></a>依赖属性概述
 
@@ -30,7 +30,7 @@ Windows Presentation Foundation (WPF) 提供一组服务，这些服务可用于
 本主题假设你在 .NET 类型系统和面向对象的编程方面有一些基础知识。 为了能理解本主题中的示例，还应了解 XAML 并知道如何编写 WPF 应用程序。 有关详细信息，请参阅 [演练：我的第一个 WPF 桌面应用程序](../getting-started/walkthrough-my-first-wpf-desktop-application.md)。  
   
 ## <a name="dependency-properties-and-clr-properties"></a>依赖属性和 CLR 属性
- 在 WPF 中，属性通常公开为标准 .NET [属性](/dotnet/standard/base-types/common-type-syste#properties)。 在基本级别，可以直接与这些属性交互，而不必了解它们是以依赖属性的形式实现的。 但是，应当熟悉 WPF 属性系统的部分或全部功能，以便利用这些功能。
+ 在 WPF 中，属性通常公开为标准 .NET [属性](/dotnet/standard/base-types/common-type-system#properties)。 在基本级别，可以直接与这些属性交互，而不必了解它们是以依赖属性的形式实现的。 但是，应当熟悉 WPF 属性系统的部分或全部功能，以便利用这些功能。
 
 依赖属性的用途在于提供一种方法来基于其他输入的值计算属性值。 这些其他输入可能包括系统属性（如主题和用户首选项）、实时属性确定机制（如数据绑定和动画/情节提要）、重用模板（如资源和样式）或者通过与元素树中其他元素的父子关系来公开的值。 另外，可以通过实现依赖属性来提供独立验证、默认值、监视其他属性的更改的回叫以及可以基于可能的运行时信息来强制指定属性值的系统。 派生类还可以通过重写依赖属性元数据（而不是重写现有属性的实际实现或者创建新属性）来更改现有属性的某些具体特征。
 
@@ -201,5 +201,5 @@ XAML 支持多种设置属性的语法格式。 要对特定的属性使用哪�
 
 - [自定义依赖项属性](custom-dependency-properties.md)
 - [只读依赖项属性](read-only-dependency-properties.md)
-- [WPF)  (XAML 概述 ](/dotnet/desktop-wpf/fundamentals/xaml)
+- [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [WPF 体系结构](wpf-architecture.md)
