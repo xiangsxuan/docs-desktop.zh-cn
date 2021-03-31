@@ -31,10 +31,10 @@ helpviewer_keywords:
 - displaying XAML pages [WPF]
 ms.assetid: 737d04ec-8861-46c3-8d44-fa11d3528d23
 ms.openlocfilehash: 270ae2c539a28d7d66e54aab362fe176679cd550
-ms.sourcegitcommit: 7f48b9ecf8a30db42c8ecea0dd4df577736631a2
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2021
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "99222271"
 ---
 # <a name="wpf-windows-overview"></a>WPF Windows 概述

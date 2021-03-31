@@ -9,7 +9,7 @@ ms.openlocfilehash: b0663dbf361502ab803b5f6ff16bc697decabbf4
 ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "105026698"
 ---
 # <a name="walkthrough-hosting-a-wpf-composite-control-in-windows-forms"></a>演练：在 Windows 窗体中承载 WPF 复合控件
@@ -59,7 +59,7 @@ ms.locfileid: "105026698"
   
 - PresentationFramework  
   
-- System  
+- 系统  
   
 - WindowsBase  
   
@@ -323,7 +323,7 @@ namespace MyControls
   
  生成并运行应用程序。 单击不同的单选按钮来查看在 WPF 复合控件上的效果。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Forms.Integration.ElementHost>
 - <xref:System.Windows.Forms.Integration.WindowsFormsHost>

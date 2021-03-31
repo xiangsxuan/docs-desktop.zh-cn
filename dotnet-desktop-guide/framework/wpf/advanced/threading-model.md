@@ -21,10 +21,10 @@ helpviewer_keywords:
 - reentrancy [WPF]
 ms.assetid: 02d8fd00-8d7c-4604-874c-58e40786770b
 ms.openlocfilehash: e984e7b887d86b6426a97285d00619a12974385d
-ms.sourcegitcommit: 0a512a7965f8efa476eb024208479e4432a1fa72
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "100101853"
 ---
 # <a name="threading-model"></a>线程处理模型
@@ -217,6 +217,6 @@ ms.locfileid: "100101853"
 
  的任务 [!INCLUDE[TLA2#tla_winclient](../../../includes/tla2sharptla-winclient-md.md)] 是在不重新引入内存泄漏的情况下避免意外的重入，这就是我们不会在任何地方阻止重入的原因。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [具有长时间运行计算的单线程应用程序示例](https://github.com/Microsoft/WPF-Samples/tree/master/Threading/SingleThreadedApplication)

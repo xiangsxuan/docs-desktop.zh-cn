@@ -19,7 +19,7 @@ ms.openlocfilehash: 750db567c995d80f8ddf82e821dcd3ca72a1762b
 ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "105026668"
 ---
 # <a name="dependency-properties-overview"></a>依赖属性概述
@@ -174,7 +174,7 @@ XAML 支持多种设置属性的语法格式。 要对特定的属性使用哪�
 ## <a name="dependency-property-value-precedence"></a>依赖项属性值优先级
 获取依赖属性的值时，获得的值可能是通过参与 WPF 属性系统的其他任一基于属性的输入而在该属性上设置的。 由于存在依赖属性值优先级，使得属性获取值的方式的各种方案得以按可预测的方式交互。
 
-请看下面的示例。 该示例包含适用于所有按钮及其 <xref:System.Windows.Controls.Control.Background%2A> 属性的样式，但也会指定一个具有本地设置的 <xref:System.Windows.Controls.Control.Background%2A> 值的按钮。
+请考虑以下示例。 该示例包含适用于所有按钮及其 <xref:System.Windows.Controls.Control.Background%2A> 属性的样式，但也会指定一个具有本地设置的 <xref:System.Windows.Controls.Control.Background%2A> 值的按钮。
 
 > [!NOTE]
 > SDK 文档在讨论依赖属性时有时会使用“本地值”或“本地设置的值”等术语。 本地设置的值是指在代码中直接为对象实例设置的属性值，或者在 XAML 中设置为元素特性的属性值。  
@@ -197,7 +197,7 @@ XAML 支持多种设置属性的语法格式。 要对特定的属性使用哪�
 
 - 将依赖属性视为公共属性（可访问）或至少由有权访问实例的任何调用方发现的公共属性。 有关详细信息，请参阅[依赖属性的安全性](dependency-property-security.md)。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [自定义依赖项属性](custom-dependency-properties.md)
 - [只读依赖项属性](read-only-dependency-properties.md)
