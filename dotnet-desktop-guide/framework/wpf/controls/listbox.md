@@ -8,25 +8,25 @@ helpviewer_keywords:
 - controls [WPF], ListBox
 ms.assetid: b91bb352-4f51-44e0-9017-a041f216c852
 ms.openlocfilehash: 69f93b902fc3c35749871a187e57d45a404c6602
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970590"
 ---
-# <a name="listbox"></a><span data-ttu-id="fb4cf-102">ListBox</span><span class="sxs-lookup"><span data-stu-id="fb4cf-102">ListBox</span></span>
-<span data-ttu-id="fb4cf-103"><xref:System.Windows.Controls.ListBox>控件向用户提供可选择项的列表。</span><span class="sxs-lookup"><span data-stu-id="fb4cf-103">A <xref:System.Windows.Controls.ListBox> control provides users with a list of selectable items.</span></span>  
+# <a name="listbox"></a><span data-ttu-id="b246a-102">ListBox</span><span class="sxs-lookup"><span data-stu-id="b246a-102">ListBox</span></span>
+<span data-ttu-id="b246a-103"><xref:System.Windows.Controls.ListBox>控件向用户提供可选择项的列表。</span><span class="sxs-lookup"><span data-stu-id="b246a-103">A <xref:System.Windows.Controls.ListBox> control provides users with a list of selectable items.</span></span>  
   
- <span data-ttu-id="fb4cf-104">下图显示了一个典型的 <xref:System.Windows.Controls.ListBox> 。</span><span class="sxs-lookup"><span data-stu-id="fb4cf-104">The following figure illustrates a typical <xref:System.Windows.Controls.ListBox>.</span></span>  
+ <span data-ttu-id="b246a-104">下图显示了一个典型的 <xref:System.Windows.Controls.ListBox> 。</span><span class="sxs-lookup"><span data-stu-id="b246a-104">The following figure illustrates a typical <xref:System.Windows.Controls.ListBox>.</span></span>  
   
- <span data-ttu-id="fb4cf-105">![列表框屏幕快照](./media/ss-ctl-listbox.gif "SS_CTL_listbox")</span><span class="sxs-lookup"><span data-stu-id="fb4cf-105">![ListBox screenshot](./media/ss-ctl-listbox.gif "SS_CTL_listbox")</span></span>  
-<span data-ttu-id="fb4cf-106">典型 ListBox</span><span class="sxs-lookup"><span data-stu-id="fb4cf-106">Typical ListBox</span></span>  
+ <span data-ttu-id="b246a-105">![列表框屏幕快照](./media/ss-ctl-listbox.gif "SS_CTL_listbox")</span><span class="sxs-lookup"><span data-stu-id="b246a-105">![ListBox screenshot](./media/ss-ctl-listbox.gif "SS_CTL_listbox")</span></span>  
+<span data-ttu-id="b246a-106">典型 ListBox</span><span class="sxs-lookup"><span data-stu-id="b246a-106">Typical ListBox</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="fb4cf-107">本节内容</span><span class="sxs-lookup"><span data-stu-id="fb4cf-107">In This Section</span></span>  
- [<span data-ttu-id="fb4cf-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="fb4cf-108">How-to Topics</span></span>](listbox-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="b246a-107">本节内容</span><span class="sxs-lookup"><span data-stu-id="b246a-107">In This Section</span></span>  
+ [<span data-ttu-id="b246a-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="b246a-108">How-to Topics</span></span>](listbox-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="fb4cf-109">参考</span><span class="sxs-lookup"><span data-stu-id="fb4cf-109">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="b246a-109">参考</span><span class="sxs-lookup"><span data-stu-id="b246a-109">Reference</span></span>  
  <xref:System.Windows.Controls.ListBox>  
   <xref:System.Windows.Controls.ListBoxItem>  
   
-## <a name="related-sections"></a><span data-ttu-id="fb4cf-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="fb4cf-110">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="b246a-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="b246a-110">Related Sections</span></span>

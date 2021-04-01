@@ -11,23 +11,23 @@ helpviewer_keywords:
 - glyphs [WPF]
 ms.assetid: d5d9274c-23b3-4859-8869-6e64403c9ca7
 ms.openlocfilehash: 106699c0e599411b56561565099b8ebcf300f837
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970700"
 ---
-# <a name="glyphs"></a><span data-ttu-id="c6607-102">标志符号</span><span class="sxs-lookup"><span data-stu-id="c6607-102">Glyphs</span></span>
-<span data-ttu-id="c6607-103">字形是要在屏幕上绘制的字符的低级别描述。</span><span class="sxs-lookup"><span data-stu-id="c6607-103">Glyphs are a low-level depiction of a character to be drawn on-screen.</span></span> [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="c6607-104">为想要在设置格式后截获和保存文本的客户提供对标志符号的直接访问。</span><span class="sxs-lookup"><span data-stu-id="c6607-104">provides direct access to glyphs for customers who want to intercept and persist text after formatting.</span></span>  
+# <a name="glyphs"></a><span data-ttu-id="cc01b-102">标志符号</span><span class="sxs-lookup"><span data-stu-id="cc01b-102">Glyphs</span></span>
+<span data-ttu-id="cc01b-103">字形是要在屏幕上绘制的字符的低级别描述。</span><span class="sxs-lookup"><span data-stu-id="cc01b-103">Glyphs are a low-level depiction of a character to be drawn on-screen.</span></span> [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="cc01b-104">为想要在设置格式后截获和保存文本的客户提供对标志符号的直接访问。</span><span class="sxs-lookup"><span data-stu-id="cc01b-104">provides direct access to glyphs for customers who want to intercept and persist text after formatting.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="c6607-105">本节内容</span><span class="sxs-lookup"><span data-stu-id="c6607-105">In This Section</span></span>  
- [<span data-ttu-id="c6607-106">GlyphRun 对象和 Glyphs 元素简介</span><span class="sxs-lookup"><span data-stu-id="c6607-106">Introduction to the GlyphRun Object and Glyphs Element</span></span>](introduction-to-the-glyphrun-object-and-glyphs-element.md)  
-  [<span data-ttu-id="c6607-107">如何：使用 Glyphs 绘制文本</span><span class="sxs-lookup"><span data-stu-id="c6607-107">How to: Draw Text Using Glyphs</span></span>](draw-text-using-glyphs.md)  
+## <a name="in-this-section"></a><span data-ttu-id="cc01b-105">本节内容</span><span class="sxs-lookup"><span data-stu-id="cc01b-105">In This Section</span></span>  
+ [<span data-ttu-id="cc01b-106">GlyphRun 对象和 Glyphs 元素简介</span><span class="sxs-lookup"><span data-stu-id="cc01b-106">Introduction to the GlyphRun Object and Glyphs Element</span></span>](introduction-to-the-glyphrun-object-and-glyphs-element.md)  
+  [<span data-ttu-id="cc01b-107">如何：使用 Glyphs 绘制文本</span><span class="sxs-lookup"><span data-stu-id="cc01b-107">How to: Draw Text Using Glyphs</span></span>](draw-text-using-glyphs.md)  
   
-## <a name="see-also"></a><span data-ttu-id="c6607-108">另请参阅</span><span class="sxs-lookup"><span data-stu-id="c6607-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="cc01b-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="cc01b-108">See also</span></span>
 
 - <xref:System.Windows.Media.GlyphRun>
 - <xref:System.Windows.Media.DrawingContext.DrawText%2A>
 - <xref:System.Windows.Documents.Glyphs>
-- [<span data-ttu-id="c6607-109">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="c6607-109">Documents in WPF</span></span>](documents-in-wpf.md)
-- [<span data-ttu-id="c6607-110">WPF 中的版式</span><span class="sxs-lookup"><span data-stu-id="c6607-110">Typography in WPF</span></span>](typography-in-wpf.md)
+- [<span data-ttu-id="cc01b-109">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="cc01b-109">Documents in WPF</span></span>](documents-in-wpf.md)
+- [<span data-ttu-id="cc01b-110">WPF 中的版式</span><span class="sxs-lookup"><span data-stu-id="cc01b-110">Typography in WPF</span></span>](typography-in-wpf.md)

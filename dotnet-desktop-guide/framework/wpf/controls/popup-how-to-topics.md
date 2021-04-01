@@ -8,21 +8,21 @@ helpviewer_keywords:
 - controls [WPF], Popup
 ms.assetid: 9488a245-0168-4650-b9ab-d075a108cc8f
 ms.openlocfilehash: 80f0d8bb3f78e80868d5294b5893ef409fdf478c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970459"
 ---
-# <a name="popup-how-to-topics"></a><span data-ttu-id="35e52-102">Popup 帮助主题</span><span class="sxs-lookup"><span data-stu-id="35e52-102">Popup How-to Topics</span></span>
-<span data-ttu-id="35e52-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Primitives.Popup> 控件在一个浮动于当前应用程序窗口的单独窗口中显示内容。</span><span class="sxs-lookup"><span data-stu-id="35e52-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Primitives.Popup> control to display content in a separate window that floats over the current application window.</span></span>  
+# <a name="popup-how-to-topics"></a><span data-ttu-id="c1b7c-102">Popup 帮助主题</span><span class="sxs-lookup"><span data-stu-id="c1b7c-102">Popup How-to Topics</span></span>
+<span data-ttu-id="c1b7c-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Primitives.Popup> 控件在一个浮动于当前应用程序窗口的单独窗口中显示内容。</span><span class="sxs-lookup"><span data-stu-id="c1b7c-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Primitives.Popup> control to display content in a separate window that floats over the current application window.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="35e52-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="35e52-104">In This Section</span></span>  
- [<span data-ttu-id="35e52-105">对 Popup 进行动画处理</span><span class="sxs-lookup"><span data-stu-id="35e52-105">Animate a Popup</span></span>](how-to-animate-a-popup.md)  
- [<span data-ttu-id="35e52-106">指定自定义 Popup 位置</span><span class="sxs-lookup"><span data-stu-id="35e52-106">Specify a Custom Popup Position</span></span>](how-to-specify-a-custom-popup-position.md)  
+## <a name="in-this-section"></a><span data-ttu-id="c1b7c-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="c1b7c-104">In This Section</span></span>  
+ [<span data-ttu-id="c1b7c-105">对 Popup 进行动画处理</span><span class="sxs-lookup"><span data-stu-id="c1b7c-105">Animate a Popup</span></span>](how-to-animate-a-popup.md)  
+ [<span data-ttu-id="c1b7c-106">指定自定义 Popup 位置</span><span class="sxs-lookup"><span data-stu-id="c1b7c-106">Specify a Custom Popup Position</span></span>](how-to-specify-a-custom-popup-position.md)  
   
-## <a name="reference"></a><span data-ttu-id="35e52-107">参考</span><span class="sxs-lookup"><span data-stu-id="35e52-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="c1b7c-107">参考</span><span class="sxs-lookup"><span data-stu-id="c1b7c-107">Reference</span></span>  
  <xref:System.Windows.Controls.Primitives.Popup>  
   
-## <a name="related-sections"></a><span data-ttu-id="35e52-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="35e52-108">Related Sections</span></span>  
- [<span data-ttu-id="35e52-109">Popup 概述</span><span class="sxs-lookup"><span data-stu-id="35e52-109">Popup Overview</span></span>](popup-overview.md)
+## <a name="related-sections"></a><span data-ttu-id="c1b7c-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="c1b7c-108">Related Sections</span></span>  
+ [<span data-ttu-id="c1b7c-109">Popup 概述</span><span class="sxs-lookup"><span data-stu-id="c1b7c-109">Popup Overview</span></span>](popup-overview.md)

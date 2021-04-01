@@ -8,18 +8,18 @@ helpviewer_keywords:
 - BulletDecorator control [WPF]
 ms.assetid: 1756cabf-59b4-47a7-883d-1bdf2e5abe00
 ms.openlocfilehash: d5839a75434f71ff6dd91b86474aeab2e8b0ad64
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973275"
 ---
-# <a name="bulletdecorator"></a><span data-ttu-id="1b69a-102">BulletDecorator</span><span class="sxs-lookup"><span data-stu-id="1b69a-102">BulletDecorator</span></span>
-<span data-ttu-id="1b69a-103"><xref:System.Windows.Controls.Primitives.BulletDecorator> 具有两个内容属性： <xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A> 和 <xref:System.Windows.Controls.Decorator.Child%2A> 。</span><span class="sxs-lookup"><span data-stu-id="1b69a-103"><xref:System.Windows.Controls.Primitives.BulletDecorator> has two content properties: <xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A> and <xref:System.Windows.Controls.Decorator.Child%2A>.</span></span> <span data-ttu-id="1b69a-104"><xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A>属性定义 <xref:System.Windows.UIElement> 要用作项目符号的。</span><span class="sxs-lookup"><span data-stu-id="1b69a-104">The <xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A> property defines the <xref:System.Windows.UIElement> to use as a bullet.</span></span> <span data-ttu-id="1b69a-105"><xref:System.Windows.Controls.Decorator.Child%2A>属性定义一个 <xref:System.Windows.UIElement> ，它与项目符号在视觉上对齐。</span><span class="sxs-lookup"><span data-stu-id="1b69a-105">The <xref:System.Windows.Controls.Decorator.Child%2A> property defines a <xref:System.Windows.UIElement> that visually aligns with the bullet.</span></span>  
+# <a name="bulletdecorator"></a><span data-ttu-id="ca210-102">BulletDecorator</span><span class="sxs-lookup"><span data-stu-id="ca210-102">BulletDecorator</span></span>
+<span data-ttu-id="ca210-103"><xref:System.Windows.Controls.Primitives.BulletDecorator> 具有两个内容属性： <xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A> 和 <xref:System.Windows.Controls.Decorator.Child%2A> 。</span><span class="sxs-lookup"><span data-stu-id="ca210-103"><xref:System.Windows.Controls.Primitives.BulletDecorator> has two content properties: <xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A> and <xref:System.Windows.Controls.Decorator.Child%2A>.</span></span> <span data-ttu-id="ca210-104"><xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A>属性定义 <xref:System.Windows.UIElement> 要用作项目符号的。</span><span class="sxs-lookup"><span data-stu-id="ca210-104">The <xref:System.Windows.Controls.Primitives.BulletDecorator.Bullet%2A> property defines the <xref:System.Windows.UIElement> to use as a bullet.</span></span> <span data-ttu-id="ca210-105"><xref:System.Windows.Controls.Decorator.Child%2A>属性定义一个 <xref:System.Windows.UIElement> ，它与项目符号在视觉上对齐。</span><span class="sxs-lookup"><span data-stu-id="ca210-105">The <xref:System.Windows.Controls.Decorator.Child%2A> property defines a <xref:System.Windows.UIElement> that visually aligns with the bullet.</span></span>  
   
- <span data-ttu-id="1b69a-106">下图显示了使用的控件的示例 <xref:System.Windows.Controls.Primitives.BulletDecorator> 。</span><span class="sxs-lookup"><span data-stu-id="1b69a-106">The following illustration shows examples of controls that use a <xref:System.Windows.Controls.Primitives.BulletDecorator>.</span></span>  
+ <span data-ttu-id="ca210-106">下图显示了使用的控件的示例 <xref:System.Windows.Controls.Primitives.BulletDecorator> 。</span><span class="sxs-lookup"><span data-stu-id="ca210-106">The following illustration shows examples of controls that use a <xref:System.Windows.Controls.Primitives.BulletDecorator>.</span></span>  
   
  ![复选框、单选按钮和 TextBox 项目符号修饰器的示例。](./media/bulletdecorator/three-bullet-decorators.png)  
   
-## <a name="reference"></a><span data-ttu-id="1b69a-108">参考</span><span class="sxs-lookup"><span data-stu-id="1b69a-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="ca210-108">参考</span><span class="sxs-lookup"><span data-stu-id="ca210-108">Reference</span></span>  
  <xref:System.Windows.Controls.Primitives.BulletDecorator>

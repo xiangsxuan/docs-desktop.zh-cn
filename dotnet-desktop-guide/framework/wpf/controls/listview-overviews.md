@@ -8,24 +8,24 @@ helpviewer_keywords:
 - ListView controls [WPF], using
 ms.assetid: 49dfef1a-dddf-4fc6-a511-6d5f925a4781
 ms.openlocfilehash: 734b5265c1d25e4538c40f5a43bff220d675eedb
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973198"
 ---
-# <a name="listview-overviews"></a><span data-ttu-id="609c4-102">ListView 概述</span><span class="sxs-lookup"><span data-stu-id="609c4-102">ListView Overviews</span></span>
-<span data-ttu-id="609c4-103">本节中的主题说明如何使用 <xref:System.Windows.Controls.ListView> 控件。</span><span class="sxs-lookup"><span data-stu-id="609c4-103">The topics in this section show you how to use a <xref:System.Windows.Controls.ListView> control.</span></span>  
+# <a name="listview-overviews"></a><span data-ttu-id="d7c55-102">ListView 概述</span><span class="sxs-lookup"><span data-stu-id="d7c55-102">ListView Overviews</span></span>
+<span data-ttu-id="d7c55-103">本节中的主题说明如何使用 <xref:System.Windows.Controls.ListView> 控件。</span><span class="sxs-lookup"><span data-stu-id="d7c55-103">The topics in this section show you how to use a <xref:System.Windows.Controls.ListView> control.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="609c4-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="609c4-104">In This Section</span></span>  
- [<span data-ttu-id="609c4-105">ListView 概述</span><span class="sxs-lookup"><span data-stu-id="609c4-105">ListView Overview</span></span>](listview-overview.md)  
- [<span data-ttu-id="609c4-106">GridView 概述</span><span class="sxs-lookup"><span data-stu-id="609c4-106">GridView Overview</span></span>](gridview-overview.md)  
- [<span data-ttu-id="609c4-107">GridView 列标题的样式和模板概述</span><span class="sxs-lookup"><span data-stu-id="609c4-107">GridView Column Header Styles and Templates Overview</span></span>](gridview-column-header-styles-and-templates-overview.md)  
+## <a name="in-this-section"></a><span data-ttu-id="d7c55-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d7c55-104">In This Section</span></span>  
+ [<span data-ttu-id="d7c55-105">ListView 概述</span><span class="sxs-lookup"><span data-stu-id="d7c55-105">ListView Overview</span></span>](listview-overview.md)  
+ [<span data-ttu-id="d7c55-106">GridView 概述</span><span class="sxs-lookup"><span data-stu-id="d7c55-106">GridView Overview</span></span>](gridview-overview.md)  
+ [<span data-ttu-id="d7c55-107">GridView 列标题的样式和模板概述</span><span class="sxs-lookup"><span data-stu-id="d7c55-107">GridView Column Header Styles and Templates Overview</span></span>](gridview-column-header-styles-and-templates-overview.md)  
   
-## <a name="reference"></a><span data-ttu-id="609c4-108">参考</span><span class="sxs-lookup"><span data-stu-id="609c4-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="d7c55-108">参考</span><span class="sxs-lookup"><span data-stu-id="d7c55-108">Reference</span></span>  
  <xref:System.Windows.Controls.ListView>  
   
  <xref:System.Windows.Controls.GridView>  
   
-## <a name="related-sections"></a><span data-ttu-id="609c4-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="609c4-109">Related Sections</span></span>  
- [<span data-ttu-id="609c4-110">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="609c4-110">How-to Topics</span></span>](listview-how-to-topics.md)
+## <a name="related-sections"></a><span data-ttu-id="d7c55-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="d7c55-109">Related Sections</span></span>  
+ [<span data-ttu-id="d7c55-110">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="d7c55-110">How-to Topics</span></span>](listview-how-to-topics.md)

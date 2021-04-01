@@ -9,19 +9,19 @@ helpviewer_keywords:
 - Canvas control [WPF]
 ms.assetid: fdb390e9-1bba-4b5f-87fe-c3bc246fa7e9
 ms.openlocfilehash: 7b3e1c942308aa90887b6370ed402a1a87364415
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973260"
 ---
-# <a name="canvas"></a><span data-ttu-id="a9ba9-102">画布</span><span class="sxs-lookup"><span data-stu-id="a9ba9-102">Canvas</span></span>
-<span data-ttu-id="a9ba9-103"><xref:System.Windows.Controls.Canvas> 是一个布局控件，可用于实现子元素的绝对定位。</span><span class="sxs-lookup"><span data-stu-id="a9ba9-103"><xref:System.Windows.Controls.Canvas> is a layout control that enables absolute positioning of child elements.</span></span>  
+# <a name="canvas"></a><span data-ttu-id="9796a-102">画布</span><span class="sxs-lookup"><span data-stu-id="9796a-102">Canvas</span></span>
+<span data-ttu-id="9796a-103"><xref:System.Windows.Controls.Canvas> 是一个布局控件，可用于实现子元素的绝对定位。</span><span class="sxs-lookup"><span data-stu-id="9796a-103"><xref:System.Windows.Controls.Canvas> is a layout control that enables absolute positioning of child elements.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="a9ba9-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="a9ba9-104">In This Section</span></span>  
- [<span data-ttu-id="a9ba9-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="a9ba9-105">How-to Topics</span></span>](canvas-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="9796a-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="9796a-104">In This Section</span></span>  
+ [<span data-ttu-id="9796a-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="9796a-105">How-to Topics</span></span>](canvas-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="a9ba9-106">参考</span><span class="sxs-lookup"><span data-stu-id="a9ba9-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="9796a-106">参考</span><span class="sxs-lookup"><span data-stu-id="9796a-106">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -36,9 +36,9 @@ ms.locfileid: "96973260"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="a9ba9-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="a9ba9-107">Related Sections</span></span>  
- [<span data-ttu-id="a9ba9-108">布局</span><span class="sxs-lookup"><span data-stu-id="a9ba9-108">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="9796a-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="9796a-107">Related Sections</span></span>  
+ [<span data-ttu-id="9796a-108">布局</span><span class="sxs-lookup"><span data-stu-id="9796a-108">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="a9ba9-109">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="a9ba9-109">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="9796a-109">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="9796a-109">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="a9ba9-110">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="a9ba9-110">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="9796a-110">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="9796a-110">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

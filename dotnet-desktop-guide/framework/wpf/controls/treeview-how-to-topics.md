@@ -8,25 +8,25 @@ helpviewer_keywords:
 - TreeView control [WPF], how-to topics
 ms.assetid: b9e9790e-7bfd-45d1-8b7a-1e0d125182a8
 ms.openlocfilehash: fa7ef39083eb192c6ea675568b955fc78608ba88
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971030"
 ---
-# <a name="treeview-how-to-topics"></a><span data-ttu-id="d7d56-102">TreeView 帮助主题</span><span class="sxs-lookup"><span data-stu-id="d7d56-102">TreeView How-to Topics</span></span>
-<span data-ttu-id="d7d56-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.TreeView> 控件以层次结构显示信息。</span><span class="sxs-lookup"><span data-stu-id="d7d56-103">The topics in this section describe how to use the <xref:System.Windows.Controls.TreeView> control to display information in a hierarchical structure.</span></span>  
+# <a name="treeview-how-to-topics"></a><span data-ttu-id="e7639-102">TreeView 帮助主题</span><span class="sxs-lookup"><span data-stu-id="e7639-102">TreeView How-to Topics</span></span>
+<span data-ttu-id="e7639-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.TreeView> 控件以层次结构显示信息。</span><span class="sxs-lookup"><span data-stu-id="e7639-103">The topics in this section describe how to use the <xref:System.Windows.Controls.TreeView> control to display information in a hierarchical structure.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="d7d56-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d7d56-104">In This Section</span></span>  
- [<span data-ttu-id="d7d56-105">创建简单或复杂的 TreeView</span><span class="sxs-lookup"><span data-stu-id="d7d56-105">Create Simple or Complex TreeViews</span></span>](how-to-create-simple-or-complex-treeviews.md)  
-  [<span data-ttu-id="d7d56-106">使用 SelectedValue、SelectedValuePath 和 SelectedItem</span><span class="sxs-lookup"><span data-stu-id="d7d56-106">Use SelectedValue, SelectedValuePath, and SelectedItem</span></span>](how-to-use-selectedvalue-selectedvaluepath-and-selecteditem.md)  
-  [<span data-ttu-id="d7d56-107">将 TreeView 绑定到深度无法确定的数据</span><span class="sxs-lookup"><span data-stu-id="d7d56-107">Bind a TreeView to Data That Has an Indeterminable Depth</span></span>](how-to-bind-a-treeview-to-data-that-has-an-indeterminable-depth.md)  
-  [<span data-ttu-id="d7d56-108">提升 TreeView 的性能</span><span class="sxs-lookup"><span data-stu-id="d7d56-108">Improve the Performance of a TreeView</span></span>](how-to-improve-the-performance-of-a-treeview.md)  
-  [<span data-ttu-id="d7d56-109">在 TreeView 中查找 TreeViewItem</span><span class="sxs-lookup"><span data-stu-id="d7d56-109">Find a TreeViewItem in a TreeView</span></span>](how-to-find-a-treeviewitem-in-a-treeview.md)  
+## <a name="in-this-section"></a><span data-ttu-id="e7639-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="e7639-104">In This Section</span></span>  
+ [<span data-ttu-id="e7639-105">创建简单或复杂的 TreeView</span><span class="sxs-lookup"><span data-stu-id="e7639-105">Create Simple or Complex TreeViews</span></span>](how-to-create-simple-or-complex-treeviews.md)  
+  [<span data-ttu-id="e7639-106">使用 SelectedValue、SelectedValuePath 和 SelectedItem</span><span class="sxs-lookup"><span data-stu-id="e7639-106">Use SelectedValue, SelectedValuePath, and SelectedItem</span></span>](how-to-use-selectedvalue-selectedvaluepath-and-selecteditem.md)  
+  [<span data-ttu-id="e7639-107">将 TreeView 绑定到深度无法确定的数据</span><span class="sxs-lookup"><span data-stu-id="e7639-107">Bind a TreeView to Data That Has an Indeterminable Depth</span></span>](how-to-bind-a-treeview-to-data-that-has-an-indeterminable-depth.md)  
+  [<span data-ttu-id="e7639-108">提升 TreeView 的性能</span><span class="sxs-lookup"><span data-stu-id="e7639-108">Improve the Performance of a TreeView</span></span>](how-to-improve-the-performance-of-a-treeview.md)  
+  [<span data-ttu-id="e7639-109">在 TreeView 中查找 TreeViewItem</span><span class="sxs-lookup"><span data-stu-id="e7639-109">Find a TreeViewItem in a TreeView</span></span>](how-to-find-a-treeviewitem-in-a-treeview.md)  
   
-## <a name="reference"></a><span data-ttu-id="d7d56-110">参考</span><span class="sxs-lookup"><span data-stu-id="d7d56-110">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="e7639-110">参考</span><span class="sxs-lookup"><span data-stu-id="e7639-110">Reference</span></span>  
  <xref:System.Windows.Controls.TreeView>  
   
  <xref:System.Windows.Controls.TreeViewItem>  
   
-## <a name="related-sections"></a><span data-ttu-id="d7d56-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="d7d56-111">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="e7639-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="e7639-111">Related Sections</span></span>

@@ -10,34 +10,34 @@ api_location:
 - PresentationHost_v0400.dll
 ms.assetid: 3e81be16-24c7-4399-b242-6268feaa49d7
 ms.openlocfilehash: 8e1619e7dd96469955d574d6990408f916e1d9a4
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971945"
 ---
-# <a name="deactivate-function-wpf-unmanaged-api-reference"></a><span data-ttu-id="efea1-102">禁用 (WPF 非托管 API 参考的函数) </span><span class="sxs-lookup"><span data-stu-id="efea1-102">Deactivate Function (WPF Unmanaged API Reference)</span></span>
-<span data-ttu-id="efea1-103">此 API 支持 Windows Presentation Foundation (WPF) 基础结构，不应在代码中直接使用。</span><span class="sxs-lookup"><span data-stu-id="efea1-103">This API supports the Windows Presentation Foundation (WPF) infrastructure and is not intended to be used directly from your code.</span></span>  
+# <a name="deactivate-function-wpf-unmanaged-api-reference"></a><span data-ttu-id="94a11-102">禁用 (WPF 非托管 API 参考的函数) </span><span class="sxs-lookup"><span data-stu-id="94a11-102">Deactivate Function (WPF Unmanaged API Reference)</span></span>
+<span data-ttu-id="94a11-103">此 API 支持 Windows Presentation Foundation (WPF) 基础结构，不应在代码中直接使用。</span><span class="sxs-lookup"><span data-stu-id="94a11-103">This API supports the Windows Presentation Foundation (WPF) infrastructure and is not intended to be used directly from your code.</span></span>  
   
- <span data-ttu-id="efea1-104">由用于 Windows 管理的 Windows Presentation Foundation (WPF) 基础结构使用。</span><span class="sxs-lookup"><span data-stu-id="efea1-104">Used by the Windows Presentation Foundation (WPF) infrastructure for windows management.</span></span>  
+ <span data-ttu-id="94a11-104">由用于 Windows 管理的 Windows Presentation Foundation (WPF) 基础结构使用。</span><span class="sxs-lookup"><span data-stu-id="94a11-104">Used by the Windows Presentation Foundation (WPF) infrastructure for windows management.</span></span>  
   
-## <a name="syntax"></a><span data-ttu-id="efea1-105">语法</span><span class="sxs-lookup"><span data-stu-id="efea1-105">Syntax</span></span>  
+## <a name="syntax"></a><span data-ttu-id="94a11-105">语法</span><span class="sxs-lookup"><span data-stu-id="94a11-105">Syntax</span></span>  
   
 ```cpp  
 void Deactivate()  
 ```  
   
-## <a name="requirements"></a><span data-ttu-id="efea1-106">要求</span><span class="sxs-lookup"><span data-stu-id="efea1-106">Requirements</span></span>  
- <span data-ttu-id="efea1-107">**平台：** 请参阅 [.NET Framework 系统要求](/dotnet/framework/get-started/system-requirements)。</span><span class="sxs-lookup"><span data-stu-id="efea1-107">**Platforms:** See [.NET Framework System Requirements](/dotnet/framework/get-started/system-requirements).</span></span>  
+## <a name="requirements"></a><span data-ttu-id="94a11-106">要求</span><span class="sxs-lookup"><span data-stu-id="94a11-106">Requirements</span></span>  
+ <span data-ttu-id="94a11-107">**平台：** 请参阅 [.NET Framework 系统要求](/dotnet/framework/get-started/system-requirements)。</span><span class="sxs-lookup"><span data-stu-id="94a11-107">**Platforms:** See [.NET Framework System Requirements](/dotnet/framework/get-started/system-requirements).</span></span>  
   
- <span data-ttu-id="efea1-108">**.DLL**</span><span class="sxs-lookup"><span data-stu-id="efea1-108">**DLL:**</span></span>  
+ <span data-ttu-id="94a11-108">**.DLL**</span><span class="sxs-lookup"><span data-stu-id="94a11-108">**DLL:**</span></span>  
   
- <span data-ttu-id="efea1-109">在 .NET Framework 3.0 和3.5： PresentationHostDLL.dll</span><span class="sxs-lookup"><span data-stu-id="efea1-109">In the .NET Framework 3.0 and 3.5: PresentationHostDLL.dll</span></span>  
+ <span data-ttu-id="94a11-109">在 .NET Framework 3.0 和3.5： PresentationHostDLL.dll</span><span class="sxs-lookup"><span data-stu-id="94a11-109">In the .NET Framework 3.0 and 3.5: PresentationHostDLL.dll</span></span>  
   
- <span data-ttu-id="efea1-110">在 .NET Framework 4 及更高版本中： PresentationHost_v0400.dll</span><span class="sxs-lookup"><span data-stu-id="efea1-110">In the .NET Framework 4 and later: PresentationHost_v0400.dll</span></span>  
+ <span data-ttu-id="94a11-110">在 .NET Framework 4 及更高版本中： PresentationHost_v0400.dll</span><span class="sxs-lookup"><span data-stu-id="94a11-110">In the .NET Framework 4 and later: PresentationHost_v0400.dll</span></span>  
   
- <span data-ttu-id="efea1-111">**.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]</span><span class="sxs-lookup"><span data-stu-id="efea1-111">**.NET Framework Version:** [!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]</span></span>  
+ <span data-ttu-id="94a11-111">**.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]</span><span class="sxs-lookup"><span data-stu-id="94a11-111">**.NET Framework Version:** [!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="efea1-112">另请参阅</span><span class="sxs-lookup"><span data-stu-id="efea1-112">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="94a11-112">请参阅</span><span class="sxs-lookup"><span data-stu-id="94a11-112">See also</span></span>
 
-- [<span data-ttu-id="efea1-113">WPF 非托管 API 参考</span><span class="sxs-lookup"><span data-stu-id="efea1-113">WPF Unmanaged API Reference</span></span>](wpf-unmanaged-api-reference.md)
+- [<span data-ttu-id="94a11-113">WPF 非托管 API 参考</span><span class="sxs-lookup"><span data-stu-id="94a11-113">WPF Unmanaged API Reference</span></span>](wpf-unmanaged-api-reference.md)

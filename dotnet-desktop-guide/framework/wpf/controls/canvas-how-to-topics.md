@@ -8,23 +8,23 @@ helpviewer_keywords:
 - Canvas control [WPF], how-to topics
 ms.assetid: 5c8f5bca-7ba9-4526-a9bf-0852351dbe8a
 ms.openlocfilehash: 5c07039a66b40a6ecb54eda674bf2be396fc3e68
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973263"
 ---
-# <a name="canvas-how-to-topics"></a><span data-ttu-id="6bfac-102">画布帮助主题</span><span class="sxs-lookup"><span data-stu-id="6bfac-102">Canvas How-to Topics</span></span>
-<span data-ttu-id="6bfac-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Canvas> 元素来绝对定位子元素。</span><span class="sxs-lookup"><span data-stu-id="6bfac-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Canvas> element to absolutely position child elements.</span></span>  
+# <a name="canvas-how-to-topics"></a><span data-ttu-id="974c4-102">画布帮助主题</span><span class="sxs-lookup"><span data-stu-id="974c4-102">Canvas How-to Topics</span></span>
+<span data-ttu-id="974c4-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Canvas> 元素来绝对定位子元素。</span><span class="sxs-lookup"><span data-stu-id="974c4-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Canvas> element to absolutely position child elements.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="6bfac-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="6bfac-104">In This Section</span></span>  
- [<span data-ttu-id="6bfac-105">使用边框围住画布内容</span><span class="sxs-lookup"><span data-stu-id="6bfac-105">Wrap a Border Around the Content of a Canvas</span></span>](how-to-wrap-a-border-around-the-content-of-a-canvas.md)  
- [<span data-ttu-id="6bfac-106">获取或设置画布定位属性</span><span class="sxs-lookup"><span data-stu-id="6bfac-106">Get or Set Canvas Positioning Properties</span></span>](how-to-get-or-set-canvas-positioning-properties.md)  
- [<span data-ttu-id="6bfac-107">创建和使用画布</span><span class="sxs-lookup"><span data-stu-id="6bfac-107">Create and Use a Canvas</span></span>](how-to-create-and-use-a-canvas.md)  
- [<span data-ttu-id="6bfac-108">使用画布的附加属性来定位子元素</span><span class="sxs-lookup"><span data-stu-id="6bfac-108">Use the Attached Properties of Canvas to Position Child Elements</span></span>](how-to-use-the-attached-properties-of-canvas-to-position-child-elements.md)  
- [<span data-ttu-id="6bfac-109">使用 Thumb 重设画布大小</span><span class="sxs-lookup"><span data-stu-id="6bfac-109">Resize a Canvas by Using a Thumb</span></span>](how-to-resize-a-canvas-by-using-a-thumb.md)  
+## <a name="in-this-section"></a><span data-ttu-id="974c4-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="974c4-104">In This Section</span></span>  
+ [<span data-ttu-id="974c4-105">使用边框围住画布内容</span><span class="sxs-lookup"><span data-stu-id="974c4-105">Wrap a Border Around the Content of a Canvas</span></span>](how-to-wrap-a-border-around-the-content-of-a-canvas.md)  
+ [<span data-ttu-id="974c4-106">获取或设置画布定位属性</span><span class="sxs-lookup"><span data-stu-id="974c4-106">Get or Set Canvas Positioning Properties</span></span>](how-to-get-or-set-canvas-positioning-properties.md)  
+ [<span data-ttu-id="974c4-107">创建和使用画布</span><span class="sxs-lookup"><span data-stu-id="974c4-107">Create and Use a Canvas</span></span>](how-to-create-and-use-a-canvas.md)  
+ [<span data-ttu-id="974c4-108">使用画布的附加属性来定位子元素</span><span class="sxs-lookup"><span data-stu-id="974c4-108">Use the Attached Properties of Canvas to Position Child Elements</span></span>](how-to-use-the-attached-properties-of-canvas-to-position-child-elements.md)  
+ [<span data-ttu-id="974c4-109">使用 Thumb 重设画布大小</span><span class="sxs-lookup"><span data-stu-id="974c4-109">Resize a Canvas by Using a Thumb</span></span>](how-to-resize-a-canvas-by-using-a-thumb.md)  
   
-## <a name="reference"></a><span data-ttu-id="6bfac-110">参考</span><span class="sxs-lookup"><span data-stu-id="6bfac-110">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="974c4-110">参考</span><span class="sxs-lookup"><span data-stu-id="974c4-110">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -39,9 +39,9 @@ ms.locfileid: "96973263"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="6bfac-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="6bfac-111">Related Sections</span></span>  
- [<span data-ttu-id="6bfac-112">布局</span><span class="sxs-lookup"><span data-stu-id="6bfac-112">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="974c4-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="974c4-111">Related Sections</span></span>  
+ [<span data-ttu-id="974c4-112">布局</span><span class="sxs-lookup"><span data-stu-id="974c4-112">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="6bfac-113">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="6bfac-113">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="974c4-113">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="974c4-113">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="6bfac-114">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="6bfac-114">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="974c4-114">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="974c4-114">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

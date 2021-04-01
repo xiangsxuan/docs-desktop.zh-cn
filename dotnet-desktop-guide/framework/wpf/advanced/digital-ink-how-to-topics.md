@@ -8,20 +8,20 @@ helpviewer_keywords:
 - digital ink [WPF]
 ms.assetid: c29f8728-bfcb-4af7-9fbc-8169e180109f
 ms.openlocfilehash: f67642342777a4b5b26b902161c83dc98893c63f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973008"
 ---
-# <a name="digital-ink-how-to-topics"></a><span data-ttu-id="abf59-102">数字墨迹帮助主题</span><span class="sxs-lookup"><span data-stu-id="abf59-102">Digital Ink How-to Topics</span></span>
-## <a name="in-this-section"></a><span data-ttu-id="abf59-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="abf59-103">In This Section</span></span>  
- [<span data-ttu-id="abf59-104">从自定义控件选择墨迹</span><span class="sxs-lookup"><span data-stu-id="abf59-104">Select Ink from a Custom Control</span></span>](how-to-select-ink-from-a-custom-control.md)  
-  [<span data-ttu-id="abf59-105">向墨迹数据添加自定义数据</span><span class="sxs-lookup"><span data-stu-id="abf59-105">Add Custom Data to Ink Data</span></span>](how-to-add-custom-data-to-ink-data.md)  
-  [<span data-ttu-id="abf59-106">清除自定义控件上的墨迹</span><span class="sxs-lookup"><span data-stu-id="abf59-106">Erase Ink on a Custom Control</span></span>](how-to-erase-ink-on-a-custom-control.md)  
-  [<span data-ttu-id="abf59-107">识别应用程序笔势</span><span class="sxs-lookup"><span data-stu-id="abf59-107">Recognize Application Gestures</span></span>](how-to-recognize-application-gestures.md)  
-  [<span data-ttu-id="abf59-108">拖放墨迹</span><span class="sxs-lookup"><span data-stu-id="abf59-108">Drag and Drop Ink</span></span>](how-to-drag-and-drop-ink.md)  
-  [<span data-ttu-id="abf59-109">将数据绑定到 InkCanvas</span><span class="sxs-lookup"><span data-stu-id="abf59-109">Data Bind to an InkCanvas</span></span>](how-to-data-bind-to-an-inkcanvas.md)  
-  [<span data-ttu-id="abf59-110">通过分析提示来分析墨迹</span><span class="sxs-lookup"><span data-stu-id="abf59-110">Analyze Ink with Analysis Hints</span></span>](how-to-analyze-ink-with-analysis-hints.md)  
-  [<span data-ttu-id="abf59-111">旋转墨迹</span><span class="sxs-lookup"><span data-stu-id="abf59-111">Rotate Ink</span></span>](how-to-rotate-ink.md)  
-  [<span data-ttu-id="abf59-112">禁用用于 WPF 应用程序的 RealTimeStylus</span><span class="sxs-lookup"><span data-stu-id="abf59-112">Disable the RealTimeStylus for WPF Applications</span></span>](disable-the-realtimestylus-for-wpf-applications.md)
+# <a name="digital-ink-how-to-topics"></a><span data-ttu-id="9311b-102">数字墨迹帮助主题</span><span class="sxs-lookup"><span data-stu-id="9311b-102">Digital Ink How-to Topics</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="9311b-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="9311b-103">In This Section</span></span>  
+ [<span data-ttu-id="9311b-104">从自定义控件选择墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-104">Select Ink from a Custom Control</span></span>](how-to-select-ink-from-a-custom-control.md)  
+  [<span data-ttu-id="9311b-105">向墨迹数据添加自定义数据</span><span class="sxs-lookup"><span data-stu-id="9311b-105">Add Custom Data to Ink Data</span></span>](how-to-add-custom-data-to-ink-data.md)  
+  [<span data-ttu-id="9311b-106">清除自定义控件上的墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-106">Erase Ink on a Custom Control</span></span>](how-to-erase-ink-on-a-custom-control.md)  
+  [<span data-ttu-id="9311b-107">识别应用程序笔势</span><span class="sxs-lookup"><span data-stu-id="9311b-107">Recognize Application Gestures</span></span>](how-to-recognize-application-gestures.md)  
+  [<span data-ttu-id="9311b-108">拖放墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-108">Drag and Drop Ink</span></span>](how-to-drag-and-drop-ink.md)  
+  [<span data-ttu-id="9311b-109">将数据绑定到 InkCanvas</span><span class="sxs-lookup"><span data-stu-id="9311b-109">Data Bind to an InkCanvas</span></span>](how-to-data-bind-to-an-inkcanvas.md)  
+  [<span data-ttu-id="9311b-110">通过分析提示来分析墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-110">Analyze Ink with Analysis Hints</span></span>](how-to-analyze-ink-with-analysis-hints.md)  
+  [<span data-ttu-id="9311b-111">旋转墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-111">Rotate Ink</span></span>](how-to-rotate-ink.md)  
+  [<span data-ttu-id="9311b-112">禁用用于 WPF 应用程序的 RealTimeStylus</span><span class="sxs-lookup"><span data-stu-id="9311b-112">Disable the RealTimeStylus for WPF Applications</span></span>](disable-the-realtimestylus-for-wpf-applications.md)

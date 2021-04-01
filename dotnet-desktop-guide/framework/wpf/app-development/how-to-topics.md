@@ -9,18 +9,18 @@ helpviewer_keywords:
 - add-ins [WPF], returns a UI
 ms.assetid: c33980e8-36e7-45ce-a485-8c826dd29009
 ms.openlocfilehash: 27eb7acbab7d9c90f0c0c311ef6331a16b7896e8
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970233"
 ---
-# <a name="how-to-topics"></a><span data-ttu-id="9f5ca-102">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="9f5ca-102">How-to Topics</span></span>
-<span data-ttu-id="9f5ca-103">以下主题演示如何创建 Windows Presentation Foundation (WPF) 外接程序。</span><span class="sxs-lookup"><span data-stu-id="9f5ca-103">The following topics show how to create Windows Presentation Foundation (WPF) add-ins.</span></span>  
+# <a name="how-to-topics"></a><span data-ttu-id="de330-102">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="de330-102">How-to Topics</span></span>
+<span data-ttu-id="de330-103">以下主题演示如何创建 Windows Presentation Foundation (WPF) 外接程序。</span><span class="sxs-lookup"><span data-stu-id="de330-103">The following topics show how to create Windows Presentation Foundation (WPF) add-ins.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="9f5ca-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="9f5ca-104">In This Section</span></span>  
- [<span data-ttu-id="9f5ca-105">创建返回 UI 的外接程序</span><span class="sxs-lookup"><span data-stu-id="9f5ca-105">Create an Add-In That Returns a UI</span></span>](how-to-create-an-add-in-that-returns-a-ui.md)  
- [<span data-ttu-id="9f5ca-106">创建作为 UI 的外接程序</span><span class="sxs-lookup"><span data-stu-id="9f5ca-106">Create an Add-In That Is a UI</span></span>](how-to-create-an-add-in-that-is-a-ui.md)  
+## <a name="in-this-section"></a><span data-ttu-id="de330-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="de330-104">In This Section</span></span>  
+ [<span data-ttu-id="de330-105">创建返回 UI 的外接程序</span><span class="sxs-lookup"><span data-stu-id="de330-105">Create an Add-In That Returns a UI</span></span>](how-to-create-an-add-in-that-returns-a-ui.md)  
+ [<span data-ttu-id="de330-106">创建作为 UI 的外接程序</span><span class="sxs-lookup"><span data-stu-id="de330-106">Create an Add-In That Is a UI</span></span>](how-to-create-an-add-in-that-is-a-ui.md)  
   
-## <a name="related-sections"></a><span data-ttu-id="9f5ca-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="9f5ca-107">Related Sections</span></span>  
- [<span data-ttu-id="9f5ca-108">WPF 外接程序概述</span><span class="sxs-lookup"><span data-stu-id="9f5ca-108">WPF Add-Ins Overview</span></span>](wpf-add-ins-overview.md)
+## <a name="related-sections"></a><span data-ttu-id="de330-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="de330-107">Related Sections</span></span>  
+ [<span data-ttu-id="de330-108">WPF 外接程序概述</span><span class="sxs-lookup"><span data-stu-id="de330-108">WPF Add-Ins Overview</span></span>](wpf-add-ins-overview.md)
