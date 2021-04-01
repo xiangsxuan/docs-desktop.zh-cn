@@ -8,16 +8,16 @@ helpviewer_keywords:
 - Separator control [WPF]
 ms.assetid: 1b872bc6-1a26-401c-989b-3fafecc5a4ef
 ms.openlocfilehash: d3d8fb637363a154013115f95bae52904467b46e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973761"
 ---
-# <a name="separator"></a><span data-ttu-id="4315d-102">Separator</span><span class="sxs-lookup"><span data-stu-id="4315d-102">Separator</span></span>
-<span data-ttu-id="4315d-103"><xref:System.Windows.Controls.Separator>控件在控件中的项之间（如、和）绘制线条（水平或垂直） <xref:System.Windows.Controls.ListBox> <xref:System.Windows.Controls.Menu> <xref:System.Windows.Controls.ToolBar> 。</span><span class="sxs-lookup"><span data-stu-id="4315d-103">A <xref:System.Windows.Controls.Separator> control draws a line, horizontal or vertical, between items in controls, such as <xref:System.Windows.Controls.ListBox>, <xref:System.Windows.Controls.Menu>, and <xref:System.Windows.Controls.ToolBar>.</span></span>  
+# <a name="separator"></a><span data-ttu-id="23280-102">Separator</span><span class="sxs-lookup"><span data-stu-id="23280-102">Separator</span></span>
+<span data-ttu-id="23280-103"><xref:System.Windows.Controls.Separator>控件在控件中的项之间（如、和）绘制线条（水平或垂直） <xref:System.Windows.Controls.ListBox> <xref:System.Windows.Controls.Menu> <xref:System.Windows.Controls.ToolBar> 。</span><span class="sxs-lookup"><span data-stu-id="23280-103">A <xref:System.Windows.Controls.Separator> control draws a line, horizontal or vertical, between items in controls, such as <xref:System.Windows.Controls.ListBox>, <xref:System.Windows.Controls.Menu>, and <xref:System.Windows.Controls.ToolBar>.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="4315d-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="4315d-104">In This Section</span></span>  
+## <a name="in-this-section"></a><span data-ttu-id="23280-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="23280-104">In This Section</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="4315d-105">参考</span><span class="sxs-lookup"><span data-stu-id="4315d-105">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="23280-105">参考</span><span class="sxs-lookup"><span data-stu-id="23280-105">Reference</span></span>  
  <xref:System.Windows.Controls.Separator>

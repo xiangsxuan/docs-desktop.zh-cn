@@ -12,28 +12,28 @@ helpviewer_keywords:
 - getting windows objects [WPF]
 ms.assetid: ec902bc4-4a59-46f5-8ec1-963b46789356
 ms.openlocfilehash: 9bb5bce9b90482796acd8c62e77dc8bd9a850eeb
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973892"
 ---
-# <a name="how-to-get-and-set-the-main-application-window"></a><span data-ttu-id="0a626-103">如何：获取和设置主应用程序窗口</span><span class="sxs-lookup"><span data-stu-id="0a626-103">How to: Get and Set the Main Application Window</span></span>
-<span data-ttu-id="0a626-104">此示例演示如何获取和设置主应用程序窗口。</span><span class="sxs-lookup"><span data-stu-id="0a626-104">This example shows how to get and set the main application window.</span></span>  
+# <a name="how-to-get-and-set-the-main-application-window"></a><span data-ttu-id="e69dd-103">如何：获取和设置主应用程序窗口</span><span class="sxs-lookup"><span data-stu-id="e69dd-103">How to: Get and Set the Main Application Window</span></span>
+<span data-ttu-id="e69dd-104">此示例演示如何获取和设置主应用程序窗口。</span><span class="sxs-lookup"><span data-stu-id="e69dd-104">This example shows how to get and set the main application window.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="0a626-105">示例</span><span class="sxs-lookup"><span data-stu-id="0a626-105">Example</span></span>  
- <span data-ttu-id="0a626-106"><xref:System.Windows.Window>Windows Presentation Foundation (WPF) 应用程序中实例化的第一个实例将由 <xref:System.Windows.Application> 主应用程序窗口自动设置。</span><span class="sxs-lookup"><span data-stu-id="0a626-106">The first <xref:System.Windows.Window> that is instantiated within a Windows Presentation Foundation (WPF) application is automatically set by <xref:System.Windows.Application> as the main application window.</span></span> <span data-ttu-id="0a626-107">首先 <xref:System.Windows.Window> 要实例化的窗口很可能是指定为启动统一资源标识符 (URI) 的窗口 (参阅 <xref:System.Windows.Application.StartupUri%2A>) 。</span><span class="sxs-lookup"><span data-stu-id="0a626-107">The first <xref:System.Windows.Window> to be instantiated will most likely be the window that is specified as the startup uniform resource identifier (URI) (see <xref:System.Windows.Application.StartupUri%2A>).</span></span>  
+## <a name="example"></a><span data-ttu-id="e69dd-105">示例</span><span class="sxs-lookup"><span data-stu-id="e69dd-105">Example</span></span>  
+ <span data-ttu-id="e69dd-106"><xref:System.Windows.Window>Windows Presentation Foundation (WPF) 应用程序中实例化的第一个实例将由 <xref:System.Windows.Application> 主应用程序窗口自动设置。</span><span class="sxs-lookup"><span data-stu-id="e69dd-106">The first <xref:System.Windows.Window> that is instantiated within a Windows Presentation Foundation (WPF) application is automatically set by <xref:System.Windows.Application> as the main application window.</span></span> <span data-ttu-id="e69dd-107">首先 <xref:System.Windows.Window> 要实例化的窗口很可能是指定为启动统一资源标识符 (URI) 的窗口 (参阅 <xref:System.Windows.Application.StartupUri%2A>) 。</span><span class="sxs-lookup"><span data-stu-id="e69dd-107">The first <xref:System.Windows.Window> to be instantiated will most likely be the window that is specified as the startup uniform resource identifier (URI) (see <xref:System.Windows.Application.StartupUri%2A>).</span></span>  
   
- <span data-ttu-id="0a626-108">第一种情况 <xref:System.Windows.Window> 也可以使用代码来实例化。</span><span class="sxs-lookup"><span data-stu-id="0a626-108">The first <xref:System.Windows.Window> could also be instantiated using code.</span></span> <span data-ttu-id="0a626-109">例如，在应用程序启动过程中打开一个窗口，如下所示：</span><span class="sxs-lookup"><span data-stu-id="0a626-109">One example is opening a window during application startup, like the following:</span></span>  
+ <span data-ttu-id="e69dd-108">第一种情况 <xref:System.Windows.Window> 也可以使用代码来实例化。</span><span class="sxs-lookup"><span data-stu-id="e69dd-108">The first <xref:System.Windows.Window> could also be instantiated using code.</span></span> <span data-ttu-id="e69dd-109">例如，在应用程序启动过程中打开一个窗口，如下所示：</span><span class="sxs-lookup"><span data-stu-id="e69dd-109">One example is opening a window during application startup, like the following:</span></span>  
   
  [!code-csharp[HOWTOWindowManagementSnippets#FirstWindowUsingCodeCODEBEHIND](~/samples/snippets/csharp/VS_Snippets_Wpf/HOWTOWindowManagementSnippets/CSharp/App.xaml.cs#firstwindowusingcodecodebehind)]
  [!code-vb[HOWTOWindowManagementSnippets#FirstWindowUsingCodeCODEBEHIND](~/samples/snippets/visualbasic/VS_Snippets_Wpf/HOWTOWindowManagementSnippets/visualbasic/application.xaml.vb#firstwindowusingcodecodebehind)]  
   
- <span data-ttu-id="0a626-110">有时，第一个实例化 <xref:System.Windows.Window> 实际上并不是主应用程序窗口（例如，初始屏幕）。</span><span class="sxs-lookup"><span data-stu-id="0a626-110">Sometimes, the first instantiated <xref:System.Windows.Window> is not actually the main application window e.g. a splash screen.</span></span> <span data-ttu-id="0a626-111">在这种情况下，可以使用标记指定主应用程序窗口，如下所示：</span><span class="sxs-lookup"><span data-stu-id="0a626-111">In this case, you can specify the main application window using markup, like the following:</span></span>  
+ <span data-ttu-id="e69dd-110">有时，第一个实例化 <xref:System.Windows.Window> 实际上并不是主应用程序窗口（例如，初始屏幕）。</span><span class="sxs-lookup"><span data-stu-id="e69dd-110">Sometimes, the first instantiated <xref:System.Windows.Window> is not actually the main application window e.g. a splash screen.</span></span> <span data-ttu-id="e69dd-111">在这种情况下，可以使用标记指定主应用程序窗口，如下所示：</span><span class="sxs-lookup"><span data-stu-id="e69dd-111">In this case, you can specify the main application window using markup, like the following:</span></span>  
   
  [!code-xaml[ApplicationMainWindowSnippets#SetApplicationMainWindowXAML](~/samples/snippets/xaml/VS_Snippets_Wpf/ApplicationMainWindowSnippets/XAML/App.xaml#setapplicationmainwindowxaml)]  
   
- <span data-ttu-id="0a626-112">无论是自动还是手动指定主窗口，都可以使用以下代码获取主窗口 <xref:System.Windows.Application.MainWindow%2A> ，如下所示：</span><span class="sxs-lookup"><span data-stu-id="0a626-112">Whether the main window is specified automatically or manually, you can get the main window from <xref:System.Windows.Application.MainWindow%2A> using the following code, like the following:</span></span>  
+ <span data-ttu-id="e69dd-112">无论是自动还是手动指定主窗口，都可以使用以下代码获取主窗口 <xref:System.Windows.Application.MainWindow%2A> ，如下所示：</span><span class="sxs-lookup"><span data-stu-id="e69dd-112">Whether the main window is specified automatically or manually, you can get the main window from <xref:System.Windows.Application.MainWindow%2A> using the following code, like the following:</span></span>  
   
  [!code-csharp[ApplicationMainWindowSnippets#GetApplicationMainWindowCODE](~/samples/snippets/csharp/VS_Snippets_Wpf/ApplicationMainWindowSnippets/CSharp/App.xaml.cs#getapplicationmainwindowcode)]
  [!code-vb[ApplicationMainWindowSnippets#GetApplicationMainWindowCODE](~/samples/snippets/visualbasic/VS_Snippets_Wpf/ApplicationMainWindowSnippets/visualbasic/application.xaml.vb#getapplicationmainwindowcode)]

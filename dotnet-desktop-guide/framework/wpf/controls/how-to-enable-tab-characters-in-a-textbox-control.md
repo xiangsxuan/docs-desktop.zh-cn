@@ -6,21 +6,21 @@ helpviewer_keywords:
 - tab characters [WPF], enabling
 ms.assetid: 14b1b064-61f7-4958-be63-88d85b868d03
 ms.openlocfilehash: 9a01ae93d1b75c604fbe4f15f720e0a84086bd1a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973318"
 ---
-# <a name="how-to-enable-tab-characters-in-a-textbox-control"></a><span data-ttu-id="cdb94-102">如何：在 TextBox 控件中启用制表符</span><span class="sxs-lookup"><span data-stu-id="cdb94-102">How to: Enable Tab Characters in a TextBox Control</span></span>
-<span data-ttu-id="cdb94-103">此示例演示如何在控件中启用制表符作为一般输入接受 <xref:System.Windows.Controls.TextBox> 。</span><span class="sxs-lookup"><span data-stu-id="cdb94-103">This example shows how to enable the acceptance of tab characters as normal input in a <xref:System.Windows.Controls.TextBox> control.</span></span>  
+# <a name="how-to-enable-tab-characters-in-a-textbox-control"></a><span data-ttu-id="a4cb1-102">如何：在 TextBox 控件中启用制表符</span><span class="sxs-lookup"><span data-stu-id="a4cb1-102">How to: Enable Tab Characters in a TextBox Control</span></span>
+<span data-ttu-id="a4cb1-103">此示例演示如何在控件中启用制表符作为一般输入接受 <xref:System.Windows.Controls.TextBox> 。</span><span class="sxs-lookup"><span data-stu-id="a4cb1-103">This example shows how to enable the acceptance of tab characters as normal input in a <xref:System.Windows.Controls.TextBox> control.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="cdb94-104">示例</span><span class="sxs-lookup"><span data-stu-id="cdb94-104">Example</span></span>  
- <span data-ttu-id="cdb94-105">若要在控件中启用制表符作为输入 <xref:System.Windows.Controls.TextBox> ，请将 <xref:System.Windows.Controls.Primitives.TextBoxBase.AcceptsTab%2A> 属性设置为 **true**。</span><span class="sxs-lookup"><span data-stu-id="cdb94-105">To enable the acceptance of tab characters as input in a <xref:System.Windows.Controls.TextBox> control, set the <xref:System.Windows.Controls.Primitives.TextBoxBase.AcceptsTab%2A> attribute to **true**.</span></span>  
+## <a name="example"></a><span data-ttu-id="a4cb1-104">示例</span><span class="sxs-lookup"><span data-stu-id="a4cb1-104">Example</span></span>  
+ <span data-ttu-id="a4cb1-105">若要在控件中启用制表符作为输入 <xref:System.Windows.Controls.TextBox> ，请将 <xref:System.Windows.Controls.Primitives.TextBoxBase.AcceptsTab%2A> 属性设置为 **true**。</span><span class="sxs-lookup"><span data-stu-id="a4cb1-105">To enable the acceptance of tab characters as input in a <xref:System.Windows.Controls.TextBox> control, set the <xref:System.Windows.Controls.Primitives.TextBoxBase.AcceptsTab%2A> attribute to **true**.</span></span>  
   
  [!code-xaml[TextBox_EnablingTab#_AcceptsTab](~/samples/snippets/csharp/VS_Snippets_Wpf/TextBox_EnablingTab/CS/Window1.xaml#_acceptstab)]  
   
-## <a name="see-also"></a><span data-ttu-id="cdb94-106">另请参阅</span><span class="sxs-lookup"><span data-stu-id="cdb94-106">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="a4cb1-106">请参阅</span><span class="sxs-lookup"><span data-stu-id="a4cb1-106">See also</span></span>
 
-- [<span data-ttu-id="cdb94-107">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="cdb94-107">TextBox Overview</span></span>](textbox-overview.md)
-- [<span data-ttu-id="cdb94-108">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="cdb94-108">RichTextBox Overview</span></span>](richtextbox-overview.md)
+- [<span data-ttu-id="a4cb1-107">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="a4cb1-107">TextBox Overview</span></span>](textbox-overview.md)
+- [<span data-ttu-id="a4cb1-108">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="a4cb1-108">RichTextBox Overview</span></span>](richtextbox-overview.md)

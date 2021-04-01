@@ -8,41 +8,41 @@ helpviewer_keywords:
 - images [WPF], how-to topics
 ms.assetid: 96834ee4-a5fc-4dd0-9948-b9bbc9437a5c
 ms.openlocfilehash: 7984b08cc65de7a6199856859ef3cb5935aa36c3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973439"
 ---
-# <a name="imaging-how-to-topics"></a><span data-ttu-id="eca01-102">图像处理帮助主题</span><span class="sxs-lookup"><span data-stu-id="eca01-102">Imaging How-to Topics</span></span>
-<span data-ttu-id="eca01-103">本节中的主题演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 来显示或更改位图图像。</span><span class="sxs-lookup"><span data-stu-id="eca01-103">The topics in this section demonstrate how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] in order to display or alter bitmap images.</span></span>  
+# <a name="imaging-how-to-topics"></a><span data-ttu-id="30f4b-102">图像处理帮助主题</span><span class="sxs-lookup"><span data-stu-id="30f4b-102">Imaging How-to Topics</span></span>
+<span data-ttu-id="30f4b-103">本节中的主题演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 来显示或更改位图图像。</span><span class="sxs-lookup"><span data-stu-id="30f4b-103">The topics in this section demonstrate how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] in order to display or alter bitmap images.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="eca01-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="eca01-104">In This Section</span></span>  
- [<span data-ttu-id="eca01-105">在 XAML 中使用 BitmapImage</span><span class="sxs-lookup"><span data-stu-id="eca01-105">Use a BitmapImage in XAML</span></span>](how-to-use-a-bitmapimage.md)  
- [<span data-ttu-id="eca01-106">将图像作为缩略图加载</span><span class="sxs-lookup"><span data-stu-id="eca01-106">Load an Image as a Thumbnail</span></span>](how-to-load-an-image-as-a-thumbnail.md)  
- [<span data-ttu-id="eca01-107">向位图图像应用转换</span><span class="sxs-lookup"><span data-stu-id="eca01-107">Apply a Transform to a Bitmap Image</span></span>](how-to-apply-a-transform-to-a-bitmapimage.md)  
- [<span data-ttu-id="eca01-108">从 Visual 创建位图</span><span class="sxs-lookup"><span data-stu-id="eca01-108">Create a Bitmap from a Visual</span></span>](how-to-create-a-bitmap-from-a-visual.md)  
- [<span data-ttu-id="eca01-109">将 Visual 编码为图像文件</span><span class="sxs-lookup"><span data-stu-id="eca01-109">Encode a Visual to an Image File</span></span>](how-to-encode-a-visual-to-an-image-file.md)  
- [<span data-ttu-id="eca01-110">新建 BitmapSource</span><span class="sxs-lookup"><span data-stu-id="eca01-110">Create a new BitmapSource</span></span>](how-to-create-a-new-bitmapsource.md)  
- [<span data-ttu-id="eca01-111">将多个 BitmapSource 对象链在一起</span><span class="sxs-lookup"><span data-stu-id="eca01-111">Chain BitmapSource Objects Together</span></span>](how-to-chain-bitmapsource-objects-together.md)  
- [<span data-ttu-id="eca01-112">将 BitmapSource 转换成另一种 PixelFormat</span><span class="sxs-lookup"><span data-stu-id="eca01-112">Convert a BitmapSource to a Different PixelFormat</span></span>](how-to-convert-a-bitmapsource-to-a-different-pixelformat.md)  
- [<span data-ttu-id="eca01-113">将 BitmapSource 转换成索引的像素格式</span><span class="sxs-lookup"><span data-stu-id="eca01-113">Convert a BitmapSource to an Indexed Pixel Format</span></span>](how-to-convert-a-bitmapsource-to-an-indexed-pixel-format.md)  
- [<span data-ttu-id="eca01-114">编码和解码 JPEG 图像</span><span class="sxs-lookup"><span data-stu-id="eca01-114">Encode and Decode a JPEG Image</span></span>](how-to-encode-and-decode-a-jpeg-image.md)  
- [<span data-ttu-id="eca01-115">编码和解码 BMP 图像</span><span class="sxs-lookup"><span data-stu-id="eca01-115">Encode and Decode a BMP Image</span></span>](how-to-encode-and-decode-a-bmp-image.md)  
- [<span data-ttu-id="eca01-116">编码和解码 PNG 图像</span><span class="sxs-lookup"><span data-stu-id="eca01-116">Encode and Decode a PNG Image</span></span>](how-to-encode-and-decode-a-png-image.md)  
- [<span data-ttu-id="eca01-117">编码和解码 WDP 图像</span><span class="sxs-lookup"><span data-stu-id="eca01-117">Encode and Decode a WDP Image</span></span>](how-to-encode-and-decode-a-wdp-image.md)  
- [<span data-ttu-id="eca01-118">编码和解码 GIF 图像</span><span class="sxs-lookup"><span data-stu-id="eca01-118">Encode and Decode a GIF Image</span></span>](how-to-encode-and-decode-a-gif-image.md)  
- [<span data-ttu-id="eca01-119">编码和解码 TIFF 图像</span><span class="sxs-lookup"><span data-stu-id="eca01-119">Encode and Decode a TIFF Image</span></span>](how-to-encode-and-decode-a-tiff-image.md)  
- [<span data-ttu-id="eca01-120">向位图写入元数据</span><span class="sxs-lookup"><span data-stu-id="eca01-120">Write Metadata to a Bitmap</span></span>](how-to-write-metadata-to-a-bitmap.md)  
- [<span data-ttu-id="eca01-121">从位图读取元数据</span><span class="sxs-lookup"><span data-stu-id="eca01-121">Read Metadata from a Bitmap</span></span>](how-to-read-metadata-from-a-bitmap.md)  
+## <a name="in-this-section"></a><span data-ttu-id="30f4b-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="30f4b-104">In This Section</span></span>  
+ [<span data-ttu-id="30f4b-105">在 XAML 中使用 BitmapImage</span><span class="sxs-lookup"><span data-stu-id="30f4b-105">Use a BitmapImage in XAML</span></span>](how-to-use-a-bitmapimage.md)  
+ [<span data-ttu-id="30f4b-106">将图像作为缩略图加载</span><span class="sxs-lookup"><span data-stu-id="30f4b-106">Load an Image as a Thumbnail</span></span>](how-to-load-an-image-as-a-thumbnail.md)  
+ [<span data-ttu-id="30f4b-107">向位图图像应用转换</span><span class="sxs-lookup"><span data-stu-id="30f4b-107">Apply a Transform to a Bitmap Image</span></span>](how-to-apply-a-transform-to-a-bitmapimage.md)  
+ [<span data-ttu-id="30f4b-108">从 Visual 创建位图</span><span class="sxs-lookup"><span data-stu-id="30f4b-108">Create a Bitmap from a Visual</span></span>](how-to-create-a-bitmap-from-a-visual.md)  
+ [<span data-ttu-id="30f4b-109">将 Visual 编码为图像文件</span><span class="sxs-lookup"><span data-stu-id="30f4b-109">Encode a Visual to an Image File</span></span>](how-to-encode-a-visual-to-an-image-file.md)  
+ [<span data-ttu-id="30f4b-110">新建 BitmapSource</span><span class="sxs-lookup"><span data-stu-id="30f4b-110">Create a new BitmapSource</span></span>](how-to-create-a-new-bitmapsource.md)  
+ [<span data-ttu-id="30f4b-111">将多个 BitmapSource 对象链在一起</span><span class="sxs-lookup"><span data-stu-id="30f4b-111">Chain BitmapSource Objects Together</span></span>](how-to-chain-bitmapsource-objects-together.md)  
+ [<span data-ttu-id="30f4b-112">将 BitmapSource 转换成另一种 PixelFormat</span><span class="sxs-lookup"><span data-stu-id="30f4b-112">Convert a BitmapSource to a Different PixelFormat</span></span>](how-to-convert-a-bitmapsource-to-a-different-pixelformat.md)  
+ [<span data-ttu-id="30f4b-113">将 BitmapSource 转换成索引的像素格式</span><span class="sxs-lookup"><span data-stu-id="30f4b-113">Convert a BitmapSource to an Indexed Pixel Format</span></span>](how-to-convert-a-bitmapsource-to-an-indexed-pixel-format.md)  
+ [<span data-ttu-id="30f4b-114">编码和解码 JPEG 图像</span><span class="sxs-lookup"><span data-stu-id="30f4b-114">Encode and Decode a JPEG Image</span></span>](how-to-encode-and-decode-a-jpeg-image.md)  
+ [<span data-ttu-id="30f4b-115">编码和解码 BMP 图像</span><span class="sxs-lookup"><span data-stu-id="30f4b-115">Encode and Decode a BMP Image</span></span>](how-to-encode-and-decode-a-bmp-image.md)  
+ [<span data-ttu-id="30f4b-116">编码和解码 PNG 图像</span><span class="sxs-lookup"><span data-stu-id="30f4b-116">Encode and Decode a PNG Image</span></span>](how-to-encode-and-decode-a-png-image.md)  
+ [<span data-ttu-id="30f4b-117">编码和解码 WDP 图像</span><span class="sxs-lookup"><span data-stu-id="30f4b-117">Encode and Decode a WDP Image</span></span>](how-to-encode-and-decode-a-wdp-image.md)  
+ [<span data-ttu-id="30f4b-118">编码和解码 GIF 图像</span><span class="sxs-lookup"><span data-stu-id="30f4b-118">Encode and Decode a GIF Image</span></span>](how-to-encode-and-decode-a-gif-image.md)  
+ [<span data-ttu-id="30f4b-119">编码和解码 TIFF 图像</span><span class="sxs-lookup"><span data-stu-id="30f4b-119">Encode and Decode a TIFF Image</span></span>](how-to-encode-and-decode-a-tiff-image.md)  
+ [<span data-ttu-id="30f4b-120">向位图写入元数据</span><span class="sxs-lookup"><span data-stu-id="30f4b-120">Write Metadata to a Bitmap</span></span>](how-to-write-metadata-to-a-bitmap.md)  
+ [<span data-ttu-id="30f4b-121">从位图读取元数据</span><span class="sxs-lookup"><span data-stu-id="30f4b-121">Read Metadata from a Bitmap</span></span>](how-to-read-metadata-from-a-bitmap.md)  
   
-## <a name="reference"></a><span data-ttu-id="eca01-122">参考</span><span class="sxs-lookup"><span data-stu-id="eca01-122">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="30f4b-122">参考</span><span class="sxs-lookup"><span data-stu-id="30f4b-122">Reference</span></span>  
  <xref:System.Windows.Controls.Image>  
   
  <xref:System.Windows.Media.Imaging.BitmapImage>  
   
  <xref:System.Windows.Media.Imaging.BitmapSource>  
   
-## <a name="see-also"></a><span data-ttu-id="eca01-123">请参阅</span><span class="sxs-lookup"><span data-stu-id="eca01-123">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="30f4b-123">请参阅</span><span class="sxs-lookup"><span data-stu-id="30f4b-123">See also</span></span>
 
-- [<span data-ttu-id="eca01-124">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="eca01-124">Imaging Overview</span></span>](imaging-overview.md)
+- [<span data-ttu-id="30f4b-124">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="30f4b-124">Imaging Overview</span></span>](imaging-overview.md)

@@ -8,25 +8,25 @@ helpviewer_keywords:
 - controls [WPF], ToolTip
 ms.assetid: 2aa88347-c4cb-48d3-951d-a7072643283b
 ms.openlocfilehash: eb2450d13b7a247e9eb0cc0b802b2d758482c466
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974132"
 ---
-# <a name="tooltip-how-to-topics"></a><span data-ttu-id="8eb30-102">ToolTip 帮助主题</span><span class="sxs-lookup"><span data-stu-id="8eb30-102">ToolTip How-to Topics</span></span>
-## <a name="in-this-section"></a><span data-ttu-id="8eb30-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="8eb30-103">In This Section</span></span>  
- [<span data-ttu-id="8eb30-104">定位 ToolTip</span><span class="sxs-lookup"><span data-stu-id="8eb30-104">Position a ToolTip</span></span>](how-to-position-a-tooltip.md)  
-  [<span data-ttu-id="8eb30-105">使用 BetweenShowDelay 属性</span><span class="sxs-lookup"><span data-stu-id="8eb30-105">Use the BetweenShowDelay Property</span></span>](how-to-use-the-betweenshowdelay-property.md)  
+# <a name="tooltip-how-to-topics"></a><span data-ttu-id="c6dd2-102">ToolTip 帮助主题</span><span class="sxs-lookup"><span data-stu-id="c6dd2-102">ToolTip How-to Topics</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="c6dd2-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="c6dd2-103">In This Section</span></span>  
+ [<span data-ttu-id="c6dd2-104">定位 ToolTip</span><span class="sxs-lookup"><span data-stu-id="c6dd2-104">Position a ToolTip</span></span>](how-to-position-a-tooltip.md)  
+  [<span data-ttu-id="c6dd2-105">使用 BetweenShowDelay 属性</span><span class="sxs-lookup"><span data-stu-id="c6dd2-105">Use the BetweenShowDelay Property</span></span>](how-to-use-the-betweenshowdelay-property.md)  
   
-## <a name="reference"></a><span data-ttu-id="8eb30-106">参考</span><span class="sxs-lookup"><span data-stu-id="8eb30-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="c6dd2-106">参考</span><span class="sxs-lookup"><span data-stu-id="c6dd2-106">Reference</span></span>  
  <xref:System.Windows.Controls.ToolTip>  
   
  <xref:System.Windows.Controls.ToolTipService>  
   
  <xref:System.Windows.Controls.Primitives.Popup>  
   
-## <a name="related-sections"></a><span data-ttu-id="8eb30-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="8eb30-107">Related Sections</span></span>  
- [<span data-ttu-id="8eb30-108">Popup 概述</span><span class="sxs-lookup"><span data-stu-id="8eb30-108">Popup Overview</span></span>](popup-overview.md)  
+## <a name="related-sections"></a><span data-ttu-id="c6dd2-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="c6dd2-107">Related Sections</span></span>  
+ [<span data-ttu-id="c6dd2-108">Popup 概述</span><span class="sxs-lookup"><span data-stu-id="c6dd2-108">Popup Overview</span></span>](popup-overview.md)  
   
- [<span data-ttu-id="8eb30-109">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="8eb30-109">How-to Topics</span></span>](popup-how-to-topics.md)
+ [<span data-ttu-id="c6dd2-109">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="c6dd2-109">How-to Topics</span></span>](popup-how-to-topics.md)

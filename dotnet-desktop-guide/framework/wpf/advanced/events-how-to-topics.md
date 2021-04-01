@@ -7,27 +7,27 @@ helpviewer_keywords:
 - events [WPF], how-to topics
 ms.assetid: 00463181-36eb-4be0-bfa2-452854cce642
 ms.openlocfilehash: 54c69e57efb99f5008d5fa5a21f748cd8e535afe
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973463"
 ---
-# <a name="events-how-to-topics"></a><span data-ttu-id="3e325-102">事件帮助主题</span><span class="sxs-lookup"><span data-stu-id="3e325-102">Events How-to Topics</span></span>
-<span data-ttu-id="3e325-103">本节中的主题介绍如何在 WPF 中使用事件。</span><span class="sxs-lookup"><span data-stu-id="3e325-103">The topics in this section describe how to use events in WPF.</span></span>  
+# <a name="events-how-to-topics"></a><span data-ttu-id="00c16-102">事件帮助主题</span><span class="sxs-lookup"><span data-stu-id="00c16-102">Events How-to Topics</span></span>
+<span data-ttu-id="00c16-103">本节中的主题介绍如何在 WPF 中使用事件。</span><span class="sxs-lookup"><span data-stu-id="00c16-103">The topics in this section describe how to use events in WPF.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="3e325-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="3e325-104">In This Section</span></span>  
- [<span data-ttu-id="3e325-105">使用代码添加事件处理程序</span><span class="sxs-lookup"><span data-stu-id="3e325-105">Add an Event Handler Using Code</span></span>](how-to-add-an-event-handler-using-code.md)  
- [<span data-ttu-id="3e325-106">处理路由事件</span><span class="sxs-lookup"><span data-stu-id="3e325-106">Handle a Routed Event</span></span>](how-to-handle-a-routed-event.md)  
- [<span data-ttu-id="3e325-107">创建自定义路由事件</span><span class="sxs-lookup"><span data-stu-id="3e325-107">Create a Custom Routed Event</span></span>](how-to-create-a-custom-routed-event.md)  
- [<span data-ttu-id="3e325-108">在事件处理程序中查找源元素</span><span class="sxs-lookup"><span data-stu-id="3e325-108">Find the Source Element in an Event Handler</span></span>](how-to-find-the-source-element-in-an-event-handler.md)  
- [<span data-ttu-id="3e325-109">为路由事件添加类处理</span><span class="sxs-lookup"><span data-stu-id="3e325-109">Add Class Handling for a Routed Event</span></span>](how-to-add-class-handling-for-a-routed-event.md)  
+## <a name="in-this-section"></a><span data-ttu-id="00c16-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="00c16-104">In This Section</span></span>  
+ [<span data-ttu-id="00c16-105">使用代码添加事件处理程序</span><span class="sxs-lookup"><span data-stu-id="00c16-105">Add an Event Handler Using Code</span></span>](how-to-add-an-event-handler-using-code.md)  
+ [<span data-ttu-id="00c16-106">处理路由事件</span><span class="sxs-lookup"><span data-stu-id="00c16-106">Handle a Routed Event</span></span>](how-to-handle-a-routed-event.md)  
+ [<span data-ttu-id="00c16-107">创建自定义路由事件</span><span class="sxs-lookup"><span data-stu-id="00c16-107">Create a Custom Routed Event</span></span>](how-to-create-a-custom-routed-event.md)  
+ [<span data-ttu-id="00c16-108">在事件处理程序中查找源元素</span><span class="sxs-lookup"><span data-stu-id="00c16-108">Find the Source Element in an Event Handler</span></span>](how-to-find-the-source-element-in-an-event-handler.md)  
+ [<span data-ttu-id="00c16-109">为路由事件添加类处理</span><span class="sxs-lookup"><span data-stu-id="00c16-109">Add Class Handling for a Routed Event</span></span>](how-to-add-class-handling-for-a-routed-event.md)  
   
-## <a name="reference"></a><span data-ttu-id="3e325-110">参考</span><span class="sxs-lookup"><span data-stu-id="3e325-110">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="00c16-110">参考</span><span class="sxs-lookup"><span data-stu-id="00c16-110">Reference</span></span>  
  <xref:System.Windows.RoutedEvent>  
   
  <xref:System.Windows.EventManager>  
   
  <xref:System.Windows.RoutingStrategy>  
   
-## <a name="related-sections"></a><span data-ttu-id="3e325-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="3e325-111">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="00c16-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="00c16-111">Related Sections</span></span>

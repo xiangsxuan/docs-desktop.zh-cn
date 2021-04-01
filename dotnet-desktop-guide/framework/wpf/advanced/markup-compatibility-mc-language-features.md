@@ -12,13 +12,13 @@ helpviewer_keywords:
 - namespaces [WPF], XML
 ms.assetid: 67992d76-8bcc-456c-8232-03807803d69e
 ms.openlocfilehash: 2e81877eb41828a1d92edf0e8126c6e2ef966d20
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973440"
 ---
-# <a name="markup-compatibility-mc-language-features"></a><span data-ttu-id="c7d94-102">标记兼容 (mc:)语言功能</span><span class="sxs-lookup"><span data-stu-id="c7d94-102">Markup Compatibility (mc:) Language Features</span></span>
-## <a name="in-this-section"></a><span data-ttu-id="c7d94-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="c7d94-103">In This Section</span></span>  
- [<span data-ttu-id="c7d94-104">mc:Ignorable 特性</span><span class="sxs-lookup"><span data-stu-id="c7d94-104">mc:Ignorable Attribute</span></span>](mc-ignorable-attribute.md)  
-  [<span data-ttu-id="c7d94-105">mc:ProcessContent 特性</span><span class="sxs-lookup"><span data-stu-id="c7d94-105">mc:ProcessContent Attribute</span></span>](mc-processcontent-attribute.md)
+# <a name="markup-compatibility-mc-language-features"></a><span data-ttu-id="264e0-102">标记兼容 (mc:)语言功能</span><span class="sxs-lookup"><span data-stu-id="264e0-102">Markup Compatibility (mc:) Language Features</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="264e0-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="264e0-103">In This Section</span></span>  
+ [<span data-ttu-id="264e0-104">mc:Ignorable 特性</span><span class="sxs-lookup"><span data-stu-id="264e0-104">mc:Ignorable Attribute</span></span>](mc-ignorable-attribute.md)  
+  [<span data-ttu-id="264e0-105">mc:ProcessContent 特性</span><span class="sxs-lookup"><span data-stu-id="264e0-105">mc:ProcessContent Attribute</span></span>](mc-processcontent-attribute.md)

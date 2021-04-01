@@ -7,28 +7,28 @@ helpviewer_keywords:
 - typography [WPF], how-to topics
 ms.assetid: 82d50325-7cb2-4975-aea3-027c00e6bbfc
 ms.openlocfilehash: 44a1d768f6c24ba69b422f1e0dabde515d6e4b6a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974005"
 ---
-# <a name="typography-how-to-topics"></a><span data-ttu-id="f5be1-102">版式帮助主题</span><span class="sxs-lookup"><span data-stu-id="f5be1-102">Typography How-to Topics</span></span>
-<span data-ttu-id="f5be1-103">本节中的主题介绍如何 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 在应用程序中使用对丰富文本呈现的支持。</span><span class="sxs-lookup"><span data-stu-id="f5be1-103">The topics in this section describe how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] support for rich presentation of text in your applications.</span></span>  
+# <a name="typography-how-to-topics"></a><span data-ttu-id="b7ddc-102">版式帮助主题</span><span class="sxs-lookup"><span data-stu-id="b7ddc-102">Typography How-to Topics</span></span>
+<span data-ttu-id="b7ddc-103">本节中的主题介绍如何 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 在应用程序中使用对丰富文本呈现的支持。</span><span class="sxs-lookup"><span data-stu-id="b7ddc-103">The topics in this section describe how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] support for rich presentation of text in your applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="f5be1-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="f5be1-104">In This Section</span></span>  
- [<span data-ttu-id="f5be1-105">创建文本修饰</span><span class="sxs-lookup"><span data-stu-id="f5be1-105">Create a Text Decoration</span></span>](how-to-create-a-text-decoration.md)  
- [<span data-ttu-id="f5be1-106">指定是否为超链接添加下划线</span><span class="sxs-lookup"><span data-stu-id="f5be1-106">Specify Whether a Hyperlink is Underlined</span></span>](how-to-specify-whether-a-hyperlink-is-underlined.md)  
- [<span data-ttu-id="f5be1-107">向文本应用转换</span><span class="sxs-lookup"><span data-stu-id="f5be1-107">Apply Transforms to Text</span></span>](how-to-apply-transforms-to-text.md)  
- [<span data-ttu-id="f5be1-108">向文本应用动画</span><span class="sxs-lookup"><span data-stu-id="f5be1-108">Apply Animations to Text</span></span>](how-to-apply-animations-to-text.md)  
- [<span data-ttu-id="f5be1-109">创建有阴影的文本</span><span class="sxs-lookup"><span data-stu-id="f5be1-109">Create Text with a Shadow</span></span>](how-to-create-text-with-a-shadow.md)  
- [<span data-ttu-id="f5be1-110">创建空心文本</span><span class="sxs-lookup"><span data-stu-id="f5be1-110">Create Outlined Text</span></span>](how-to-create-outlined-text.md)  
- [<span data-ttu-id="f5be1-111">向控件的背景绘制文本</span><span class="sxs-lookup"><span data-stu-id="f5be1-111">Draw Text to a Control's Background</span></span>](how-to-draw-text-to-a-control-background.md)  
- [<span data-ttu-id="f5be1-112">向视觉对象绘制文本</span><span class="sxs-lookup"><span data-stu-id="f5be1-112">Draw Text to a Visual</span></span>](how-to-draw-text-to-a-visual.md)  
- [<span data-ttu-id="f5be1-113">在 XAML 中使用特殊字符</span><span class="sxs-lookup"><span data-stu-id="f5be1-113">Use Special Characters in XAML</span></span>](how-to-use-special-characters-in-xaml.md)  
+## <a name="in-this-section"></a><span data-ttu-id="b7ddc-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="b7ddc-104">In This Section</span></span>  
+ [<span data-ttu-id="b7ddc-105">创建文本修饰</span><span class="sxs-lookup"><span data-stu-id="b7ddc-105">Create a Text Decoration</span></span>](how-to-create-a-text-decoration.md)  
+ [<span data-ttu-id="b7ddc-106">指定是否为超链接添加下划线</span><span class="sxs-lookup"><span data-stu-id="b7ddc-106">Specify Whether a Hyperlink is Underlined</span></span>](how-to-specify-whether-a-hyperlink-is-underlined.md)  
+ [<span data-ttu-id="b7ddc-107">向文本应用转换</span><span class="sxs-lookup"><span data-stu-id="b7ddc-107">Apply Transforms to Text</span></span>](how-to-apply-transforms-to-text.md)  
+ [<span data-ttu-id="b7ddc-108">向文本应用动画</span><span class="sxs-lookup"><span data-stu-id="b7ddc-108">Apply Animations to Text</span></span>](how-to-apply-animations-to-text.md)  
+ [<span data-ttu-id="b7ddc-109">创建有阴影的文本</span><span class="sxs-lookup"><span data-stu-id="b7ddc-109">Create Text with a Shadow</span></span>](how-to-create-text-with-a-shadow.md)  
+ [<span data-ttu-id="b7ddc-110">创建空心文本</span><span class="sxs-lookup"><span data-stu-id="b7ddc-110">Create Outlined Text</span></span>](how-to-create-outlined-text.md)  
+ [<span data-ttu-id="b7ddc-111">向控件的背景绘制文本</span><span class="sxs-lookup"><span data-stu-id="b7ddc-111">Draw Text to a Control's Background</span></span>](how-to-draw-text-to-a-control-background.md)  
+ [<span data-ttu-id="b7ddc-112">向视觉对象绘制文本</span><span class="sxs-lookup"><span data-stu-id="b7ddc-112">Draw Text to a Visual</span></span>](how-to-draw-text-to-a-visual.md)  
+ [<span data-ttu-id="b7ddc-113">在 XAML 中使用特殊字符</span><span class="sxs-lookup"><span data-stu-id="b7ddc-113">Use Special Characters in XAML</span></span>](how-to-use-special-characters-in-xaml.md)  
   
-## <a name="see-also"></a><span data-ttu-id="f5be1-114">另请参阅</span><span class="sxs-lookup"><span data-stu-id="f5be1-114">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="b7ddc-114">请参阅</span><span class="sxs-lookup"><span data-stu-id="b7ddc-114">See also</span></span>
 
 - <xref:System.Windows.Documents.Typography>
-- [<span data-ttu-id="f5be1-115">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="f5be1-115">Documents in WPF</span></span>](documents-in-wpf.md)
-- [<span data-ttu-id="f5be1-116">OpenType 字体功能</span><span class="sxs-lookup"><span data-stu-id="f5be1-116">OpenType Font Features</span></span>](opentype-font-features.md)
+- [<span data-ttu-id="b7ddc-115">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="b7ddc-115">Documents in WPF</span></span>](documents-in-wpf.md)
+- [<span data-ttu-id="b7ddc-116">OpenType 字体功能</span><span class="sxs-lookup"><span data-stu-id="b7ddc-116">OpenType Font Features</span></span>](opentype-font-features.md)
