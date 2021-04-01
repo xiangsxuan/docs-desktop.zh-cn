@@ -14,17 +14,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971031"
 ---
-# <a name="statusbar"></a><span data-ttu-id="bc560-102">StatusBar</span><span class="sxs-lookup"><span data-stu-id="bc560-102">StatusBar</span></span>
-<span data-ttu-id="bc560-103"><xref:System.Windows.Controls.Primitives.StatusBar>是窗口底部的水平区域，应用程序可在其中显示状态信息。</span><span class="sxs-lookup"><span data-stu-id="bc560-103">A <xref:System.Windows.Controls.Primitives.StatusBar> is a horizontal area at the bottom of a window where an application can display status information.</span></span>  
+# <a name="statusbar"></a><span data-ttu-id="cab57-102">StatusBar</span><span class="sxs-lookup"><span data-stu-id="cab57-102">StatusBar</span></span>
+<span data-ttu-id="cab57-103"><xref:System.Windows.Controls.Primitives.StatusBar>是窗口底部的水平区域，应用程序可在其中显示状态信息。</span><span class="sxs-lookup"><span data-stu-id="cab57-103">A <xref:System.Windows.Controls.Primitives.StatusBar> is a horizontal area at the bottom of a window where an application can display status information.</span></span>  
   
- <span data-ttu-id="bc560-104">下图显示了一个示例 <xref:System.Windows.Controls.Primitives.StatusBar> 。</span><span class="sxs-lookup"><span data-stu-id="bc560-104">The following illustration shows an example of a <xref:System.Windows.Controls.Primitives.StatusBar>.</span></span>  
+ <span data-ttu-id="cab57-104">下图显示了一个示例 <xref:System.Windows.Controls.Primitives.StatusBar> 。</span><span class="sxs-lookup"><span data-stu-id="cab57-104">The following illustration shows an example of a <xref:System.Windows.Controls.Primitives.StatusBar>.</span></span>  
   
- <span data-ttu-id="bc560-105">![状态栏](./media/ss-ctl-statusbar.GIF "SS_CTL_statusbar")</span><span class="sxs-lookup"><span data-stu-id="bc560-105">![Status bar](./media/ss-ctl-statusbar.GIF "SS_CTL_statusbar")</span></span>  
+ <span data-ttu-id="cab57-105">![状态栏](./media/ss-ctl-statusbar.GIF "SS_CTL_statusbar")</span><span class="sxs-lookup"><span data-stu-id="cab57-105">![Status bar](./media/ss-ctl-statusbar.GIF "SS_CTL_statusbar")</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="bc560-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="bc560-106">In This Section</span></span>  
+## <a name="in-this-section"></a><span data-ttu-id="cab57-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="cab57-106">In This Section</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="bc560-107">参考</span><span class="sxs-lookup"><span data-stu-id="bc560-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="cab57-107">参考</span><span class="sxs-lookup"><span data-stu-id="cab57-107">Reference</span></span>  
  <xref:System.Windows.Controls.Primitives.StatusBar>  
   <xref:System.Windows.Controls.Primitives.StatusBarItem>  
   
-## <a name="related-sections"></a><span data-ttu-id="bc560-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="bc560-108">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="cab57-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="cab57-108">Related Sections</span></span>

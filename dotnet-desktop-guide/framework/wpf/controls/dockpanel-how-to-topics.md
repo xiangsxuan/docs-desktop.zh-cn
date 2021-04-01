@@ -14,15 +14,15 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970947"
 ---
-# <a name="dockpanel-how-to-topics"></a><span data-ttu-id="43991-102">DockPanel 帮助主题</span><span class="sxs-lookup"><span data-stu-id="43991-102">DockPanel How-to Topics</span></span>
-<span data-ttu-id="43991-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.DockPanel> 元素沿布局容器的边缘定位子元素。</span><span class="sxs-lookup"><span data-stu-id="43991-103">The topics in this section describe how to use the <xref:System.Windows.Controls.DockPanel> element to position child elements along the edge of a layout container.</span></span>  
+# <a name="dockpanel-how-to-topics"></a><span data-ttu-id="d50cf-102">DockPanel 帮助主题</span><span class="sxs-lookup"><span data-stu-id="d50cf-102">DockPanel How-to Topics</span></span>
+<span data-ttu-id="d50cf-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.DockPanel> 元素沿布局容器的边缘定位子元素。</span><span class="sxs-lookup"><span data-stu-id="d50cf-103">The topics in this section describe how to use the <xref:System.Windows.Controls.DockPanel> element to position child elements along the edge of a layout container.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="43991-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="43991-104">In This Section</span></span>  
- [<span data-ttu-id="43991-105">获取或设置 Dock 值</span><span class="sxs-lookup"><span data-stu-id="43991-105">Get or Set a Dock Value</span></span>](how-to-get-or-set-a-dock-value.md)  
- [<span data-ttu-id="43991-106">创建 DockPanel</span><span class="sxs-lookup"><span data-stu-id="43991-106">Create a DockPanel</span></span>](how-to-create-a-dockpanel.md)  
- [<span data-ttu-id="43991-107">使用 DockPanel 元素对空间进行分区</span><span class="sxs-lookup"><span data-stu-id="43991-107">Partition Space by Using the DockPanel Element</span></span>](how-to-partition-space-by-using-the-dockpanel-element.md)  
+## <a name="in-this-section"></a><span data-ttu-id="d50cf-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d50cf-104">In This Section</span></span>  
+ [<span data-ttu-id="d50cf-105">获取或设置 Dock 值</span><span class="sxs-lookup"><span data-stu-id="d50cf-105">Get or Set a Dock Value</span></span>](how-to-get-or-set-a-dock-value.md)  
+ [<span data-ttu-id="d50cf-106">创建 DockPanel</span><span class="sxs-lookup"><span data-stu-id="d50cf-106">Create a DockPanel</span></span>](how-to-create-a-dockpanel.md)  
+ [<span data-ttu-id="d50cf-107">使用 DockPanel 元素对空间进行分区</span><span class="sxs-lookup"><span data-stu-id="d50cf-107">Partition Space by Using the DockPanel Element</span></span>](how-to-partition-space-by-using-the-dockpanel-element.md)  
   
-## <a name="reference"></a><span data-ttu-id="43991-108">参考</span><span class="sxs-lookup"><span data-stu-id="43991-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="d50cf-108">参考</span><span class="sxs-lookup"><span data-stu-id="d50cf-108">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -37,9 +37,9 @@ ms.locfileid: "96970947"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="43991-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="43991-109">Related Sections</span></span>  
- [<span data-ttu-id="43991-110">布局</span><span class="sxs-lookup"><span data-stu-id="43991-110">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="d50cf-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="d50cf-109">Related Sections</span></span>  
+ [<span data-ttu-id="d50cf-110">布局</span><span class="sxs-lookup"><span data-stu-id="d50cf-110">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="43991-111">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="43991-111">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="d50cf-111">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="d50cf-111">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="43991-112">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="43991-112">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="d50cf-112">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="d50cf-112">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

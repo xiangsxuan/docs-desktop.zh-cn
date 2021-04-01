@@ -15,13 +15,13 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970626"
 ---
-# <a name="grid"></a><span data-ttu-id="710cc-102">网格</span><span class="sxs-lookup"><span data-stu-id="710cc-102">Grid</span></span>
-<span data-ttu-id="710cc-103"><xref:System.Windows.Controls.Grid>元素用于精确定位行和列中的内容。</span><span class="sxs-lookup"><span data-stu-id="710cc-103">The <xref:System.Windows.Controls.Grid> element is used to precisely position content in rows and columns.</span></span>  
+# <a name="grid"></a><span data-ttu-id="e8547-102">网格</span><span class="sxs-lookup"><span data-stu-id="e8547-102">Grid</span></span>
+<span data-ttu-id="e8547-103"><xref:System.Windows.Controls.Grid>元素用于精确定位行和列中的内容。</span><span class="sxs-lookup"><span data-stu-id="e8547-103">The <xref:System.Windows.Controls.Grid> element is used to precisely position content in rows and columns.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="710cc-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="710cc-104">In This Section</span></span>  
- [<span data-ttu-id="710cc-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="710cc-105">How-to Topics</span></span>](grid-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="e8547-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="e8547-104">In This Section</span></span>  
+ [<span data-ttu-id="e8547-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="e8547-105">How-to Topics</span></span>](grid-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="710cc-106">参考</span><span class="sxs-lookup"><span data-stu-id="710cc-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="e8547-106">参考</span><span class="sxs-lookup"><span data-stu-id="e8547-106">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -36,9 +36,9 @@ ms.locfileid: "96970626"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="710cc-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="710cc-107">Related Sections</span></span>  
- [<span data-ttu-id="710cc-108">布局</span><span class="sxs-lookup"><span data-stu-id="710cc-108">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="e8547-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="e8547-107">Related Sections</span></span>  
+ [<span data-ttu-id="e8547-108">布局</span><span class="sxs-lookup"><span data-stu-id="e8547-108">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="710cc-109">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="710cc-109">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="e8547-109">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="e8547-109">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="710cc-110">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="710cc-110">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="e8547-110">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="e8547-110">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

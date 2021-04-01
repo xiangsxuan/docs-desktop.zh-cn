@@ -14,16 +14,16 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970643"
 ---
-# <a name="flow-content"></a><span data-ttu-id="1ebb3-102">流内容</span><span class="sxs-lookup"><span data-stu-id="1ebb3-102">Flow Content</span></span>
-<span data-ttu-id="1ebb3-103">流内容元素提供用于创建适用于在中承载的流内容的构建基块 <xref:System.Windows.Documents.FlowDocument> 。</span><span class="sxs-lookup"><span data-stu-id="1ebb3-103">Flow content elements provide the building blocks for creating flow content suitable for hosting in a <xref:System.Windows.Documents.FlowDocument>.</span></span>  
+# <a name="flow-content"></a><span data-ttu-id="a1783-102">流内容</span><span class="sxs-lookup"><span data-stu-id="a1783-102">Flow Content</span></span>
+<span data-ttu-id="a1783-103">流内容元素提供用于创建适用于在中承载的流内容的构建基块 <xref:System.Windows.Documents.FlowDocument> 。</span><span class="sxs-lookup"><span data-stu-id="a1783-103">Flow content elements provide the building blocks for creating flow content suitable for hosting in a <xref:System.Windows.Documents.FlowDocument>.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="1ebb3-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="1ebb3-104">In This Section</span></span>  
- [<span data-ttu-id="1ebb3-105">流文档概述</span><span class="sxs-lookup"><span data-stu-id="1ebb3-105">Flow Document Overview</span></span>](flow-document-overview.md)  
- [<span data-ttu-id="1ebb3-106">TextElement 内容模型概述</span><span class="sxs-lookup"><span data-stu-id="1ebb3-106">TextElement Content Model Overview</span></span>](textelement-content-model-overview.md)  
- [<span data-ttu-id="1ebb3-107">表概述</span><span class="sxs-lookup"><span data-stu-id="1ebb3-107">Table Overview</span></span>](table-overview.md)  
- [<span data-ttu-id="1ebb3-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="1ebb3-108">How-to Topics</span></span>](flow-content-elements-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="a1783-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="a1783-104">In This Section</span></span>  
+ [<span data-ttu-id="a1783-105">流文档概述</span><span class="sxs-lookup"><span data-stu-id="a1783-105">Flow Document Overview</span></span>](flow-document-overview.md)  
+ [<span data-ttu-id="a1783-106">TextElement 内容模型概述</span><span class="sxs-lookup"><span data-stu-id="a1783-106">TextElement Content Model Overview</span></span>](textelement-content-model-overview.md)  
+ [<span data-ttu-id="a1783-107">表概述</span><span class="sxs-lookup"><span data-stu-id="a1783-107">Table Overview</span></span>](table-overview.md)  
+ [<span data-ttu-id="a1783-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="a1783-108">How-to Topics</span></span>](flow-content-elements-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="1ebb3-109">参考</span><span class="sxs-lookup"><span data-stu-id="1ebb3-109">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="a1783-109">参考</span><span class="sxs-lookup"><span data-stu-id="a1783-109">Reference</span></span>  
  <xref:System.Windows.Documents.FlowDocument>  
   <xref:System.Windows.Documents.Block>  
   <xref:System.Windows.Documents.List>  
@@ -38,5 +38,5 @@ ms.locfileid: "96970643"
   <xref:System.Windows.Documents.Span>  
   <xref:System.Windows.Documents.ListItem>  
   
-## <a name="related-sections"></a><span data-ttu-id="1ebb3-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="1ebb3-110">Related Sections</span></span>  
- [<span data-ttu-id="1ebb3-111">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="1ebb3-111">Documents in WPF</span></span>](documents-in-wpf.md)
+## <a name="related-sections"></a><span data-ttu-id="a1783-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="a1783-110">Related Sections</span></span>  
+ [<span data-ttu-id="a1783-111">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="a1783-111">Documents in WPF</span></span>](documents-in-wpf.md)

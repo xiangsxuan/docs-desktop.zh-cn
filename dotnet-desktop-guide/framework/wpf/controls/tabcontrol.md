@@ -14,16 +14,16 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970450"
 ---
-# <a name="tabcontrol"></a><span data-ttu-id="99703-102">TabControl</span><span class="sxs-lookup"><span data-stu-id="99703-102">TabControl</span></span>
-<span data-ttu-id="99703-103"><xref:System.Windows.Controls.TabControl> 元素通过选择相应的选项卡，在所访问的离散页面上显示内容。每个选项卡都包含一个 <xref:System.Windows.Controls.TabItem> 。</span><span class="sxs-lookup"><span data-stu-id="99703-103"><xref:System.Windows.Controls.TabControl> elements display content on discrete pages accessed by selecting the appropriate tab. Each tab contains a <xref:System.Windows.Controls.TabItem>.</span></span>  
+# <a name="tabcontrol"></a><span data-ttu-id="bd187-102">TabControl</span><span class="sxs-lookup"><span data-stu-id="bd187-102">TabControl</span></span>
+<span data-ttu-id="bd187-103"><xref:System.Windows.Controls.TabControl> 元素通过选择相应的选项卡，在所访问的离散页面上显示内容。每个选项卡都包含一个 <xref:System.Windows.Controls.TabItem> 。</span><span class="sxs-lookup"><span data-stu-id="bd187-103"><xref:System.Windows.Controls.TabControl> elements display content on discrete pages accessed by selecting the appropriate tab. Each tab contains a <xref:System.Windows.Controls.TabItem>.</span></span>  
   
- <span data-ttu-id="99703-104">下图显示了 <xref:System.Windows.Controls.TabControl> 。</span><span class="sxs-lookup"><span data-stu-id="99703-104">The following illustration shows a <xref:System.Windows.Controls.TabControl>.</span></span>  
+ <span data-ttu-id="bd187-104">下图显示了 <xref:System.Windows.Controls.TabControl> 。</span><span class="sxs-lookup"><span data-stu-id="bd187-104">The following illustration shows a <xref:System.Windows.Controls.TabControl>.</span></span>  
   
- <span data-ttu-id="99703-105">![Tab 控件](./media/ss-ctl-tabcontrol.gif "SS_CTL_tabcontrol")</span><span class="sxs-lookup"><span data-stu-id="99703-105">![Tab control](./media/ss-ctl-tabcontrol.gif "SS_CTL_tabcontrol")</span></span>  
-<span data-ttu-id="99703-106">典型 TabControl</span><span class="sxs-lookup"><span data-stu-id="99703-106">Typical TabControl</span></span>  
+ <span data-ttu-id="bd187-105">![Tab 控件](./media/ss-ctl-tabcontrol.gif "SS_CTL_tabcontrol")</span><span class="sxs-lookup"><span data-stu-id="bd187-105">![Tab control](./media/ss-ctl-tabcontrol.gif "SS_CTL_tabcontrol")</span></span>  
+<span data-ttu-id="bd187-106">典型 TabControl</span><span class="sxs-lookup"><span data-stu-id="bd187-106">Typical TabControl</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="99703-107">参考</span><span class="sxs-lookup"><span data-stu-id="99703-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="bd187-107">参考</span><span class="sxs-lookup"><span data-stu-id="bd187-107">Reference</span></span>  
  <xref:System.Windows.Controls.TabControl>  
   <xref:System.Windows.Controls.TabItem>  
   
-## <a name="related-sections"></a><span data-ttu-id="99703-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="99703-108">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="bd187-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="bd187-108">Related Sections</span></span>

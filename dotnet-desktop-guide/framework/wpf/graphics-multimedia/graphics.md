@@ -14,21 +14,21 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970870"
 ---
-# <a name="graphics"></a><span data-ttu-id="a3cfd-102">显卡</span><span class="sxs-lookup"><span data-stu-id="a3cfd-102">Graphics</span></span>
-[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="a3cfd-103">为多媒体、矢量图形、动画和内容组合提供集成支持，使开发人员能够轻松地构建有趣的用户界面和内容。</span><span class="sxs-lookup"><span data-stu-id="a3cfd-103">offers integrated support for multimedia, vector graphics, animation, and content composition, making it easy for developers to build interesting user interfaces and content.</span></span>  
+# <a name="graphics"></a><span data-ttu-id="059a5-102">显卡</span><span class="sxs-lookup"><span data-stu-id="059a5-102">Graphics</span></span>
+[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="059a5-103">为多媒体、矢量图形、动画和内容组合提供集成支持，使开发人员能够轻松地构建有趣的用户界面和内容。</span><span class="sxs-lookup"><span data-stu-id="059a5-103">offers integrated support for multimedia, vector graphics, animation, and content composition, making it easy for developers to build interesting user interfaces and content.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="a3cfd-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="a3cfd-104">In This Section</span></span>  
- [<span data-ttu-id="a3cfd-105">位图效果</span><span class="sxs-lookup"><span data-stu-id="a3cfd-105">Bitmap Effects</span></span>](bitmap-effects.md)  
- [<span data-ttu-id="a3cfd-106">画笔</span><span class="sxs-lookup"><span data-stu-id="a3cfd-106">Brushes</span></span>](brushes.md)  
- [<span data-ttu-id="a3cfd-107">绘图</span><span class="sxs-lookup"><span data-stu-id="a3cfd-107">Drawings</span></span>](drawings.md)  
- [<span data-ttu-id="a3cfd-108">几何图形</span><span class="sxs-lookup"><span data-stu-id="a3cfd-108">Geometries</span></span>](geometries.md)  
- [<span data-ttu-id="a3cfd-109">映像</span><span class="sxs-lookup"><span data-stu-id="a3cfd-109">Images</span></span>](images.md)  
- [<span data-ttu-id="a3cfd-110">形状</span><span class="sxs-lookup"><span data-stu-id="a3cfd-110">Shapes</span></span>](shapes.md)  
- [<span data-ttu-id="a3cfd-111">转换</span><span class="sxs-lookup"><span data-stu-id="a3cfd-111">Transformations</span></span>](transformations.md)  
- [<span data-ttu-id="a3cfd-112">图形呈现注册表设置</span><span class="sxs-lookup"><span data-stu-id="a3cfd-112">Graphics Rendering Registry Settings</span></span>](graphics-rendering-registry-settings.md)  
- [<span data-ttu-id="a3cfd-113">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="a3cfd-113">How-to Topics</span></span>](graphics-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="059a5-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="059a5-104">In This Section</span></span>  
+ [<span data-ttu-id="059a5-105">位图效果</span><span class="sxs-lookup"><span data-stu-id="059a5-105">Bitmap Effects</span></span>](bitmap-effects.md)  
+ [<span data-ttu-id="059a5-106">画笔</span><span class="sxs-lookup"><span data-stu-id="059a5-106">Brushes</span></span>](brushes.md)  
+ [<span data-ttu-id="059a5-107">绘图</span><span class="sxs-lookup"><span data-stu-id="059a5-107">Drawings</span></span>](drawings.md)  
+ [<span data-ttu-id="059a5-108">几何图形</span><span class="sxs-lookup"><span data-stu-id="059a5-108">Geometries</span></span>](geometries.md)  
+ [<span data-ttu-id="059a5-109">映像</span><span class="sxs-lookup"><span data-stu-id="059a5-109">Images</span></span>](images.md)  
+ [<span data-ttu-id="059a5-110">形状</span><span class="sxs-lookup"><span data-stu-id="059a5-110">Shapes</span></span>](shapes.md)  
+ [<span data-ttu-id="059a5-111">转换</span><span class="sxs-lookup"><span data-stu-id="059a5-111">Transformations</span></span>](transformations.md)  
+ [<span data-ttu-id="059a5-112">图形呈现注册表设置</span><span class="sxs-lookup"><span data-stu-id="059a5-112">Graphics Rendering Registry Settings</span></span>](graphics-rendering-registry-settings.md)  
+ [<span data-ttu-id="059a5-113">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="059a5-113">How-to Topics</span></span>](graphics-how-to-topics.md)  
   
-## <a name="see-also"></a><span data-ttu-id="a3cfd-114">请参阅</span><span class="sxs-lookup"><span data-stu-id="a3cfd-114">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="059a5-114">请参阅</span><span class="sxs-lookup"><span data-stu-id="059a5-114">See also</span></span>
 
 - <xref:System.Windows.Shapes.Shape>
 - <xref:System.Windows.Media.Transform>
@@ -37,6 +37,6 @@ ms.locfileid: "96970870"
 - <xref:System.Windows.Media.Drawing>
 - <xref:System.Windows.Media.Brush>
 - <xref:System.Windows.Media.Effects.BitmapEffect>
-- [<span data-ttu-id="a3cfd-115">二维图形和图像处理</span><span class="sxs-lookup"><span data-stu-id="a3cfd-115">2D Graphics and Imaging</span></span>](../advanced/optimizing-performance-2d-graphics-and-imaging.md)
-- [<span data-ttu-id="a3cfd-116">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="a3cfd-116">Graphics and Multimedia</span></span>](index.md)
-- [<span data-ttu-id="a3cfd-117">WPF 图形呈现疑难解答</span><span class="sxs-lookup"><span data-stu-id="a3cfd-117">WPF Graphics Rendering Overview</span></span>](wpf-graphics-rendering-overview.md)
+- [<span data-ttu-id="059a5-115">二维图形和图像处理</span><span class="sxs-lookup"><span data-stu-id="059a5-115">2D Graphics and Imaging</span></span>](../advanced/optimizing-performance-2d-graphics-and-imaging.md)
+- [<span data-ttu-id="059a5-116">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="059a5-116">Graphics and Multimedia</span></span>](index.md)
+- [<span data-ttu-id="059a5-117">WPF 图形呈现疑难解答</span><span class="sxs-lookup"><span data-stu-id="059a5-117">WPF Graphics Rendering Overview</span></span>](wpf-graphics-rendering-overview.md)

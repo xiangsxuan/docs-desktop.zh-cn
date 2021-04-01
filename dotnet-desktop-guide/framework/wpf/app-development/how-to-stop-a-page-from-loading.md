@@ -19,11 +19,11 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970234"
 ---
-# <a name="how-to-stop-a-page-from-loading"></a><span data-ttu-id="876e8-102">如何：停止加载页面</span><span class="sxs-lookup"><span data-stu-id="876e8-102">How to: Stop a Page from Loading</span></span>
-<span data-ttu-id="876e8-103">此示例演示如何调用 <xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> 方法，以在下载完成前停止导航到内容。</span><span class="sxs-lookup"><span data-stu-id="876e8-103">This example shows how to call the <xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> method to stop navigation to content before it has finished being downloaded.</span></span>  
+# <a name="how-to-stop-a-page-from-loading"></a><span data-ttu-id="7b182-102">如何：停止加载页面</span><span class="sxs-lookup"><span data-stu-id="7b182-102">How to: Stop a Page from Loading</span></span>
+<span data-ttu-id="7b182-103">此示例演示如何调用 <xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> 方法，以在下载完成前停止导航到内容。</span><span class="sxs-lookup"><span data-stu-id="7b182-103">This example shows how to call the <xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> method to stop navigation to content before it has finished being downloaded.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="876e8-104">示例</span><span class="sxs-lookup"><span data-stu-id="876e8-104">Example</span></span>  
- <span data-ttu-id="876e8-105"><xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> 停止下载请求的内容，并 <xref:System.Windows.Navigation.NavigationWindow.NavigationStopped> 引发事件。</span><span class="sxs-lookup"><span data-stu-id="876e8-105"><xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> stops the download of the requested content, and causes the <xref:System.Windows.Navigation.NavigationWindow.NavigationStopped> event to be raised.</span></span>  
+## <a name="example"></a><span data-ttu-id="7b182-104">示例</span><span class="sxs-lookup"><span data-stu-id="7b182-104">Example</span></span>  
+ <span data-ttu-id="7b182-105"><xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> 停止下载请求的内容，并 <xref:System.Windows.Navigation.NavigationWindow.NavigationStopped> 引发事件。</span><span class="sxs-lookup"><span data-stu-id="7b182-105"><xref:System.Windows.Navigation.NavigationWindow.StopLoading%2A> stops the download of the requested content, and causes the <xref:System.Windows.Navigation.NavigationWindow.NavigationStopped> event to be raised.</span></span>  
   
  [!code-csharp[HOWTONavigationSnippets#NavigateStopLoadingCODE](~/samples/snippets/csharp/VS_Snippets_Wpf/HOWTONavigationSnippets/CSharp/MainWindow.xaml.cs#navigatestoploadingcode)]
  [!code-vb[HOWTONavigationSnippets#NavigateStopLoadingCODE](~/samples/snippets/visualbasic/VS_Snippets_Wpf/HOWTONavigationSnippets/visualbasic/mainwindow.xaml.vb#navigatestoploadingcode)]

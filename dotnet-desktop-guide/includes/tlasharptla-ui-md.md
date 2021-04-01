@@ -6,4 +6,4 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970467"
 ---
-<span data-ttu-id="f85ea-101">用户界面 (UI)</span><span class="sxs-lookup"><span data-stu-id="f85ea-101">user interface (UI)</span></span>
+<span data-ttu-id="0cf5e-101">用户界面 (UI)</span><span class="sxs-lookup"><span data-stu-id="0cf5e-101">user interface (UI)</span></span>

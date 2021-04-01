@@ -13,24 +13,24 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970402"
 ---
-# <a name="how-to-bind-the-properties-of-two-controls"></a><span data-ttu-id="7cfd7-102">如何：绑定两个控件的属性</span><span class="sxs-lookup"><span data-stu-id="7cfd7-102">How to: Bind the Properties of Two Controls</span></span>
+# <a name="how-to-bind-the-properties-of-two-controls"></a><span data-ttu-id="c5257-102">如何：绑定两个控件的属性</span><span class="sxs-lookup"><span data-stu-id="c5257-102">How to: Bind the Properties of Two Controls</span></span>
 
-<span data-ttu-id="7cfd7-103">此示例演示如何使用属性将一个实例化控件的属性绑定到另一个实例化控件的属性 <xref:System.Windows.Data.Binding.ElementName%2A> 。</span><span class="sxs-lookup"><span data-stu-id="7cfd7-103">This example shows how to bind the property of one instantiated control to that of another using the <xref:System.Windows.Data.Binding.ElementName%2A> property.</span></span>
+<span data-ttu-id="c5257-103">此示例演示如何使用属性将一个实例化控件的属性绑定到另一个实例化控件的属性 <xref:System.Windows.Data.Binding.ElementName%2A> 。</span><span class="sxs-lookup"><span data-stu-id="c5257-103">This example shows how to bind the property of one instantiated control to that of another using the <xref:System.Windows.Data.Binding.ElementName%2A> property.</span></span>
 
-## <a name="example"></a><span data-ttu-id="7cfd7-104">示例</span><span class="sxs-lookup"><span data-stu-id="7cfd7-104">Example</span></span>
+## <a name="example"></a><span data-ttu-id="c5257-104">示例</span><span class="sxs-lookup"><span data-stu-id="c5257-104">Example</span></span>
 
-<span data-ttu-id="7cfd7-105">下面的示例演示如何将的 <xref:System.Windows.Controls.Panel.Background%2A> 属性绑定到的 <xref:System.Windows.Controls.Canvas> [SelectedItem](xref:System.Windows.Controls.ContentControl.Content%2A) 属性 <xref:System.Windows.Controls.ComboBox> ：</span><span class="sxs-lookup"><span data-stu-id="7cfd7-105">The following example shows how to bind the <xref:System.Windows.Controls.Panel.Background%2A> property of a <xref:System.Windows.Controls.Canvas> to the [SelectedItem.Content](xref:System.Windows.Controls.ContentControl.Content%2A) property of a <xref:System.Windows.Controls.ComboBox>:</span></span>
+<span data-ttu-id="c5257-105">下面的示例演示如何将的 <xref:System.Windows.Controls.Panel.Background%2A> 属性绑定到的 <xref:System.Windows.Controls.Canvas> [SelectedItem](xref:System.Windows.Controls.ContentControl.Content%2A) 属性 <xref:System.Windows.Controls.ComboBox> ：</span><span class="sxs-lookup"><span data-stu-id="c5257-105">The following example shows how to bind the <xref:System.Windows.Controls.Panel.Background%2A> property of a <xref:System.Windows.Controls.Canvas> to the [SelectedItem.Content](xref:System.Windows.Controls.ContentControl.Content%2A) property of a <xref:System.Windows.Controls.ComboBox>:</span></span>
 
 [!code-xaml[BindDptoDp#1](~/samples/snippets/csharp/VS_Snippets_Wpf/BindDPtoDP/CS/Window1.xaml#1)]
 
-<span data-ttu-id="7cfd7-106">当此示例呈现时，应如下所示：</span><span class="sxs-lookup"><span data-stu-id="7cfd7-106">When this example is rendered it looks like the following:</span></span>
+<span data-ttu-id="c5257-106">当此示例呈现时，应如下所示：</span><span class="sxs-lookup"><span data-stu-id="c5257-106">When this example is rendered it looks like the following:</span></span>
 
 ![屏幕截图，其中显示了值为绿色的组合框和绿色正方形。](./media/how-to-bind-the-properties-of-two-controls/data-binding-bind-background-canvas.png)
 
 > [!NOTE]
-> <span data-ttu-id="7cfd7-108">在此示例中 (绑定目标属性， <xref:System.Windows.Controls.Panel.Background%2A> 属性) 必须是依赖属性。</span><span class="sxs-lookup"><span data-stu-id="7cfd7-108">The binding target property (in this example, the <xref:System.Windows.Controls.Panel.Background%2A> property) must be a dependency property.</span></span> <span data-ttu-id="7cfd7-109">有关详细信息，请参阅 [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)。</span><span class="sxs-lookup"><span data-stu-id="7cfd7-109">For more information, see [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview).</span></span>
+> <span data-ttu-id="c5257-108">在此示例中 (绑定目标属性， <xref:System.Windows.Controls.Panel.Background%2A> 属性) 必须是依赖属性。</span><span class="sxs-lookup"><span data-stu-id="c5257-108">The binding target property (in this example, the <xref:System.Windows.Controls.Panel.Background%2A> property) must be a dependency property.</span></span> <span data-ttu-id="c5257-109">有关详细信息，请参阅 [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)。</span><span class="sxs-lookup"><span data-stu-id="c5257-109">For more information, see [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="7cfd7-110">请参阅</span><span class="sxs-lookup"><span data-stu-id="7cfd7-110">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="c5257-110">另请参阅</span><span class="sxs-lookup"><span data-stu-id="c5257-110">See also</span></span>
 
-- [<span data-ttu-id="7cfd7-111">指定绑定源</span><span class="sxs-lookup"><span data-stu-id="7cfd7-111">Specify the Binding Source</span></span>](how-to-specify-the-binding-source.md)
-- [<span data-ttu-id="7cfd7-112">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="7cfd7-112">How-to Topics</span></span>](data-binding-how-to-topics.md)
+- [<span data-ttu-id="c5257-111">指定绑定源</span><span class="sxs-lookup"><span data-stu-id="c5257-111">Specify the Binding Source</span></span>](how-to-specify-the-binding-source.md)
+- [<span data-ttu-id="c5257-112">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="c5257-112">How-to Topics</span></span>](data-binding-how-to-topics.md)
