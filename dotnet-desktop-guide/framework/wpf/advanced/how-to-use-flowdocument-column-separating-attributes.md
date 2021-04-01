@@ -7,10 +7,10 @@ helpviewer_keywords:
 - documents [WPF], FlowDocument column-separating attributes
 ms.assetid: c7a822f8-aeca-45bd-a258-2852ff28005c
 ms.openlocfilehash: 27491b21da587fa198061ba52d8daed5d3f28de3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973743"
 ---
 # <a name="how-to-use-flowdocument-column-separating-attributes"></a>如何：使用 FlowDocument 列分隔特性

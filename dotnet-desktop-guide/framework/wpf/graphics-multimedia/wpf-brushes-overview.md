@@ -9,10 +9,10 @@ helpviewer_keywords:
 - brushes [WPF], about brushes
 ms.assetid: ecea1955-420b-45c6-bf43-c1404c072c41
 ms.openlocfilehash: f13ee5872c331038150b7416ba39e6b95f900487
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973889"
 ---
 # <a name="wpf-brushes-overview"></a>WPF 画笔概述
@@ -161,7 +161,7 @@ ms.locfileid: "96973889"
   
  有关无法冻结对象的原因的详细信息 <xref:System.Windows.Media.VisualBrush> ，请参阅 " <xref:System.Windows.Media.VisualBrush> 类型" 页。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Brush>
 - <xref:System.Windows.Media.Brushes>

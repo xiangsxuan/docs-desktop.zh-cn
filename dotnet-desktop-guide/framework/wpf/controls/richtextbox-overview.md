@@ -10,10 +10,10 @@ helpviewer_keywords:
 - RichTextBox control [WPF], about RichTextBox control
 ms.assetid: c94548b2-c1e9-4b62-b10c-dd8740eb23d8
 ms.openlocfilehash: 2d32c5ab2647f984d7677125fb146adede62abc3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973800"
 ---
 # <a name="richtextbox-overview"></a>RichTextBox 概述
@@ -28,7 +28,7 @@ ms.locfileid: "96973800"
 
 |控制|实时拼写检查|上下文菜单|格式设置命令，例如 <xref:System.Windows.Documents.EditingCommands.ToggleBold%2A> (Ctr + B) |<xref:System.Windows.Documents.FlowDocument> 内容，如图像、段落、表等。|
 |-------------|------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|<xref:System.Windows.Controls.TextBox>|是|是|否|错误。|
+|<xref:System.Windows.Controls.TextBox>|是|是|否|不能。|
 |<xref:System.Windows.Controls.RichTextBox>|是|是|是|是|
 
 > [!NOTE]
@@ -111,7 +111,7 @@ ms.locfileid: "96973800"
 [!code-csharp[RichTextBoxMiscSnippets_snip#SaveLoadPrintRTBCodeExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/RichTextBoxMiscSnippets_snip/CSharp/SaveLoadPrintRTB.xaml.cs#saveloadprintrtbcodeexamplewholepage)]
 [!code-vb[RichTextBoxMiscSnippets_snip#SaveLoadPrintRTBCodeExampleWholePage](~/samples/snippets/visualbasic/VS_Snippets_Wpf/RichTextBoxMiscSnippets_snip/VisualBasic/SaveLoadPrintRTB.xaml.vb#saveloadprintrtbcodeexamplewholepage)]
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [操作指南主题](richtextbox-how-to-topics.md)
 - [TextBox 概述](textbox-overview.md)

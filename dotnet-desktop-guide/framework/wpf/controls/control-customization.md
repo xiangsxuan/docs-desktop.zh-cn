@@ -8,10 +8,10 @@ helpviewer_keywords:
 - controls [WPF], customization
 ms.assetid: a3d9930e-5597-470e-a636-dcf65eac500b
 ms.openlocfilehash: 027abb3f614426744df10b6896ff99cc76d4fbd4
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973821"
 ---
 # <a name="control-customization"></a>控件自定义
@@ -24,6 +24,6 @@ ms.locfileid: "96973821"
  [Control 样式和模板](control-styles-and-templates.md)  
  [WPF 自定义控件的 UI 自动化](ui-automation-of-a-wpf-custom-control.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

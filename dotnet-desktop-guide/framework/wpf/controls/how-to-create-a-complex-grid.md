@@ -8,10 +8,10 @@ helpviewer_keywords:
 - Grid control [WPF], creating [WPF], complex grid
 ms.assetid: 4ce3040a-a156-4364-9596-98ca1eca5550
 ms.openlocfilehash: ab5490d608b21fe8b29a078dc1f0147f038c27a3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973979"
 ---
 # <a name="how-to-create-a-complex-grid"></a>如何创建复杂网格
@@ -30,7 +30,7 @@ ms.locfileid: "96973979"
 
 ![生成的控件的屏幕截图](././media/how-to-create-a-complex-grid/wpf-manual-calendar.png)
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Grid?displayProperty=nameWithType>
 - <xref:System.Windows.Documents.TableCell?displayProperty=nameWithType>

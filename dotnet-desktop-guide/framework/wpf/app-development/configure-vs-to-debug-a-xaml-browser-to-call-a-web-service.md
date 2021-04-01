@@ -9,10 +9,10 @@ helpviewer_keywords:
 - configuring Visual Studio to debug XBAPs [WPF]
 ms.assetid: fd1db082-a7bb-4c4b-9331-6ad74a0682d0
 ms.openlocfilehash: d8cfae2fb47876d578c51e5f4acdfe0c31e752fe
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973624"
 ---
 # <a name="how-to-configure-visual-studio-to-debug-a-xaml-browser-application-to-call-a-web-service"></a>如何：配置 Visual Studio 以调试 XAML 浏览器应用程序来调用 Web 服务
@@ -62,6 +62,6 @@ XAML 浏览器应用程序 (Xbap) 在仅限于 Internet 区域权限集的部分
 
  `-debugSecurityZoneURL http://services.msdn.microsoft.com`
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
-- [WPF 主机 ( # A0) ](wpf-host-presentationhost-exe.md)
+- [WPF 主机 (PresentationHost.exe) ](wpf-host-presentationhost-exe.md)

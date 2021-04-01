@@ -8,17 +8,17 @@ helpviewer_keywords:
 - binding data [WPF], how-to topics
 ms.assetid: a3b2563e-d879-41a7-9dfd-ac56b27fdcad
 ms.openlocfilehash: b7c99d9f4ae0bf7fea5c20ad3ed017a361b62e33
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973371"
 ---
 # <a name="data-binding-how-to-topics"></a>数据绑定操作指南主题
 
 本节中的主题介绍如何使用数据绑定，以公共语言运行时 (CLR) 对象和 XML 格式将元素绑定到各种数据源中的数据。
 
-## <a name="in-this-section"></a>在本节中
+## <a name="in-this-section"></a>本节内容
 
 - [创建简单绑定](how-to-create-a-simple-binding.md)
 - [指定绑定源](how-to-specify-the-binding-source.md)

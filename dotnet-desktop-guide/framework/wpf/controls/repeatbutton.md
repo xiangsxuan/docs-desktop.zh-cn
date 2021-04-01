@@ -8,10 +8,10 @@ helpviewer_keywords:
 - RepeatButton control [WPF]
 ms.assetid: 5702b603-95e6-438a-88c0-76509367e876
 ms.openlocfilehash: d1eaaaae2e42bc366d6859ad72a90b149341eef0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973803"
 ---
 # <a name="repeatbutton"></a>RepeatButton

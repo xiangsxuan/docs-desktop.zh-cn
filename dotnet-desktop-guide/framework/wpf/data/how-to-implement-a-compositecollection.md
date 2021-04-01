@@ -5,10 +5,10 @@ helpviewer_keywords:
 - data binding [WPF], CompositeCollection class
 ms.assetid: 0d8fc84c-7920-427f-8ad7-d55ca656c170
 ms.openlocfilehash: fe3b7fb1020ac8022113246453d8247ca241449c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974044"
 ---
 # <a name="how-to-implement-a-compositecollection"></a>如何：实现 CompositeCollection
@@ -17,7 +17,7 @@ ms.locfileid: "96974044"
   
  [!code-xaml[CompositeCollections#1](~/samples/snippets/csharp/VS_Snippets_Wpf/CompositeCollections/CS/Window1.xaml#1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Data.CollectionContainer>
 - <xref:System.Windows.Controls.ItemsControl.ItemsSource%2A>

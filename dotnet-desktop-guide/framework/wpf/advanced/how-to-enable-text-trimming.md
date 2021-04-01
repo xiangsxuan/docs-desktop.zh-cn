@@ -10,10 +10,10 @@ helpviewer_keywords:
 - trimming text [WPF]
 ms.assetid: dd8c9191-d2be-45fd-9fb4-3c75b65578c5
 ms.openlocfilehash: 25fff566868e792004a915fee195485c4a1f385f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973451"
 ---
 # <a name="how-to-enable-text-trimming"></a>如何：启用文本修整

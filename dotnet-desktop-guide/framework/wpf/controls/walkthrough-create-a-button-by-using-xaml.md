@@ -6,10 +6,10 @@ helpviewer_keywords:
 - buttons [WPF]
 ms.assetid: 138c41c4-1759-4bbf-8d77-77031a06a8a0
 ms.openlocfilehash: f5744004605ac1d301b70748986e68fc72627825
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973926"
 ---
 # <a name="walkthrough-create-a-button-by-using-xaml"></a>演练：使用 XAML 创建按钮
@@ -114,7 +114,7 @@ ms.locfileid: "96973926"
 
      直接在 `Application.Resources` 块下面创建一个名为 "GrayBlueGradientBrush" 的资源。 此资源定义水平渐变。 此资源可用作应用程序中任意位置的属性值，包括属性在按钮样式 setter 中的值 <xref:System.Windows.Controls.Control.Background%2A> 。 现在，所有按钮的 <xref:System.Windows.Controls.Control.Background%2A> 属性值都是此渐变。
 
-     按 F5 运行该应用程序。 其外观应如下所示。
+     按 F5 运行该应用程序。 该消息应如下所示。
 
      ![具有渐变背景的按钮](./media/custom-button-animatedbutton-3.gif "custom_button_AnimatedButton_3")
 
@@ -168,7 +168,7 @@ ms.locfileid: "96973926"
     </Setter.Value>
     ```
 
-     按 F5 运行该应用程序。 其外观应如下所示。
+     按 F5 运行该应用程序。 该消息应如下所示。
 
      ![具有3个按钮的窗口](./media/custom-button-animatedbutton-4.gif)
 
@@ -437,7 +437,7 @@ ms.locfileid: "96973926"
 
 - 用于响应用户操作的按钮的自定义行为 (如 <xref:System.Windows.UIElement.MouseEnter> <xref:System.Windows.UIElement.MouseLeave> <xref:System.Windows.Controls.Primitives.ButtonBase.Click> 包含动画效果的、和) 。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用 Microsoft Expression Blend 创建按钮](walkthrough-create-a-button-by-using-microsoft-expression-blend.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

@@ -6,10 +6,10 @@ helpviewer_keywords:
 - typography [WPF], FontSizeConverter objects
 ms.assetid: 3b0592bd-7223-4860-a108-a5d72f3a9178
 ms.openlocfilehash: b4662ef60866150008d84f22de44852b65373282
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973741"
 ---
 # <a name="how-to-use-the-fontsizeconverter-class"></a>如何：使用 FontSizeConverter 类
@@ -24,6 +24,6 @@ ms.locfileid: "96973741"
   
  [!code-csharp[FontSizeConverter#1](~/samples/snippets/csharp/VS_Snippets_Wpf/FontSizeConverter/CSharp/Window1.xaml.cs#1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FontSizeConverter>

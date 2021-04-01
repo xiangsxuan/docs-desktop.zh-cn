@@ -8,10 +8,10 @@ helpviewer_keywords:
 - window objects [WPF], getting
 ms.assetid: f120f06e-993b-4a97-9657-af0d1986981f
 ms.openlocfilehash: 34316f0c6f81b960a8e00131a30b9a237b9ca938
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973865"
 ---
 # <a name="how-to-get-all-windows-in-an-application"></a>如何：获取应用程序中的所有窗口

@@ -10,10 +10,10 @@ helpviewer_keywords:
 - caching [WPF]
 ms.assetid: dac2c9ce-042b-4d23-91eb-28f584415cef
 ms.openlocfilehash: 03d54614b018c7cb8e17858eba61bb6efaa93cd0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973845"
 ---
 # <a name="walkthrough-caching-application-data-in-a-wpf-application"></a>演练：在 WPF 应用程序中缓存应用程序数据
@@ -73,7 +73,7 @@ ms.locfileid: "96973845"
 
 6. 选择“为解决方案创建目录”复选框。
 
-7. 单击“确定”。
+7. 单击 **“确定”** 。
 
      WPF 设计器将在 " **设计** " 视图中打开并显示 mainwindow.xaml 文件。 Visual Studio 将创建 " **我的项目** " 文件夹、应用程序 .xaml 文件和 mainwindow.xaml 文件。
 
@@ -91,7 +91,7 @@ ms.locfileid: "96973845"
 
      将显示应用程序的 "属性" 窗口。
 
-2. 单击“编译”选项卡。
+2. 单击“编译”  选项卡。
 
 3. 在窗口底部，单击 " **高级编译选项 ...**"。
 
@@ -99,7 +99,7 @@ ms.locfileid: "96973845"
 
 4. 在 " **目标框架 (" 所有配置 ")** 列表中，选择" .NET Framework 4 "。  (不要选择 .NET Framework 4 客户端配置文件。 ) 
 
-5. 单击“确定”。
+5. 单击 **“确定”** 。
 
      随即显示“目标框架更改”对话框。
 
@@ -153,7 +153,7 @@ ms.locfileid: "96973845"
 
 #### <a name="to-create-the-cache-object"></a>创建缓存对象
 
-1. 双击刚才添加的按钮，以便在 MainWindow.xaml.cs 或 Mainwindow.xaml 文件中创建事件处理程序。
+1. 双击您刚添加的按钮，以便在 Mainwindow.xaml 或 Mainwindow.xaml 文件中创建事件处理程序，。
 
 2. 在类声明) 之前 (文件顶部，添加以下 `Imports` (Visual Basic) 或 `using` (c # ) 语句：
 
@@ -325,7 +325,7 @@ ms.locfileid: "96973845"
  [!code-csharp[CachingWPFApplications#1](~/samples/snippets/csharp/VS_Snippets_Wpf/CachingWPFApplications/CSharp/MainWindow.xaml.cs#1)]
  [!code-vb[CachingWPFApplications#1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/CachingWPFApplications/VisualBasic/MainWindow.xaml.vb#1)]
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Runtime.Caching.MemoryCache>
 - <xref:System.Runtime.Caching.ObjectCache>

@@ -10,10 +10,10 @@ helpviewer_keywords:
 - reflections [WPF], creating
 ms.assetid: 4f017e16-ab80-43c7-98df-03b6bddbb203
 ms.openlocfilehash: 8a5ed345c0aa25312bd74799264e1f66ab4554e0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973760"
 ---
 # <a name="how-to-create-a-reflection"></a>如何：创建反射
@@ -31,7 +31,7 @@ ms.locfileid: "96973760"
   
  有关完整示例，包括演示如何放大屏幕的各个部分以及如何创建反射的示例，请参阅 [System.windows.media.visualbrush> 示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/VisualBrush)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.VisualBrush>
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Grid control [WPF], positioning child elements
 ms.assetid: 27b3ba9b-ad32-44e2-bcab-a79d573a463c
 ms.openlocfilehash: 926d223097dd21dd0292c9523903b4be8aba8ba9
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974055"
 ---
 # <a name="how-to-position-the-child-elements-of-a-grid"></a>如何：定位网格的子元素
@@ -31,7 +31,7 @@ ms.locfileid: "96974055"
 
  ![屏幕截图描述了一个具有两列的 WPF 用户界面，右侧有一个 3 x 3 网格，左侧有一些按钮用于在网格的列和行之间移动彩色矩形](././media/grid-methods-sample.png)
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Grid>
 - [面板概述](panels-overview.md)

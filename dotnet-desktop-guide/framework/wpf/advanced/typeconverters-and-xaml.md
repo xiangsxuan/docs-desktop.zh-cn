@@ -5,10 +5,10 @@ helpviewer_keywords:
 - XAML [WPF], TypeConverter class
 ms.assetid: f6313e4d-e89d-497d-ac87-b43511a1ae4b
 ms.openlocfilehash: caf218cc5eb2854ad51efbd321a8c42b8de0bb16
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974009"
 ---
 # <a name="typeconverters-and-xaml"></a>TypeConverters 和 XAML
@@ -108,9 +108,9 @@ ms.locfileid: "96974009"
   
  还可以基于每个属性提供类型转换器。 不是将应用于 <xref:System.ComponentModel.TypeConverterAttribute> 类定义，而是将其应用于主定义 (属性定义，而不是 `get` / `set`) 中的实现。 属性的类型必须与自定义类型转换器处理的类型匹配。 应用此特性时，当 XAML 处理器处理该属性的值时，它可以处理输入字符串并返回对象实例。 如果选择使用 Microsoft .NET 框架中的属性类型或不能控制类定义并且无法应用此类定义的其他库，则每属性类型转换器方法特别有用 <xref:System.ComponentModel.TypeConverterAttribute> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.ComponentModel.TypeConverter>
-- [WPF)  (XAML 概述 ](/dotnet/desktop-wpf/fundamentals/xaml)
+- [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [标记扩展和 WPF XAML](markup-extensions-and-wpf-xaml.md)
 - [XAML 语法详述](xaml-syntax-in-detail.md)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - data binding [WPF], PriorityBinding class
 ms.assetid: d63b65ab-b3e9-4322-9aa8-1450f8d89532
 ms.openlocfilehash: 694679183f92c9737bbdb511b4ebd5a4bf2185f1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974040"
 ---
 # <a name="how-to-implement-prioritybinding"></a>如何：实现 PriorityBinding
@@ -46,7 +46,7 @@ ms.locfileid: "96974040"
   
  有关 <xref:System.Windows.Data.PriorityBinding> 从绑定中被视为成功返回值的信息，请参阅。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Data.Binding.IsAsync%2A?displayProperty=nameWithType>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - content [WPF], sequentially positioning
 ms.assetid: f0acb1b4-df71-4c5a-b4a4-98f189002537
 ms.openlocfilehash: 530c41938ae4abb893fd91d64804c7aaa2d430b5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973702"
 ---
 # <a name="wrappanel"></a>WrapPanel

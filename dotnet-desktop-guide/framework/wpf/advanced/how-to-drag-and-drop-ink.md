@@ -13,10 +13,10 @@ helpviewer_keywords:
 - dropping ink [WPF]
 ms.assetid: 932dc410-2bf3-4486-ab31-13487ba59f60
 ms.openlocfilehash: d562a0a9b483e7fa24cf412a1735c96cd896aaf5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973489"
 ---
 # <a name="how-to-drag-and-drop-ink"></a>如何：拖放墨迹

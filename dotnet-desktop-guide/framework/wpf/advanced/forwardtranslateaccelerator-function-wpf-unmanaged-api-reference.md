@@ -10,10 +10,10 @@ api_location:
 - PresentationHost_v0400.dll
 ms.assetid: fff47a86-9d9f-4176-9530-10e1876e393f
 ms.openlocfilehash: 5e477314117db7be35580b70b84fcc9ad9226e73
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973338"
 ---
 # <a name="forwardtranslateaccelerator-function-wpf-unmanaged-api-reference"></a>ForwardTranslateAccelerator 函数 (WPF 非托管 API 参考) 
@@ -30,7 +30,7 @@ HRESULT ForwardTranslateAccelerator(
 )  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  pMsg  
  指向消息的指针。  
   
@@ -48,6 +48,6 @@ HRESULT ForwardTranslateAccelerator(
   
  **.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 非托管 API 参考](wpf-unmanaged-api-reference.md)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - RoutedCommand class [WPF], creating
 ms.assetid: aaf6979f-69ab-406f-979f-5766daa85fa0
 ms.openlocfilehash: d433658a3039c262d2f682eff09df646d978018c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973455"
 ---
 # <a name="how-to-create-a-routedcommand"></a>如何：创建 RoutedCommand
@@ -47,7 +47,7 @@ ms.locfileid: "96973455"
   
  单击该按钮时，将 <xref:System.Windows.Input.RoutedCommand.Execute%2A> 调用自定义的方法 <xref:System.Windows.Input.RoutedCommand> 。  <xref:System.Windows.Input.RoutedCommand>引发 <xref:System.Windows.Input.CommandManager.PreviewExecuted> 和 <xref:System.Windows.Input.CommandManager.Executed> 路由事件。  这些事件遍历元素树， <xref:System.Windows.Input.CommandBinding> 以便查找此特定命令的。  如果 <xref:System.Windows.Input.CommandBinding> 找到，则 <xref:System.Windows.Input.ExecutedRoutedEventHandler> 调用与关联的 <xref:System.Windows.Input.CommandBinding> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Input.RoutedCommand>
 - [命令概述](commanding-overview.md)

@@ -7,10 +7,10 @@ helpviewer_keywords:
 - fonts [WPF]
 ms.assetid: 6c766a95-ad03-475e-a36f-2243e9495941
 ms.openlocfilehash: 526e88cb5ed0674c61843cc84f9eacd223233181
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973339"
 ---
 # <a name="fonts-wpf"></a>字体 (WPF)
@@ -22,7 +22,7 @@ ms.locfileid: "96973339"
  [示例 OpenType 字体包](sample-opentype-font-pack.md)  
  [操作指南主题](fonts-how-to-topics.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FontStyle>
 - <xref:System.Windows.SystemFonts>

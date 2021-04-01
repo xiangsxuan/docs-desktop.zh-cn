@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Panel control [WPF], height properties of elements
 ms.assetid: 5ab9e781-dbb8-469a-a3c8-cf38ce312647
 ms.openlocfilehash: f18612d66c477562eb387b76ea30e71dd5f4e8d7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973809"
 ---
 # <a name="how-to-set-the-height-properties-of-an-element"></a>如何：设置元素的高度属性
@@ -33,7 +33,7 @@ ms.locfileid: "96973809"
   
  有关完整示例，请参阅 [高度属性示例](https://github.com/microsoft/WPF-Samples/tree/master/Elements/HeightProperties)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FrameworkElement>
 - <xref:System.Windows.Controls.ListBox>

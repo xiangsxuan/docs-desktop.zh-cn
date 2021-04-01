@@ -30,10 +30,10 @@ helpviewer_keywords:
 - controls [WPF], appearance specified by state
 - templates [WPF], custom for existing controls
 ms.openlocfilehash: 0402ffbc1d6663efea4dae72878681ecfb0311d9
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973727"
 ---
 # <a name="create-a-template-for-a-control"></a>创建控件模板
@@ -54,7 +54,7 @@ ms.locfileid: "96973727"
 
 ## <a name="prerequisites"></a>先决条件
 
-创建新的 WPF 应用程序，并在 *mainwindow.xaml* (或您选择的另一个窗口中) 在 **\: ：： no (<Window>) ：：** ：元素上设置以下属性：
+创建新的 WPF 应用程序，在 MainWindow.xaml（或选择的其他窗口）的 \<Window> 元素中设置以下属性：
 
 |     |     |
 | --- | --- |
@@ -62,7 +62,7 @@ ms.locfileid: "96973727"
 | **SizeToContent** | `WidthAndHeight` |
 | **MinWidth**      | `250` |
 
-将 **\: ：： no (<Window>) ：：** ：元素的内容设置为以下 XAML：
+将 \<Window> 元素的内容设置为以下 XAML：
 
 [!code-xaml[Initial](./snippets/how-to-create-apply-template/csharp/Window1.xaml#Initial)]
 
@@ -82,7 +82,7 @@ ms.locfileid: "96973727"
 
 [!code-xaml[WindowResStart](./snippets/how-to-create-apply-template/csharp/Window2.xaml#WindowResStart)]
 
-使用以下属性集创建新的 **\: ：： no (<ControlTemplate>) ：：** ：
+使用以下属性集创建新的 \<ControlTemplate>：
 
 |     |     |
 | --- | --- |
@@ -103,11 +103,11 @@ ms.locfileid: "96973727"
 
 ### <a name="ellipse"></a>椭圆形
 
-请注意， **:::no-loc text="Fill":::** **:::no-loc text="Stroke":::** **\: ：： no (<Ellipse>) ：：** ：元素的和属性绑定到该控件的 <xref:System.Windows.Controls.Control.Foreground> 和 <xref:System.Windows.Controls.Control.Background> 属性。
+请注意，\<Ellipse> 元素的 :::no-loc text="Fill"::: 和 :::no-loc text="Stroke"::: 属性绑定到了控件的 <xref:System.Windows.Controls.Control.Foreground> 和 <xref:System.Windows.Controls.Control.Background> 属性  。
 
 ### <a name="contentpresenter"></a>ContentPresenter
 
-A [ \: ： no (<ContentPresenter>) ：：](xref:System.Windows.Controls.ContentPresenter) ：元素也会添加到模板中。 此模板专为按钮设计，因此请注意该按钮继承自 <xref:System.Windows.Controls.ContentControl>。 此按钮会显示该元素的内容。 可以在该按钮中设置任何内容，例如纯文本，甚至其他控件。 以下两个按钮均有效：
+此外，还将 [\<ContentPresenter>](xref:System.Windows.Controls.ContentPresenter) 元素添加到了模板。 此模板专为按钮设计，因此请注意该按钮继承自 <xref:System.Windows.Controls.ContentControl>。 此按钮会显示该元素的内容。 可以在该按钮中设置任何内容，例如纯文本，甚至其他控件。 以下两个按钮均有效：
 
 ```xaml
 <Button>My Text</Button>
@@ -119,7 +119,7 @@ A [ \: ： no (<ContentPresenter>) ：：](xref:System.Windows.Controls.ContentP
 </Button>
 ```
 
-在前面的两个示例中，将文本和复选框设置为 [Button.Content](xref:System.Windows.Controls.ContentControl.Content) 属性。 设置为内容的任何内容都可以通过 **\: ：： no-loc (<ContentPresenter>) ：：**：（模板的作用）来呈现。
+在前面的两个示例中，将文本和复选框设置为 [Button.Content](xref:System.Windows.Controls.ContentControl.Content) 属性。 设置为内容的任何内容都可通过 \<ContentPresenter> 显示，这是模板的功能。
 
 若将 <xref:System.Windows.Controls.ControlTemplate> 应用到 <xref:System.Windows.Controls.ContentControl> 类型（例如 `Button`），将在元素树中搜索 <xref:System.Windows.Controls.ContentPresenter>。 若找到了 `ContentPresenter`，模板会自动将控件的 <xref:System.Windows.Controls.ContentControl.Content> 属性绑定到 `ContentPresenter`。
 
@@ -137,7 +137,7 @@ A [ \: ： no (<ContentPresenter>) ：：](xref:System.Windows.Controls.ContentP
 
 ![包含一个模板椭圆按钮的 WPF 窗口](media/how-to-create-apply-template/styled-button.png)
 
-你可能已注意到，此按钮不是一个圆形，而是倾斜的。 由于 **\: ：： no (<Ellipse>) ：：** ： element 的工作方式，它始终展开以填充可用空间。 将此按钮的 :::no-loc text="width"::: 和 :::no-loc text="height"::: 属性更改为同一个值，以使圆形均衡： 
+你可能已注意到，此按钮不是一个圆形，而是倾斜的。 由于 \<Ellipse> 元素的工作方式，它始终会扩展并填充可用空间。 将此按钮的 :::no-loc text="width"::: 和 :::no-loc text="height"::: 属性更改为同一个值，以使圆形均衡： 
 
 [!code-xaml[StyledButtonSize](./snippets/how-to-create-apply-template/csharp/Window3.xaml#StyledButtonSize)]
 
@@ -147,9 +147,9 @@ A [ \: ： no (<ContentPresenter>) ：：](xref:System.Windows.Controls.ContentP
 
 即使已应用模板的按钮看上去与众不同，但它的行为与任何其他按钮相同。 若按下此按钮，将触发 <xref:System.Windows.Controls.Primitives.ButtonBase.Click> 事件。 不过，你可能已注意到，当你将鼠标移到此按钮上方时，此按钮的视觉对象不会改变。 这些视觉对象交互均由模板定义。
 
-通过 WPF 提供的动态事件和属性系统，你可以监视特定属性是否是某个值，必要时还可重新设置模板样式。 在此示例中，你将监视按钮的 <xref:System.Windows.UIElement.IsMouseOver> 属性。 当鼠标位于控件上方时，将：： **\: no-： no (<Ellipse>) ：：** ：的样式样式替换为新的颜色。 此触发器类型称为 PropertyTrigger。
+通过 WPF 提供的动态事件和属性系统，你可以监视特定属性是否是某个值，必要时还可重新设置模板样式。 在此示例中，你将监视按钮的 <xref:System.Windows.UIElement.IsMouseOver> 属性。 当鼠标位于控件上方时，使用新颜色设置 \<Ellipse> 的样式。 此触发器类型称为 PropertyTrigger。
 
-为此，需要将名称添加到可以引用的 **\: ：： no (<Ellipse>) ：：** ：。 将其命名为“backgroundElement”。
+必须为 \<Ellipse> 添加一个可引用的名称，以便于触发器起作用。 将其命名为“backgroundElement”。
 
 [!code-xaml[EllipseName](./snippets/how-to-create-apply-template/csharp/Window4.xaml#EllipseName)]
 
@@ -157,27 +157,27 @@ A [ \: ： no (<ContentPresenter>) ：：](xref:System.Windows.Controls.ContentP
 
 [!code-xaml[ControlTemplate](./snippets/how-to-create-apply-template/csharp/Window4.xaml?name=ControlTemplate&highlight=6-10)]
 
-接下来，将：： **\: no-： <Setter>) ：：： no (** 添加到 **\: ：： no (<Trigger>) ：：** ：，**从而将** **\: ：： no (<Ellipse>) ：：** ：
+接下来，将 \<Setter> 添加到 \<Trigger>，后者会将 \<Ellipse> 的 Fill 属性更改为一种新颜色   。
 
 [!code-xaml[MouseOver](./snippets/how-to-create-apply-template/csharp/Window5.xaml#MouseOver)]
 
-运行该项目。 请注意，当你将鼠标移动到按钮上时， **\: ：： no (<Ellipse>) ：：** ：的颜色将更改。
+运行该项目。 请注意，将鼠标移到按钮上方时，\<Ellipse> 的颜色会改变。
 
 ![鼠标移到 WPF 按钮上方，以更改填充色](media/how-to-create-apply-template/mouse-move-over-button.gif)
 
 ## <a name="use-a-visualstate"></a>使用 VisualState
 
-视觉状态由控件定义和触发。 例如，当鼠标移到控件上方时，将触发 `CommonStates.MouseOver` 状态。 可以基于控件的当前状态对属性更改进行动画处理。 在上一节中，当属性为时，将使用 **\: ：： no (<PropertyTrigger>) ：：** ：将按钮的前景更改为 `AliceBlue` `IsMouseOver` `true` 。 可改为创建一个视觉状态，来对此颜色的更改进行动画处理，以实现平稳过过渡。 有关 VisualStates 的详细信息，请参阅 [WPF 中的样式和模板](styles-templates-overview.md#visual-states)。
+视觉状态由控件定义和触发。 例如，当鼠标移到控件上方时，将触发 `CommonStates.MouseOver` 状态。 可以基于控件的当前状态对属性更改进行动画处理。 在上一个部分中，当 `IsMouseOver` 属性为 `true` 时，使用 \<PropertyTrigger> 可将按钮的前景色更改为 `AliceBlue`。 可改为创建一个视觉状态，来对此颜色的更改进行动画处理，以实现平稳过过渡。 有关 VisualStates 的详细信息，请参阅 [WPF 中的样式和模板](styles-templates-overview.md#visual-states)。
 
-若要将 **\: ：： no (<PropertyTrigger>) ：：-** 转换为动画视觉对象状态，请首先 **\<ControlTemplate.Triggers>** 从模板中删除该元素。
+若要将 \<PropertyTrigger> 转换为动画效果的视觉状态，首先要从模板删除 \<ControlTemplate.Triggers> 元素 。
 
 [!code-xaml[CleanTemplate](./snippets/how-to-create-apply-template/csharp/Window5.xaml#CleanTemplate)]
 
-接下来，在控件模板的 **\: ：： no (<Grid>) ：：/** ： root 中，添加 **\: ：： no ( # B0 System.windows.visualstatemanager.visualstategroups>) ：： VisualStateManager** **; (：： \: <VisualStateGroup>** ： for `CommonStates` 。 定义两种状态：`Normal` 和 `MouseOver`。
+接下来，在控件模板的 \<Grid> 根中，添加 \<VisualStateManager.VisualStateGroups>，其中包含 `CommonStates` 的 \<VisualStateGroup>  。 定义两种状态：`Normal` 和 `MouseOver`。
 
 [!code-xaml[VisualState](./snippets/how-to-create-apply-template/csharp/Window6.xaml#VisualState)]
 
-当触发该状态时，将应用在 **\: ：： no (<VisualState>) ：：** ：中定义的任何动画。 为每种状态创建动画。 动画放置在 **\: ：： no (<Storyboard>) ：：** ：元素内部。 有关情节提要的详细信息，请参阅[情节提要概述](../graphics-multimedia/storyboards-overview.md)。
+触发 \<VisualState> 时，将应用该状态中定义的任何动画。 为每种状态创建动画。 动画位于 \<Storyboard> 元素中。 有关情节提要的详细信息，请参阅[情节提要概述](../graphics-multimedia/storyboards-overview.md)。
 
 - 普通
 
@@ -191,11 +191,11 @@ A [ \: ： no (<ContentPresenter>) ：：](xref:System.Windows.Controls.ContentP
 
   [!code-xaml[MouseOverState](./snippets/how-to-create-apply-template/csharp/Window6.xaml#MouseOverState)]
 
-**\: ：： No (<ControlTemplate>) ：：** ：现在应如下所示。
+\<ControlTemplate> 现在应如下所示。
 
 [!code-xaml[FinalTemplate](./snippets/how-to-create-apply-template/csharp/Window7.xaml#FinalTemplate)]
 
-运行该项目。 请注意，当您将鼠标移动到按钮上时， **\: ：： no (<Ellipse>) ：：** ：动画处理的颜色。
+运行该项目。 请注意，将鼠标移到按钮上方时，\<Ellipse> 的颜色会进行动画处理。
 
 ![鼠标移过 WPF 按钮以更改可视状态](media/how-to-create-apply-template/mouse-move-over-button-visualstate.gif)
 

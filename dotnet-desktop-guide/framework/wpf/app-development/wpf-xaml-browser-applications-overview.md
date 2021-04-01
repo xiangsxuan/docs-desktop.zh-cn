@@ -13,10 +13,10 @@ helpviewer_keywords:
 - browser-hosted applications [WPF]
 ms.assetid: 3a7a86a8-75d5-4898-96b9-73da151e5e16
 ms.openlocfilehash: d13fabfd00c2d86de1d6992e13838ef414bb687d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973288"
 ---
 # <a name="wpf-xaml-browser-applications-overview"></a>WPF XAML 浏览器应用程序概述
@@ -128,7 +128,7 @@ ms.locfileid: "96973288"
 
 7. 在“安全性”下面的“设置”列表中，选中“允许活动内容在我的计算机上的文件中运行”复选框。
 
-8. 单击“确定”。
+8. 单击 **“确定”** 。
 
      重启 Internet Explorer 后更改才会生效。
 
@@ -202,7 +202,7 @@ ms.locfileid: "96973288"
 
  此外，改进后的 ClickOnce 下载顺序并发性将开始时间提高了10%。 ClickOnce 下载并验证清单后，将启动应用程序下载，并开始更新进度栏。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [配置 Visual Studio 以调试 XAML 浏览器应用程序来调用 Web 服务](configure-vs-to-debug-a-xaml-browser-to-call-a-web-service.md)
 - [部署 WPF 应用程序](deploying-a-wpf-application-wpf.md)

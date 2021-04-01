@@ -7,10 +7,10 @@ helpviewer_keywords:
 - Expression Blend [WPF Designer]
 ms.assetid: ff5037c2-bba7-4cae-8abb-6475b686c48e
 ms.openlocfilehash: bcf1c14980556caf7c08be03e12467c86ab3c6a1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973946"
 ---
 # <a name="walkthrough-create-a-button-by-using-microsoft-expression-blend"></a>演练：使用 Microsoft Expression Blend 创建按钮
@@ -226,7 +226,7 @@ ms.locfileid: "96973946"
 
     5. 按 F5 运行该应用程序。 单击按钮。 请注意，玻璃层会旋转。
 
-## <a name="conclusion"></a>结论
+## <a name="conclusion"></a>结束语
 
 已完成自定义按钮。 使用应用于应用程序中所有按钮的按钮模板执行此操作。 如果你退出模板编辑模式 (参阅下图) 并创建更多按钮，你将看到它们的外观和行为类似于自定义按钮，而不像 "默认" 按钮。
 
@@ -252,7 +252,7 @@ ms.locfileid: "96973946"
 
 - 其他：创建渐变、添加 BitmapEffects、使用转换，并设置对象的基本属性。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用 XAML 创建按钮](walkthrough-create-a-button-by-using-xaml.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

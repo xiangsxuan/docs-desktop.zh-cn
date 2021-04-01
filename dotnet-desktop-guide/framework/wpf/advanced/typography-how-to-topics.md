@@ -7,10 +7,10 @@ helpviewer_keywords:
 - typography [WPF], how-to topics
 ms.assetid: 82d50325-7cb2-4975-aea3-027c00e6bbfc
 ms.openlocfilehash: 44a1d768f6c24ba69b422f1e0dabde515d6e4b6a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974005"
 ---
 # <a name="typography-how-to-topics"></a>版式帮助主题
@@ -27,7 +27,7 @@ ms.locfileid: "96974005"
  [向视觉对象绘制文本](how-to-draw-text-to-a-visual.md)  
  [在 XAML 中使用特殊字符](how-to-use-special-characters-in-xaml.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Documents.Typography>
 - [WPF 中的文档](documents-in-wpf.md)

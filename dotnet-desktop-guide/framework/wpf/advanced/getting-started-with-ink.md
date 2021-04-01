@@ -10,10 +10,10 @@ helpviewer_keywords:
 - InkCanvas (WPF)
 ms.assetid: 760332dd-594a-475d-865b-01659db8cab7
 ms.openlocfilehash: b8087d6db04f7024b9ee48f28002bee04045a14b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973326"
 ---
 # <a name="get-started-with-ink-in-wpf"></a>在 WPF 中开始学习墨迹
@@ -80,12 +80,12 @@ Windows Presentation Foundation (WPF) 包含一项墨迹功能，使你可以轻
 
    [!code-xaml[DigitalInkTopics#3](~/samples/snippets/csharp/VS_Snippets_Wpf/DigitalInkTopics/CSharp/Window2.xaml#3)]
 
-1. 在 **解决方案资源管理器** 中，展开 "mainwindow.xaml"，然后打开代码隐藏文件 ("MainWindow.xaml.cs" 或 "mainwindow.xaml) "。 添加以下事件处理程序代码：
+1. 在 **解决方案资源管理器** 中，展开 mainwindow.xaml，然后打开代码隐藏文件 (Mainwindow.xaml 或 mainwindow.xaml) 。 添加以下事件处理程序代码：
 
    [!code-csharp[DigitalInkTopics#4](~/samples/snippets/csharp/VS_Snippets_Wpf/DigitalInkTopics/CSharp/Window2.xaml.cs#4)]
    [!code-vb[DigitalInkTopics#4](~/samples/snippets/visualbasic/VS_Snippets_Wpf/DigitalInkTopics/VisualBasic/Window2.xaml.vb#4)]
 
-1. 运行该应用程序。 添加一些墨迹，然后用鼠标右键单击或执行与触笔等效的按压操作。
+1. 运行应用程序。 添加一些墨迹，然后用鼠标右键单击或执行与触笔等效的按压操作。
 
    每次单击鼠标右键时，都会显示 "放大"。
 
@@ -97,7 +97,7 @@ Windows Presentation Foundation (WPF) 包含一项墨迹功能，使你可以轻
 
    在 "**新建项目**" 对话框中，展开 "**已安装** 的  >  **Visual c #** " 或 " **Visual Basic**  >  **Windows 桌面**" 类别。 然后，选择 " **控制台应用" ( .NET Framework)** 应用 "模板。 输入名称，然后选择 **"确定"**。
 
-1. 将以下代码粘贴到 Program.cs 或 Program .vb 文件中：
+1. 将以下代码粘贴到 .cs 或 Program .vb 文件中：
 
    [!code-csharp[InkCanvasConsoleApp#1](~/samples/snippets/csharp/VS_Snippets_Wpf/InkCanvasConsoleApp/CSharp/Program.cs#1)]
    [!code-vb[InkCanvasConsoleApp#1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/InkCanvasConsoleApp/VisualBasic/Module1.vb#1)]
@@ -108,7 +108,7 @@ Windows Presentation Foundation (WPF) 包含一项墨迹功能，使你可以轻
 
 1. 按 **F5** 生成应用程序。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [数字墨迹](digital-ink.md)
 - [收集墨迹](collecting-ink.md)

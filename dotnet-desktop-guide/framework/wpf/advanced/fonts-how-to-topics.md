@@ -7,10 +7,10 @@ helpviewer_keywords:
 - fonts [WPF]
 ms.assetid: b4a97c97-7f88-4a89-b1d1-cf2c0d087955
 ms.openlocfilehash: 62046f5448ba7704dfe3a7527bceac888960c5d8
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973340"
 ---
 # <a name="fonts-how-to-topics"></a>字体帮助主题
@@ -20,7 +20,7 @@ ms.locfileid: "96973340"
  [枚举系统字体](how-to-enumerate-system-fonts.md)  
  [使用 FontSizeConverter 类](how-to-use-the-fontsizeconverter-class.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FontStyle>
 - <xref:System.Windows.SystemFonts>

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - ink [WPF], erasing on custom control
 ms.assetid: d88c50f9-b4d8-4962-a28b-67d6a15a5fe0
 ms.openlocfilehash: 60e2af64cb0c5b313f4f1201cab70da6a88f61e7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973480"
 ---
 # <a name="how-to-erase-ink-on-a-custom-control"></a>如何：清除自定义控件上的墨迹

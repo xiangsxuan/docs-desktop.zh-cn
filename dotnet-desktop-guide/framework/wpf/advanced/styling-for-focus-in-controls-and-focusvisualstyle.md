@@ -7,10 +7,10 @@ helpviewer_keywords:
 - styles [WPF], focus visual style
 ms.assetid: 786ac576-011b-4d72-913b-558deccb9b35
 ms.openlocfilehash: 3d038f0e1687efb0c2516602e8d5cbf24a60b36c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973388"
 ---
 # <a name="styling-for-focus-in-controls-and-focusvisualstyle"></a>为控件中的焦点设置样式以及 FocusVisualStyle
@@ -75,7 +75,7 @@ ms.locfileid: "96973388"
 ### <a name="other-focus-properties"></a>其他焦点属性  
  如果希望更改焦点以生成可视行为的所有可能原因，则应基于 <xref:System.Windows.UIElement.IsFocused%2A> 依赖项属性或 <xref:System.Windows.UIElement.GotFocus> 或用于的或 <xref:System.Windows.UIElement.LostFocus> 事件来构建资源库或触发器 <xref:System.Windows.EventSetter> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FrameworkElement.FocusVisualStyle%2A>
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

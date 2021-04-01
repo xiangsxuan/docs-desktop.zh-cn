@@ -6,10 +6,10 @@ helpviewer_keywords:
 - controls [WPF], listed by category
 ms.assetid: f8a1f78e-d9fa-4367-9ec6-f084577e83bb
 ms.openlocfilehash: 226e037dc26f817b96a5aa869565f08ee6ff6574
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973812"
 ---
 # <a name="controls-by-category"></a>按类别分类的控件
@@ -178,6 +178,6 @@ Windows Presentation Foundation (WPF) 控件可以逻辑分组为多个类别。
   
 - <xref:System.Windows.Controls.InkPresenter>  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [控件库](control-library.md)

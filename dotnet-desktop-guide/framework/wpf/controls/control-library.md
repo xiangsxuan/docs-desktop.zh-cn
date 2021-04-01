@@ -8,10 +8,10 @@ helpviewer_keywords:
 - libraries [WPF], controls
 ms.assetid: c1b33289-c389-4ac2-b153-3cbb0d8324ad
 ms.openlocfilehash: f5d69a1743941a235b3a1fda38023b11b3f26809
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973819"
 ---
 # <a name="control-library"></a>控件库
@@ -38,7 +38,7 @@ WPF) 控件库 (Windows Presentation Foundation 包含 Windows Presentation Foun
  [网格](grid.md)  
  [GridSplitter](gridsplitter.md)  
  [GroupBox](groupbox.md)  
- [图像](image.md)  
+ [映像](image.md)  
  [Label](label.md)  
  [ListBox](listbox.md)  
  [ListView](listview.md)  

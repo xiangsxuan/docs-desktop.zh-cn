@@ -11,10 +11,10 @@ helpviewer_keywords:
 - flow content elements [WPF], TextElement content model
 ms.assetid: d0a7791c-b090-438c-812f-b9d009d83ee9
 ms.openlocfilehash: b4bf5bf1810adec4eb71ae79e747d507952c0734
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973379"
 ---
 # <a name="textelement-content-model-overview"></a>TextElement 内容模型概述
@@ -101,7 +101,7 @@ ms.locfileid: "96973379"
 ## <a name="types-that-can-contain-textelement-objects"></a>可包含 TextElement 对象的类型  
  请参阅 [WPF 内容模型](../controls/wpf-content-model.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [通过 Blocks 属性操作 FlowDocument](how-to-manipulate-a-flowdocument-through-the-blocks-property.md)
 - [通过 Blocks 属性操作流内容元素](how-to-manipulate-flow-content-elements-through-the-blocks-property.md)

@@ -10,10 +10,10 @@ helpviewer_keywords:
 - typography [WPF], text formatting
 ms.assetid: f0a7986e-f5b2-485c-a27d-f8e922022212
 ms.openlocfilehash: 662d01d892f6ee4ca8a9e19fca06e822cec00ff5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973349"
 ---
 # <a name="advanced-text-formatting"></a>高级文本格式设置
@@ -91,7 +91,7 @@ Windows Presentation Foundation (WPF) 提供了一组可靠的 Api，用于在�
 ## <a name="specifying-formatting-properties"></a>指定格式设置属性  
  <xref:System.Windows.Media.TextFormatting.TextRun> 使用文本存储提供的属性对对象进行格式设置。 这些属性分为两种类型： <xref:System.Windows.Media.TextFormatting.TextParagraphProperties> 和 <xref:System.Windows.Media.TextFormatting.TextRunProperties> 。 <xref:System.Windows.Media.TextFormatting.TextParagraphProperties> 处理段落非独占属性 <xref:System.Windows.TextAlignment> ，例如和 <xref:System.Windows.FlowDirection> 。 <xref:System.Windows.Media.TextFormatting.TextRunProperties> 是在段落中运行的每个文本的属性，例如前景画笔、 <xref:System.Windows.Media.Typeface> 和字号。 若要实现自定义段落和自定义文本运行属性类型，应用程序必须分别创建派生自和的类 <xref:System.Windows.Media.TextFormatting.TextParagraphProperties> <xref:System.Windows.Media.TextFormatting.TextRunProperties> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 中的版式](typography-in-wpf.md)
 - [WPF 中的文档](documents-in-wpf.md)

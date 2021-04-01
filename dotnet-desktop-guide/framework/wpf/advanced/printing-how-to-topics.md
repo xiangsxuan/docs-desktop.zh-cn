@@ -6,10 +6,10 @@ helpviewer_keywords:
 - print system management [WPF]
 ms.assetid: 5f3d391a-4afd-49ee-ad99-ceb737c0c8a8
 ms.openlocfilehash: f29eb318741ce896ab4aba2c2871de0e746de5ff
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973878"
 ---
 # <a name="printing-how-to-topics"></a>打印帮助主题
@@ -43,7 +43,7 @@ ms.locfileid: "96973878"
  [验证和合并 PrintTicket](how-to-validate-and-merge-printtickets.md)  
  用于检查打印票证是否有效且未请求打印机不支持的任何内容的说明。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Printing>
 - <xref:System.Printing.IndexedProperties>

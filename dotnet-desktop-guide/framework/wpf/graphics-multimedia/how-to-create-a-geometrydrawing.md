@@ -8,10 +8,10 @@ helpviewer_keywords:
 - classes [WPF], GeometryDrawing
 ms.assetid: 11d3c096-91ba-4d41-9bba-aeac0db70f97
 ms.openlocfilehash: f5cdcfdb68ad8030bcbd6c689f45a8baddd000e1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973511"
 ---
 # <a name="how-to-create-a-geometrydrawing"></a>如何：创建 GeometryDrawing
@@ -29,7 +29,7 @@ ms.locfileid: "96973511"
   
  若要创建更复杂的绘图，可以使用将多个绘图对象组合成单个复合绘图 <xref:System.Windows.Media.DrawingGroup> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.DrawingGroup>
 - [Drawing 对象概述](drawing-objects-overview.md)

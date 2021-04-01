@@ -9,10 +9,10 @@ helpviewer_keywords:
 - opening windows [WPF]
 ms.assetid: 6b91b2bb-fda7-491d-a72e-139dd630a5b0
 ms.openlocfilehash: 9ce7ffb3f46dd869fda7893745b531bd02d18ee1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973864"
 ---
 # <a name="how-to-open-a-window"></a>如何：打开窗口

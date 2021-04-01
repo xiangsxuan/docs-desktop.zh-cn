@@ -9,10 +9,10 @@ helpviewer_keywords:
 - refreshing pages [WPF]
 ms.assetid: 06dd1bbd-81c4-40ad-ac0d-7a5b326b1465
 ms.openlocfilehash: 71a71c91384a8905413358d023531afec23f2d41
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973822"
 ---
 # <a name="how-to-refresh-a-page"></a>如何：刷新页

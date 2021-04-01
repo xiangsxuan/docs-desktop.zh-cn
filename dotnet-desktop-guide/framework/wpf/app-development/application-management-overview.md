@@ -9,10 +9,10 @@ helpviewer_keywords:
 - application management [WPF]
 ms.assetid: 32b1c054-5aca-423b-b4b5-ed8dc4dc637d
 ms.openlocfilehash: a735791b00b1a8eba48f381ccac2a6325058c842
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973635"
 ---
 # <a name="application-management-overview"></a>应用程序管理概述
@@ -308,7 +308,7 @@ Windows 允许用户在应用程序之间切换。 最常见的方法是使用 A
 
 #### <a name="exit"></a>退出
 
-应用程序在关闭时可能需要执行一些最终处理，如保持应用程序状态。 对于这些情况，可以处理 <xref:System.Windows.Application.Exit> 事件，如 `App_Exit` 以下示例中的事件处理程序所示。 它在 *应用程序 .xaml* 文件中定义为事件处理程序。 它在 *App.xaml.cs* 和 *应用程序 .xaml* 文件中突出显示了其实现。
+应用程序在关闭时可能需要执行一些最终处理，如保持应用程序状态。 对于这些情况，可以处理 <xref:System.Windows.Application.Exit> 事件，如 `App_Exit` 以下示例中的事件处理程序所示。 它在 *应用程序 .xaml* 文件中定义为事件处理程序。 它的实现在 *app.config* 和 *应用程序 .xaml* 文件中突出显示。
 
 [!code-xaml[Defining-the-Exit-event-handler](~/samples/snippets/csharp/VS_Snippets_Wpf/HOWTOApplicationModelSnippets/CSharp/App.xaml?highlight=1-7)]
 
@@ -387,7 +387,7 @@ Windows 允许用户在应用程序之间切换。 最常见的方法是使用 A
 
 ![XBAP &#45; 应用程序对象事件](./media/applicationmodeloverview-applicationobjectevents-xbap.png "ApplicationModelOverview_ApplicationObjectEvents_xbap")
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Application>
 - [WPF Windows 概述](wpf-windows-overview.md)

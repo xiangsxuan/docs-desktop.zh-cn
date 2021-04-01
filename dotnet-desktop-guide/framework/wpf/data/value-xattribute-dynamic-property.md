@@ -6,10 +6,10 @@ apiname:
 - XAttribute.Value
 apitype: Assembly
 ms.openlocfilehash: 32c15a89a976b5f9af12f040c43e724a25357ead
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974038"
 ---
 # <a name="value-xattribute-dynamic-property"></a>值（XAttribute 动态属性）
@@ -36,7 +36,7 @@ attrib.Value
 
 此属性等效于 <xref:System.Xml.Linq.XAttribute.Value%2A> 类的 <xref:System.Xml.Linq.XAttribute?displayProperty=fullName> 属性，但此动态属性还支持更改通知。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Xml.Linq.XAttribute.Value%2A?displayProperty=fullName>
 - [XAttribute 类动态属性](value-xattribute-dynamic-property.md)

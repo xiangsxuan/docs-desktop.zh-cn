@@ -10,10 +10,10 @@ api_location:
 - PresentationHost_v0400.dll
 ms.assetid: 6dd101a3-44ad-4143-b228-772156f9b8ff
 ms.openlocfilehash: f8cd39fce3f9bc41c315d4e19f95fd19d8bf9d93
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973391"
 ---
 # <a name="savetohistory-function-wpf-unmanaged-api-reference"></a>SaveToHistory 函数 (WPF 非托管 API 参考) 
@@ -29,7 +29,7 @@ HRESULT SaveToHistory(
 )  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  pHistoryStream  
  指向历史记录流的指针。  
   
@@ -46,6 +46,6 @@ HRESULT SaveToHistory(
   
  **.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 非托管 API 参考](wpf-unmanaged-api-reference.md)

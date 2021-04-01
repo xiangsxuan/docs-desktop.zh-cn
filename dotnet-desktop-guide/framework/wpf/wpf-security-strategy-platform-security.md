@@ -18,10 +18,10 @@ helpviewer_keywords:
 - security model [WPF], operating system
 ms.assetid: 2a39a054-3e2a-4659-bcb7-8bcea490ba31
 ms.openlocfilehash: eb0c07f5f750d361e801156657cfe9a9b7bd2893
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973415"
 ---
 # <a name="wpf-security-strategy---platform-security"></a>WPF 安全策略 - 平台安全性
@@ -120,7 +120,7 @@ Windows Vista 上的 WPF 用户将受益于操作系统的附加安全增强功�
   
 - **不受信任的站点**。 由不受信任的用户标识的应用程序。 （不受信任）。  
   
- 对于其中的每个区域，CA 都提供预定义的权限集，该权限集包含与每个相关联的信任级别相匹配的权限。 其中包括：  
+ 对于其中的每个区域，CA 都提供预定义的权限集，该权限集包含与每个相关联的信任级别相匹配的权限。 这些方法包括：  
   
 - **FullTrust**。 对于从 **我的电脑** 区域启动的应用程序。 将授予全部可能的权限。  
   
@@ -200,9 +200,9 @@ Windows Vista 上的 WPF 用户将受益于操作系统的附加安全增强功�
   
  Internet Explorer 7 结合并扩展了 IE6 SP2 的安全功能，作为对安全性的不断承诺的一部分。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [代码访问安全性](/dotnet/framework/misc/code-access-security)
-- [安全](security-wpf.md)
+- [安全性](security-wpf.md)
 - [WPF 部分信任安全](wpf-partial-trust-security.md)
 - [WPF 安全策略 - 安全工程](wpf-security-strategy-security-engineering.md)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - RichTextBox control [WPF]
 ms.assetid: a177374d-ee54-4d00-aaae-c983481cae9b
 ms.openlocfilehash: f1e4257804b6ce77eeb1bed7b984e90e90cc2752
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973795"
 ---
 # <a name="richtextbox"></a>RichTextBox
@@ -21,7 +21,7 @@ ms.locfileid: "96973795"
  [RichTextBox 概述](richtextbox-overview.md)  
  [操作指南主题](richtextbox-how-to-topics.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.TextBox>
 - [WPF 中的文档](../advanced/documents-in-wpf.md)

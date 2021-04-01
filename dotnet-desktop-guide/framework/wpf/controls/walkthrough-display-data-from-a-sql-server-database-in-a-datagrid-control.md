@@ -10,10 +10,10 @@ helpviewer_keywords:
 - controls [WPF], DataGrid
 ms.assetid: 6810b048-0a23-4f86-bfa5-97f92b3cfab4
 ms.openlocfilehash: 23aee2dcbd9fc22a8c88bd2e03dcbc6552279ce6
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973929"
 ---
 # <a name="walkthrough-display-data-from-a-sql-server-database-in-a-datagrid-control"></a>演练：在 DataGrid 控件中显示 SQL Server 数据库中的数据
@@ -85,7 +85,7 @@ ms.locfileid: "96973929"
 
      [!code-xaml[DataGrid_SQL_EF_Walkthrough#1](~/samples/snippets/csharp/VS_Snippets_Wpf/DataGrid_SQL_EF_Walkthrough/CS/MainWindow.xaml#1)]
 
-6. 打开 (Mainwindow.xaml 或 MainWindow.xaml.cs) 的代码隐藏文件 <xref:System.Windows.Window> 。
+6. 打开的代码隐藏文件 (Mainwindow.xaml 或 Mainwindow.xaml 的) 中 <xref:System.Windows.Window> 。
 
 7. 添加以下代码以仅检索联接的表中的特定值，并将 <xref:System.Windows.Controls.ItemsControl.ItemsSource%2A> 的属性设置 <xref:System.Windows.Controls.DataGrid> 为查询的结果。
 
@@ -98,6 +98,6 @@ ms.locfileid: "96973929"
 
      ![带有来自 SQL 数据库的数据的 DataGrid](./media/datagrid-sql-ef-step7.png "DataGrid_SQL_EF_Step7")
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.DataGrid>

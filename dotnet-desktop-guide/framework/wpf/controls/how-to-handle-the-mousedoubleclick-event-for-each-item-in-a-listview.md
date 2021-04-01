@@ -8,10 +8,10 @@ helpviewer_keywords:
 - ListView controls [WPF], MouseDoubleClick event
 ms.assetid: 81b39369-655a-4585-ac58-4640e5bb8fed
 ms.openlocfilehash: 58c17697c5053be267893834e8364c531c1db4de
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973682"
 ---
 # <a name="how-to-handle-the-mousedoubleclick-event-for-each-item-in-a-listview"></a>如何：处理 ListView 中每一项的 MouseDoubleClick 事件
@@ -32,7 +32,7 @@ ms.locfileid: "96973682"
 > [!NOTE]
 > 虽然将绑定 <xref:System.Windows.Controls.ListView> 到数据源最常见，但你可以使用样式将事件处理程序添加到 <xref:System.Windows.Controls.ListViewItem> 非数据绑定中的每个， <xref:System.Windows.Controls.ListView> 无论你是否显式创建 <xref:System.Windows.Controls.ListViewItem> 。  有关显式和隐式创建的控件的详细信息 <xref:System.Windows.Controls.ListViewItem> ，请参阅 <xref:System.Windows.Controls.ItemsControl> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Xml.XmlElement>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

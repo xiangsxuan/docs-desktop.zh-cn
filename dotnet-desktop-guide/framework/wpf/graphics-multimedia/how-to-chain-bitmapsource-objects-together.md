@@ -10,10 +10,10 @@ helpviewer_keywords:
 - chaining BitmapSource objects [WPF]
 ms.assetid: 32d88853-395b-4855-9685-51a482a3b421
 ms.openlocfilehash: 403a2a8683e65fd71df89befd59744ac3fe6200c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973774"
 ---
 # <a name="how-to-chain-bitmapsource-objects-together"></a>如何：将多个 BitmapSource 对象链在一起

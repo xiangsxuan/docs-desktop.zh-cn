@@ -5,10 +5,10 @@ helpviewer_keywords:
 - Skip method [WPF]
 ms.assetid: c967b0f8-1c6a-459c-8c16-d4f08918ab65
 ms.openlocfilehash: a74f71345a22f6d766c2d5966ca5d2cb33ab756e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973319"
 ---
 # <a name="ienumrawinputdevicskip"></a>IEnumRAWINPUTDEVIC:Skip
@@ -20,7 +20,7 @@ ms.locfileid: "96973319"
 HRESULT Skip( [in] ULONG celt);  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  `celt`  
   
  中要跳过的元素数。  

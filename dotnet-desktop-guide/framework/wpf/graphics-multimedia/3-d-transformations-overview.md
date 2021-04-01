@@ -10,10 +10,10 @@ helpviewer_keywords:
 - transformations [WPF], 3D
 ms.assetid: e45e555d-ac1e-4b36-aced-e433afe7f27f
 ms.openlocfilehash: fe6c7061b6cd2f57ace1765c898dac1d1f797cab
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973786"
 ---
 # <a name="3d-transformations-overview"></a>三维转换概述
@@ -104,7 +104,7 @@ ScaleVector 示例
   
  由于照相机也是模型，因此也可以对照相机属性进行转换。  尽管确实可以通过改变照相机的位置或平面距离来改变场景的外观（实际上是变换整个场景的投影），但应注意，对于观察者来说，以这种方法实现的许多效果不如将转换应用于场景中模型的地点或位置更有“视觉意义”。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [三维图形概述](3-d-graphics-overview.md)
 - [转换概述](transforms-overview.md)

@@ -12,10 +12,10 @@ helpviewer_keywords:
 - flow documents [WPF]
 ms.assetid: ef236a50-d44f-43c8-ba7c-82b0c733c0b7
 ms.openlocfilehash: 8a72f902bb7ac6d2c1b7ce440b7b967997e8b765
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973348"
 ---
 # <a name="flow-document-overview"></a>流文档概述
@@ -369,7 +369,7 @@ Flow 元素是使用 <xref:System.Windows.Documents.InlineCollection> (Inlines) 
 
 有关版式的详细信息，请参阅 [WPF 中的版式](typography-in-wpf.md) 。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [文本](optimizing-performance-text.md)
 - [WPF 中的版式](typography-in-wpf.md)

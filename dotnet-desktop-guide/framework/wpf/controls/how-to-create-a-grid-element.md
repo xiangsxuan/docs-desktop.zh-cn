@@ -8,10 +8,10 @@ helpviewer_keywords:
 - Grid control [WPF], creating [WPF], grid instance
 ms.assetid: b2f07626-9df8-43b8-8d36-492f3cb42837
 ms.openlocfilehash: c87ca1d6642bd18fa85806c92caab049d259d45e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973974"
 ---
 # <a name="how-to-create-a-grid-element"></a>如何：创建网格元素
@@ -25,7 +25,7 @@ ms.locfileid: "96973974"
   这两种方法都将生成一个与下面类似的用户界面。
 
   ![屏幕截图描述了一个 WPF 用户界面，其中包含一个分为三列的网格。  这种情况下，标题为 "2018 Products" 的数据跨越了顶行的所有列，并且每个列都有三列，每个季度使用销售数据。  下半行包含的文本包含两列，消息总数为：300000](././media/how-to-create-a-grid-element/how-to-create-a-grid-element.png)
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Grid>
 - [面板概述](panels-overview.md)

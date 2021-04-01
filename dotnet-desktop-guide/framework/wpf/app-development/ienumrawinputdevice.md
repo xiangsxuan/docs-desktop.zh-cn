@@ -5,10 +5,10 @@ helpviewer_keywords:
 - IEnumRAWINPUTDEVICE interface [WPF]
 ms.assetid: 88c8b389-a48b-46b9-b895-8ed7b1e26fea
 ms.openlocfilehash: 5249d7ea359db5d5c58ae87600f61048b465b4c1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973887"
 ---
 # <a name="ienumrawinputdevice"></a>IEnumRAWINPUTDEVICE
@@ -26,6 +26,6 @@ ms.locfileid: "96973887"
 |[IEnumRAWINPUTDEVIC:Reset](ienumrawinputdevic-reset.md)|将枚举序列重置到开头。|  
 |[IEnumRAWINPUTDEVIC:Clone](ienumrawinputdevic-clone.md)|创建一个与当权枚举器相同状态的原始输入设备枚举器，以循环访问相同的列表。|  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [关于原始输入](/windows/desktop/inputdev/about-raw-input)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - elements [WPF], finding by name
 ms.assetid: cfa7cf35-8aa2-4060-9454-872ed4af3f0e
 ms.openlocfilehash: d8f5e9077400d460e2e42638a534bacc656db22f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973479"
 ---
 # <a name="how-to-find-an-element-by-its-name"></a>如何：按名称查找元素

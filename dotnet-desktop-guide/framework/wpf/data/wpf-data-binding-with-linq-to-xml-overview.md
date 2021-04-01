@@ -3,10 +3,10 @@ title: 使用 LINQ to XML 进行数据绑定
 ms.date: 10/22/2019
 ms.topic: conceptual
 ms.openlocfilehash: 093368c92d40f6b69c27002443a9e069c9f4bf3f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974037"
 ---
 # <a name="overview-of-wpf-data-binding-with-linq-to-xml"></a>与 LINQ to XML 的 WPF 数据绑定概述
@@ -85,7 +85,7 @@ WPF 数据绑定可使 UI 元素将其一个属性与一个数据源相关联。
 
 为了实现 WPF 动态绑定，需要与 <xref:System.Windows.Data> 命名空间提供的功能（特别是 <xref:System.Windows.Data.Binding> 类）一起使用动态属性。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [与 LINQ to XML 的 WPF 数据绑定](wpf-data-binding-with-linq-to-xml-overview.md)
 - [LINQ to XML 动态属性](linq-to-xml-dynamic-properties.md)

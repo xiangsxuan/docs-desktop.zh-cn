@@ -6,10 +6,10 @@ helpviewer_keywords:
 - Windows Presentation Foundation class library [WPF]
 ms.assetid: dcb35927-00ad-4141-a1ab-a7a524dd3f10
 ms.openlocfilehash: 5dfaba310d008a188262f01cabab3754d45ec16a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973287"
 ---
 # <a name="class-library-wpf"></a>类库 (WPF)

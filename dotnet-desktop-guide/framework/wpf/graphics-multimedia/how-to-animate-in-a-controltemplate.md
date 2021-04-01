@@ -6,10 +6,10 @@ helpviewer_keywords:
 - ControlTemplates [WPF], animating within
 ms.assetid: 97abb5d9-4dc7-4085-a011-54bd8bcb497b
 ms.openlocfilehash: a82cd68196382d541f1085b03f2e199a1bd0145f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973543"
 ---
 # <a name="how-to-animate-in-a-controltemplate"></a>如何：在 ControlTemplate 中进行动画处理
@@ -20,6 +20,6 @@ ms.locfileid: "96973543"
   
  有关利用情节提要对属性进行动画处理的详细信息，请参阅 [情节提要概述](storyboards-overview.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.ControlTemplate>

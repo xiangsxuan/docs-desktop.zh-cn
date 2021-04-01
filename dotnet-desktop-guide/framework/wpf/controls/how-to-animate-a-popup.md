@@ -6,10 +6,10 @@ helpviewer_keywords:
 - animation [WPF], Popup controls
 ms.assetid: acaa2a0a-6137-4efd-9cd1-75ece222e390
 ms.openlocfilehash: b70d9c4cb1bca26a6c77d3a7c50add517ca8ef92
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973373"
 ---
 # <a name="how-to-animate-a-popup"></a>如何：对 Popup 进行动画处理
@@ -28,7 +28,7 @@ ms.locfileid: "96973373"
   
  [!code-xaml[AnimatedPopup#RotateTransform1](~/samples/snippets/csharp/VS_Snippets_Wpf/AnimatedPopup/CS/Window1.xaml#rotatetransform1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.UIElement.RenderTransform%2A>
 - <xref:System.Windows.Controls.Primitives.BulletDecorator>

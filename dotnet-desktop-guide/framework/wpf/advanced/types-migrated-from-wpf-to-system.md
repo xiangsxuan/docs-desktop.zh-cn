@@ -7,13 +7,13 @@ helpviewer_keywords:
 - System.Xaml [XAML Services], types migrated from WPF
 ms.assetid: d79dabf5-a2ec-4e8d-a37a-67c4ba8a2b91
 ms.openlocfilehash: 4a1378814518350b0b36dfef5793339554f17a89
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974008"
 ---
-# <a name="types-migrated-from-wpf-to-systemxaml"></a>从 WPF 迁移到 system.exception 的类型
+# <a name="types-migrated-from-wpf-to-systemxaml"></a>从 WPF 迁移到 System.Xaml 的类型
 
 在 .NET Framework 3.5 和 .NET Framework 3.0 中，Windows Presentation Foundation (WPF) 和 Windows Workflow Foundation 都包含 XAML 语言实现。 为 WPF XAML 实现提供扩展性的很多公共类型都存在于 WindowsBase、PresentationCore 和 PresentationFramework 程序集中。 同样，为 Windows Workflow Foundation XAML 提供的扩展性的公共类型存在于 System.componentmodel 程序集中。 在 .NET Framework 4 中，一些与 XAML 相关的类型已迁移到 system.exception 程序集。 XAML 语言服务的一个常见 .NET Framework 实现实现了许多 XAML 扩展性方案，这些方案最初由特定框架的 XAML 实现定义，但现在是总体 .NET Framework 4 XAML 语言支持的一部分。 本文列出了迁移的类型并讨论了与迁移有关的问题。
 

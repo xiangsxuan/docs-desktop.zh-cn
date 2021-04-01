@@ -10,10 +10,10 @@ helpviewer_keywords:
 - data formats [WPF], listing
 ms.assetid: 18e7ba4b-ccef-4815-ae2d-3a32891010c0
 ms.openlocfilehash: f8230eac33a18a0d99cc757d54c2b901c1afe977
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973591"
 ---
 # <a name="how-to-list-the-data-formats-in-a-data-object"></a>如何：列出数据对象中的数据格式

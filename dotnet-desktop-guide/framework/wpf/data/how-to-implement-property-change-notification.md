@@ -12,10 +12,10 @@ helpviewer_keywords:
 - properties [WPF], change notifications
 ms.assetid: 30b59d9e-8c3a-4349-aa82-4be837e841cf
 ms.openlocfilehash: f3cf3fe211e852fccaa605623820ebbde7e62917
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973599"
 ---
 # <a name="how-to-implement-property-change-notification"></a>如何：实现属性更改通知
@@ -29,7 +29,7 @@ ms.locfileid: "96973599"
   
  若要查看如何 `Person` 使用类来支持绑定的示例 <xref:System.Windows.Data.BindingMode.TwoWay> ，请参阅 [控制文本框文本更新源的时间](how-to-control-when-the-textbox-text-updates-the-source.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [绑定源概述](binding-sources-overview.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

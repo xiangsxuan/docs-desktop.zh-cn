@@ -8,10 +8,10 @@ helpviewer_keywords:
 - dialog boxes [WPF], returning results
 ms.assetid: 4c5cf286-746b-4052-934d-d80cbf8acba3
 ms.openlocfilehash: 5e3670006762bcd09634b29314ecf2d05b1a44da
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973866"
 ---
 # <a name="how-to-return-a-dialog-box-result"></a>如何：返回对话框结果

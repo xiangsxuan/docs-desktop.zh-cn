@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Win32 code [WPF], WPF interoperation
 ms.assetid: a676b1eb-fc55-4355-93ab-df840c41cea0
 ms.openlocfilehash: 257e75522e598ce3eeb005290dcd0cd7d4910706
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973323"
 ---
 # <a name="walkthrough-host-a-win32-control-in-wpf"></a>演练：在 WPF 中承载 Win32 控件
@@ -153,7 +153,7 @@ Windows Presentation Foundation (WPF) 提供了一个用于创建应用程序的
   
  最后，将设置 `handled` 为 `true` 以指示消息已处理。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Interop.HwndHost>
 - [WPF 和 Win32 互操作](wpf-and-win32-interoperation.md)

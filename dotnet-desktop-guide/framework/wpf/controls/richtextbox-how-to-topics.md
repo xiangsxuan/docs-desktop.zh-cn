@@ -8,10 +8,10 @@ helpviewer_keywords:
 - RichTextBox control [WPF], how-to topics
 ms.assetid: 36e9f98e-f968-42d8-adb6-9e78c814aec0
 ms.openlocfilehash: f4f0cb15e1dc50fee7ca76e8cfbf31e6eaccd02b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973798"
 ---
 # <a name="richtextbox-how-to-topics"></a>RichTextBox 帮助主题
@@ -23,7 +23,7 @@ ms.locfileid: "96973798"
  [保存、加载和打印 RichTextBox 内容](how-to-save-load-and-print-richtextbox-content.md)  
  [在 RichTextBox 中确定自定义上下文菜单的位置](how-to-position-a-custom-context-menu-in-a-richtextbox.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.TextBox>
 - [WPF 中的文档](../advanced/documents-in-wpf.md)

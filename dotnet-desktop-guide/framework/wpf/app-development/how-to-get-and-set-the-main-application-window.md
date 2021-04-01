@@ -12,10 +12,10 @@ helpviewer_keywords:
 - getting windows objects [WPF]
 ms.assetid: ec902bc4-4a59-46f5-8ec1-963b46789356
 ms.openlocfilehash: 9bb5bce9b90482796acd8c62e77dc8bd9a850eeb
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973892"
 ---
 # <a name="how-to-get-and-set-the-main-application-window"></a>如何：获取和设置主应用程序窗口

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - data binding [WPF], creating views of data collections
 ms.assetid: b641e96c-c2f6-42ea-9c5d-bac81176ad65
 ms.openlocfilehash: 17ec2a40bf2c274f50b39875a23541932438a317
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974046"
 ---
 # <a name="how-to-get-the-default-view-of-a-data-collection"></a>如何：获取数据集合的默认视图
@@ -32,7 +32,7 @@ ms.locfileid: "96974046"
   
  有关集合视图提供的功能的示例，请参阅 [在视图中对数据进行排序](how-to-sort-data-in-a-view.md)、 [筛选视图中的数据](how-to-filter-data-in-a-view.md)，以及 [在数据 CollectionView 中的对象](how-to-navigate-through-the-objects-in-a-data-collectionview.md)之间进行导航。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [在 XAML 中使用视图对数据进行排序和分组](how-to-sort-and-group-data-using-a-view-in-xaml.md)
 - [操作指南主题](data-binding-how-to-topics.md)

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - WPF [WPF], events
 ms.assetid: d3b93c6f-aa6b-486d-a010-d097ea8a516b
 ms.openlocfilehash: 53e57391d9ae35204aebd853308772b72381c836
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973461"
 ---
 # <a name="events-wpf"></a>事件 (WPF)

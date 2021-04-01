@@ -7,10 +7,10 @@ helpviewer_keywords:
 - WPF [WPF], hosting Direct3D9 content
 ms.assetid: 60983736-0ab5-42cc-8b16-e9fbde261a43
 ms.openlocfilehash: e65b0c59268b44abed289e54181bf0bda9355664
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973907"
 ---
 # <a name="walkthrough-hosting-direct3d9-content-in-wpf"></a>演练：在 WPF 中承载 Direct3D9 内容
@@ -53,7 +53,7 @@ Mainwindow.xaml 在 WPF 设计器中打开。
 
 ### <a name="to-import-direct3d9-content"></a>导入 Direct3D9 内容
 
-1. 在代码编辑器中打开 MainWindow.xaml.cs。
+1. 在代码编辑器中打开 Mainwindow.xaml。
 
 2. 将自动生成的代码替换为以下代码。
 
@@ -77,7 +77,7 @@ Mainwindow.xaml 在 WPF 设计器中打开。
 
     Direct3D9 内容显示在 WPF 应用程序中。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Interop.D3DImage>
 - [Direct3D9 和 WPF 互操作性的性能注意事项](performance-considerations-for-direct3d9-and-wpf-interoperability.md)
