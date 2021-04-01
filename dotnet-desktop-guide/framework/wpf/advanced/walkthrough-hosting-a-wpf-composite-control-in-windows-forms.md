@@ -260,7 +260,7 @@ namespace MyControls
     |groupBox5|radioStyleOriginal|普通|  
     |groupBox5|radioStyleItalic|斜体|  
     |groupBox6|radioWeightOriginal|原始|  
-    |groupBox6|radioWeightBold|加粗|  
+    |groupBox6|radioWeightBold|Bold|  
   
 6. 将以下 <xref:System.Windows.Forms.Label?displayProperty=nameWithType> 控件添加到最后一个 <xref:System.Windows.Forms.GroupBox?displayProperty=nameWithType> 。 这些控件显示复合控件返回的数据 [!INCLUDE[TLA2#tla_winclient](../../../includes/tla2sharptla-winclient-md.md)] 。  
   
