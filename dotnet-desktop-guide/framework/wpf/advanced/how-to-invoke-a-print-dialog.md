@@ -31,7 +31,7 @@ ms.locfileid: "96970882"
   
  严格地说，您可以使用 <xref:System.Windows.Controls.PrintDialog.PrintDocument%2A> 方法，而不必打开对话框。 在这种意义上，控件可用作不可见的打印组件。 但出于性能原因，最好是使用方法，或者使用的 <xref:System.Printing.PrintQueue.AddJob%2A> 多个 <xref:System.Windows.Xps.XpsDocumentWriter.Write%2A> 和 <xref:System.Windows.Xps.XpsDocumentWriter.WriteAsync%2A> 方法之一 <xref:System.Windows.Xps.XpsDocumentWriter> 。 有关详细信息，请参阅 [以编程方式打印 XPS 文件](how-to-programmatically-print-xps-files.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.PrintDialog>
 - [WPF 中的文档](documents-in-wpf.md)

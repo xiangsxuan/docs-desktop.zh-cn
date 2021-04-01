@@ -24,7 +24,7 @@ ms.locfileid: "96970700"
  [GlyphRun 对象和 Glyphs 元素简介](introduction-to-the-glyphrun-object-and-glyphs-element.md)  
   [如何：使用 Glyphs 绘制文本](draw-text-using-glyphs.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.GlyphRun>
 - <xref:System.Windows.Media.DrawingContext.DrawText%2A>

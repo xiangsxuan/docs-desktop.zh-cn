@@ -116,7 +116,7 @@ ms.locfileid: "96970247"
   
  当用在对象元素语法中以填充属性元素时，大多数标记扩展都不会包含任何内容或深层属性元素语法。 这样你便可以关闭对象元素标记，而不提供任何子元素。 不论何时 XAML 处理器遇到任何对象元素，都会调用该类的构造函数来实例化从已分析元素创建的对象。 标记扩展类没有区别：如果希望标记扩展可用于对象元素语法，则必须提供无参数的构造函数。 有些现有标记扩展具有至少一个必需的属性值，必须指定该属性值才能使实例化生效。 如果是这样，该属性值通常会作为对象元素上的属性特性而给出。 在 [XAML 命名空间 (x:) 语言功能](/dotnet/desktop-wpf/xaml-services/namespace-language-features)和 [WPF XAML 扩展](wpf-xaml-extensions.md)参考页中，会指出具有必需属性的标记扩展（以及必需属性的名称）。 参考页还将指出特定标记扩展是否禁止使用对象元素语法或特性语法。 需要注意 [x:Array 标记扩展](/dotnet/desktop-wpf/xaml-services/xarray-markup-extension)，它无法支持特性语法，因为该数组的内容必须在标记内作为内容指定。 数组内容的处理方式与常规对象一样，因此特性可以没有默认的类型转换器。 此外，[x:Array 标记扩展](/dotnet/desktop-wpf/xaml-services/xarray-markup-extension)需要 `type` 参数。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [XAML 命名空间 (x:)语言功能](/dotnet/desktop-wpf/xaml-services/namespace-language-features)

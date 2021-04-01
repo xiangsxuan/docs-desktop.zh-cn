@@ -32,7 +32,7 @@ ms.locfileid: "96970398"
   
  用于 `InvalidationCharacterRule` <xref:System.Windows.Controls.ValidationRule> 检查无效字符的。 默认错误模板为周围的红色边框 <xref:System.Windows.Controls.TextBox> ，当输入值不是双精度值时，将显示通知用户。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [操作指南主题](data-binding-how-to-topics.md)
 - [绑定到枚举](how-to-bind-to-an-enumeration.md)

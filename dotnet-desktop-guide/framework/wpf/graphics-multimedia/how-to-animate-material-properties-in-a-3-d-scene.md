@@ -29,7 +29,7 @@ ms.locfileid: "96970945"
   
  [!code-xaml[Animation3DGallery_snip#AnimateMaterialExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/AnimateMaterialExample.xaml#animatematerialexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [创建三维场景](how-to-create-a-3-d-scene.md)
 - [三维图形概述](3-d-graphics-overview.md)

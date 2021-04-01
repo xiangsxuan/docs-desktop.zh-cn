@@ -37,7 +37,7 @@ ms.locfileid: "96970393"
 
 `IntColorConverter` 将 `int` 转换为颜色。 使用此转换器时， <xref:System.Windows.Controls.TextBlock.Background%2A> 如果的值小于350，则第三个颜色 <xref:System.Windows.Controls.TextBlock> 显示 `NumPages` 为绿色; 否则为红色。 此处未显示此转换器的实现。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Data.BindingListCollectionView>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

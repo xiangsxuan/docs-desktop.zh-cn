@@ -35,7 +35,7 @@ ms.locfileid: "96971048"
   
  <sup>1</sup>对于 **标头模板属性**，如果同时设置模板和模板选择器属性，则模板属性优先。 例如，如果设置了 <xref:System.Windows.Controls.ContentControl.ContentTemplate%2A> 和 <xref:System.Windows.Controls.ContentControl.ContentTemplateSelector%2A> 属性，则 <xref:System.Windows.Controls.ContentControl.ContentTemplate%2A> 属性优先。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [操作指南主题](listview-how-to-topics.md)
 - [ListView 概述](listview-overview.md)

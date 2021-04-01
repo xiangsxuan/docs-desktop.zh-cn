@@ -29,7 +29,7 @@ ms.locfileid: "96971495"
  [!code-csharp[CollectionView#OnButton](~/samples/snippets/csharp/VS_Snippets_Wpf/CollectionView/CSharp/Page1.xaml.cs#onbutton)]
  [!code-vb[CollectionView#OnButton](~/samples/snippets/visualbasic/VS_Snippets_Wpf/CollectionView/VisualBasic/Page1.xaml.vb#onbutton)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)
 - [在视图中对数据进行排序](how-to-sort-data-in-a-view.md)

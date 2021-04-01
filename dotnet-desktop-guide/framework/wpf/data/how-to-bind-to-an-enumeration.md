@@ -21,7 +21,7 @@ ms.locfileid: "96970392"
   
  [!code-xaml[BindToEnum#BindToEnum](~/samples/snippets/csharp/VS_Snippets_Wpf/BindToEnum/CS/Window1.xaml#bindtoenum)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [绑定到方法](how-to-bind-to-a-method.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

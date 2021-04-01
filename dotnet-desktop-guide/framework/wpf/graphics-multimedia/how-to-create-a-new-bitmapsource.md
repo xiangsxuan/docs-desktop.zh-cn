@@ -22,6 +22,6 @@ ms.locfileid: "96970218"
  [!code-csharp[ImagingSnippetGallery_procedural_snip#BitmapSourceCreate](~/samples/snippets/csharp/VS_Snippets_Wpf/ImagingSnippetGallery_procedural_snip/CSharp/BitmapSourceExample.cs#bitmapsourcecreate)]
  [!code-vb[ImagingSnippetGallery_procedural_snip#BitmapSourceCreate](~/samples/snippets/visualbasic/VS_Snippets_Wpf/ImagingSnippetGallery_procedural_snip/VB/BitmapSourceExample.vb#bitmapsourcecreate)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [图像处理概述](imaging-overview.md)

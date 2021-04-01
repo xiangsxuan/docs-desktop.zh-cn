@@ -25,7 +25,7 @@ ms.locfileid: "96971725"
 ## <a name="example"></a>示例  
  [!code-xaml[Animation3DGallery_snip#Rotation3DAnimationUsingKeyFramesExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/Rotation3DAnimationUsingKeyFramesExample.xaml#rotation3danimationusingkeyframesexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [三维图形概述](3-d-graphics-overview.md)
 - [关键帧动画概述](key-frame-animations-overview.md)

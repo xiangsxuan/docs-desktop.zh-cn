@@ -30,7 +30,7 @@ ms.locfileid: "96970486"
 
 第二个列表框绑定到该集合，因为其 <xref:System.Windows.Controls.ItemsControl.ItemsSource%2A> 值设置为 `{Binding}` 。 因此，它会基于) 显示返回的集合 (`myTaskTemplate` <xref:System.Windows.DataTemplate> 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使数据可用于 XAML 中的绑定](how-to-make-data-available-for-binding-in-xaml.md)
 - [绑定到集合并基于选择显示信息](how-to-bind-to-a-collection-and-display-information-based-on-selection.md)

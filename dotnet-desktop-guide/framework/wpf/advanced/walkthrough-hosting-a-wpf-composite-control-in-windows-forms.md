@@ -323,7 +323,7 @@ namespace MyControls
   
  生成并运行应用程序。 单击不同的单选按钮来查看在 WPF 复合控件上的效果。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Forms.Integration.ElementHost>
 - <xref:System.Windows.Forms.Integration.WindowsFormsHost>

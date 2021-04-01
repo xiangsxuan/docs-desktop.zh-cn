@@ -39,7 +39,7 @@ ms.locfileid: "96971003"
   
  有关转换对象的详细信息 <xref:System.Windows.FrameworkElement> ，请参阅 [转换概述](transforms-overview.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Transform>
 - [转换概述](transforms-overview.md)

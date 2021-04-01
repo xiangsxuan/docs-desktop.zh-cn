@@ -217,6 +217,6 @@ ms.locfileid: "100101853"
 
  的任务 [!INCLUDE[TLA2#tla_winclient](../../../includes/tla2sharptla-winclient-md.md)] 是在不重新引入内存泄漏的情况下避免意外的重入，这就是我们不会在任何地方阻止重入的原因。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [具有长时间运行计算的单线程应用程序示例](https://github.com/Microsoft/WPF-Samples/tree/master/Threading/SingleThreadedApplication)

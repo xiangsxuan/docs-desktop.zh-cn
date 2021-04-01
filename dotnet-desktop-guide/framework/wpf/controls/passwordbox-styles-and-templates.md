@@ -24,7 +24,7 @@ ms.locfileid: "96970465"
 
 下表列出了控件的已命名部件 <xref:System.Windows.Controls.PasswordBox> 。
 
-|组成部分|类型|描述|
+|组成部分|类型|说明|
 |-|-|-|
 |PART_ContentHost|<xref:System.Windows.FrameworkElement>|一个可包含的可视元素 <xref:System.Windows.FrameworkElement> 。 的文本 <xref:System.Windows.Controls.PasswordBox> 显示在此元素中。|
 
@@ -55,7 +55,7 @@ ms.locfileid: "96970465"
 
 有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

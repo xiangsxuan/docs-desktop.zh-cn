@@ -27,7 +27,7 @@ ms.locfileid: "96970214"
   
  有关演示如何在不使用的情况下显示图像的简单方法 <xref:System.Windows.Media.ImageDrawing> ，请参阅 [使用 image 元素](../controls/how-to-use-the-image-element.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Freezable.Freeze%2A>
 - <xref:System.Windows.Controls.Image>

@@ -25,7 +25,7 @@ ms.locfileid: "96971047"
   
  [!code-xaml[TreeViewWithUnknownDepth#1](~/samples/snippets/csharp/VS_Snippets_Wpf/TreeViewWithUnknownDepth/CS/Window1.xaml#1)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)
 - [数据模板化概述](../data/data-templating-overview.md)

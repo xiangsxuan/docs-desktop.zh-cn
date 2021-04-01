@@ -72,7 +72,7 @@ ms.locfileid: "96971014"
   
  这些示例使用 <xref:System.Windows.Media.DrawingBrush> 对象来演示如何 <xref:System.Windows.Media.TileBrush.AlignmentX%2A> 使用和 <xref:System.Windows.Media.TileBrush.AlignmentY%2A> 属性。 这些属性对于所有图块画笔的行为都是相同的： <xref:System.Windows.Media.DrawingBrush> 、 <xref:System.Windows.Media.ImageBrush> 和 <xref:System.Windows.Media.VisualBrush> 。 有关平铺画笔的详细信息，请参阅[使用图像、绘图和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.DrawingBrush>
 - <xref:System.Windows.Media.ImageBrush>

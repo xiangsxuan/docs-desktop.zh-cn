@@ -33,7 +33,7 @@ ms.locfileid: "96970642"
   
  若要详细了解如何以及为什么要实现依赖属性的 CLR 属性，请参阅 [依赖属性概述](dependency-properties-overview.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [依赖项属性概述](dependency-properties-overview.md)
 - [操作指南主题](properties-how-to-topics.md)

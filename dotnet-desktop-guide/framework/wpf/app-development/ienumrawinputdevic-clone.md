@@ -28,5 +28,5 @@ HRESULT Clone( [out] IEnumRAWINPUTDEVICE **ppenum);
 ## <a name="property-valuereturn-value"></a>属性值/返回值  
  HRESULT：此方法支持标准返回值 E_INVALIDARG、E_OUTOFMEMORY 和 E_UNEXPECTED。  
   
-## <a name="remarks"></a>备注  
+## <a name="remarks"></a>注解  
  此方法可以记录枚举序列中的某个点，以便以后返回到该点。 调用方必须独立于第一个枚举器发布此新枚举器。

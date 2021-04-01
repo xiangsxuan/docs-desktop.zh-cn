@@ -46,7 +46,7 @@ ms.locfileid: "96970400"
  [!code-csharp[CollectionBinding#ToString](~/samples/snippets/csharp/VS_Snippets_Wpf/CollectionBinding/CSharp/Data.cs#tostring)]
  [!code-vb[CollectionBinding#ToString](~/samples/snippets/visualbasic/VS_Snippets_Wpf/CollectionBinding/VisualBasic/Person.vb#tostring)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [将 Master-Detail 模式用于分层数据](how-to-use-the-master-detail-pattern-with-hierarchical-data.md)
 - [将 Master-Detail 模式用于分层 XML 数据](how-to-use-the-master-detail-pattern-with-hierarchical-xml-data.md)

@@ -39,7 +39,7 @@ ms.locfileid: "96970848"
   
  此代码示例是为类提供的更大示例的一部分 <xref:System.Windows.Media.ImageBrush> 。 有关完整示例，请参阅 [System.windows.media.imagebrush> 示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/ImageBrush)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.TileBrush>
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

@@ -34,7 +34,7 @@ ms.locfileid: "96970623"
   
  有关完整示例，请参阅[关键帧动画示例](https://github.com/microsoft/WPF-Samples/tree/master/Animation/KeyFrameAnimation)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.RectangleGeometry>
 - <xref:System.Windows.Media.RectangleGeometry.Rect%2A>

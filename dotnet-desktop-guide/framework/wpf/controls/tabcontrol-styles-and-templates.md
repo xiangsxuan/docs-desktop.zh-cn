@@ -22,7 +22,7 @@ ms.locfileid: "96970452"
 ## <a name="tabcontrol-parts"></a>TabControl 部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.TabControl> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_SelectedContentHost|<xref:System.Windows.Controls.ContentPresenter>|显示当前所选内容的对象 <xref:System.Windows.Controls.TabItem> 。|  
   
@@ -69,7 +69,7 @@ ms.locfileid: "96970452"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

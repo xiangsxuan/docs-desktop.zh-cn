@@ -33,7 +33,7 @@ ms.locfileid: "96970485"
   
  `NameConverter` 实现 <xref:System.Windows.Data.IMultiValueConverter> 接口。 `NameConverter` 从个别绑定获取值并将其存储在值对象数组中。 元素 <xref:System.Windows.Data.Binding> 在元素下的显示顺序 <xref:System.Windows.Data.MultiBinding> 就是这些值在数组中的存储顺序。 特性的值 <xref:System.Windows.Data.MultiBinding.ConverterParameter%2A> 由方法的参数参数引用，该参数对 <xref:System.Windows.Data.MultiBinding.Converter%2A> 参数执行开关来确定如何设置名称的格式。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [转换绑定数据](how-to-convert-bound-data.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

@@ -24,7 +24,7 @@ ms.locfileid: "96970850"
   
  [!code-xaml[MediaGallery_snippet#MediaTimelinePlusAnimationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/MediaGallery_snippet/CSharp/MediaTimelinePlusAnimationExample.xaml#mediatimelineplusanimationexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.MediaTimeline>
 - <xref:System.Windows.Media.Animation.DoubleAnimationUsingKeyFrames>

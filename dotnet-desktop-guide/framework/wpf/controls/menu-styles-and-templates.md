@@ -37,7 +37,7 @@ ms.locfileid: "96970466"
 ## <a name="menuitem-parts"></a>MenuItem 部分  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.Menu> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_Popup|<xref:System.Windows.Controls.Primitives.Popup>|子菜单的区域。|  
   
@@ -71,7 +71,7 @@ ms.locfileid: "96970466"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

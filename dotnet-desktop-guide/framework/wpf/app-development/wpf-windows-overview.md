@@ -480,7 +480,7 @@ ms.locfileid: "99222271"
   
  对话框是通常用来收集用户信息以完成某项功能的窗口。 例如，当用户要打开文件时，应用程序通常会显示 " **打开文件** " 对话框以获取用户的文件名。 有关详细信息，请参阅[对话框概述](dialog-boxes-overview.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Window>
 - <xref:System.Windows.MessageBox>

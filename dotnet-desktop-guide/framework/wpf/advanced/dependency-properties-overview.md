@@ -197,7 +197,7 @@ XAML 支持多种设置属性的语法格式。 要对特定的属性使用哪�
 
 - 将依赖属性视为公共属性（可访问）或至少由有权访问实例的任何调用方发现的公共属性。 有关详细信息，请参阅[依赖属性的安全性](dependency-property-security.md)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [自定义依赖项属性](custom-dependency-properties.md)
 - [只读依赖项属性](read-only-dependency-properties.md)

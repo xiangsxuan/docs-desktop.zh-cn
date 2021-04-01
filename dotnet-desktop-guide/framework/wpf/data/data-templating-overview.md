@@ -194,7 +194,7 @@ WPF 数据模板化模型为定义数据的表示提供了很大的灵活性。 
 
  ![HierarchicalDataTemplate 示例屏幕快照](./media/databinding-hierarchicaldatatemplate.png "DataBinding_HierarchicalDataTemplate")
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [数据绑定](../advanced/optimizing-performance-data-binding.md)
 - [查找由 DataTemplate 生成的元素](how-to-find-datatemplate-generated-elements.md)

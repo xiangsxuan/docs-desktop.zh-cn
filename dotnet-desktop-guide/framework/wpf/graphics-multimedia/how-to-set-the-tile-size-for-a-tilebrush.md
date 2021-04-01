@@ -40,7 +40,7 @@ ms.locfileid: "96971012"
 
 虽然此示例使用 <xref:System.Windows.Media.ImageBrush> 类，但 <xref:System.Windows.Media.TileBrush.Viewport%2A> 和属性的行为与 <xref:System.Windows.Media.TileBrush.ViewportUnits%2A> 其他对象的行为相同 <xref:System.Windows.Media.TileBrush> ，即对于 <xref:System.Windows.Media.DrawingBrush> 和 <xref:System.Windows.Media.VisualBrush> 。 有关 <xref:System.Windows.Media.ImageBrush> 和其他对象的详细信息 <xref:System.Windows.Media.TileBrush> ，请参阅 [利用图像、绘图和视觉](painting-with-images-drawings-and-visuals.md)对象进行绘制。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.TileBrush>
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

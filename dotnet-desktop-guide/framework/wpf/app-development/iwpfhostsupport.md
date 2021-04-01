@@ -15,7 +15,7 @@ ms.locfileid: "96970222"
 
 通过 PresentationHost.exe 承载内容的应用程序 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 实现此接口，以提供主机与 PresentationHost.exe 之间的集成点。  
   
-## <a name="remarks"></a>备注  
+## <a name="remarks"></a>注解  
 
  Win32 应用程序（如 Web 浏览器）可承载 WPF 内容，其中包括 XAML 浏览器应用程序 (Xbap) 和松散 XAML。 为了承载 WPF 内容，Win32 应用程序会创建 [WebBrowser 控件](/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752040(v=vs.85))的一个实例。 若要承载，WPF 将创建 PresentationHost.exe 的实例，该实例向宿主提供承载的 WPF 内容以便在 [WebBrowser 控件](/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752040(v=vs.85))中显示。  
   
@@ -32,7 +32,7 @@ ms.locfileid: "96970222"
   
 ## <a name="members"></a>成员  
   
-|成员|描述|  
+|成员|说明|  
 |------------|-----------------|  
 |[GetRawInputDevices](getrawinputdevices.md)|允许 PresentationHost.exe 发现主机应用程序感兴趣的原始输入的设备（人机接口设备）。|  
 |[FilterInputMessage](filterinputmessage.md)|除非返回 E_NOTIMP，否则每当收到一条消息时都会由 PresentationHost.exe 调用。|  

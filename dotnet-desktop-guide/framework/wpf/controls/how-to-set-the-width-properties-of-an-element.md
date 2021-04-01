@@ -33,7 +33,7 @@ ms.locfileid: "96970874"
   
  有关完整示例，请参阅 [Width Properties 比较示例](https://github.com/Microsoft/WPF-Samples/tree/master/Elements/WidthProperties)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.ListBox>
 - <xref:System.Windows.FrameworkElement>

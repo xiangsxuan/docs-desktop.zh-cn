@@ -22,7 +22,7 @@ ms.locfileid: "96971045"
   
 ## <a name="example"></a>示例  
   
-## <a name="description"></a>描述  
+## <a name="description"></a>说明  
  下面的示例在 <xref:System.Windows.Controls.TreeView> 中搜索特定对象，并返回包含的对象 <xref:System.Windows.Controls.TreeViewItem> 。 该示例确保每个 <xref:System.Windows.Controls.TreeViewItem> 实例化后，才能搜索其子项。 此示例也适用于不 <xref:System.Windows.Controls.TreeView> 使用虚拟化项的情况。  
   
 > [!NOTE]
@@ -41,6 +41,6 @@ ms.locfileid: "96971045"
   
  [!code-xaml[TreeViewFindTVI#3](~/samples/snippets/csharp/VS_Snippets_Wpf/TreeViewFindTVI/CSharp/MainWindow.xaml#3)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [提升 TreeView 的性能](how-to-improve-the-performance-of-a-treeview.md)

@@ -26,11 +26,11 @@ elem.Element[{namespaceName}localName]
 
 一个类型为 `XElement Item(String expandedName)` 的索引器。 此索引器获取扩展名参数并返回相应的 <xref:System.Xml.Linq.XElement>，或者如果没有具有指定名称的元素，则返回 `null`。
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 此属性等效于 <xref:System.Xml.Linq.XContainer.Element%2A> 类的 <xref:System.Xml.Linq.XContainer?displayProperty=fullName> 方法。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Xml.Linq.XContainer.Element%2A?displayProperty=fullName>
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)

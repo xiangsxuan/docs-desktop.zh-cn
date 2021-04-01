@@ -115,7 +115,7 @@ DrawingBrush 不透明蒙板示例
   
  [!code-xaml[OpacityMasksSnippet#TiledDrawingasOpacityMask](~/samples/snippets/csharp/VS_Snippets_Wpf/OpacityMasksSnippet/CS/DrawingBrushExample.xaml#tileddrawingasopacitymask)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)
 - [使用纯色和渐变进行绘制概述](painting-with-solid-colors-and-gradients-overview.md)

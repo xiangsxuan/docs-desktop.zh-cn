@@ -17,7 +17,7 @@ ms.locfileid: "96970460"
 # <a name="passwordbox"></a>PasswordBox
 <xref:System.Windows.Controls.PasswordBox>控件用于输入敏感或私有信息。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.TextBox>
 - <xref:System.Windows.Controls.RichTextBox>

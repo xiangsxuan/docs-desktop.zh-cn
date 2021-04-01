@@ -133,7 +133,7 @@ ms.locfileid: "96970831"
   
  有关对象的平铺功能的详细信息 <xref:System.Windows.Media.TileBrush> ，请参阅 [TileBrush 概述](tilebrush-overview.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.ImageBrush>
 - <xref:System.Windows.Media.DrawingBrush>

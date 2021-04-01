@@ -65,7 +65,7 @@ ms.locfileid: "96970433"
 ## <a name="detect-when-content-changes"></a>检测内容何时更改  
  通常情况 <xref:System.Windows.Controls.Primitives.TextBoxBase.TextChanged> 下，事件应该用于在或更改中的文本时进行检测 <xref:System.Windows.Controls.TextBox> <xref:System.Windows.Controls.RichTextBox> ，而不是像预期那样进行检测 <xref:System.Windows.UIElement.KeyDown> 。 有关示例，请参阅[检测 TextBox 中的文本何时更改](how-to-detect-when-text-in-a-textbox-has-changed.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [操作指南主题](textbox-how-to-topics.md)
 - [RichTextBox 概述](richtextbox-overview.md)

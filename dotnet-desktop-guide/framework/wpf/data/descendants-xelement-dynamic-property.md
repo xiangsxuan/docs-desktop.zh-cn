@@ -23,7 +23,7 @@ elem.Descendants[{namespaceName}localName]
 
 一个类型为 `IEnumerable<XElement> Item(String expandedName)` 的索引器。 此索引器获取指定子代元素的扩展名，并返回 <xref:System.Collections.IEnumerable>`<`<xref:System.Xml.Linq.XElement>`>` 集合中的匹配子元素。
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 此属性等效于 <xref:System.Xml.Linq.XContainer.Descendants(System.Xml.Linq.XName)?displayProperty=fullName> 类的 <xref:System.Xml.Linq.XContainer> 方法。
 
@@ -31,7 +31,7 @@ elem.Descendants[{namespaceName}localName]
 
 此属性使用延迟执行。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)
 - [元素](elements-xelement-dynamic-property.md)

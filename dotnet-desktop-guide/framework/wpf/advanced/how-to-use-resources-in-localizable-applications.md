@@ -29,6 +29,6 @@ WPF 应用程序所需的文件之一是 ( proj) 的项目文件。 应用程序
 
 [!code-csharp[LocalizationResources#2](~/samples/snippets/csharp/VS_Snippets_Wpf/LocalizationResources/CSharp/page1.xaml.cs#2)]
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [对应用进行本地化](how-to-localize-an-application.md)

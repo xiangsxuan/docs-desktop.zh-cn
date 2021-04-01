@@ -126,6 +126,6 @@ ms.locfileid: "96970379"
 ## <a name="markup-extensions-for-events"></a>事件的标记扩展  
  WPF 4.5 支持事件的标记扩展。  虽然 WPF 未定义用于事件的标记扩展，但第三方能够创建可与事件配合使用的标记扩展。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [.NET Framework 中的新增功能](/dotnet/framework/whats-new/index)

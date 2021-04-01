@@ -28,7 +28,7 @@ ms.locfileid: "96970698"
  [!code-csharp[FindGeneratedItems#CTFindElement](~/samples/snippets/csharp/VS_Snippets_Wpf/FindGeneratedItems/CSharp/Window1.xaml.cs#ctfindelement)]
  [!code-vb[FindGeneratedItems#CTFindElement](~/samples/snippets/visualbasic/VS_Snippets_Wpf/FindGeneratedItems/VisualBasic/Window1.xaml.vb#ctfindelement)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [查找由 DataTemplate 生成的元素](../data/how-to-find-datatemplate-generated-elements.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

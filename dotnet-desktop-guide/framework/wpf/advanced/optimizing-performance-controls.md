@@ -75,7 +75,7 @@ UI 虚拟化是列表控件的一个重要方面。 不应混淆 UI 虚拟化和
 > [!NOTE]
 > 有关如何在上启用虚拟化和容器回收的示例 <xref:System.Windows.Controls.TreeView> ，请参阅 [提高 TreeView 的性能](../controls/how-to-improve-the-performance-of-a-treeview.md)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [布局](layout.md)
 - [布局和设计](optimizing-performance-layout-and-design.md)

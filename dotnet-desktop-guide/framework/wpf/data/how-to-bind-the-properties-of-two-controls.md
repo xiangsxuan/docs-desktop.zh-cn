@@ -30,7 +30,7 @@ ms.locfileid: "96970402"
 > [!NOTE]
 > 在此示例中 (绑定目标属性， <xref:System.Windows.Controls.Panel.Background%2A> 属性) 必须是依赖属性。 有关详细信息，请参阅 [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [指定绑定源](how-to-specify-the-binding-source.md)
 - [操作指南主题](data-binding-how-to-topics.md)

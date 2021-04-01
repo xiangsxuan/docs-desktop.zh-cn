@@ -36,7 +36,7 @@ ms.locfileid: "96970624"
   
  有关演示如何在启动后交互控制的示例 <xref:System.Windows.Media.Animation.Clock> ，请参阅 [以交互方式控制时钟](how-to-interactively-control-a-clock.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用情节提要对属性进行动画处理](how-to-animate-a-property-by-using-a-storyboard.md)
 - [在不使用情节提要的情况下对属性进行动画处理](how-to-animate-a-property-without-using-a-storyboard.md)

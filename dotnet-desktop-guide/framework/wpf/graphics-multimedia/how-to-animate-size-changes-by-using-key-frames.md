@@ -29,7 +29,7 @@ ms.locfileid: "96970949"
   
  有关完整示例，请参阅[关键帧动画示例](https://github.com/microsoft/WPF-Samples/tree/master/Animation/KeyFrameAnimation)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Animation.SizeAnimationUsingKeyFrames>
 - <xref:System.Windows.Media.ArcSegment.Size%2A>

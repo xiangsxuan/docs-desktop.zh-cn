@@ -39,7 +39,7 @@ ms.locfileid: "96970866"
   
  有关其他示例，请参阅 [画笔示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/Brushes)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.GradientStop>
 - [动画概述](animation-overview.md)

@@ -17,7 +17,7 @@ ms.locfileid: "96970633"
 # <a name="flowdocumentscrollviewer"></a>FlowDocumentScrollViewer
 <xref:System.Windows.Controls.FlowDocumentScrollViewer>控件用于查看 <xref:System.Windows.Documents.FlowDocument> 滚动容器中的内容。 与相对应的 <xref:System.Windows.Controls.FlowDocumentPageViewer> ，它基于每个页面查看内容。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.FlowDocumentReader>
 - <xref:System.Windows.Controls.FlowDocumentPageViewer>

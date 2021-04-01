@@ -26,7 +26,7 @@ ms.locfileid: "96971494"
  [使用 Win32 宿主容器进行命中测试](how-to-hit-test-using-a-win32-host-container.md)  
  [使用 CompositionTarget 按每帧间隔呈现](how-to-render-on-a-per-frame-interval-using-compositiontarget.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Visual>
 - <xref:System.Windows.Media.VisualTreeHelper>

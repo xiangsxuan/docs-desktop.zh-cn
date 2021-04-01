@@ -28,7 +28,7 @@ ms.locfileid: "96970868"
   
  [!code-xaml[Animation3DGallery_snip#Translation3DAnimationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/Translation3DAnimationExample.xaml#translation3danimationexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [动画概述](animation-overview.md)
 - [创建三维场景](how-to-create-a-3-d-scene.md)

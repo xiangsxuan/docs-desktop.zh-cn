@@ -494,7 +494,7 @@ ms.locfileid: "96970384"
 - [图形和多媒体](../graphics-multimedia/index.md)
 - [WPF 中的文档](../advanced/documents-in-wpf.md)
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [面板概述](../controls/panels-overview.md)
 - [数据模板化概述](../data/data-templating-overview.md)

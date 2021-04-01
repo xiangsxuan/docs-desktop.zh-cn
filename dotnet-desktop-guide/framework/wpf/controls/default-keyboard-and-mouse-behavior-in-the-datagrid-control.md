@@ -22,7 +22,7 @@ ms.locfileid: "96970948"
 ## <a name="default-keyboard-behavior"></a>默认键盘行为  
  下表列出了的默认键盘行为 <xref:System.Windows.Controls.DataGrid> 。  
   
-|键或键组合|描述|  
+|键或键组合|说明|  
 |----------------------------|-----------------|  
 |向下键|将焦点移动到当前单元格下方的单元格。 如果焦点位于最后一行，则按向下键不会执行任何操作。|  
 |向上键|将焦点移动到当前单元格上方的单元格。 如果焦点位于第一行，则按向上键将不执行任何操作。|  
@@ -74,7 +74,7 @@ ms.locfileid: "96970948"
 ## <a name="default-mouse-behavior"></a>默认鼠标行为  
  下表列出了的默认鼠标行为 <xref:System.Windows.Controls.DataGrid> 。  
   
-|鼠标操作|描述|  
+|鼠标操作|说明|  
 |------------------|-----------------|  
 |单击未选定的行|使单击的行成为当前行，单击的单元格将当前单元格。|  
 |单击当前单元|将当前的单元格置于编辑模式。|  
@@ -96,7 +96,7 @@ ms.locfileid: "96970948"
   
  可以组合 CTRL + SHIFT 来选择相邻行的非相邻范围。 为此，请使用 SHIFT + 单击选择第一个范围，如前文所述。 选择第一个范围的行后，使用 CTRL + 单击选择下一个范围中的第一行，然后按 CTRL + SHIFT 并单击下一个范围中的最后一行。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.DataGrid>
 - <xref:System.Windows.Controls.DataGrid.SelectionMode%2A>

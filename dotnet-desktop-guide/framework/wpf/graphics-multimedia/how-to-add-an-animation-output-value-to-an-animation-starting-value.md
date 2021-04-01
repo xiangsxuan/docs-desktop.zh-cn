@@ -21,7 +21,7 @@ ms.locfileid: "96970869"
   
  [!code-xaml[timingbehaviors_snip#IsAdditiveWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/timingbehaviors_snip/CSharp/IsAdditiveExample.xaml#isadditivewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [在重复循环过程中累积动画值](how-to-accumulate-animation-values-during-repeat-cycles.md)
 - [动画概述](animation-overview.md)

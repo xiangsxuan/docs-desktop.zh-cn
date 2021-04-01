@@ -38,7 +38,7 @@ ms.locfileid: "96970489"
   
  `spellingError = myRichTextBox.GetSpellingError(myRichTextBox.CaretPosition);`  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [TextBox 概述](textbox-overview.md)
 - [RichTextBox 概述](richtextbox-overview.md)

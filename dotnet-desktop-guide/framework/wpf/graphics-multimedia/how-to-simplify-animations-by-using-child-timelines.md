@@ -25,7 +25,7 @@ ms.locfileid: "96971009"
 ## <a name="example"></a>示例  
  [!code-xaml[Timelines_snip#ParallelTimelineWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Timelines_snip/CS/ParallelTimelineExample.xaml#paralleltimelinewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [动画概述](animation-overview.md)
 - [指定情节提要动画之间的 HandoffBehavior](how-to-specify-handoffbehavior-between-storyboard-animations.md)
