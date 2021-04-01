@@ -11,10 +11,10 @@ helpviewer_keywords:
 - print jobs [WPF], diagnosing problems
 ms.assetid: b081a170-84c6-48f9-a487-5766a8d58a82
 ms.openlocfilehash: ce79818b16824969ef0bd2a9c8adfd7ca094cec0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970597"
 ---
 # <a name="how-to-diagnose-problematic-print-job"></a>如何：诊断有问题的打印作业
@@ -81,7 +81,7 @@ ms.locfileid: "96970597"
  [!code-csharp[DiagnoseProblematicPrintJob#HandlePausedJob](~/samples/snippets/csharp/VS_Snippets_Wpf/DiagnoseProblematicPrintJob/CSharp/Program.cs#handlepausedjob)]
  [!code-vb[DiagnoseProblematicPrintJob#HandlePausedJob](~/samples/snippets/visualbasic/VS_Snippets_Wpf/DiagnoseProblematicPrintJob/visualbasic/program.vb#handlepausedjob)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Printing.PrintJobStatus>
 - <xref:System.Printing.PrintSystemJobInfo>

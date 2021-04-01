@@ -8,10 +8,10 @@ helpviewer_keywords:
 - CheckBox control [WPF]
 ms.assetid: ee701cc2-968b-4683-8f81-3fafd8542700
 ms.openlocfilehash: 64b703a29013307e36ec331d4043893dc04e614a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973257"
 ---
 # <a name="checkbox"></a>CheckBox

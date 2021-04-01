@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Grid control [WPF], RowDefinitionCollection class
 ms.assetid: bfc7160a-45f2-4e17-9961-df414dfb13c5
 ms.openlocfilehash: 2f6d174fd54dca3744e5967f198c645e01a94fe5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973195"
 ---
 # <a name="how-to-manipulate-columns-and-rows-by-using-columndefinitionscollections-and-rowdefinitionscollections"></a>如何：使用 ColumnDefinitionsCollection 和 RowDefinitionsCollection 来操作列和行
@@ -29,7 +29,7 @@ ms.locfileid: "96973195"
  [!code-csharp[ColumnDefinitionsGrid#2](~/samples/snippets/csharp/VS_Snippets_Wpf/ColumnDefinitionsGrid/CSharp/Window1.xaml.cs#2)]
  [!code-vb[ColumnDefinitionsGrid#2](~/samples/snippets/visualbasic/VS_Snippets_Wpf/ColumnDefinitionsGrid/VisualBasic/Window1.xaml.vb#2)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Grid>
 - <xref:System.Windows.Controls.ColumnDefinitionCollection>

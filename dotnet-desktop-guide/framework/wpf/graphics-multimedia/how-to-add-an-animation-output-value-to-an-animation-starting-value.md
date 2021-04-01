@@ -5,10 +5,10 @@ helpviewer_keywords:
 - animation [WPF]
 ms.assetid: b89a82be-b03d-481e-a8d3-cc513d09ca00
 ms.openlocfilehash: 945675d03a280e2394fdb0eab27c0978dc7cc320
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970869"
 ---
 # <a name="how-to-add-an-animation-output-value-to-an-animation-starting-value"></a>如何：向动画起始值添加动画输出值
@@ -21,7 +21,7 @@ ms.locfileid: "96970869"
   
  [!code-xaml[timingbehaviors_snip#IsAdditiveWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/timingbehaviors_snip/CSharp/IsAdditiveExample.xaml#isadditivewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [在重复循环过程中累积动画值](how-to-accumulate-animation-values-during-repeat-cycles.md)
 - [动画概述](animation-overview.md)

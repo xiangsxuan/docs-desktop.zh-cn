@@ -11,10 +11,10 @@ helpviewer_keywords:
 - glyphs [WPF]
 ms.assetid: d5d9274c-23b3-4859-8869-6e64403c9ca7
 ms.openlocfilehash: 106699c0e599411b56561565099b8ebcf300f837
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970700"
 ---
 # <a name="glyphs"></a>标志符号
@@ -24,7 +24,7 @@ ms.locfileid: "96970700"
  [GlyphRun 对象和 Glyphs 元素简介](introduction-to-the-glyphrun-object-and-glyphs-element.md)  
   [如何：使用 Glyphs 绘制文本](draw-text-using-glyphs.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.GlyphRun>
 - <xref:System.Windows.Media.DrawingContext.DrawText%2A>

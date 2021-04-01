@@ -7,10 +7,10 @@ helpviewer_keywords:
 - documents [WPF], adjusting spacing between paragraphs
 ms.assetid: 7cd2f2ac-0e19-4587-bfb6-7f5b18c9536e
 ms.openlocfilehash: e2a6ba34e3ab15eb316671fef7c11bea03d53c73
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972471"
 ---
 # <a name="how-to-adjust-spacing-between-paragraphs"></a>如何：调整段落间的间距

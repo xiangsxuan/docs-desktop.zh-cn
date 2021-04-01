@@ -7,10 +7,10 @@ helpviewer_keywords:
 - WPF [WPF], what's new
 ms.assetid: db086ae4-70bb-4862-95db-2eaca5216bc3
 ms.openlocfilehash: e6511e298201202c9f2917af8bcf5f3832dd0149
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970379"
 ---
 # <a name="whats-new-in-wpf-version-45"></a>WPF 版本 4.5 的新增功能
@@ -126,6 +126,6 @@ ms.locfileid: "96970379"
 ## <a name="markup-extensions-for-events"></a>事件的标记扩展  
  WPF 4.5 支持事件的标记扩展。  虽然 WPF 未定义用于事件的标记扩展，但第三方能够创建可与事件配合使用的标记扩展。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [.NET Framework 中的新增功能](/dotnet/framework/whats-new/index)

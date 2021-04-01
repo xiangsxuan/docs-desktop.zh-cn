@@ -11,10 +11,10 @@ helpviewer_keywords:
 - application-scope resource dictionaries
 ms.assetid: 53857682-bd2c-4f2c-8f25-1307d0b451a2
 ms.openlocfilehash: 0d9c4f851c5ee03bf60dbdadc31d9fc4c6536746
-ms.sourcegitcommit: 302273bd74509dfbff11126753dd210d80f1bc37
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/16/2021
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "98535983"
 ---
 # <a name="how-to-use-an-application-scope-resource-dictionary"></a>如何：使用应用程序范围的资源字典
@@ -46,7 +46,7 @@ ms.locfileid: "98535983"
 
 某些资源类型可能会自动使用类型定义的属性作为显式键，如 <xref:System.Windows.Style> 和 <xref:System.Windows.DataTemplate> 类型。 这可能会覆盖你的 `x:Key` 值。 若要确保遵循你的 `x:Key` 密钥，请在显式键属性之前声明。 有关详细信息，请参阅 [样式、DataTemplates 和隐式键](../advanced/xaml-resources-define.md#styles-datatemplates-and-implicit-keys)。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.ResourceDictionary>
 - <xref:System.Windows.Application.Resources%2A>

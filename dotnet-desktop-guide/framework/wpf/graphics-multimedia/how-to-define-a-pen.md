@@ -9,10 +9,10 @@ helpviewer_keywords:
 - creating [WPF], pens
 ms.assetid: 7a4f2900-cdf9-49de-84e0-ba5d0ded4d33
 ms.openlocfilehash: 1d69a40604dbf2f7a73c17279ae946faeb6c634a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971724"
 ---
 # <a name="how-to-define-a-pen"></a>如何：定义钢笔

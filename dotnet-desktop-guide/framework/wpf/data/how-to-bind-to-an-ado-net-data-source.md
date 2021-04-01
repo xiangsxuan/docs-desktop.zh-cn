@@ -10,10 +10,10 @@ helpviewer_keywords:
 - binding [WPF], to ADO.NET data sources
 ms.assetid: a70c6d7b-7b38-4fdf-b655-4804db7c8315
 ms.openlocfilehash: d7ffaae472d89ebc23804c4032a75253756dc871
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970393"
 ---
 # <a name="how-to-bind-to-an-adonet-data-source"></a>如何：绑定到 ADO.NET 数据源
@@ -37,7 +37,7 @@ ms.locfileid: "96970393"
 
 `IntColorConverter` 将 `int` 转换为颜色。 使用此转换器时， <xref:System.Windows.Controls.TextBlock.Background%2A> 如果的值小于350，则第三个颜色 <xref:System.Windows.Controls.TextBlock> 显示 `NumPages` 为绿色; 否则为红色。 此处未显示此转换器的实现。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Data.BindingListCollectionView>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

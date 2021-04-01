@@ -11,10 +11,10 @@ helpviewer_keywords:
 - sizing windows to fit content [WPF]
 ms.assetid: 333ca72a-c2f3-4414-9303-3fdabaaa1b32
 ms.openlocfilehash: a04089c737102895f1ff6da19fa6a0d17cc60ab6
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973031"
 ---
 # <a name="how-to-automatically-size-a-window-to-fit-its-content"></a>如何：自动调整窗口大小以适应其内容

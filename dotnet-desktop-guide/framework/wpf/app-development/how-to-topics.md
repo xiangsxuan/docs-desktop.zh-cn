@@ -9,10 +9,10 @@ helpviewer_keywords:
 - add-ins [WPF], returns a UI
 ms.assetid: c33980e8-36e7-45ce-a485-8c826dd29009
 ms.openlocfilehash: 27eb7acbab7d9c90f0c0c311ef6331a16b7896e8
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970233"
 ---
 # <a name="how-to-topics"></a>操作指南主题

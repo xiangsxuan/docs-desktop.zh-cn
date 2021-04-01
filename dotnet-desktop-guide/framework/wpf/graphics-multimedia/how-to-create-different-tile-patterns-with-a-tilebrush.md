@@ -10,10 +10,10 @@ helpviewer_keywords:
 - creating [WPF], tile patterns with TileBrush
 ms.assetid: 5aa46632-3527-4668-9d8d-0375c8af28aa
 ms.openlocfilehash: c1051b234961eee9ae740af2abac3d64c523656c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972837"
 ---
 # <a name="how-to-create-different-tile-patterns-with-a-tilebrush"></a>如何：使用 TileBrush 创建不同的平铺模式
@@ -33,7 +33,7 @@ ms.locfileid: "96972837"
  [!code-vb[BrushesIntroduction_snip#GraphicsMMDrawingBrushTileModeExample](~/samples/snippets/visualbasic/VS_Snippets_Wpf/BrushesIntroduction_snip/visualbasic/tilemodeexample.vb#graphicsmmdrawingbrushtilemodeexample)]
  [!code-xaml[BrushesIntroduction_snip#GraphicsMMDrawingBrushTileModeExample](~/samples/snippets/xaml/VS_Snippets_Wpf/BrushesIntroduction_snip/XAML/TileModeExample.xaml#graphicsmmdrawingbrushtilemodeexample)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [设置 TileBrush 的平铺大小](how-to-set-the-tile-size-for-a-tilebrush.md)
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

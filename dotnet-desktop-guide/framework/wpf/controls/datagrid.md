@@ -12,10 +12,10 @@ helpviewer_keywords:
 - DataGrid columns [WPF], using
 ms.assetid: bf89ea63-79b6-422b-bc9f-0485ad803216
 ms.openlocfilehash: 8ba15b16cae9e76cc09f4a93ab120707c9bec201
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972468"
 ---
 # <a name="datagrid"></a>DataGrid
@@ -34,7 +34,7 @@ ms.locfileid: "96972468"
   
  下表列出了一些常见的任务 <xref:System.Windows.Controls.DataGrid> ，以及如何完成这些任务。 通过查看相关 API，可以找到详细信息和示例代码。  
   
-|场景|方法|  
+|方案|方法|  
 |--------------|--------------|  
 |交替背景色|将 <xref:System.Windows.Controls.ItemsControl.AlternationIndex%2A> 属性设置为2或更大，然后将分配给 <xref:System.Windows.Media.Brush> <xref:System.Windows.Controls.DataGrid.RowBackground%2A> 和 <xref:System.Windows.Controls.DataGrid.AlternatingRowBackground%2A> 属性。|  
 |定义单元格和行选择行为|设置 <xref:System.Windows.Controls.DataGrid.SelectionMode%2A> 和 <xref:System.Windows.Controls.DataGrid.SelectionUnit%2A> 属性。|  
@@ -57,7 +57,7 @@ ms.locfileid: "96972468"
 |[如何：在 DataGrid 控件中对数据进行分组、排序和筛选](how-to-group-sort-and-filter-data-in-the-datagrid-control.md)|介绍如何 <xref:System.Windows.Controls.DataGrid> 通过对数据进行分组、排序和筛选来以不同的方式查看中的数据。|  
 |[DataGrid 控件中的调整大小选项](sizing-options-in-the-datagrid-control.md)|描述如何在中控制绝对和自动调整大小 <xref:System.Windows.Controls.DataGrid> 。|  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.DataGrid>
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

@@ -7,10 +7,10 @@ helpviewer_keywords:
 - mail [WPF], sending from pages
 ms.assetid: b64b9518-df17-4232-94f2-455a4f77ee48
 ms.openlocfilehash: ee7c6a74c89b83e8960e29ad9ff7a8dad483c4f0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970230"
 ---
 # <a name="how-to-use-mailto-to-send-mail-from-a-page"></a>如何：使用 mailto：从页面发送邮件

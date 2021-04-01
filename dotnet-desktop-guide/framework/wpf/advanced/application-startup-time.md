@@ -9,10 +9,10 @@ helpviewer_keywords:
 - performance [WPF], startup time
 ms.assetid: f0ec58d8-626f-4d8a-9873-c20f95e08b96
 ms.openlocfilehash: effcc40800ed12e26c2594a11c210cc926743778
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973154"
 ---
 # <a name="application-startup-time"></a>应用程序启动时间
@@ -122,7 +122,7 @@ ms.locfileid: "96973154"
 ## <a name="set-data-binding-programmatically"></a>以编程方式设置数据绑定  
  <xref:System.Windows.FrameworkElement.DataContext%2A>请考虑在方法中以编程方式设置主窗口，而不是使用 XAML 以声明方式设置 <xref:System.Windows.Application.OnActivated%2A> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.SplashScreen>
 - <xref:System.AppDomain>

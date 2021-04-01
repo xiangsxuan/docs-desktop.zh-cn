@@ -10,10 +10,10 @@ helpviewer_keywords:
 - applications [WPF], localizing
 ms.assetid: 5001227e-9326-48a4-9dcd-ba1b89ee6653
 ms.openlocfilehash: dc7d8f4f56b26fffbd883e1e1d6e420026e1f94f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972785"
 ---
 # <a name="how-to-localize-an-application"></a>如何：对应用程序进行本地化
@@ -76,7 +76,7 @@ ms.locfileid: "96972785"
 
    `msbuild locbaml.csproj`
   
-3. 请在 *Bin\Release* 目录中查找新创建的可执行文件 ( # A0) 。 示例： *C:\LocBaml\Bin\Release\locbaml.exe*
+3. 请在 *Bin\Release* 目录中查找新创建的可执行文件 (locbaml.exe) 。 示例： *C:\LocBaml\Bin\Release\locbaml.exe*
   
 4. 运行 LocBaml 时可以指定的选项如下所示。
 
@@ -135,9 +135,9 @@ ms.locfileid: "96972785"
   
    |BAML 名称|资源键|类别|可读性|可修改性|注释|值|  
    |---------------|------------------|--------------|-----------------|-------------------|--------------|-----------|
-   |HelloApp.g.en-US.resources:window1.baml|Stack1:System.Windows.Controls.StackPanel.$Content|忽略|FALSE|FALSE||#Text1;#Text2|
-   |HelloApp.g.en-US.resources:window1.baml|Text1:System.Windows.Controls.TextBlock.$Content|无|TRUE|true||Hello World|
-   |HelloApp.g.en-US.resources:window1.baml|Text2:System.Windows.Controls.TextBlock.$Content|无|TRUE|true||Goodbye World|
+   |HelloApp.g.en-US.resources:window1.baml|Stack1:System.Windows.Controls.StackPanel.$Content|忽略|false|false||#Text1;#Text2|
+   |HelloApp.g.en-US.resources:window1.baml|Text1:System.Windows.Controls.TextBlock.$Content|无|TRUE|TRUE||Hello World|
+   |HelloApp.g.en-US.resources:window1.baml|Text2:System.Windows.Controls.TextBlock.$Content|无|TRUE|TRUE||Goodbye World|
   
    请注意， **注释** 字段的所有值不包含任何值;如果字段没有值，则为空。 另请注意，第一行中的项既不可读也不可修改，并且具有 "Ignore" 作为其 **类别** 值，所有这些都指示该值不可本地化。  
   
@@ -188,7 +188,7 @@ ms.locfileid: "96972785"
   
 - 本地化的资源 DLL 的版本需与主程序集进行同步。
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 的全球化](globalization-for-wpf.md)
 - [使用自动布局概述](use-automatic-layout-overview.md)

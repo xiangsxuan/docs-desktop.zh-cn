@@ -11,10 +11,10 @@ helpviewer_keywords:
 - AnalysisHintNode objects [WPF]
 ms.assetid: d4421ed4-77f5-4640-829e-9f1de50b2ff2
 ms.openlocfilehash: 5e94628d357a2ca75ad1b6fb7e464a3355f1fd5f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971928"
 ---
 # <a name="how-to-analyze-ink-with-analysis-hints"></a>如何：通过分析提示来分析墨迹

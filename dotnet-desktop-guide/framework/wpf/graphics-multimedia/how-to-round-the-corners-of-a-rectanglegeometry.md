@@ -8,10 +8,10 @@ helpviewer_keywords:
 - rounding corners of RectangleGeometry objects [WPF]
 ms.assetid: 926644bc-1357-4c0b-ac81-694bd090ae87
 ms.openlocfilehash: eb2f173bedb903e12b2795264c684524cfa09825
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973173"
 ---
 # <a name="how-to-round-the-corners-of-a-rectanglegeometry"></a>如何：圆化 RectangleGeometry 的角
@@ -25,7 +25,7 @@ ms.locfileid: "96973173"
  ![具有不同 RadiusX&#47;RadiusY 设置的矩形](./media/graphicsmm-rounded.png "graphicsmm_rounded")  
 带圆角的矩形  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [Geometry 概述](geometry-overview.md)
 - [创建复合形状](how-to-create-a-composite-shape.md)

@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Storyboards [WPF], animation
 ms.assetid: f4a314e9-1da2-4367-85fc-1232487efa7a
 ms.openlocfilehash: 7df2b9776f9150cdb21bcea79969f341f72aead3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972982"
 ---
 # <a name="how-to-animate-a-property-by-using-a-storyboard"></a>如何：使用演示图板对属性进行动画处理

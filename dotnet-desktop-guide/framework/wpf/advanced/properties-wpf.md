@@ -10,10 +10,10 @@ helpviewer_keywords:
 - properties [WPF]
 ms.assetid: d6e0197f-f2c4-48ed-b45b-b9cdb64aab1c
 ms.openlocfilehash: b46c3b81dd3cc4fbbe5dbd4aa6bd09bfe525488d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973141"
 ---
 # <a name="properties-wpf"></a>属性 (WPF)

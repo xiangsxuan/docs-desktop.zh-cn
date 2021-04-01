@@ -9,10 +9,10 @@ dev_langs:
 - csharp
 - vb
 ms.openlocfilehash: c2ae7f4ad127d98cc909e99d036260ee10b76ae4
-ms.sourcegitcommit: 0a512a7965f8efa476eb024208479e4432a1fa72
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "100101932"
 ---
 # <a name="wpf-overview"></a>WPF 概述
@@ -142,7 +142,7 @@ End Namespace
 
 ![消息框](media/introduction-to-wpf/wpfintrofigure25.png)
 
-## <a name="controls"></a>控件
+## <a name="controls"></a>控制
 
 应用程序模型带来的用户体验是构造的控件。 在 WPF 中， *控件* 是一个涵盖性术语，适用于在窗口或页中承载的 WPF 类的类别、具有用户界面并实现某些行为。
 
@@ -184,7 +184,7 @@ End Namespace
 
 应用程序通常具有复杂的输入要求。 WPF 提供了[命令系统](advanced/commanding-overview.md)，用于将用户输入操作与对这些操作做出响应的代码分隔开来。
 
-## <a name="layout"></a>布局
+## <a name="layout"></a>Layout
 
 创建用户界面时，按照位置和大小排列控件以形成布局。 任何布局的一项关键要求都是适应窗口大小和显示设置的变化。 WPF 为你提供一流的可扩展布局系统，而不强制你编写代码以适应这些情况下的布局。
 
@@ -672,7 +672,7 @@ WPF 控件的默认用户界面通常是从其他控件和形状构造的。 例
 > [!div class="nextstepaction"]
 > [演练：我的第一个 WPF 桌面应用](getting-started/walkthrough-my-first-wpf-desktop-application.md)
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 入门](getting-started/index.md)
 - [Windows Presentation Foundation](index.md)

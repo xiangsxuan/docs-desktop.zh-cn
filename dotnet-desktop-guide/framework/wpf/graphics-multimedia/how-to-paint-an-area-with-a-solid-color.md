@@ -7,10 +7,10 @@ helpviewer_keywords:
 - painting [WPF], with solid colors
 ms.assetid: 5d27d8a7-4bd7-4063-bdf3-2c5c0f19f9d3
 ms.openlocfilehash: be28a0af04c4e43cdf745a5429468aee99e34c40
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972075"
 ---
 # <a name="how-to-paint-an-area-with-a-solid-color"></a>如何：使用纯色绘制区域
@@ -49,6 +49,6 @@ ms.locfileid: "96972075"
   
  此代码示例是为类提供的更大示例的一部分 <xref:System.Windows.Media.SolidColorBrush> 。 有关完整示例，请参阅[画笔示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/Brushes)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Brushes>

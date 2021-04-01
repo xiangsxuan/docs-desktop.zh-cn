@@ -6,10 +6,10 @@ apiname:
 - XElement.Elements
 apitype: Assembly
 ms.openlocfilehash: 812adabd3bfb01fd9313ce3f35e6cb0a5e23344e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970404"
 ---
 # <a name="elements-xelement-dynamic-property"></a>元素（XElement 动态属性）
@@ -34,7 +34,7 @@ elem.Elements[{namespaceName}localName]
 
 此属性使用延迟执行。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)
 - [元素](element-xelement-dynamic-property.md)

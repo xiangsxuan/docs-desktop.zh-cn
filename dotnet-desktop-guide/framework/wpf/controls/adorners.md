@@ -7,10 +7,10 @@ helpviewer_keywords:
 - adorners [WPF]
 ms.assetid: 5d5f656b-8e05-4839-9d53-b0324d902aa9
 ms.openlocfilehash: 7ff73c62740865ef87c88388b3c6139eb0fcbd6e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973281"
 ---
 # <a name="adorners"></a>装饰器

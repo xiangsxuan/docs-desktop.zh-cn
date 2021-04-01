@@ -9,10 +9,10 @@ helpviewer_keywords:
 - controls [WPF], StackPanel
 ms.assetid: a82b824c-1b98-49a9-b7fd-2d9c154dd002
 ms.openlocfilehash: df78e1037f0bc444d5ae3820eda5d461a415e265
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971498"
 ---
 # <a name="stackpanel"></a>StackPanel

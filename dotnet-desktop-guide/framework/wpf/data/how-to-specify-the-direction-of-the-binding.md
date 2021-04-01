@@ -7,10 +7,10 @@ helpviewer_keywords:
 - data binding [WPF], direction of binding
 ms.assetid: 37334478-028b-4514-86c9-1420709f4818
 ms.openlocfilehash: 6b3c6afde5e9fa1b778905b1a278bb295b6cbf11
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972087"
 ---
 # <a name="how-to-specify-the-direction-of-the-binding"></a>如何：指定绑定的方向
@@ -40,7 +40,7 @@ ms.locfileid: "96972087"
   
  对于 <xref:System.Windows.Data.BindingMode.TwoWay> 或 <xref:System.Windows.Data.BindingMode.OneWayToSource> 绑定，可以通过设置属性来控制源更新的时间 <xref:System.Windows.Data.Binding.UpdateSourceTrigger%2A> 。 有关详细信息，请参阅<xref:System.Windows.Data.Binding.UpdateSourceTrigger%2A>。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Data.Binding>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

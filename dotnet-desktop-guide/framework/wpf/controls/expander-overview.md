@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Expander control [WPF], about Expander control
 ms.assetid: 877bf425-0e54-49ec-8fd2-13a211377abb
 ms.openlocfilehash: 3fcbcc67b65383133eef8d3e59cb1f8f0ff06f20
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972467"
 ---
 # <a name="expander-overview"></a>Expander 概述
@@ -58,7 +58,7 @@ ms.locfileid: "96972467"
 ## <a name="using-the-alignment-properties"></a>使用对齐属性  
  可以通过设置控件的和属性来对齐内容 <xref:System.Windows.Controls.Control.HorizontalContentAlignment%2A> <xref:System.Windows.Controls.Control.VerticalContentAlignment%2A> <xref:System.Windows.Controls.Expander> 。 当设置这些属性时，对齐将同时应用于标头和展开的内容。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Expander>
 - <xref:System.Windows.Controls.ExpandDirection>

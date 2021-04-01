@@ -7,10 +7,10 @@ helpviewer_keywords:
 - brushes [WPF], painting with system brushes [WPF]
 ms.assetid: 5141a763-9235-42cb-a6bb-afc75513eac7
 ms.openlocfilehash: 26511c577bf06b016dfc69cedc7fce2bafb35f32
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972775"
 ---
 # <a name="how-to-paint-an-area-with-a-system-brush"></a>如何：使用系统画笔绘制区域
@@ -47,7 +47,7 @@ ms.locfileid: "96972775"
   
  有关演示如何在渐变中使用系统颜色的示例，请参阅 [在渐变中使用系统颜色](how-to-use-system-colors-in-a-gradient.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [在渐变中使用系统颜色](how-to-use-system-colors-in-a-gradient.md)
 - [使用纯色和渐变进行绘制概述](painting-with-solid-colors-and-gradients-overview.md)

@@ -7,10 +7,10 @@ helpviewer_keywords:
 - windows [WPF], managing
 ms.assetid: 3090b408-94e4-446a-92ca-50f1fd36e5d8
 ms.openlocfilehash: 3ba5be1cc5a0f8aff0b46aa53ecea5726320bd43
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972970"
 ---
 # <a name="window-management-how-to-topics"></a>窗口管理操作指南主题

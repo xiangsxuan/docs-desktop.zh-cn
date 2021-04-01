@@ -10,10 +10,10 @@ helpviewer_keywords:
 - thumbnails [WPF], loading images as
 ms.assetid: 02e055a0-54df-499a-b8b6-ab6ff7535cff
 ms.openlocfilehash: a5b2f4b7de52203ded711e9e829886a5c25c6067
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972679"
 ---
 # <a name="how-to-load-an-image-as-a-thumbnail"></a>如何：将图像作为缩略图加载
@@ -30,6 +30,6 @@ ms.locfileid: "96972679"
  [!code-csharp[ImageElementExample_snip#ImageSimpleExampleInlineCode1](~/samples/snippets/csharp/VS_Snippets_Wpf/ImageElementExample_snip/CSharp/ImageSimpleExample.xaml.cs#imagesimpleexampleinlinecode1)]
  [!code-vb[ImageElementExample_snip#ImageSimpleExampleInlineCode1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/ImageElementExample_snip/VB/ImageSimpleExample.xaml.vb#imagesimpleexampleinlinecode1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [图像处理概述](imaging-overview.md)

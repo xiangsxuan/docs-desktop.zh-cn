@@ -12,10 +12,10 @@ helpviewer_keywords:
 - metadata [WPF], reading from a bitmap
 ms.assetid: 920784ed-d96b-43e6-92d4-5dea5228f628
 ms.openlocfilehash: 63f4513663c295406b0cdefd818a47aee6be4f41
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970844"
 ---
 # <a name="how-to-read-metadata-from-a-bitmap"></a>如何：从位图读取元数据

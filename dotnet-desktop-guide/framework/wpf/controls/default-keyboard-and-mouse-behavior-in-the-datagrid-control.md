@@ -8,10 +8,10 @@ helpviewer_keywords:
 - mouse behavior [WPF], DataGrid
 ms.assetid: 563b8854-ca39-4d97-8235-17eaa0f93c8d
 ms.openlocfilehash: a518c6123b21ae62742071a0b26c6a09fa272b17
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970948"
 ---
 # <a name="default-keyboard-and-mouse-behavior-in-the-datagrid-control"></a>DataGrid 控件中的默认键盘和鼠标行为
@@ -48,7 +48,7 @@ ms.locfileid: "96970948"
 |Backspace|编辑单元格时删除光标前的字符。|  
 |DELETE|编辑单元格时删除光标后的字符。|  
 |Ctrl+Enter|提交对当前单元格所做的任何更改，而不移动焦点。|  
-|Ctrl+A|如果 <xref:System.Windows.Controls.DataGrid.SelectionMode%2A> 设置为 <xref:System.Windows.Controls.DataGridSelectionMode.Extended> ，则选择中的所有行 <xref:System.Windows.Controls.DataGrid> 。|  
+|CTRL + A|如果 <xref:System.Windows.Controls.DataGrid.SelectionMode%2A> 设置为 <xref:System.Windows.Controls.DataGridSelectionMode.Extended> ，则选择中的所有行 <xref:System.Windows.Controls.DataGrid> 。|  
   
 ## <a name="selection-keys"></a>选择键  
  如果将 <xref:System.Windows.Controls.DataGrid.SelectionMode%2A> 属性设置为 <xref:System.Windows.Controls.DataGridSelectionMode.Extended> ，则导航行为不会更改，但在按下 SHIFT 键的同时使用键盘进行导航时 (包括 CTRL + SHIFT) 会修改多行选定内容。 导航开始之前，控件将当前行标记为定位行。 在按 SHIFT 键的同时导航时，所选内容包含定位点行与当前行之间的所有行。  
@@ -96,7 +96,7 @@ ms.locfileid: "96970948"
   
  可以组合 CTRL + SHIFT 来选择相邻行的非相邻范围。 为此，请使用 SHIFT + 单击选择第一个范围，如前文所述。 选择第一个范围的行后，使用 CTRL + 单击选择下一个范围中的第一行，然后按 CTRL + SHIFT 并单击下一个范围中的最后一行。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.DataGrid>
 - <xref:System.Windows.Controls.DataGrid.SelectionMode%2A>

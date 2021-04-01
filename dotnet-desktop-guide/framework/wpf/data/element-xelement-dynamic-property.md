@@ -6,10 +6,10 @@ apiname:
 - XElement.Element
 apitype: Assembly
 ms.openlocfilehash: fc0277d0dc38574696f01e6915e5382744345771
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970479"
 ---
 # <a name="element-xelement-dynamic-property"></a>元素（XElement 动态属性）
@@ -30,7 +30,7 @@ elem.Element[{namespaceName}localName]
 
 此属性等效于 <xref:System.Xml.Linq.XContainer.Element%2A> 类的 <xref:System.Xml.Linq.XContainer?displayProperty=fullName> 方法。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Xml.Linq.XContainer.Element%2A?displayProperty=fullName>
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)

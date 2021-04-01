@@ -13,10 +13,10 @@ helpviewer_keywords:
 ms.assetid: b96bed40-8946-4285-8fe4-88045ab854ed
 ms.custom: mvc,vs-dotnet
 ms.openlocfilehash: 4954e76d2df3ad15466b4d81aa1f92346d465505
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970384"
 ---
 # <a name="tutorial-create-your-first-wpf-application-in-visual-studio-2019"></a>教程：在 Visual Studio 2019 中创建第一个 WPF 应用程序
@@ -117,7 +117,7 @@ ms.locfileid: "96970384"
 
     [!code-xaml[ExpenseIt#2](~/samples/snippets/csharp/VS_Snippets_Wpf/ExpenseIt/CSharp/ExpenseIt/MainWindow.xaml#2)]
 
-7. 打开 *mainwindow.xaml* 或 *MainWindow.xaml.cs*。
+7. 打开 " *mainwindow.xaml* " 或 " *mainwindow.xaml*"。
 
     此文件是一个代码隐藏文件，其中包含处理 *mainwindow.xaml* 中声明的事件的代码。 此文件包含在 XAML 中定义的窗口的分部类。
 
@@ -192,7 +192,7 @@ ms.locfileid: "96970384"
 
     [!code-xaml[ExpenseIt#4](~/samples/snippets/csharp/VS_Snippets_Wpf/ExpenseIt/CSharp/ExpenseIt/ExpenseReportPage.xaml#4)]
 
-1. 打开 *expenseithome.xaml* 和 *expensereportpage.xaml*，或 *ExpenseItHome.xaml.cs* 和 *ExpenseReportPage.xaml.cs*。
+1. 打开 *expenseithome.xaml* 和 *Expensereportpage.xaml*，或 expenseithome.xaml 和 expensereportpage.xaml 中的和的 。
 
     创建新的页面文件时，Visual Studio 会自动创建其 *代码隐藏* 文件。 这些代码隐藏文件处理响应用户输入的逻辑。
 
@@ -429,7 +429,7 @@ ms.locfileid: "96970384"
 
 接下来，您将添加代码以检索在页面上选择的名称 **`ExpenseItHome`** ，并将其传递给 **expensereportpage.xaml** 的构造函数。 **Expensereportpage.xaml** 用传递的项设置其数据上下文，这是在 *expensereportpage.xaml* 中定义的控件绑定到的内容。
 
-1. 打开 *expensereportpage.xaml* 或 *ExpenseReportPage.xaml.cs*。
+1. 打开 " *expensereportpage.xaml* " 或 " *expensereportpage.xaml*"。
 
 2. 添加获取对象的构造函数，以便传递所选人员的费用报表数据。
 
@@ -473,7 +473,7 @@ ms.locfileid: "96970384"
 > 此示例演示了 WPF 的特定功能，并且不遵循安全性、本地化和辅助功能等功能的所有最佳实践。 有关 WPF 和 .NET 应用开发最佳做法的全面介绍，请参阅以下主题：
 >
 > - [辅助功能](/dotnet/framework/ui-automation/accessibility-best-practices)
-> - [安全](../security-wpf.md)
+> - [安全性](../security-wpf.md)
 > - [WPF 全球化和本地化](../advanced/wpf-globalization-and-localization-overview.md)
 > - [WPF 性能](../advanced/optimizing-wpf-application-performance.md)
 
@@ -494,7 +494,7 @@ ms.locfileid: "96970384"
 - [图形和多媒体](../graphics-multimedia/index.md)
 - [WPF 中的文档](../advanced/documents-in-wpf.md)
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [面板概述](../controls/panels-overview.md)
 - [数据模板化概述](../data/data-templating-overview.md)

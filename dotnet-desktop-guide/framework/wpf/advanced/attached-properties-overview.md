@@ -10,10 +10,10 @@ helpviewer_keywords:
 - attached properties [WPF Designer]
 ms.assetid: 75928354-dc01-47e8-a018-8409aec1f32d
 ms.openlocfilehash: f8c6b2c7cca2fb12180bea4e803194f92f72b94f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971976"
 ---
 # <a name="attached-properties-overview"></a>附加属性概述
@@ -143,10 +143,10 @@ WPF 定义了多个 .NET 特性，旨在向反射进程提供附加属性的相�
 
 - 还可将属性注册为附加属性和依赖属性，但仍需公开“包装器”实现。 在这种情况下，属性可在该元素上设置，也可通过 XAML 附加属性语法在任何元素上设置。 具有适用于标准和附加用法的适当方案的属性示例是 <xref:System.Windows.FrameworkElement.FlowDirection%2A?displayProperty=nameWithType> 。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.DependencyProperty>
 - [依赖项属性概述](dependency-properties-overview.md)
 - [自定义依赖项属性](custom-dependency-properties.md)
-- [WPF)  (XAML 概述 ](/dotnet/desktop-wpf/fundamentals/xaml)
+- [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [注册附加属性](how-to-register-an-attached-property.md)

@@ -10,10 +10,10 @@ helpviewer_keywords:
 - key frames [WPF], animating Booleans with
 ms.assetid: 4b0fac96-6231-4fcf-9775-4dd673ddc785
 ms.openlocfilehash: 35704996dcf21fe463169dc13572941bcd8fbad1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973220"
 ---
 # <a name="how-to-animate-a-boolean-by-using-key-frames"></a>如何：使用关键帧对布尔属性值进行动画处理
@@ -28,7 +28,7 @@ ms.locfileid: "96973220"
   
  有关完整示例，请参阅[关键帧动画示例](https://github.com/microsoft/WPF-Samples/tree/master/Animation/KeyFrameAnimation)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Animation.BooleanAnimationUsingKeyFrames>
 - <xref:System.Windows.UIElement.IsEnabled%2A>

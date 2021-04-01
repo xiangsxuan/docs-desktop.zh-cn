@@ -10,10 +10,10 @@ helpviewer_keywords:
 - binding data [WPF], converting bound data
 ms.assetid: b00aaa19-c6df-4c3b-a9fd-88a0b488df2b
 ms.openlocfilehash: 981994426afd173fa8560d3ee24c6cf24c0c24aa
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973087"
 ---
 # <a name="how-to-convert-bound-data"></a>如何：转换绑定的数据
@@ -37,7 +37,7 @@ ms.locfileid: "96973087"
   
  上述示例中引用的样式资源在资源部分中定义，而不会显示在本主题中。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [实现绑定验证](how-to-implement-binding-validation.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

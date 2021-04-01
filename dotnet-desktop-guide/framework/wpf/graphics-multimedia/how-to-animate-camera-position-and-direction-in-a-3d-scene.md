@@ -10,10 +10,10 @@ helpviewer_keywords:
 - animation [WPF], camera direction in 3D scenes
 ms.assetid: 480224b7-a5e5-4165-ba7f-ef760ddff94a
 ms.openlocfilehash: 5ce94e154cd5aa29b59260f893ec2b63a08db0fc
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973177"
 ---
 # <a name="how-to-animate-camera-position-and-direction-in-a-3d-scene"></a>如何：在三维场景中对照相机位置和方向进行动画处理
@@ -22,7 +22,7 @@ ms.locfileid: "96973177"
 ## <a name="example"></a>示例  
  [!code-xaml[Animation3DGallery_snip#PointVector3DAnimationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/PointVector3DAnimationExample.xaml#pointvector3danimationexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Animation.Vector3DAnimation>
 - <xref:System.Windows.Media.Animation.Point3DAnimation>

@@ -6,10 +6,10 @@ helpviewer_keywords:
 - 3D models [WPF], applying drawings to
 ms.assetid: 68357577-b7fc-446e-8be9-a8cc7df3a350
 ms.openlocfilehash: 794ca9a48bcec42c3eee4d8da143f3ae9d27fcf2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973176"
 ---
 # <a name="how-to-apply-a-drawing-to-a-3d-model"></a>如何：向三维模型应用绘图
@@ -29,7 +29,7 @@ ms.locfileid: "96973176"
 
 [!code-xaml[3DGallery_snip#ApplyDrawingToMaterialExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/3DGallery_snip/CS/ApplyDrawingToMaterialExample.xaml#applydrawingtomaterialexamplewholepage)]
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [XAML 资源](/dotnet/desktop-wpf/fundamentals/xaml-resources-define)
 - [创建三维场景](how-to-create-a-3-d-scene.md)

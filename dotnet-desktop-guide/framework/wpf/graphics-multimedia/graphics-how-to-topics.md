@@ -9,10 +9,10 @@ helpviewer_keywords:
 - visual effects [WPF]
 ms.assetid: 959cb1cc-d26c-4bbc-b637-251091987288
 ms.openlocfilehash: 84d4ce4b36fdf2b12ed4979b371b4ba3ff4d8f5f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973131"
 ---
 # <a name="graphics-how-to-topics"></a>图形帮助主题
@@ -26,7 +26,7 @@ ms.locfileid: "96973131"
  [如何：通过缓存元素来改善呈现性能](how-to-improve-rendering-performance-by-caching-an-element.md)  
  [如何：使用缓存的元素作为画笔](how-to-use-a-cached-element-as-a-brush.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Shapes.Shape>
 - <xref:System.Windows.Media.Transform>

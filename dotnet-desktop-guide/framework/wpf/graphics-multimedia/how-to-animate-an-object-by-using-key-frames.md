@@ -6,10 +6,10 @@ helpviewer_keywords:
 - key frames [WPF], animating objects with
 ms.assetid: b1f15ba9-cac7-4cea-8699-5c6b55c05c5e
 ms.openlocfilehash: 0bc33b189fd856dbe8106c1db35bc18e27ea131e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973178"
 ---
 # <a name="how-to-animate-an-object-by-using-key-frames"></a>如何：使用关键帧针对对象进行动画处理
@@ -33,7 +33,7 @@ ms.locfileid: "96973178"
   
  有关完整示例，请参阅[关键帧动画示例](https://github.com/microsoft/WPF-Samples/tree/master/Animation/KeyFrameAnimation)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Animation.ObjectAnimationUsingKeyFrames>
 - <xref:System.Windows.Controls.Page.Background%2A>

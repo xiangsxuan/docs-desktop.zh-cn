@@ -8,10 +8,10 @@ helpviewer_keywords:
 - controls [WPF], DockPanel
 ms.assetid: 62544800-db6a-4124-8cb0-ed9bc4a90901
 ms.openlocfilehash: ff2f23a0515f8a086d3082c6bf3000c49ed91dfd
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970947"
 ---
 # <a name="dockpanel-how-to-topics"></a>DockPanel 帮助主题

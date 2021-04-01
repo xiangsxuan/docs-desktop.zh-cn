@@ -12,10 +12,10 @@ helpviewer_keywords:
 - checking spelling [WPF]
 ms.assetid: 6f953d2b-67e8-4012-84ce-53c0e958da47
 ms.openlocfilehash: 7381bafc349506d89058581e9ed62a4348a72865
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972892"
 ---
 # <a name="how-to-enable-spell-checking-in-a-text-editing-control"></a>如何：在文本编辑控件中启用拼写检查
@@ -27,7 +27,7 @@ ms.locfileid: "96972892"
  [!code-csharp[TextBoxMiscSnippets_procedural_snip#SpellCheckCodeExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/TextBoxMiscSnippets_procedural_snip/CSharp/SpellCheckExample.cs#spellcheckcodeexamplewholepage)]
  [!code-vb[TextBoxMiscSnippets_procedural_snip#SpellCheckCodeExampleWholePage](~/samples/snippets/visualbasic/VS_Snippets_Wpf/TextBoxMiscSnippets_procedural_snip/visualbasic/spellcheckexample.vb#spellcheckcodeexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [将拼写检查功能与上下文菜单结合使用](how-to-use-spell-checking-with-a-context-menu.md)
 - [TextBox 概述](textbox-overview.md)

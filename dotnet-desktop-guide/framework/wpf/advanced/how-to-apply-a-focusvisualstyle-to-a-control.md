@@ -6,10 +6,10 @@ helpviewer_keywords:
 - FocusVisualStyle property [WPF]
 ms.assetid: 363de99e-8ecc-438c-ac4a-f9147432ebd6
 ms.openlocfilehash: c27994bfbc77f7cbe360ad3aab94827900e52232
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971926"
 ---
 # <a name="how-to-apply-a-focusvisualstyle-to-a-control"></a>如何：对控件应用 FocusVisualStyle
@@ -26,7 +26,7 @@ ms.locfileid: "96971926"
   
  应在主题或 UI 中一致地使用焦点视觉样式，而不是为每个可获得焦点的元素使用不同的样式。 有关详细信息，请参阅为 [控件中的焦点设置样式和 FocusVisualStyle](styling-for-focus-in-controls-and-focusvisualstyle.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FrameworkElement.FocusVisualStyle%2A>
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

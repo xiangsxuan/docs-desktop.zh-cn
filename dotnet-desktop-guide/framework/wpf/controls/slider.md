@@ -8,10 +8,10 @@ helpviewer_keywords:
 - Slider control [WPF]
 ms.assetid: fb037e2a-0002-458b-9e6b-321623fe72a7
 ms.openlocfilehash: 6d8836bc91283f83c95e63a8b948eed46fc94bca
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972888"
 ---
 # <a name="slider"></a>Slider

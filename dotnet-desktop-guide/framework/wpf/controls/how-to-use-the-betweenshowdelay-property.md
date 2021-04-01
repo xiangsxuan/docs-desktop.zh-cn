@@ -6,10 +6,10 @@ helpviewer_keywords:
 - BetweenShowDelay time property [WPF]
 ms.assetid: 984ea76d-f2a2-4326-a02e-f97ec3d036d6
 ms.openlocfilehash: 9b63675ec21294496117860aa5b58af132c4284a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972464"
 ---
 # <a name="how-to-use-the-betweenshowdelay-property"></a>如何：使用 BetweenShowDelay 属性
@@ -27,7 +27,7 @@ ms.locfileid: "96972464"
  [!code-xaml[ToolTipService#ToolTip](~/samples/snippets/csharp/VS_Snippets_Wpf/ToolTipService/CSharp/Pane1.xaml#tooltip)]  
 [!code-xaml[ToolTipService#NoToolTip](~/samples/snippets/csharp/VS_Snippets_Wpf/ToolTipService/CSharp/Pane1.xaml#notooltip)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.ToolTip>
 - <xref:System.Windows.Controls.ToolTipService>

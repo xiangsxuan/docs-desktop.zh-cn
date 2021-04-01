@@ -13,10 +13,10 @@ helpviewer_keywords:
 - pipeline segments [WPF], creating add-ins
 ms.assetid: 86375525-282b-4039-8352-8680051a10ea
 ms.openlocfilehash: fd37e651dc94485becf972533bc095f9ad253335
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973029"
 ---
 # <a name="how-to-create-an-add-in-that-is-a-ui"></a>如何：创建作为 UI 的外接程序
@@ -25,7 +25,7 @@ ms.locfileid: "96973029"
   
  外接程序是一个用户界面，它是一个 WPF 用户控件。 用户控件的内容是单个按钮，单击时会显示消息框。 WPF 独立应用程序承载外接程序 UI 作为主应用程序窗口的内容。  
   
- **先决条件**  
+ **必备条件**  
   
  此示例突出显示了支持此方案的 .NET Framework 外接程序模型的 WPF 扩展，并假设以下内容：  
   
@@ -127,7 +127,7 @@ ms.locfileid: "96973029"
   
  此活动完全独立于主机应用程序。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [外接程序和扩展性](/previous-versions/dotnet/netframework-4.0/bb384200(v%3dvs.100))
 - [WPF 外接程序概述](wpf-add-ins-overview.md)

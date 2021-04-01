@@ -11,10 +11,10 @@ helpviewer_keywords:
 - retrieving offset values from visual objects [WPF]
 ms.assetid: 889a1dd6-1b11-445a-b351-fbb04c53ee34
 ms.openlocfilehash: 4787b771c7e59a8b033b9267079c068a5845a1e6
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972686"
 ---
 # <a name="how-to-get-the-offset-of-a-visual"></a>如何：获取 Visual 的偏移量
@@ -65,7 +65,7 @@ TextBlock 嵌套在两个 StackPanels 中
   
  偏移量会考虑 <xref:System.Windows.FrameworkElement.Margin%2A> 所有对象的值。 在此示例中， <xref:System.Windows.Vector.X%2A> 为-4，并且 <xref:System.Windows.Vector.Y%2A> 为-4。 偏移量值是负值，因为父对象相对于其子对象是负偏移。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Visual>
 - <xref:System.Windows.Media.VisualTreeHelper>

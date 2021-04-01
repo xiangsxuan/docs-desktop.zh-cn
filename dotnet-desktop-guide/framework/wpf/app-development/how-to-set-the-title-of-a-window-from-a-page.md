@@ -7,10 +7,10 @@ helpviewer_keywords:
 - pages [WPF], setting window title from
 ms.assetid: fecf0d19-3eb6-4f8c-a44f-ff1b6f2b34b3
 ms.openlocfilehash: 0f618af89965822b0df96a264997dabd9cae7608
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970238"
 ---
 # <a name="how-to-set-the-title-of-a-window-from-a-page"></a>如何：从页面设置窗口标题

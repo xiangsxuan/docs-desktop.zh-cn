@@ -7,10 +7,10 @@ helpviewer_keywords:
 - child timelines [WPF]
 ms.assetid: 8335d770-d13d-42bd-8dfa-63f92c0327e2
 ms.openlocfilehash: 21a297208be045eea79d6f5ca6c8eac016d26345
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971009"
 ---
 # <a name="how-to-simplify-animations-by-using-child-timelines"></a>如何：使用子时间线简化动画
@@ -25,7 +25,7 @@ ms.locfileid: "96971009"
 ## <a name="example"></a>示例  
  [!code-xaml[Timelines_snip#ParallelTimelineWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Timelines_snip/CS/ParallelTimelineExample.xaml#paralleltimelinewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [动画概述](animation-overview.md)
 - [指定情节提要动画之间的 HandoffBehavior](how-to-specify-handoffbehavior-between-storyboard-animations.md)

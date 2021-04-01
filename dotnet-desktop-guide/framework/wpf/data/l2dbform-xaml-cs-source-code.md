@@ -3,15 +3,15 @@ title: L2DBForm.xaml.cs 源代码
 ms.date: 10/22/2019
 ms.topic: sample
 ms.openlocfilehash: 882699a76eab3c291cd92c298287bc5d28fb08e1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972081"
 ---
 # <a name="l2dbformxamlcs-source-code"></a>L2DBForm.xaml.cs 源代码
 
-此页包含文件 *L2DBForm.xaml.cs* 中 c # 源代码的内容和说明。 本文件中包含的 L2XDBForm 分部类可分为三个逻辑区域：数据成员、`OnRemove` 和 `OnAddBook` 按钮单击事件处理程序。
+此页包含 *l2dbform.xaml* 文件中 c # 源代码的内容和说明。 本文件中包含的 L2XDBForm 分部类可分为三个逻辑区域：数据成员、`OnRemove` 和 `OnAddBook` 按钮单击事件处理程序。
 
 ## <a name="data-members"></a>数据成员
 
@@ -130,7 +130,7 @@ namespace LinqToXmlDataBinding {
 
 有关这些处理程序的关联 XAML 源，请参阅 [l2dbform.xaml 源代码](l2dbform-xaml-source-code.md)。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [演练：LinqToXmlDataBinding 示例](linq-to-xml-data-binding-sample.md)
 - [L2DBForm.xaml 源代码](l2dbform-xaml-source-code.md)

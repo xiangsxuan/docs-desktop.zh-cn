@@ -9,10 +9,10 @@ helpviewer_keywords:
 - ListBox control [WPF], improving scrolling performance
 ms.assetid: 1e2bf8f3-c8ce-47f7-a400-a7fe11d1a848
 ms.openlocfilehash: a9d1ca1d8ac2ef830984408f3052eb0ed0987c5d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973093"
 ---
 # <a name="how-to-improve-the-scrolling-performance-of-a-listbox"></a>如何：提高 ListBox 的滚动性能

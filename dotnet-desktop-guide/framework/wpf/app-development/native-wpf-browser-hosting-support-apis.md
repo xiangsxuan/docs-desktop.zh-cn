@@ -8,10 +8,10 @@ helpviewer_keywords:
 - WPF browser hosting support APIs [WPF]
 ms.assetid: 82c133a8-d760-45fb-a2b9-3a997537f1d4
 ms.openlocfilehash: c4332f466616cfb2c62c9ab63a841cc004fe518c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972971"
 ---
 # <a name="native-wpf-browser-hosting-support-apis"></a>承载支持 API 的本机 WPF 浏览器

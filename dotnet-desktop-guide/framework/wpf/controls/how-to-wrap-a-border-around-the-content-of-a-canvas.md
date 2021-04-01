@@ -8,10 +8,10 @@ helpviewer_keywords:
 - Border control [WPF], wrapping Canvas
 ms.assetid: caf0404f-f4e7-484f-9928-5dae1238d8ef
 ms.openlocfilehash: 5d33af798d2e626cea08fa71c9b2c88acb22b5e2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972986"
 ---
 # <a name="how-to-wrap-a-border-around-the-content-of-a-canvas"></a>如何：在画布内容的周围绘制边框
@@ -22,7 +22,7 @@ ms.locfileid: "96972986"
   
  [!code-xaml[CanvasHelloWorldBorder#1](~/samples/snippets/csharp/VS_Snippets_Wpf/CanvasHelloWorldBorder/CS/default.xaml#1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Canvas>
 - <xref:System.Windows.Controls.Border>

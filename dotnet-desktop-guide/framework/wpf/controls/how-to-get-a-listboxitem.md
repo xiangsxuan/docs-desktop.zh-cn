@@ -9,10 +9,10 @@ helpviewer_keywords:
 - ListBoxItem [WPF]
 ms.assetid: da877c6f-5fd8-40cb-8909-225cbfd99aa5
 ms.openlocfilehash: 27a435feb4a941c77af221ab25bd63ea98b16e92
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971037"
 ---
 # <a name="how-to-get-a-listboxitem"></a>如何：获取 ListBoxItem

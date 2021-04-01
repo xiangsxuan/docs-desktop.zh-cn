@@ -11,10 +11,10 @@ helpviewer_keywords:
 - collection-type properties [WPF]
 ms.assetid: 99f96a42-3ab7-4f64-a16b-2e10d654e97c
 ms.openlocfilehash: 8da798b3d7254d10d8da7ca6df335f63e4890763
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971957"
 ---
 # <a name="collection-type-dependency-properties"></a>集合类型依赖项属性
@@ -28,7 +28,7 @@ ms.locfileid: "96971957"
 ## <a name="initializing-the-collection-beyond-the-default-value"></a>不使用默认值初始化集合  
  创建依赖属性时，不要将属性默认值指定为初始字段值。 相反，应通过依赖属性元数据指定默认值。 如果属性为引用类型，则依赖属性元数据中指定的默认值不是每个实例分别的默认值，而是应用到类型的所有实例的默认值。 因此，对于类型的新创建实例，必须小心，不要将集合属性元数据定义的单个静态集合用作工作默认值。 相反，必须确保有意将集合值设置为唯一（实例）集合，作为类构造函数逻辑的一部分。 否则，你会创建一个不需要的单例类。  
   
- 请看下面的示例。 下面的示例部分演示了一个类的定义，该类 `Aquarium` 包含一个具有默认值的漏洞。 类定义集合类型依赖项属性，该属性 `AquariumObjects` 使用 <xref:System.Collections.Generic.List%601> 具有类型约束的泛型类型 <xref:System.Windows.FrameworkElement> 。 在对 <xref:System.Windows.DependencyProperty.Register%28System.String%2CSystem.Type%2CSystem.Type%2CSystem.Windows.PropertyMetadata%29> 依赖项属性的调用中，元数据将默认值建立为新的泛型 <xref:System.Collections.Generic.List%601> 。
+ 请考虑以下示例。 下面的示例部分演示了一个类的定义，该类 `Aquarium` 包含一个具有默认值的漏洞。 类定义集合类型依赖项属性，该属性 `AquariumObjects` 使用 <xref:System.Collections.Generic.List%601> 具有类型约束的泛型类型 <xref:System.Windows.FrameworkElement> 。 在对 <xref:System.Windows.DependencyProperty.Register%28System.String%2CSystem.Type%2CSystem.Type%2CSystem.Windows.PropertyMetadata%29> 依赖项属性的调用中，元数据将默认值建立为新的泛型 <xref:System.Collections.Generic.List%601> 。
 
 > [!WARNING]
 > 以下代码的行为不正确。
@@ -57,7 +57,7 @@ ms.locfileid: "96971957"
   
  若要启用依赖项对象集合中的子属性绑定，请创建类型为的集合属性 <xref:System.Windows.FreezableCollection%601> ，并将该集合的类型约束为任何 <xref:System.Windows.DependencyObject> 派生类。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FreezableCollection%601>
 - [XAML 及 WPF 的自定义类](xaml-and-custom-classes-for-wpf.md)

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Multibinding [WPF]
 ms.assetid: b3d06378-b511-4181-95aa-316d60c9229b
 ms.openlocfilehash: ab030fbf4335a5bfd12834cb7b19c280487dc2f7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970485"
 ---
 # <a name="how-to-produce-a-value-based-on-a-list-of-bound-items"></a>如何：根据绑定项列表生成值
@@ -33,7 +33,7 @@ ms.locfileid: "96970485"
   
  `NameConverter` 实现 <xref:System.Windows.Data.IMultiValueConverter> 接口。 `NameConverter` 从个别绑定获取值并将其存储在值对象数组中。 元素 <xref:System.Windows.Data.Binding> 在元素下的显示顺序 <xref:System.Windows.Data.MultiBinding> 就是这些值在数组中的存储顺序。 特性的值 <xref:System.Windows.Data.MultiBinding.ConverterParameter%2A> 由方法的参数参数引用，该参数对 <xref:System.Windows.Data.MultiBinding.Converter%2A> 参数执行开关来确定如何设置名称的格式。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [转换绑定数据](how-to-convert-bound-data.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

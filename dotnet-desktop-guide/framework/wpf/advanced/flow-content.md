@@ -8,10 +8,10 @@ helpviewer_keywords:
 - flow content reference [WPF]
 ms.assetid: d32501af-0bac-4b80-8a20-61a6996753fe
 ms.openlocfilehash: 47bdc48eb6f2fcb0ffd73f06a58bd01d716e56fc
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970643"
 ---
 # <a name="flow-content"></a>流内容

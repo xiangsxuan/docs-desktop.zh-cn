@@ -8,10 +8,10 @@ helpviewer_keywords:
 - binding data [WPF], creating
 ms.assetid: 69b80f72-6259-44cb-8294-5bdcebca1e08
 ms.openlocfilehash: 9649116427c7da805323270fe3a23e6b23d330a5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973085"
 ---
 # <a name="how-to-create-a-simple-binding"></a>如何：创建简单绑定
@@ -26,7 +26,7 @@ ms.locfileid: "96973085"
   
  包含元素的突出显示行将 `<TextBlock>` <xref:System.Windows.Controls.TextBlock> 控件绑定到 `PersonName` 属性。 因此，将 <xref:System.Windows.Controls.TextBlock> 显示值 "Joe"。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)
 - [操作指南主题](data-binding-how-to-topics.md)

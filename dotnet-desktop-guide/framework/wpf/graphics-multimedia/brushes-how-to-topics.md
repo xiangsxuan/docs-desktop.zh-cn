@@ -8,10 +8,10 @@ helpviewer_keywords:
 - brushes [WPF]
 ms.assetid: 43e7f798-9558-4498-b5b6-4a4c6baf956b
 ms.openlocfilehash: 0817781c1687e6a2fc4af87d386117dadcbefa2b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972799"
 ---
 # <a name="brushes-how-to-topics"></a>画笔帮助主题

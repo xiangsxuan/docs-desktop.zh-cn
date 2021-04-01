@@ -7,10 +7,10 @@ helpviewer_keywords:
 - namespaces [WPF], XML
 ms.assetid: a47c832f-dc84-48f2-96d5-cde18fc4284b
 ms.openlocfilehash: ad671b81bdfc1c168294123d035ccf7287b3b2fc
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972083"
 ---
 # <a name="how-to-use-xml-namespaces-in-data-binding"></a>如何：在数据绑定中使用 XML 命名空间
@@ -29,7 +29,7 @@ ms.locfileid: "96972083"
 
  在此特定示例中，XML 数据来自 web 服务，但该 <xref:System.Windows.Data.XmlNamespaceMapping> 元素还适用于嵌入式 XML 或嵌入文件中的 xml 数据。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用 XMLDataProvider 和 XPath 查询绑定到 XML 数据](how-to-bind-to-xml-data-using-an-xmldataprovider-and-xpath-queries.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

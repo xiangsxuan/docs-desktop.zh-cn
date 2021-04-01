@@ -10,10 +10,10 @@ helpviewer_keywords:
 - brushes [WPF], painting with images
 ms.assetid: 3432c533-1fc7-492d-94ee-0b13d60125ae
 ms.openlocfilehash: 92969778c04c6ac634a2964c402d6c3439b96b49
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971722"
 ---
 # <a name="how-to-paint-an-area-with-an-image"></a>如何：使用图像绘制区域
@@ -35,6 +35,6 @@ ms.locfileid: "96971722"
   
  此代码示例是为类提供的更大示例的一部分 <xref:System.Windows.Media.ImageBrush> 。 有关完整示例，请参阅 [System.windows.media.imagebrush> 示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/ImageBrush)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

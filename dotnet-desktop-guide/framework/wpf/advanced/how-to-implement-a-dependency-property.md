@@ -10,10 +10,10 @@ helpviewer_keywords:
 - properties [WPF], backing with dependency properties
 ms.assetid: 855fd6d7-19ac-493c-bf5e-2f40b57cdc92
 ms.openlocfilehash: 391e6fc4b3894a3bf7ce15130a283090696419ea
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970642"
 ---
 # <a name="how-to-implement-a-dependency-property"></a>如何：实现依赖属性
@@ -33,7 +33,7 @@ ms.locfileid: "96970642"
   
  若要详细了解如何以及为什么要实现依赖属性的 CLR 属性，请参阅 [依赖属性概述](dependency-properties-overview.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [依赖项属性概述](dependency-properties-overview.md)
 - [操作指南主题](properties-how-to-topics.md)

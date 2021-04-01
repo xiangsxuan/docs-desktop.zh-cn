@@ -11,10 +11,10 @@ helpviewer_keywords:
 - enumerating [WPF], system fonts
 ms.assetid: 36e37791-55b9-4f01-a496-5cc10335e6a6
 ms.openlocfilehash: 7ea16afa12233ad5f8268ec048bed187f6081299
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973040"
 ---
 # <a name="how-to-enumerate-system-fonts"></a>如何：枚举系统字体

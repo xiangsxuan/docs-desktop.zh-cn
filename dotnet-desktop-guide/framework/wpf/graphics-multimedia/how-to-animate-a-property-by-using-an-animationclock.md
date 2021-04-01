@@ -9,10 +9,10 @@ helpviewer_keywords:
 - AnimationClocks [WPF]
 ms.assetid: e6542021-714c-4675-9567-04f1c7380834
 ms.openlocfilehash: 13d91e8589c40d84ba374ffc613388e24407796a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970624"
 ---
 # <a name="how-to-animate-a-property-by-using-an-animationclock"></a>如何：使用 AnimationClock 对属性进行动画处理
@@ -36,7 +36,7 @@ ms.locfileid: "96970624"
   
  有关演示如何在启动后交互控制的示例 <xref:System.Windows.Media.Animation.Clock> ，请参阅 [以交互方式控制时钟](how-to-interactively-control-a-clock.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用情节提要对属性进行动画处理](how-to-animate-a-property-by-using-a-storyboard.md)
 - [在不使用情节提要的情况下对属性进行动画处理](how-to-animate-a-property-without-using-a-storyboard.md)

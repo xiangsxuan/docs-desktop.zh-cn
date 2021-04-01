@@ -6,10 +6,10 @@ helpviewer_keywords:
 - FilterInputMessage method [WPF]
 ms.assetid: 4d74c6cf-7d1d-49ff-96c1-231340ce54f5
 ms.openlocfilehash: 1453946766e33843ae9e56f7a7f4dbf1678b81b5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972709"
 ---
 # <a name="filterinputmessage"></a>FilterInputMessage
@@ -21,7 +21,7 @@ ms.locfileid: "96972709"
 HRESULT FilterInputMessage( [in] MSG* pMsg ) ;  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  `pMsg`  
   
  [in] 发送给正在获得原始输入的窗口的 WM_INPUT 消息。  
@@ -42,6 +42,6 @@ HRESULT FilterInputMessage( [in] MSG* pMsg ) ;
   
  托管应用程序通过使用一组原始输入设备（ (人体学接口设备）注册来接收原始输入消息，) 由 [GetRawInputDevices](getrawinputdevices.md)返回。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WM_INPUT 消息](/windows/desktop/inputdev/wm-input)

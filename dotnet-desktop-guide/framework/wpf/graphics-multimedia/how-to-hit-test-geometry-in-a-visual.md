@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Geometry objects [WPF], visual objects comprising
 ms.assetid: 8bf2643f-d7f9-4cb4-9ea6-5b893c23200d
 ms.openlocfilehash: 52b9b99b0af38d797e4a3c98dc0979211c930c1f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972684"
 ---
 # <a name="how-to-hit-test-geometry-in-a-visual"></a>如何：对 Visual 中的几何图形进行命中测试
@@ -35,7 +35,7 @@ ms.locfileid: "96972684"
 > [!NOTE]
 > 此示例并未考虑可能应用到几何图形中的任何变形或剪裁。 此外，此示例不会使用已设置样式的控件，因为这种控件没有与它直接关联的绘图。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [可视化层中的命中测试](hit-testing-in-the-visual-layer.md)
 - [对用作参数的几何图形进行命中测试](how-to-hit-test-using-geometry-as-a-parameter.md)

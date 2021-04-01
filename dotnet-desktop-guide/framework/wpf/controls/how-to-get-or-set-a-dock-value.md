@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Dock values [WPF], getting
 ms.assetid: fcf4ab8a-c7cd-4835-8d04-de1c999ab4a8
 ms.openlocfilehash: fb6c8a7d62aa09a6e1d82cb4079d1425a7f39f8c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972530"
 ---
 # <a name="how-to-get-or-set-a-dock-value"></a>如何：获取或设置 Dock 值
@@ -24,7 +24,7 @@ ms.locfileid: "96972530"
  [!code-csharp[DockPanelSetDock#1](~/samples/snippets/csharp/VS_Snippets_Wpf/DockPanelSetDock/CSharp/DockPanel_SetDock.cs#1)]
  [!code-vb[DockPanelSetDock#1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/DockPanelSetDock/VisualBasic/DockPanel_SetDock.vb#1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.DockPanel>
 - <xref:System.Windows.Controls.DockPanel.GetDock%2A>

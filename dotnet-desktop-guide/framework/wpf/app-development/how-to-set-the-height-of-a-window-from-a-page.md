@@ -7,10 +7,10 @@ helpviewer_keywords:
 - height of window [WPF], setting from a page
 ms.assetid: 4e4488ff-ab5c-4ee9-81a4-e1addb55c5cc
 ms.openlocfilehash: c1041af88241011b51c96d7b61423344a32b25ca
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970241"
 ---
 # <a name="how-to-set-the-height-of-a-window-from-a-page"></a>如何：从页面设置窗口的高度

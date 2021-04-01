@@ -9,10 +9,10 @@ helpviewer_keywords:
 - point animation [WPF]
 ms.assetid: 1fa3f817-35bc-41a1-b366-f5a20b70da0c
 ms.openlocfilehash: eff0c24a9369ffaa0cfca1cc46af4eff39f58a38
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973179"
 ---
 # <a name="how-to-animate-an-object-along-a-path-point-animation"></a>如何：沿着路径针对对象进行动画处理（点动画）
@@ -30,7 +30,7 @@ ms.locfileid: "96973179"
   
  前面示例的代码版本使用 <xref:System.Windows.Media.Animation.Storyboard> 对进行动画处理 <xref:System.Windows.Media.EllipseGeometry> ，即使只应用了一个动画也是如此。 <xref:System.Windows.Media.Animation.Storyboard>通常是应用多个动画的最简单方法，因为这些动画可以通过相同的方式控制 <xref:System.Windows.Media.Animation.Storyboard> 。 但是，使用代码时，将单个动画应用于属性的更简单方法是使用 <xref:System.Windows.Media.Animation.Animatable.BeginAnimation%2A> 方法。 有关示例，请参阅[在不使用情节提要的情况下对属性进行动画处理](how-to-animate-a-property-without-using-a-storyboard.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [路径动画示例](https://github.com/Microsoft/WPF-Samples/tree/master/Animation/PathAnimations)
 - [动画概述](animation-overview.md)

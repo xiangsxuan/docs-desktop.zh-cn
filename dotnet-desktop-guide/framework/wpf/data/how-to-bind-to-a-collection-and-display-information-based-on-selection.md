@@ -12,10 +12,10 @@ helpviewer_keywords:
 - data binding [WPF], binding to collections
 ms.assetid: 952a7d76-dd29-49e5-86f5-32c4530e70eb
 ms.openlocfilehash: fc0357edf24ac66e5465d1be9c59e83ee475b071
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970400"
 ---
 # <a name="how-to-bind-to-a-collection-and-display-information-based-on-selection"></a>如何：绑定到集合并基于选择显示信息
@@ -46,7 +46,7 @@ ms.locfileid: "96970400"
  [!code-csharp[CollectionBinding#ToString](~/samples/snippets/csharp/VS_Snippets_Wpf/CollectionBinding/CSharp/Data.cs#tostring)]
  [!code-vb[CollectionBinding#ToString](~/samples/snippets/visualbasic/VS_Snippets_Wpf/CollectionBinding/VisualBasic/Person.vb#tostring)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [将 Master-Detail 模式用于分层数据](how-to-use-the-master-detail-pattern-with-hierarchical-data.md)
 - [将 Master-Detail 模式用于分层 XML 数据](how-to-use-the-master-detail-pattern-with-hierarchical-xml-data.md)

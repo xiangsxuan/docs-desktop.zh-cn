@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Loaded events [WPF]
 ms.assetid: 0cf8d003-8441-4df4-807a-6db09347e829
 ms.openlocfilehash: 7ca95e195792f8fb4789c481e84dda51f2910434
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971822"
 ---
 # <a name="how-to-handle-a-loaded-event"></a>如何：处理 Loaded 事件
@@ -27,7 +27,7 @@ ms.locfileid: "96971822"
  [!code-csharp[FELoaded#Handler](~/samples/snippets/csharp/VS_Snippets_Wpf/FELoaded/CSharp/default.xaml.cs#handler)]
  [!code-vb[FELoaded#Handler](~/samples/snippets/visualbasic/VS_Snippets_Wpf/FELoaded/VisualBasic/default.xaml.vb#handler)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FrameworkElement>
 - [对象生存期事件](object-lifetime-events.md)

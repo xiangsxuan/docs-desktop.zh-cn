@@ -13,10 +13,10 @@ helpviewer_keywords:
 - loading [WPF], stopping
 ms.assetid: e2b695b0-517e-462c-8ccf-90cc8d6ba864
 ms.openlocfilehash: c5694bb2cb6c618cd84bad3dc893ae3855e44892
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970234"
 ---
 # <a name="how-to-stop-a-page-from-loading"></a>如何：停止加载页面

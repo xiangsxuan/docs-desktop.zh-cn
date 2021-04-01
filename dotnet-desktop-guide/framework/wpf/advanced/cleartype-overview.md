@@ -6,10 +6,10 @@ helpviewer_keywords:
 - ClearType [WPF], technology
 ms.assetid: 7e2392e0-75dc-463d-a716-908772782431
 ms.openlocfilehash: 51808ea2c48b2d56709dea4c4ff5124af3eb9fac
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971961"
 ---
 # <a name="cleartype-overview"></a>ClearType 概述
@@ -65,6 +65,6 @@ ms.locfileid: "96971961"
   
  [ClearType 调谐器 PowerToy](https://www.microsoft.com/typography/ClearTypePowerToy.mspx)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [ClearType 注册表设置](cleartype-registry-settings.md)

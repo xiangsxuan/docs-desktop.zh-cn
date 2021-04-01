@@ -7,10 +7,10 @@ helpviewer_keywords:
 - drawings [WPF], as image sources
 ms.assetid: dcf71c7b-9e86-4b8e-8e39-0d0ce0389ef4
 ms.openlocfilehash: d4b91a6495e1c54400d5fbfe43b6311d908565a7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971000"
 ---
 # <a name="how-to-use-a-drawing-as-an-image-source"></a>如何：将绘图用作图像源
@@ -25,7 +25,7 @@ ms.locfileid: "96971000"
  [!code-csharp[DrawingMiscSnippets_snip#DrawingImageExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/DrawingMiscSnippets_snip/CSharp/DrawingImageExample.cs#drawingimageexamplewholepage)]
  [!code-xaml[DrawingMiscSnippets_snip#DrawingImageExampleWholePage](~/samples/snippets/xaml/VS_Snippets_Wpf/DrawingMiscSnippets_snip/XAML/DrawingImageExample.xaml#drawingimageexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Freezable.Freeze%2A>
 - [使用 ImageDrawing 绘制图像](how-to-draw-an-image-using-imagedrawing.md)

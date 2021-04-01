@@ -5,10 +5,10 @@ ms.topic: sample
 helpviewer_keywords:
 - linq to xml data binding sample
 ms.openlocfilehash: aac814e4768a863a93e69e34cd18c941a9b35c89
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972528"
 ---
 # <a name="linq-to-xml-data-binding-sample"></a>LINQ to XML 数据绑定示例
@@ -60,11 +60,11 @@ LinqToXmlDataBinding 示例是包含 c # 和 XAML 源文件 (WPF) 应用的 Wind
 
 1. 在 **解决方案资源管理器** 中，将源文件 **window1.xaml** 重命名为 **l2xdbform.xaml**。
 
-   从属源文件 Window1.xaml.cs 会自动重命名为 L2XDBForm.xaml.cs。
+   相关的源文件 Window1.xaml 会自动重命名为 L2xdbform.xaml。
 
 1. 将 **l2xdbform.xaml** 文件中找到的源代码替换为 [l2dbform.xaml 源代码](l2dbform-xaml-source-code.md)。 使用 XAML 源视图来处理此文件。
 
-1. 同样，将 **L2XDBForm.xaml.cs** 中的源替换为 [L2DBForm.xaml.cs 源代码](l2dbform-xaml-cs-source-code.md)。
+1. 同样，请将 **l2xdbform.xaml** 中的源替换为 [l2dbform.xaml 源代码](l2dbform-xaml-cs-source-code.md)。
 
 1. 在文件 **app.xaml** 中，将出现的所有字符串 **Window1.xaml** 替换为 **l2xdbform.xaml**。
 

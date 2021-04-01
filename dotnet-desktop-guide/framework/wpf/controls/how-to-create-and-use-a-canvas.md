@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Canvas control [WPF], using
 ms.assetid: 420b9487-9a15-477c-9489-a22a4dec7779
 ms.openlocfilehash: c9ee49327b6490df094e84b4227ea0fb2e757c4d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972901"
 ---
 # <a name="how-to-create-and-use-a-canvas"></a>如何：创建和使用画布
@@ -28,7 +28,7 @@ ms.locfileid: "96972901"
  [!code-csharp[CanvasCode#1](~/samples/snippets/csharp/VS_Snippets_Wpf/CanvasCode/CSharp/Canvas_Code.cs#1)]
  [!code-vb[CanvasCode#1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/CanvasCode/VisualBasic/canvas_vb.vb#1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Canvas>
 - <xref:System.Windows.Controls.TextBlock>

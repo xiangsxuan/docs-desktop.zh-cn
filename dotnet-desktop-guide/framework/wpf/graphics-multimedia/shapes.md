@@ -15,10 +15,10 @@ helpviewer_keywords:
 - Shape objects [WPF]
 ms.assetid: 893253b8-c2df-4f22-961d-cbc533d64c79
 ms.openlocfilehash: 390a5abf890e0b96125b6ad2396726cd9c5ee91a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972749"
 ---
 # <a name="shapes"></a>形状
@@ -28,7 +28,7 @@ ms.locfileid: "96972749"
  [WPF 中的形状和基本图形概述](shapes-and-basic-drawing-in-wpf-overview.md)  
  [操作指南主题](shapes-how-to-topics.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Shapes.Shape>
 - [二维图形和图像处理](../advanced/optimizing-performance-2d-graphics-and-imaging.md)

@@ -3,10 +3,10 @@ title: 子代（XElement 动态属性）
 ms.date: 10/22/2019
 ms.topic: reference
 ms.openlocfilehash: 8d14b0a94d1a2028a56f649a574f157264ba50fa
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970405"
 ---
 # <a name="descendants-xelement-dynamic-property"></a>子代（XElement 动态属性）
@@ -31,7 +31,7 @@ elem.Descendants[{namespaceName}localName]
 
 此属性使用延迟执行。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)
 - [元素](elements-xelement-dynamic-property.md)

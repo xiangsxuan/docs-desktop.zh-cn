@@ -11,10 +11,10 @@ helpviewer_keywords:
 - extracting text content [WPF]
 ms.assetid: f13c093f-1a05-45b3-ac8f-c9ea5e4a11c5
 ms.openlocfilehash: d1d40f37c23455dfc48206f84bca1b8438fec6c4
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973240"
 ---
 # <a name="how-to-extract-the-text-content-from-a-richtextbox"></a>如何：从 RichTextBox 中提取文本内容
@@ -33,7 +33,7 @@ ms.locfileid: "96973240"
  [!code-csharp[RichTextBoxSnippets#_RTB_StringFrom](~/samples/snippets/csharp/VS_Snippets_Wpf/RichTextBoxSnippets/CSharp/Window1.xaml.cs#_rtb_stringfrom)]
  [!code-vb[RichTextBoxSnippets#_RTB_StringFrom](~/samples/snippets/visualbasic/VS_Snippets_Wpf/RichTextBoxSnippets/visualbasic/window1.xaml.vb#_rtb_stringfrom)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [RichTextBox 概述](richtextbox-overview.md)
 - [TextBox 概述](textbox-overview.md)

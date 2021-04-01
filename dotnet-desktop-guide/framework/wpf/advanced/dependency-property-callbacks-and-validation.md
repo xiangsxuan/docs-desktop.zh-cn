@@ -12,10 +12,10 @@ helpviewer_keywords:
 - validation of dependency properties [WPF]
 ms.assetid: 48db5fb2-da7f-49a6-8e81-3540e7b25825
 ms.openlocfilehash: c5f7439753037aeb5c2ff558da63e063ad65a5e1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971941"
 ---
 # <a name="dependency-property-callbacks-and-validation"></a>依赖项属性回调和验证
@@ -78,7 +78,7 @@ ms.locfileid: "96971941"
 ### <a name="using-coercevalue-to-cancel-value-changes"></a>使用 CoerceValue 取消值更改  
  属性系统将将 <xref:System.Windows.CoerceValueCallback> 返回值的任何 <xref:System.Windows.DependencyProperty.UnsetValue> 作为特殊情况。 这种特殊情况意味着 <xref:System.Windows.CoerceValueCallback> ，属性系统应拒绝导致调用的属性更改，并且属性系统应会报告以前的属性值。 该机制可用于检查异步启动的属性更改对当前对象状态是否仍然有效，如果无效，则可取消这些更改。 另一个可能的方案是：可以根据负责所报告的值的属性值确定组件，有选择地取消该值。 为此，可以使用 <xref:System.Windows.DependencyProperty> 传入回调中的和属性标识符作为的输入 <xref:System.Windows.DependencyPropertyHelper.GetValueSource%2A> ，然后处理 <xref:System.Windows.ValueSource> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [依赖项属性概述](dependency-properties-overview.md)
 - [依赖项属性元数据](dependency-property-metadata.md)

@@ -6,10 +6,10 @@ helpviewer_keywords:
 - TextBox control read-only
 ms.assetid: e707ec59-8b22-473e-b77c-3060a237517a
 ms.openlocfilehash: 45fda33b5840bd89dac8d9e99f7dd1a8dd065838
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973090"
 ---
 # <a name="how-to-make-a-textbox-control-read-only"></a>如何：将 TextBox 控件设为只读
@@ -24,7 +24,7 @@ ms.locfileid: "96973090"
   
  的默认值 <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> 为 **false**。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [TextBox 概述](textbox-overview.md)
 - [RichTextBox 概述](richtextbox-overview.md)

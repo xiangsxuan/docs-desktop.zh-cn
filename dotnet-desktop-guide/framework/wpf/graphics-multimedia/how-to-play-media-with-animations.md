@@ -8,10 +8,10 @@ helpviewer_keywords:
 - media [WPF], playback with animations
 ms.assetid: 8982b7b7-1c6c-4b24-8801-b328862975f5
 ms.openlocfilehash: 200f9d62c67a02088fe5a5789cdb41a04837d430
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970850"
 ---
 # <a name="how-to-play-media-with-animations"></a>如何：播放带有动画的媒体
@@ -24,7 +24,7 @@ ms.locfileid: "96970850"
   
  [!code-xaml[MediaGallery_snippet#MediaTimelinePlusAnimationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/MediaGallery_snippet/CSharp/MediaTimelinePlusAnimationExample.xaml#mediatimelineplusanimationexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.MediaTimeline>
 - <xref:System.Windows.Media.Animation.DoubleAnimationUsingKeyFrames>

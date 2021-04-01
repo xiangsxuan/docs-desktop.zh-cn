@@ -14,10 +14,10 @@ helpviewer_keywords:
 - DefaultDrawingAttributes property [WPF]
 ms.assetid: 66a3129d-9577-43eb-acbd-56c147282016
 ms.openlocfilehash: 813a5313a6fbf83c36cdbed1f64ce69a217ad788
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971958"
 ---
 # <a name="collect-ink"></a>收集墨迹
@@ -88,7 +88,7 @@ ms.locfileid: "96971958"
 
 请注意如何将 <xref:System.Windows.Controls.StackPanel> 按钮放置在顶部 <xref:System.Windows.Controls.InkCanvas> 。 如果尝试在按钮顶部显示墨迹，则会 <xref:System.Windows.Controls.InkCanvas> 收集按钮并在其后面呈现墨迹。 这是因为按钮是的同级，而不是 <xref:System.Windows.Controls.InkCanvas> 子级。 此外，这些按钮的 Z 顺序较高，所以墨迹呈现在其后面。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Ink.DrawingAttributes>
 - <xref:System.Windows.Controls.InkCanvas.DefaultDrawingAttributes%2A>

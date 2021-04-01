@@ -14,10 +14,10 @@ helpviewer_keywords:
 - DrawingGroup objects [WPF]
 ms.assetid: 6ab1fe6b-3eed-4432-a248-b487e7234e5b
 ms.openlocfilehash: 975fafebe255d5ff4848fde2c0b0ff08b68d4f7b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973193"
 ---
 # <a name="drawings"></a>绘图
@@ -27,7 +27,7 @@ ms.locfileid: "96973193"
  [Drawing 对象概述](drawing-objects-overview.md)  
   [操作指南主题](drawings-how-to-topics.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Drawing>
 - [二维图形和图像处理](../advanced/optimizing-performance-2d-graphics-and-imaging.md)

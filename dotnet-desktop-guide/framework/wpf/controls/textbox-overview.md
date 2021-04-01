@@ -6,10 +6,10 @@ helpviewer_keywords:
 - TextBox control [WPF], about TextBox control
 ms.assetid: 1ba6dc5b-11a7-4247-9213-36c6729ee35f
 ms.openlocfilehash: 22f7be7d17489959251fd680504f20d35ffeef53
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970433"
 ---
 # <a name="textbox-overview"></a>TextBox 概述
@@ -21,7 +21,7 @@ ms.locfileid: "96970433"
   
 |控制|实时拼写检查|上下文菜单|格式设置命令，例如 <xref:System.Windows.Documents.EditingCommands.ToggleBold%2A> (Ctr + B) |<xref:System.Windows.Documents.FlowDocument> 内容，如图像、段落、表等。|  
 |-------------|------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-|<xref:System.Windows.Controls.TextBox>|是|是|否|错误。|  
+|<xref:System.Windows.Controls.TextBox>|是|是|否|不能。|  
 |<xref:System.Windows.Controls.RichTextBox>|是|是|是（请参阅 [RichTextBox 概述](richtextbox-overview.md)）|是（请参阅 [RichTextBox 概述](richtextbox-overview.md)）|  
   
 > [!NOTE]
@@ -65,7 +65,7 @@ ms.locfileid: "96970433"
 ## <a name="detect-when-content-changes"></a>检测内容何时更改  
  通常情况 <xref:System.Windows.Controls.Primitives.TextBoxBase.TextChanged> 下，事件应该用于在或更改中的文本时进行检测 <xref:System.Windows.Controls.TextBox> <xref:System.Windows.Controls.RichTextBox> ，而不是像预期那样进行检测 <xref:System.Windows.UIElement.KeyDown> 。 有关示例，请参阅[检测 TextBox 中的文本何时更改](how-to-detect-when-text-in-a-textbox-has-changed.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [操作指南主题](textbox-how-to-topics.md)
 - [RichTextBox 概述](richtextbox-overview.md)

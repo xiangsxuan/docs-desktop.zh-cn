@@ -6,10 +6,10 @@ helpviewer_keywords:
 - documents [WPF], flow content elements
 ms.assetid: 70fa11cd-5fa7-4872-a1cc-04d80f1132be
 ms.openlocfilehash: f61116c0bf52ac726238d9e21c2422cedbb4716f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971805"
 ---
 # <a name="how-to-use-flow-content-elements"></a>如何：使用流内容元素

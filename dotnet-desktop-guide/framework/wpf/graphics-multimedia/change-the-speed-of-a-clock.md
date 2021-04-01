@@ -9,10 +9,10 @@ helpviewer_keywords:
 - clocks [WPF], changing speed of
 ms.assetid: 72f36dd0-f085-445d-8589-19a83fe74f5e
 ms.openlocfilehash: 19e6874b9b472cb4a5f716677f99af03f2b73b10
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970088"
 ---
 # <a name="how-to-change-the-speed-of-a-clock-without-changing-the-speed-of-its-timeline"></a>如何：在不更改时间线速度的情况下更改时钟速度

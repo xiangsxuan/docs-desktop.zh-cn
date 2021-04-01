@@ -5,10 +5,10 @@ helpviewer_keywords:
 - graphics [WPF], translations
 ms.assetid: 461c8273-15df-42f6-8672-89ba22887cc0
 ms.openlocfilehash: addff0e22fb3f27ea924887809c0635aeb3ad67d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972762"
 ---
 # <a name="how-to-translate-an-element"></a>如何：平移元素
@@ -25,6 +25,6 @@ ms.locfileid: "96972762"
   
  有关完整示例，请参阅 [2D 转换示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/2DTransforms)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [转换概述](transforms-overview.md)

@@ -10,10 +10,10 @@ helpviewer_keywords:
 - drag-and-drop [WPF], walkthrough
 ms.assetid: cc844419-1a77-4906-95d9-060d79107fc7
 ms.openlocfilehash: 54aa79a49fe664312fd013ac9970c1d284d8ce2e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972997"
 ---
 # <a name="walkthrough-enabling-drag-and-drop-on-a-user-control"></a>演练：在用户控件上启用拖放功能
@@ -332,6 +332,6 @@ ms.locfileid: "96972997"
 
      ![按住 Ctrl 键的同时拖动圆形](./media/dragdrop-paneldrop.png "DragDrop_PanelDrop")
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [拖放概述](drag-and-drop-overview.md)

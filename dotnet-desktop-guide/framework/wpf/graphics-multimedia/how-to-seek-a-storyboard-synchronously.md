@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Storyboards [WPF], seeking synchronously
 ms.assetid: 03e06271-a946-4810-88ea-3fb4cfa9e0f1
 ms.openlocfilehash: 8ac55346ac83ee94318de90655bde6053ef20687
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973215"
 ---
 # <a name="how-to-seek-a-storyboard-synchronously"></a>如何：同步搜寻演示图板

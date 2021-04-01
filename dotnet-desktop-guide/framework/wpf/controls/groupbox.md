@@ -8,10 +8,10 @@ helpviewer_keywords:
 - GroupBox control [WPF]
 ms.assetid: 1f4ed3d9-a171-4623-bc4f-3314e3576271
 ms.openlocfilehash: 1808fefab2d15ce57da4b381f258dc8e5207e358
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972952"
 ---
 # <a name="groupbox"></a>GroupBox

@@ -16,10 +16,10 @@ helpviewer_keywords:
 - typography [WPF], skewed text
 ms.assetid: 0d61678a-4185-4f2a-85c6-c1d020f96fa0
 ms.openlocfilehash: 867f39e3df8493014d8601530e91310c3bbbeeb5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971921"
 ---
 # <a name="how-to-apply-transforms-to-text"></a>如何：向文本应用变换
@@ -64,6 +64,6 @@ ms.locfileid: "96971921"
 > [!NOTE]
 > <xref:System.Windows.Media.Effects.DropShadowBitmapEffect>提供了一组丰富的功能，用于提供阴影效果。 有关详细信息，请参阅 [使用阴影创建文本](how-to-create-text-with-a-shadow.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [向文本应用动画](how-to-apply-animations-to-text.md)

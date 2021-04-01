@@ -7,10 +7,10 @@ helpviewer_keywords:
 - Popup control [WPF], about Popup control
 ms.assetid: 774f53ca-bff8-470e-9ce9-3928b4cf3d4c
 ms.openlocfilehash: 84eaddc53366df6d1da1a0a005d3618268f8cce2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973238"
 ---
 # <a name="popup-overview"></a>Popup 概述
@@ -87,7 +87,7 @@ ms.locfileid: "96973238"
   
  控件将对 <xref:System.Windows.Controls.Primitives.Popup> 其内容的引用 <xref:System.Windows.Controls.Primitives.Popup.Child%2A> 作为逻辑子级维护。 当创建新窗口时，的内容 <xref:System.Windows.Controls.Primitives.Popup> 将成为窗口的可视子级，并且保持的逻辑子级 <xref:System.Windows.Controls.Primitives.Popup> 。 相反， <xref:System.Windows.Controls.Primitives.Popup> 将保留其内容的逻辑父级 <xref:System.Windows.Controls.Primitives.Popup.Child%2A> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Primitives.Popup>
 - <xref:System.Windows.Controls.Primitives.PopupPrimaryAxis>

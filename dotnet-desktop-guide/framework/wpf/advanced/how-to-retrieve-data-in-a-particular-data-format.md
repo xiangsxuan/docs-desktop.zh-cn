@@ -10,10 +10,10 @@ helpviewer_keywords:
 - DataObject class [WPF], retrieving data
 ms.assetid: a625acf3-1144-44cd-add7-456aefc3859f
 ms.openlocfilehash: b3ec1b8fa873fd449956912e9e77e98b0362cb0e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971500"
 ---
 # <a name="how-to-retrieve-data-in-a-particular-data-format"></a>如何：以特定数据格式检索数据

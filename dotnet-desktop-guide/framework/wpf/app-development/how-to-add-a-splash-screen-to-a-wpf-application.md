@@ -9,10 +9,10 @@ helpviewer_keywords:
 - splash screen [WPF]
 ms.assetid: d70a25c4-5fb9-4c27-b01d-b1b8ef39b3fd
 ms.openlocfilehash: 99a20dca755b7fd066ed6068ed2efa4cca8acaa9
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973033"
 ---
 # <a name="how-to-add-a-splash-screen-to-a-wpf-application"></a>如何：将初始屏幕添加到 WPF 应用程序
@@ -45,7 +45,7 @@ ms.locfileid: "96973033"
 
 在 **解决方案资源管理器** 中，删除初始屏幕图像。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.SplashScreen>
 - [如何：向项目中添加现有项](/previous-versions/visualstudio/visual-studio-2010/9f4t9t92(v=vs.100))

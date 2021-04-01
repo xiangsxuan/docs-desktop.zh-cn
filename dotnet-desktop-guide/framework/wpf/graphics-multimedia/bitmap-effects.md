@@ -10,10 +10,10 @@ helpviewer_keywords:
 - images [WPF], bitmap
 ms.assetid: be180b56-ca6e-4da3-a839-f6b0bf482f7d
 ms.openlocfilehash: eef40223408ef6c98de29b474c6b1aaab742934c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972809"
 ---
 # <a name="bitmap-effects"></a>位图效果

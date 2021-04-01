@@ -6,10 +6,10 @@ helpviewer_keywords:
 - Timelines [WPF], AutoReverse property
 ms.assetid: 1648dd90-1bee-409a-ac69-ac729867f557
 ms.openlocfilehash: 0fe2d337d8afa5197475e5b9ee40950226596e8b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971002"
 ---
 # <a name="how-to-specify-whether-a-timeline-automatically-reverses"></a>如何：指定时间线是否自动反转

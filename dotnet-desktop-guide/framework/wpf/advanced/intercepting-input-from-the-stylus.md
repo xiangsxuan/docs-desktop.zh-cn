@@ -11,10 +11,10 @@ helpviewer_keywords:
 - ', '
 ms.assetid: 791bb2f0-4e5c-4569-ac3c-211996808d44
 ms.openlocfilehash: f05a3c25a61e90ec91cd1db725ba9a40763f0a7f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970470"
 ---
 # <a name="intercepting-input-from-the-stylus"></a>截获触笔输入
@@ -29,7 +29,7 @@ ms.locfileid: "96970470"
   
 - [将插件添加到 InkCanvas](#AddingYourPluginToAnInkCanvas)  
   
-- [结论](#Conclusion)  
+- [结束语](#Conclusion)  
   
 <a name="Architecture"></a>
 
@@ -75,11 +75,11 @@ ms.locfileid: "96970470"
   
 <a name="Conclusion"></a>
 
-## <a name="conclusion"></a>结论  
+## <a name="conclusion"></a>结束语  
 
  通过派生你自己的 <xref:System.Windows.Input.StylusPlugIns.StylusPlugIn> 类并将它们插入到 <xref:System.Windows.Input.StylusPlugIns.StylusPlugInCollection> 集合中，你可以极大地增强数字墨迹的行为。 您可以在生成数据时对其进行访问 <xref:System.Windows.Input.StylusPoint> ，从而为您提供自定义输入的机会 <xref:System.Windows.Input.Stylus> 。 由于你对数据具有这样的低级别访问权限 <xref:System.Windows.Input.StylusPoint> ，因此你可以实现墨迹收集并使用应用程序的最佳性能进行呈现。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [高级墨迹处理](advanced-ink-handling.md)
 - [访问和操作笔输入](/previous-versions/ms818317(v%3dmsdn.10))

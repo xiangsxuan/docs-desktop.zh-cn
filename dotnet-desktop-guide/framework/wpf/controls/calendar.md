@@ -6,10 +6,10 @@ helpviewer_keywords:
 - Calendar control [WPF]
 ms.assetid: ee844e4a-eefe-48e2-bd0d-1d82cc5e960b
 ms.openlocfilehash: c06cd34739dd25f717a5ea2cbc9803453558a400
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973264"
 ---
 # <a name="calendar"></a>日历
@@ -51,7 +51,7 @@ ms.locfileid: "96973264"
 |CTRL + 向下箭头|任意|切换到下一个较小的 <xref:System.Windows.Controls.Calendar.DisplayMode%2A> 。 如果 <xref:System.Windows.Controls.Calendar.DisplayMode%2A> 已存在 <xref:System.Windows.Controls.CalendarMode.Month> ，则不执行任何操作。|  
 |空格键或 ENTER|<xref:System.Windows.Controls.CalendarMode.Year> 或 <xref:System.Windows.Controls.CalendarMode.Decade>|切换 <xref:System.Windows.Controls.Calendar.DisplayMode%2A> 到 <xref:System.Windows.Controls.CalendarMode.Month> 或 <xref:System.Windows.Controls.CalendarMode.Year> 由重点项表示。|  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [控件](index.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

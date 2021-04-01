@@ -5,10 +5,10 @@ helpviewer_keywords:
 - ListView controls [WPF], styling
 ms.assetid: 94bf964b-96c8-4bdf-a0c3-f5271b7cb565
 ms.openlocfilehash: 1caa652c4a2a3a7d0a8d40fe703df7a3e8038c9b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970488"
 ---
 # <a name="how-to-use-templates-to-style-a-listview-that-uses-gridview"></a>如何：使用模板创建使用 GridView 的 ListView 的样式
@@ -35,7 +35,7 @@ ms.locfileid: "96970488"
   
  [!code-xaml[ListViewTemplate#CellTemplateProperty](~/samples/snippets/csharp/VS_Snippets_Wpf/ListViewTemplate/CS/window1.xaml#celltemplateproperty)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.ListView>
 - <xref:System.Windows.Controls.GridView>

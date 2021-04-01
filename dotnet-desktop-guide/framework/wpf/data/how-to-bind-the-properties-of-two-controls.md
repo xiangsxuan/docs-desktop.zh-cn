@@ -7,10 +7,10 @@ helpviewer_keywords:
 - controls [WPF], binding properties of
 ms.assetid: 06318fac-6afd-4c7d-a277-6d7ef50f47bc
 ms.openlocfilehash: 28b5f65a57fc210f3d405020daa0d75c28b934c8
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970402"
 ---
 # <a name="how-to-bind-the-properties-of-two-controls"></a>如何：绑定两个控件的属性
@@ -30,7 +30,7 @@ ms.locfileid: "96970402"
 > [!NOTE]
 > 在此示例中 (绑定目标属性， <xref:System.Windows.Controls.Panel.Background%2A> 属性) 必须是依赖属性。 有关详细信息，请参阅 [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [指定绑定源](how-to-specify-the-binding-source.md)
 - [操作指南主题](data-binding-how-to-topics.md)

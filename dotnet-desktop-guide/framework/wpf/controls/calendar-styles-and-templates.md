@@ -10,10 +10,10 @@ helpviewer_keywords:
 - ControlTemplate [WPF], Calendar
 ms.assetid: f4fcf046-7a8f-41b8-b5a8-534b64e0345c
 ms.openlocfilehash: 3639a6f012aae7e15bae0e765e46f92015273286
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973267"
 ---
 # <a name="calendar-styles-and-templates"></a>Calendar 样式和模板
@@ -82,7 +82,7 @@ ms.locfileid: "96973267"
 |CalendarButtonUnfocused|CalendarButtonFocusStates|按钮没有焦点。|  
 |已设定焦点|FocusStates|按钮有焦点。|  
 |失去焦点|FocusStates|按钮没有焦点。|  
-|可用|ActiveStates|该按钮处于活动状态。|  
+|活动|ActiveStates|该按钮处于活动状态。|  
 |非活动|ActiveStates|该按钮处于非活动状态。|  
 |RegularDay|DayStates|此按钮不表示 <xref:System.DateTime.Today%2A?displayProperty=nameWithType> 。|  
 |今天|DayStates|按钮表示 <xref:System.DateTime.Today%2A?displayProperty=nameWithType> 。|  
@@ -110,7 +110,7 @@ ms.locfileid: "96973267"
 |CalendarButtonUnfocused|CalendarButtonFocusStates|按钮没有焦点。|  
 |已设定焦点|FocusStates|按钮有焦点。|  
 |失去焦点|FocusStates|按钮没有焦点。|  
-|可用|ActiveStates|该按钮处于活动状态。|  
+|活动|ActiveStates|该按钮处于活动状态。|  
 |非活动|ActiveStates|该按钮处于非活动状态。|  
 |有效|ValidationStates|控件使用 <xref:System.Windows.Controls.Validation> 类， <xref:System.Windows.Controls.Validation.HasError%2A?displayProperty=nameWithType> 附加属性为 `false` 。|  
 |InvalidFocused|ValidationStates|<xref:System.Windows.Controls.Validation.HasError%2A?displayProperty=nameWithType>附加属性是 `true` 控件具有焦点。|  
@@ -127,7 +127,7 @@ ms.locfileid: "96973267"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

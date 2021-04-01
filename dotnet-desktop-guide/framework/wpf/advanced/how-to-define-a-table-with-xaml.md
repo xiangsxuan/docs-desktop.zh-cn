@@ -7,10 +7,10 @@ helpviewer_keywords:
 - tables [WPF], defining with XAML
 ms.assetid: 83f2dc58-437e-4cdc-b5dd-0019810c7a85
 ms.openlocfilehash: 709e977670b867f6513bf166918d3bcba0a8c62c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972469"
 ---
 # <a name="how-to-define-a-table-with-xaml"></a>如何：使用 XAML 定义表

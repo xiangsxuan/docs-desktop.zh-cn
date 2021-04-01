@@ -7,10 +7,10 @@ helpviewer_keywords:
 - enumeration [WPF]
 ms.assetid: b9091eba-1119-424e-868b-d1a4168b3732
 ms.openlocfilehash: c92f1f00aa3feb37b70aa9a3647265236a1625b2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970392"
 ---
 # <a name="how-to-bind-to-an-enumeration"></a>如何：绑定到枚举
@@ -21,7 +21,7 @@ ms.locfileid: "96970392"
   
  [!code-xaml[BindToEnum#BindToEnum](~/samples/snippets/csharp/VS_Snippets_Wpf/BindToEnum/CS/Window1.xaml#bindtoenum)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [绑定到方法](how-to-bind-to-a-method.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

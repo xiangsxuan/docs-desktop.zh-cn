@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Canvas control [WPF]
 ms.assetid: fdb390e9-1bba-4b5f-87fe-c3bc246fa7e9
 ms.openlocfilehash: 7b3e1c942308aa90887b6370ed402a1a87364415
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973260"
 ---
 # <a name="canvas"></a>画布

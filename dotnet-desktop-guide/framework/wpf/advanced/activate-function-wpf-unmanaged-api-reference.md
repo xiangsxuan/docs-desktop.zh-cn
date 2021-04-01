@@ -10,10 +10,10 @@ api_location:
 - PresentationHost_v0400.dll
 ms.assetid: 1400329c-b598-465f-80f2-e3dabf044811
 ms.openlocfilehash: c97069613a96009d0b9bb84e55c37b29c2d3ea5b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970500"
 ---
 # <a name="activate-function-wpf-unmanaged-api-reference"></a> (WPF 非托管 API 引用中激活函数) 
@@ -31,7 +31,7 @@ void Activate(
     );
 ```
 
-## <a name="parameters"></a>parameters
+## <a name="parameters"></a>参数
 
 `pParameters`\
 指向窗口的激活参数的指针。
@@ -51,6 +51,6 @@ void Activate(
 
 **.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 非托管 API 参考](wpf-unmanaged-api-reference.md)

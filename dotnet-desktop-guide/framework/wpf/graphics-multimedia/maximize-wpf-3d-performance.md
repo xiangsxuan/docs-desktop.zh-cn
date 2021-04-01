@@ -5,10 +5,10 @@ helpviewer_keywords:
 - 3D graphics [WPF]
 ms.assetid: 4bcf949d-d92f-4d8d-8a9b-1e4c61b25bf6
 ms.openlocfilehash: 0cc7ce1d62fd9a21abc3130c0a799e1d3a049ca6
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973171"
 ---
 # <a name="maximize-wpf-3d-performance"></a>最大程度地提高 WPF 三维性能
@@ -59,6 +59,6 @@ ms.locfileid: "96973171"
 |亮|黑色光源不可见，但会将其添加到渲染时间;请考虑省略它们。|  
 |<xref:System.Windows.Media.Media3D.MeshGeometry3D>|若要最大程度地减少中大型集合的构造时间 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] ，如 MeshGeometry3D's <xref:System.Windows.Media.Media3D.MeshGeometry3D.Positions%2A> 、 <xref:System.Windows.Media.Media3D.MeshGeometry3D.Normals%2A> 、 <xref:System.Windows.Media.Media3D.MeshGeometry3D.TextureCoordinates%2A> 和 <xref:System.Windows.Media.Media3D.MeshGeometry3D.TriangleIndices%2A> ，请在值填充之前预先调整集合的大小。 如果可能，请传递集合的构造函数预填充的数据结构，例如数组或列表。|  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [三维图形概述](3-d-graphics-overview.md)

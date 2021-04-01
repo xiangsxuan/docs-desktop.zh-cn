@@ -10,10 +10,10 @@ helpviewer_keywords:
 - ListView controls [WPF], about ListView control
 ms.assetid: 989e12b0-260e-4570-95c6-489284003ce2
 ms.openlocfilehash: 6dc4666944f07d0f00e60804833c72a80daed516
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973199"
 ---
 # <a name="listview-overview"></a>ListView 概述
@@ -81,7 +81,7 @@ ms.locfileid: "96973199"
 ## <a name="creating-a-custom-view-mode"></a>创建自定义视图模式  
  自定义的视图（如） <xref:System.Windows.Controls.GridView> 派生自 <xref:System.Windows.Controls.ViewBase> 抽象类，该类提供了用于显示作为对象表示的数据项的工具 <xref:System.Windows.Controls.ListViewItem> 。
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.GridView>
 - <xref:System.Windows.Controls.ListView>

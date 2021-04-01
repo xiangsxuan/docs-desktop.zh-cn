@@ -6,10 +6,10 @@ helpviewer_keywords:
 - Viewport property of TileBrush [WPF]
 ms.assetid: 04f41090-1b46-4e36-832f-d27d28708b8c
 ms.openlocfilehash: af7bab59a292549b29dad9b6a7417f22b1b84e48
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971012"
 ---
 # <a name="how-to-set-the-tile-size-for-a-tilebrush"></a>如何：为 TileBrush 设置平铺大小
@@ -40,7 +40,7 @@ ms.locfileid: "96971012"
 
 虽然此示例使用 <xref:System.Windows.Media.ImageBrush> 类，但 <xref:System.Windows.Media.TileBrush.Viewport%2A> 和属性的行为与 <xref:System.Windows.Media.TileBrush.ViewportUnits%2A> 其他对象的行为相同 <xref:System.Windows.Media.TileBrush> ，即对于 <xref:System.Windows.Media.DrawingBrush> 和 <xref:System.Windows.Media.VisualBrush> 。 有关 <xref:System.Windows.Media.ImageBrush> 和其他对象的详细信息 <xref:System.Windows.Media.TileBrush> ，请参阅 [利用图像、绘图和视觉](painting-with-images-drawings-and-visuals.md)对象进行绘制。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.TileBrush>
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

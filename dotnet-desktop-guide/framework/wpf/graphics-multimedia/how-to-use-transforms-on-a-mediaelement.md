@@ -7,10 +7,10 @@ helpviewer_keywords:
 - MediaElements [WPF], using Transforms on
 ms.assetid: d89c95e3-27c5-4748-8a27-72e432674032
 ms.openlocfilehash: 10d440e0c49edffa00bcec9d55ed6d49a6b60b02
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970213"
 ---
 # <a name="how-to-use-transforms-on-a-mediaelement"></a>如何：针对 MediaElement 使用变换

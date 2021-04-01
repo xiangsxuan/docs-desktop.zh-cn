@@ -10,10 +10,10 @@ helpviewer_keywords:
 - DateTime XAML syntax [WPF], format strings for
 ms.assetid: 5901710a-609b-40c8-9d65-f0016cd9090b
 ms.openlocfilehash: dc7291f09c44f8a0b616bf38c1c90eb92ec906e6
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971944"
 ---
 # <a name="datetime-xaml-syntax"></a>DateTime XAML 语法
@@ -73,6 +73,6 @@ ms.locfileid: "96971944"
 ### <a name="other-formats-and-patterns"></a>其他格式和模式  
  如前文所述， <xref:System.DateTime> 可将 XAML 中的指定为可作为输入的任意字符串 <xref:System.DateTime.Parse%2A?displayProperty=nameWithType> 。 这包括 (示例) 的其他形式化格式 <xref:System.Globalization.DateTimeFormatInfo.UniversalSortableDateTimePattern%2A> ，以及不是作为特定形式规范化的格式 <xref:System.Globalization.DateTimeFormatInfo> 。 例如，窗体 `YYYY/mm/dd` 可作为的输入 <xref:System.DateTime.Parse%2A?displayProperty=nameWithType> 。 本主题并没有试图介绍所有可能有效的格式，而是推荐将短日期模式作为一种标准做法。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
-- [WPF)  (XAML 概述 ](/dotnet/desktop-wpf/fundamentals/xaml)
+- [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)

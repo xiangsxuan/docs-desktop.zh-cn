@@ -6,10 +6,10 @@ helpviewer_keywords:
 - 3D objects [WPF], scaling
 ms.assetid: f3fdfe33-f7dc-44b0-84a5-e43b89947f35
 ms.openlocfilehash: be41a0e10929912c1b54bf7140d743d9453199bf
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972763"
 ---
 # <a name="how-to-transform-the-scale-of-a-3d-model"></a>如何：变换三维模型的比例
@@ -22,7 +22,7 @@ ms.locfileid: "96972763"
   
  [!code-xaml[3DGallery_snip#ScaleTransform3DExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/3DGallery_snip/CS/ScaleTransform3DExample.xaml#scaletransform3dexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [对三维转换进行动画处理](how-to-animate-3-d-translations.md)
 - [创建三维场景](how-to-create-a-3-d-scene.md)

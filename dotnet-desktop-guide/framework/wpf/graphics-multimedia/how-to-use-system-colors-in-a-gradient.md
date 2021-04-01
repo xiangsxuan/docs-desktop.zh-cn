@@ -6,10 +6,10 @@ helpviewer_keywords:
 - system colors in gradients [WPF]
 ms.assetid: 11942e7e-6300-4b50-8ed1-f50e8d20e7d2
 ms.openlocfilehash: 55c99640907a0c372f8c7bbc50b9b45c9f15ef3c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972827"
 ---
 # <a name="how-to-use-system-colors-in-a-gradient"></a>如何：在渐变中使用系统颜色
@@ -24,7 +24,7 @@ ms.locfileid: "96972827"
   
  [!code-xaml[brushsamples_snip#GraphicsMMStaticSystemColorGradientExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/brushsamples_snip/CS/StaticSystemColorExample.xaml#graphicsmmstaticsystemcolorgradientexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.SystemColors>
 - [使用系统画笔绘制区域](how-to-paint-an-area-with-a-system-brush.md)

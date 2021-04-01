@@ -10,10 +10,10 @@ helpviewer_keywords:
 - Geometry objects [WPF], hit tests on visual objects [WPF]
 ms.assetid: 6c8bdbf2-19e0-4fbb-bf89-c1252b2ebc61
 ms.openlocfilehash: 8bed7784b00f49178c9a87def74b62f7ce620ec7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972682"
 ---
 # <a name="how-to-hit-test-using-geometry-as-a-parameter"></a>如何：将几何图形用作参数的命中测试
@@ -37,7 +37,7 @@ ms.locfileid: "96972682"
 > [!NOTE]
 > <xref:System.Windows.Media.HitTestResult>当交集详细信息为时，不应调用回调 <xref:System.Windows.Media.IntersectionDetail.Empty> 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [可视化层中的命中测试](hit-testing-in-the-visual-layer.md)
 - [对视觉对象中的几何图形进行命中测试](how-to-hit-test-geometry-in-a-visual.md)

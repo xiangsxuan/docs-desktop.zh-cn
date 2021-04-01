@@ -7,10 +7,10 @@ helpviewer_keywords:
 - drag-and-drop [WPF], how-to topics
 ms.assetid: 559c0804-c62a-4640-b6b9-cbd2aa9fb99c
 ms.openlocfilehash: 9f476428dd62c8892b1876edfc66688273df1534
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972995"
 ---
 # <a name="drag-and-drop-how-to-topics"></a>拖放帮助主题
@@ -24,6 +24,6 @@ ms.locfileid: "96972995"
  [以特定数据格式检索数据](how-to-retrieve-data-in-a-particular-data-format.md)  
  [在数据对象中存储多种数据格式](how-to-store-multiple-data-formats-in-a-data-object.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [拖放概述](drag-and-drop-overview.md)

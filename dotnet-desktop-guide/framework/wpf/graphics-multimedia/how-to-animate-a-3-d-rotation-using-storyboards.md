@@ -7,10 +7,10 @@ helpviewer_keywords:
 - animation [WPF], 3D translations [WPF], with Storyboards
 ms.assetid: 1020e44e-e21e-49a8-be53-53cbc1910e83
 ms.openlocfilehash: 088f1a33cfc73a706ffed55ffff6494adaf8fca4
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973221"
 ---
 # <a name="how-to-animate-a-3d-rotation-using-storyboards"></a>如何：使用演示图板对三维旋转进行动画处理
@@ -19,7 +19,7 @@ ms.locfileid: "96973221"
 ## <a name="example"></a>示例  
  [!code-xaml[Animation3DGallery_snip#Rotate3DUsingAxisAngleRotation3DExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/Rotat3DUsingAxisAngleRotation3DExample.xaml#rotate3dusingaxisanglerotation3dexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用 Rotation3DAnimation 对三维旋转进行动画处理](how-to-animate-a-3-d-rotation-using-rotation3danimation.md)
 - [使用关键帧对三维旋转进行动画处理 (Rotation3DAnimationUsingKeyFrames)](how-to-animate-a-3-d-rotation-using-key-frames.md)

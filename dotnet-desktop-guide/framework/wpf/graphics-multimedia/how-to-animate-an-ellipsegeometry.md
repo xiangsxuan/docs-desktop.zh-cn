@@ -10,10 +10,10 @@ helpviewer_keywords:
 - graphics [WPF], animation
 ms.assetid: 767b9b6e-9cb7-482e-b6c2-fee7750c3995
 ms.openlocfilehash: 0f8174a2144435c9ad65904ee587355e8b38e935
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973191"
 ---
 # <a name="how-to-animate-an-ellipsegeometry"></a>如何：对 EllipseGeometry 进行动画处理
@@ -26,7 +26,7 @@ ms.locfileid: "96973191"
   
  [!code-vb[animatepath_snip#201](~/samples/snippets/visualbasic/VS_Snippets_Wpf/animatepath_snip/VisualBasic/EllipseGeometryExample.vb#201)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [动画概述](animation-overview.md)
 - [Geometry 概述](geometry-overview.md)

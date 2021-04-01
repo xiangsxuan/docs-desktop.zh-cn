@@ -11,10 +11,10 @@ helpviewer_keywords:
 - horizontal alignment of Tilebrushes [WPF]
 ms.assetid: 65ae89bd-9246-4c9e-bde4-2fb991d4060d
 ms.openlocfilehash: e3bfb2b209e40c435c3a321c874dfbd7a9a2fd50
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971014"
 ---
 # <a name="how-to-set-the-horizontal-and-vertical-alignment-of-a-tilebrush"></a>如何：设置 TileBrush 的水平对齐方式和垂直对齐方式
@@ -72,7 +72,7 @@ ms.locfileid: "96971014"
   
  这些示例使用 <xref:System.Windows.Media.DrawingBrush> 对象来演示如何 <xref:System.Windows.Media.TileBrush.AlignmentX%2A> 使用和 <xref:System.Windows.Media.TileBrush.AlignmentY%2A> 属性。 这些属性对于所有图块画笔的行为都是相同的： <xref:System.Windows.Media.DrawingBrush> 、 <xref:System.Windows.Media.ImageBrush> 和 <xref:System.Windows.Media.VisualBrush> 。 有关平铺画笔的详细信息，请参阅[使用图像、绘图和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.DrawingBrush>
 - <xref:System.Windows.Media.ImageBrush>

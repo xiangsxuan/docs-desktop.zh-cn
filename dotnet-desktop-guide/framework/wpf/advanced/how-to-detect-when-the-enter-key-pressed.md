@@ -10,10 +10,10 @@ helpviewer_keywords:
 - keys [WPF], Enter
 ms.assetid: a66f39d2-ef4a-43a5-b454-a4ea0fe88655
 ms.openlocfilehash: 1e74113f22e03f41da2e51178179aa52f6bfcd2c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972904"
 ---
 # <a name="how-to-detect-when-the-enter-key-pressed"></a>如何：检测何时按下 Enter 键
@@ -33,7 +33,7 @@ ms.locfileid: "96972904"
  [!code-csharp[keydown#KeyDownSample](~/samples/snippets/csharp/VS_Snippets_Wpf/KeyDown/CSharp/Window1.xaml.cs#keydownsample)]
  [!code-vb[keydown#KeyDownSample](~/samples/snippets/visualbasic/VS_Snippets_Wpf/KeyDown/VisualBasic/Window1.xaml.vb#keydownsample)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [输入概述](input-overview.md)
 - [路由事件概述](routed-events-overview.md)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - controls [WPF], GridSplitter
 ms.assetid: db0da67a-954f-42e6-bbf7-4e16b8cbb210
 ms.openlocfilehash: 800898a4b6fc655785c7db0d9463c34e5eeaa0b7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970625"
 ---
 # <a name="gridsplitter-how-to-topics"></a>GridSplitter 帮助主题

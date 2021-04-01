@@ -12,10 +12,10 @@ helpviewer_keywords:
 - Canvas control [WPF]
 ms.assetid: 7dc9f435-726c-4d4d-be41-eb24cfe17bef
 ms.openlocfilehash: 84f5ac2b53124b7f4d7c15741e94b40e7ee81526
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972937"
 ---
 # <a name="how-to-resize-a-canvas-by-using-a-thumb"></a>如何：使用 Thumb 调整画布的大小
@@ -46,7 +46,7 @@ ms.locfileid: "96972937"
   
  有关完整示例，请参阅 [Thumb 拖动功能示例](https://github.com/Microsoft/WPF-Samples/tree/master/Drag%20and%20Drop/DragDropThumbOps)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.Primitives.Thumb>
 - <xref:System.Windows.Controls.Primitives.Thumb.DragStarted>

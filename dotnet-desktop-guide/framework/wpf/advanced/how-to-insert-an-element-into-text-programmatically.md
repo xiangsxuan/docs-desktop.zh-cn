@@ -12,10 +12,10 @@ helpviewer_keywords:
 - text [WPF], inserting elements
 ms.assetid: 97bd950a-25ac-4e42-a311-94b6420d4136
 ms.openlocfilehash: ea9850c8490ec37032d4565c6b3375e3116d4313
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973200"
 ---
 # <a name="how-to-insert-an-element-into-text-programmatically"></a>如何：以编程方式将元素插入文本
@@ -29,6 +29,6 @@ ms.locfileid: "96973200"
   
  ![应用于一定范围文本的 Span 元素](./media/flow-insertelementintotextprogrammatically.png "Flow_InsertElementIntoTextProgrammatically")  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [流文档概述](flow-document-overview.md)

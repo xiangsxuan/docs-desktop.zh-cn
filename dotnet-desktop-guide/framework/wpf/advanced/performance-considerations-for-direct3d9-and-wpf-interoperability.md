@@ -7,10 +7,10 @@ helpviewer_keywords:
 - Direct3D9 [WPF interoperability], performance
 ms.assetid: ea8baf91-12fe-4b44-ac4d-477110ab14dd
 ms.openlocfilehash: 2445732c27d210a41da26303d6a9ce07ef6fcc94
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971749"
 ---
 # <a name="performance-considerations-for-direct3d9-and-wpf-interoperability"></a>Direct3D9 和 WPF 互操作性的性能注意事项
@@ -60,7 +60,7 @@ ms.locfileid: "96971749"
 |D3DFMT_A8R8G8B8 (不可锁定) |**硬件更新**|软件更新|软件更新|软件更新|  
 |D3DFMT_A8R8G8B8 (锁定) |**硬件更新**|软件更新|**硬件更新**|软件更新|  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Interop.D3DImage>
 - [WPF 和 Direct3D9 互操作](wpf-and-direct3d9-interoperation.md)

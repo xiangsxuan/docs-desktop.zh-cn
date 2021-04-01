@@ -9,10 +9,10 @@ helpviewer_keywords:
 - double animation [WPF]
 ms.assetid: 5a3c4a99-f303-42ad-a52a-e4794bb1798e
 ms.openlocfilehash: 084caac26fd68b6914ec3858652ec44557a0dbd7
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973182"
 ---
 # <a name="how-to-animate-an-object-along-a-path-double-animation"></a>如何：沿着路径针对对象进行动画处理（双重动画）
@@ -34,7 +34,7 @@ ms.locfileid: "96973182"
   
  使用几何路径移动对象的另一种方法是使用 <xref:System.Windows.Media.Animation.MatrixAnimationUsingPath> 对象。 有关示例，请参阅按 [路径对对象进行动画处理 (矩阵动画) ](how-to-animate-an-object-along-a-path-matrix-animation.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [动画概述](animation-overview.md)
 - [路径动画帮助主题](path-animation-how-to-topics.md)

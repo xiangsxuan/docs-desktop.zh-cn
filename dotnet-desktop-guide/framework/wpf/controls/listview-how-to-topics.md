@@ -8,10 +8,10 @@ helpviewer_keywords:
 - ListView controls [WPF], how-to topics
 ms.assetid: aafce40c-9bfe-45ec-86a3-599616a11276
 ms.openlocfilehash: 2665fc60e1366f30fb7f3621bb0669db1ea3db0a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971802"
 ---
 # <a name="listview-how-to-topics"></a>ListView 帮助主题

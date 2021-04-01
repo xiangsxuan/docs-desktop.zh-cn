@@ -8,10 +8,10 @@ helpviewer_keywords:
 - graphics [WPF], 3D
 ms.assetid: 4f091835-28d1-498c-b660-9b3acf34ed13
 ms.openlocfilehash: 0e2bcdcb49bd9747d144bc81a66268f4efb0d8be
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972688"
 ---
 # <a name="3d-graphics-how-to-topics"></a>3D 图形操作指南主题

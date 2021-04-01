@@ -13,10 +13,10 @@ helpviewer_keywords:
 - brushes [WPF], painting with visuals
 ms.assetid: 779aac3f-8d41-49d8-8130-768244aa2240
 ms.openlocfilehash: 292f9dcdb6d3ccbb6a3c7192ea6ba44a099ec5d5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970831"
 ---
 # <a name="painting-with-images-drawings-and-visuals"></a>使用图像、图形和视觉对象进行绘制
@@ -133,7 +133,7 @@ ms.locfileid: "96970831"
   
  有关对象的平铺功能的详细信息 <xref:System.Windows.Media.TileBrush> ，请参阅 [TileBrush 概述](tilebrush-overview.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.ImageBrush>
 - <xref:System.Windows.Media.DrawingBrush>

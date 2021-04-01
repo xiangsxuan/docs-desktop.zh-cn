@@ -7,10 +7,10 @@ helpviewer_keywords:
 - bug descriptions [WPF]
 ms.assetid: 468b060a-d54b-4900-a74a-9faccb554045
 ms.openlocfilehash: 0bb94626d4e97f55c89bf239fc298b6bce8fd870
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972811"
 ---
 # <a name="wpf-community-feedback"></a>WPF 社区反馈

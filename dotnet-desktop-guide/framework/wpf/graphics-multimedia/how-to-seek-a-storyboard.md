@@ -9,10 +9,10 @@ helpviewer_keywords:
 - seeking Storyboards [WPF]
 ms.assetid: 887bb39a-0c2a-4ae8-956d-1d9f6f8ebbfc
 ms.openlocfilehash: a57272c17a5bc6f5baaa21fb77233fc5693d1914
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971720"
 ---
 # <a name="how-to-seek-a-storyboard"></a>如何：搜寻演示图板
@@ -29,6 +29,6 @@ ms.locfileid: "96971720"
  [!code-csharp[SeekStoryboard_snip#SeekStoryboardCodeBehindExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/SeekStoryboard_snip/CSharp/SeekStoryboardExample.xaml.cs#seekstoryboardcodebehindexamplewholepage)]
  [!code-vb[SeekStoryboard_snip#SeekStoryboardCodeBehindExampleWholePage](~/samples/snippets/visualbasic/VS_Snippets_Wpf/SeekStoryboard_snip/VisualBasic/SeekStoryboardExample.xaml.vb#seekstoryboardcodebehindexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [同步搜寻情节提要](how-to-seek-a-storyboard-synchronously.md)

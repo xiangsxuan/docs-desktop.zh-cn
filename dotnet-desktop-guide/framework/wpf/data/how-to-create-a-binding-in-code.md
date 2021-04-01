@@ -10,10 +10,10 @@ helpviewer_keywords:
 - data binding [WPF], creating
 ms.assetid: 1a606db9-cf5f-42ed-a1c5-9e4722ec77a0
 ms.openlocfilehash: ed94118123823b4904896ddfbf2d5b429fc1012b
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973086"
 ---
 # <a name="how-to-create-a-binding-in-code"></a>如何：在代码中创建绑定
@@ -41,7 +41,7 @@ ms.locfileid: "96973086"
  [!code-csharp[CodeOnlyBinding#BOSetBinding](~/samples/snippets/csharp/VS_Snippets_Wpf/CodeOnlyBinding/CSharp/binding.cs#bosetbinding)]
  [!code-vb[CodeOnlyBinding#BOSetBinding](~/samples/snippets/visualbasic/VS_Snippets_Wpf/CodeOnlyBinding/VisualBasic/App.vb#bosetbinding)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)
 - [操作指南主题](data-binding-how-to-topics.md)

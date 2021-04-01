@@ -8,10 +8,10 @@ helpviewer_keywords:
 - animation [WPF], changing property values after
 ms.assetid: 79466556-4dbf-40bd-9c1e-a77613b07077
 ms.openlocfilehash: 593d3fcefe3bb81518d0886afde82f9a172874ba
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972774"
 ---
 # <a name="how-to-set-a-property-after-animating-it-with-a-storyboard"></a>如何：在使用演示图板对属性进行动画处理后设置该属性
@@ -62,7 +62,7 @@ ms.locfileid: "96972774"
   
  此方法也适用于非情节提要动画。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Animation.Timeline.FillBehavior%2A>
 - <xref:System.Windows.Media.Animation.Storyboard.Remove%2A?displayProperty=nameWithType>

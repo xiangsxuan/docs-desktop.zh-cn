@@ -16,10 +16,10 @@ helpviewer_keywords:
 - GDI print path [WPF]
 ms.assetid: 0de8ac41-9aa6-413d-a121-7aa6f41539b1
 ms.openlocfilehash: e4aeeaadf8548065859e96e62b4de83759a9cec1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973153"
 ---
 # <a name="printing-overview"></a>打印概述
@@ -134,7 +134,7 @@ ms.locfileid: "96973153"
   
 - **ZIP 压缩**。 所有 XPS 文档均使用 ZIP 压缩。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.PrintDialog>
 - <xref:System.Windows.Xps.XpsDocumentWriter>

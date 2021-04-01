@@ -8,10 +8,10 @@ helpviewer_keywords:
 - user interface virtualization [WPF]
 ms.assetid: 45a31c43-ea8a-4546-96c8-0631b9934179
 ms.openlocfilehash: de23ea9a3a55149164b9938cf0cf498164609342
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970957"
 ---
 # <a name="optimizing-performance-controls"></a>优化性能：控件
@@ -75,10 +75,10 @@ UI 虚拟化是列表控件的一个重要方面。 不应混淆 UI 虚拟化和
 > [!NOTE]
 > 有关如何在上启用虚拟化和容器回收的示例 <xref:System.Windows.Controls.TreeView> ，请参阅 [提高 TreeView 的性能](../controls/how-to-improve-the-performance-of-a-treeview.md)。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [布局](layout.md)
-- [布局和示例](optimizing-performance-layout-and-design.md)
+- [布局和设计](optimizing-performance-layout-and-design.md)
 - [数据绑定](optimizing-performance-data-binding.md)
 - [控件](../controls/index.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

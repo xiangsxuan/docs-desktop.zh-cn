@@ -3,10 +3,10 @@ title: LINQ to XML 动态属性引用
 ms.date: 10/22/2019
 ms.topic: reference
 ms.openlocfilehash: ca3684716f9b562d0e6a006c26730a1d1a28f8b1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971496"
 ---
 # <a name="linq-to-xml-dynamic-properties"></a>LINQ to XML 动态属性

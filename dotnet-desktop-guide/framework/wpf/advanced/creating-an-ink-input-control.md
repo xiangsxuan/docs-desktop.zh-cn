@@ -15,10 +15,10 @@ helpviewer_keywords:
 - StylusPlugIn objects [WPF]
 ms.assetid: c31f3a67-cb3f-4ded-af9e-ed21f6575b26
 ms.openlocfilehash: d9b18054154e6871925f423f539d44f12adca1f5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971946"
 ---
 # <a name="creating-an-ink-input-control"></a>创建墨迹输入控件
@@ -35,7 +35,7 @@ ms.locfileid: "96971946"
   
 - [使用其他插件和 DynamicRenderers](#UsingAdditionalPluginsAndDynamicRenderers)  
   
-- [结论](#AdvancedInkHandling_Conclusion)  
+- [结束语](#AdvancedInkHandling_Conclusion)  
   
 <a name="CollectingStylusPointDataAndCreatingInkStrokes"></a>
 
@@ -105,11 +105,11 @@ ms.locfileid: "96971946"
   
 <a name="AdvancedInkHandling_Conclusion"></a>
 
-## <a name="conclusion"></a>结论  
+## <a name="conclusion"></a>结束语  
 
  可以通过重写触笔事件方法来创建一个用于收集和呈现墨迹的控件。 通过创建自己的控件，派生你自己 <xref:System.Windows.Input.StylusPlugIns.StylusPlugIn> 的类并将它们插入到中 <xref:System.Windows.Input.StylusPlugIns.StylusPlugInCollection> ，你可以使用数字墨迹实现几乎任何行为想象。 你可以在生成数据时对其进行访问 <xref:System.Windows.Input.StylusPoint> ，使你可以自定义 <xref:System.Windows.Input.Stylus> 输入，并根据应用程序将其呈现在屏幕上。 由于你对数据具有此类低级别访问权限 <xref:System.Windows.Input.StylusPoint> ，因此你可以实现墨迹收集，并为应用程序提供最佳性能。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [高级墨迹处理](advanced-ink-handling.md)
 - [访问和操作笔输入](/previous-versions/ms818317(v=msdn.10))

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - serialization [WPF]
 ms.assetid: 2d8ef436-d559-4c3e-86de-5a160d5f87d2
 ms.openlocfilehash: 7227e61dd8140ec9b1560fbc12e4ba4dd3e0d843
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973042"
 ---
 # <a name="element-tree-and-serialization-how-to-topics"></a>元素树和序列化帮助主题

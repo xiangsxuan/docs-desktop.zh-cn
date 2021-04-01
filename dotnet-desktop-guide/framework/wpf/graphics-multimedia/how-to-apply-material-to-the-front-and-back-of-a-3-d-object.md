@@ -7,10 +7,10 @@ helpviewer_keywords:
 - classes [WPF], Material
 ms.assetid: d93c8ad6-4939-4d29-9544-4d16d98093c1
 ms.openlocfilehash: 5c24879d97e7857fb07fcef4a9ba8efa901e4a39
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970851"
 ---
 # <a name="how-to-apply-material-to-the-front-and-back-of-a-3d-object"></a>如何：向三维对象的正面和背面应用材料
@@ -23,7 +23,7 @@ ms.locfileid: "96970851"
   
  [!code-xaml[Animation3DGallery_snip#BackMaterialAnimationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/BackMaterialAnimationExample.xaml#backmaterialanimationexamplewholepage)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [创建三维场景](how-to-create-a-3-d-scene.md)
 - [三维图形概述](3-d-graphics-overview.md)

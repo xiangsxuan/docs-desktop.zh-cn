@@ -12,10 +12,10 @@ helpviewer_keywords:
 - glass frames [WPF], extending into applications
 ms.assetid: 74388a3a-4b69-4a9d-ba1f-e107636bd660
 ms.openlocfilehash: b78547aa8b414c585bb2e5c9c6680ed159731bc3
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972862"
 ---
 # <a name="extend-glass-frame-into-a-wpf-application"></a>将玻璃框扩展到 WPF 应用程序
@@ -150,7 +150,7 @@ void OnLoaded(object sender, RoutedEventArgs e)
 
 ![显示扩展到 WPF 应用程序中的玻璃框的屏幕截图。](./media/extend-glass-frame-into-a-wpf-application/glass-frame-extended-wpf-application.png)
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [桌面窗口管理器概述](/windows/desktop/dwm/dwm-overview)
 - [桌面窗口管理器模糊概述](/windows/desktop/dwm/blur-ovw)

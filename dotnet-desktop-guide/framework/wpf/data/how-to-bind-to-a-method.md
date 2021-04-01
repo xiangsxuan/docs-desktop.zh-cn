@@ -8,10 +8,10 @@ helpviewer_keywords:
 - methods [WPF], binding to
 ms.assetid: 5f55e71e-2182-42a0-88d1-700cc1427a7a
 ms.openlocfilehash: 9501e6357203c21651e85f1d65059be1d70becf2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970398"
 ---
 # <a name="how-to-bind-to-a-method"></a>如何：绑定到方法
@@ -32,7 +32,7 @@ ms.locfileid: "96970398"
   
  用于 `InvalidationCharacterRule` <xref:System.Windows.Controls.ValidationRule> 检查无效字符的。 默认错误模板为周围的红色边框 <xref:System.Windows.Controls.TextBox> ，当输入值不是双精度值时，将显示通知用户。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [操作指南主题](data-binding-how-to-topics.md)
 - [绑定到枚举](how-to-bind-to-an-enumeration.md)

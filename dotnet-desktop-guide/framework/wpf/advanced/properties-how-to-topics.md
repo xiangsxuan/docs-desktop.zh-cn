@@ -9,10 +9,10 @@ helpviewer_keywords:
 - dependency properties [WPF]
 ms.assetid: e16dd710-1530-4462-81a2-43719b973970
 ms.openlocfilehash: 78bf1dbe9c9c95a3ae1afe2515adbd8bc65a7d44
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972903"
 ---
 # <a name="properties-how-to-topics"></a>属性帮助主题

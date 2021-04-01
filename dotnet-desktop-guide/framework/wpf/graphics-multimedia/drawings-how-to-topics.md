@@ -12,10 +12,10 @@ helpviewer_keywords:
 - DrawingGroup objects [WPF]
 ms.assetid: 5f445633-529c-4091-8a2c-13035ac8c41b
 ms.openlocfilehash: 6be388292ce2c73b9ef555ea6b00c986c99dc11a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973194"
 ---
 # <a name="drawings-how-to-topics"></a>绘图帮助主题
@@ -29,7 +29,7 @@ ms.locfileid: "96973194"
   [使用 VideoDrawing 播放媒体](how-to-play-media-using-a-videodrawing.md)  
   [将绘图用作图像源](how-to-use-a-drawing-as-an-image-source.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.Drawing>
 - [WPF 图形呈现疑难解答](wpf-graphics-rendering-overview.md)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - adorners [WPF], removing
 ms.assetid: 97cf4d9f-0596-429e-8526-32a30aa4ae99
 ms.openlocfilehash: 256dd6fa0117f88aec2ef6b60c6dcd4c33b57855
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972939"
 ---
 # <a name="how-to-remove-an-adorner-from-an-element"></a>如何：从元素移除装饰器
@@ -29,6 +29,6 @@ ms.locfileid: "96972939"
  [!code-csharp[AdornersMiscCode#_RemoveSpecificAdornerShort](~/samples/snippets/csharp/VS_Snippets_Wpf/AdornersMiscCode/CSharp/Window1.xaml.cs#_removespecificadornershort)]
  [!code-vb[AdornersMiscCode#_RemoveSpecificAdornerShort](~/samples/snippets/visualbasic/VS_Snippets_Wpf/AdornersMiscCode/visualbasic/window1.xaml.vb#_removespecificadornershort)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [装饰器概述](adorners-overview.md)

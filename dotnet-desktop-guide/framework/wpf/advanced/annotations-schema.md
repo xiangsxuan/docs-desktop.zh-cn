@@ -7,10 +7,10 @@ helpviewer_keywords:
 - documents [WPF], annotations
 ms.assetid: a893442b-e220-4603-bf6a-b01fefcb4b37
 ms.openlocfilehash: 1d11b0bb2086bb449c0ffc0ff89430a55096a28d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973156"
 ---
 # <a name="annotations-schema"></a>批注架构
@@ -588,7 +588,7 @@ ms.locfileid: "96973156"
 </anc:Annotations>
 ```
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Annotations>
 - <xref:System.Windows.Annotations.Storage>

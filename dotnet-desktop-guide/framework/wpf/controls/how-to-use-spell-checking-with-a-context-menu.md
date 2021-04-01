@@ -10,10 +10,10 @@ helpviewer_keywords:
 - spell checking with a context menu [WPF]
 ms.assetid: 61f69a20-2ff3-4056-9060-e32f4483ec5e
 ms.openlocfilehash: 0c2ceb3e4091ee1d98bd0c786f51b3596cdedd08
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970489"
 ---
 # <a name="how-to-use-spell-checking-with-a-context-menu"></a>如何：使用上下文菜单中的拼写检查功能
@@ -38,7 +38,7 @@ ms.locfileid: "96970489"
   
  `spellingError = myRichTextBox.GetSpellingError(myRichTextBox.CaretPosition);`  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [TextBox 概述](textbox-overview.md)
 - [RichTextBox 概述](richtextbox-overview.md)

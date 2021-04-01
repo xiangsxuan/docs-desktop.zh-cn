@@ -10,10 +10,10 @@ helpviewer_keywords:
 - animation [WPF], Storyboards [WPF], in procedural code
 ms.assetid: 4f361925-6a08-40dc-8231-a61111c6b28b
 ms.openlocfilehash: a03f477dd31909e8cb9dde9cd29da6f38d665758
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970378"
 ---
 # <a name="how-to-define-a-name-scope"></a>如何：定义名称范围
@@ -25,7 +25,7 @@ ms.locfileid: "96970378"
  [!code-csharp[StoryboardBeginAnimation_procedural_snip#NameScopeExample](~/samples/snippets/csharp/VS_Snippets_Wpf/StoryboardBeginAnimation_procedural_snip/CSharp/ScopeExample.cs#namescopeexample)]
  [!code-vb[StoryboardBeginAnimation_procedural_snip#NameScopeExample](~/samples/snippets/visualbasic/VS_Snippets_Wpf/StoryboardBeginAnimation_procedural_snip/visualbasic/scopeexample.vb#namescopeexample)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用情节提要对属性进行动画处理](how-to-animate-a-property-by-using-a-storyboard.md)
 - [动画概述](animation-overview.md)

@@ -5,10 +5,10 @@ helpviewer_keywords:
 - custom error messages [WPF]
 ms.assetid: e55180fc-35bb-4f80-a136-772b5eb3e4e5
 ms.openlocfilehash: e9ef32912c2afb3c99e46e1e14bb3daa5a2e99af
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972708"
 ---
 # <a name="getcustomui"></a>GetCustomUI
@@ -20,7 +20,7 @@ ms.locfileid: "96972708"
 HRESULT GetCustomUI( [out] BSTR* pwzProgressAssemblyName, [out] BSTR* pwzProgressClassName, [out] BSTR* pwzErrorAssemblyName, [out] BSTR* pwzErrorClassName );  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  `pwzProgressAssemblyName`  
   
  弄指向包含主机提供的进度用户界面的程序集的指针。  
@@ -45,6 +45,6 @@ HRESULT GetCustomUI( [out] BSTR* pwzProgressAssemblyName, [out] BSTR* pwzProgres
   
  此函数在 Presentationhost.exe 的初始化过程中调用一次。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [IWpfHostSupport](iwpfhostsupport.md)

@@ -7,10 +7,10 @@ helpviewer_keywords:
 - opacity [WPF], masks
 ms.assetid: 22367fab-5f59-4583-abfd-db2bf86eaef7
 ms.openlocfilehash: fc3c0057416449bed56c69d1caa823a93e66037e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970833"
 ---
 # <a name="opacity-masks-overview"></a>不透明蒙板概述
@@ -115,7 +115,7 @@ DrawingBrush 不透明蒙板示例
   
  [!code-xaml[OpacityMasksSnippet#TiledDrawingasOpacityMask](~/samples/snippets/csharp/VS_Snippets_Wpf/OpacityMasksSnippet/CS/DrawingBrushExample.xaml#tileddrawingasopacitymask)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)
 - [使用纯色和渐变进行绘制概述](painting-with-solid-colors-and-gradients-overview.md)

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - ', '
 ms.assetid: cbb7291e-3f1b-433e-9e16-f4d93ced14e8
 ms.openlocfilehash: c307d85bf24e2d8a20226856181e0758758d40c0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970880"
 ---
 # <a name="how-to-manipulate-a-flowdocument-through-the-blocks-property"></a>如何：通过 Blocks 属性操作 FlowDocument
@@ -48,7 +48,7 @@ ms.locfileid: "96970880"
  [!code-csharp[FlowDocumentSnippets#_FlowDocumentBlocksClear](~/samples/snippets/csharp/VS_Snippets_Wpf/FlowDocumentSnippets/CSharp/Window1.xaml.cs#_flowdocumentblocksclear)]
  [!code-vb[FlowDocumentSnippets#_FlowDocumentBlocksClear](~/samples/snippets/visualbasic/VS_Snippets_Wpf/FlowDocumentSnippets/visualbasic/window1.xaml.vb#_flowdocumentblocksclear)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [通过 RowGroups 属性操作表的行组](how-to-manipulate-table-row-groups-through-the-rowgroups-property.md)
 - [通过 Columns 属性操作表的列](how-to-manipulate-table-columns-through-the-columns-property.md)

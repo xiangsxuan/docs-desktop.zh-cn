@@ -5,10 +5,10 @@ helpviewer_keywords:
 - Clone method [WPF]
 ms.assetid: 2a6a1900-aa55-45fa-9382-241d569a2dc4
 ms.openlocfilehash: cd634b4d4a88d83d425b787ed8493f9aa2504988
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970231"
 ---
 # <a name="ienumrawinputdevicclone"></a>IEnumRAWINPUTDEVIC:Clone
@@ -20,7 +20,7 @@ ms.locfileid: "96970231"
 HRESULT Clone( [out] IEnumRAWINPUTDEVICE **ppenum);  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  `ppenum`  
   
  弄接收 [IEnumRAWINPUTDEVICE](ienumrawinputdevice.md) 接口指针的输出变量的地址。 如果该方法不成功，则不定义此输出变量的值。  

@@ -10,10 +10,10 @@ api_location:
 - PresentationHost_v0400.dll
 ms.assetid: 495ce5f6-bb4d-4b30-807a-c3c35f1ca95c
 ms.openlocfilehash: 7de12e0d21a6add88ce602ea00b7f7b3aaf0c197
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973142"
 ---
 # <a name="processunhandledexception-function-wpf-unmanaged-api-reference"></a>ProcessUnhandledException 函数 (WPF 非托管 API 参考) 
@@ -29,7 +29,7 @@ void __stdcall ProcessUnhandledException(
 )  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
  errorMsg  
  错误消息。  
   
@@ -44,6 +44,6 @@ void __stdcall ProcessUnhandledException(
   
  **.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 非托管 API 参考](wpf-unmanaged-api-reference.md)

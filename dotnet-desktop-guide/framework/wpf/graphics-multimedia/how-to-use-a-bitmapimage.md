@@ -9,10 +9,10 @@ helpviewer_keywords:
 - XAML [WPF], using a BitmapImage in
 ms.assetid: 5a5733aa-396d-4d72-b0c3-77f8c25d9a42
 ms.openlocfilehash: cfbfacda1f37b8ea4f35c9041e99573afa2be123
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973123"
 ---
 # <a name="how-to-use-a-bitmapimage"></a>如何：使用 BitmapImage
@@ -24,6 +24,6 @@ ms.locfileid: "96973123"
  [!code-csharp[ImageElementExample_snip#ImageSimpleExampleInlineCode1](~/samples/snippets/csharp/VS_Snippets_Wpf/ImageElementExample_snip/CSharp/ImageSimpleExample.xaml.cs#imagesimpleexampleinlinecode1)]
  [!code-vb[ImageElementExample_snip#ImageSimpleExampleInlineCode1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/ImageElementExample_snip/VB/ImageSimpleExample.xaml.vb#imagesimpleexampleinlinecode1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [图像处理概述](imaging-overview.md)

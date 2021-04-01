@@ -6,10 +6,10 @@ helpviewer_keywords:
 - localizable applications [WPF]
 ms.assetid: 08539ad6-7fca-4f34-b82b-ff439e11dfa7
 ms.openlocfilehash: 8f516a86036656b98add23d38c588b5c19be4d7a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970963"
 ---
 # <a name="how-to-use-resources-in-localizable-apps"></a>如何：在可本地化的应用中使用资源
@@ -29,6 +29,6 @@ WPF 应用程序所需的文件之一是 ( proj) 的项目文件。 应用程序
 
 [!code-csharp[LocalizationResources#2](~/samples/snippets/csharp/VS_Snippets_Wpf/LocalizationResources/CSharp/page1.xaml.cs#2)]
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [对应用进行本地化](how-to-localize-an-application.md)

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - controls [WPF], ListBox
 ms.assetid: b91bb352-4f51-44e0-9017-a041f216c852
 ms.openlocfilehash: 69f93b902fc3c35749871a187e57d45a404c6602
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970590"
 ---
 # <a name="listbox"></a>ListBox

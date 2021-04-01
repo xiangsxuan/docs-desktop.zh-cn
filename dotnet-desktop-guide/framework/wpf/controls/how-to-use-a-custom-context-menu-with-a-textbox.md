@@ -11,10 +11,10 @@ helpviewer_keywords:
 - TextBox control [WPF], custom content menus
 ms.assetid: 842d3cd5-6fa0-4be4-8d90-6c7466213b1c
 ms.openlocfilehash: 93ee6d44e9e5703d70d0583b759330a9e52f60b9
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972529"
 ---
 # <a name="how-to-use-a-custom-context-menu-with-a-textbox"></a>如何：通过 TextBox 使用自定义上下文菜单
@@ -35,7 +35,7 @@ ms.locfileid: "96972529"
  [!code-csharp[TextBox_ContextMenu#_TextBox_ContextMenu](~/samples/snippets/csharp/VS_Snippets_Wpf/TextBox_ContextMenu/CSharp/Window1.xaml.cs#_textbox_contextmenu)]
  [!code-vb[TextBox_ContextMenu#_TextBox_ContextMenu](~/samples/snippets/visualbasic/VS_Snippets_Wpf/TextBox_ContextMenu/VisualBasic/Window1.xaml.vb#_textbox_contextmenu)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [将拼写检查功能与上下文菜单结合使用](how-to-use-spell-checking-with-a-context-menu.md)
 - [TextBox 概述](textbox-overview.md)

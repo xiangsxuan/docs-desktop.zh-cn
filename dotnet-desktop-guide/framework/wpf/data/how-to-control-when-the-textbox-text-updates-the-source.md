@@ -11,10 +11,10 @@ helpviewer_keywords:
 - timing of source updates [WPF]
 ms.assetid: ffb7b96a-351d-4c68-81e7-054033781c64
 ms.openlocfilehash: 8f6eb5beb0d14a951f6e6cf6eb81e130f5a3e194
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973088"
 ---
 # <a name="how-to-control-when-the-textbox-text-updates-the-source"></a>如何：控制文本框文本更新源的时间
@@ -46,6 +46,6 @@ ms.locfileid: "96973088"
 > [!NOTE]
 > <xref:System.Windows.Data.Binding.UpdateSourceTrigger%2A>属性用于处理源更新，因此仅适用于 <xref:System.Windows.Data.BindingMode.TwoWay> 或 <xref:System.Windows.Data.BindingMode.OneWayToSource> 绑定。 <xref:System.Windows.Data.BindingMode.TwoWay>要使和 <xref:System.Windows.Data.BindingMode.OneWayToSource> 绑定正常工作，源对象需要提供属性更改通知。 有关详细信息，可以参见本主题中引用的示例。 此外，也可以参见[实现属性更改通知](how-to-implement-property-change-notification.md)。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [操作指南主题](data-binding-how-to-topics.md)

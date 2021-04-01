@@ -6,10 +6,10 @@ helpviewer_keywords:
 - FrameworkElement [WPF], animating size of
 ms.assetid: d4cd5a13-c20d-4a6f-a2ba-14f2c9ce4cef
 ms.openlocfilehash: d1995deec5ab2c9bf405911af43b4d242d599119
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971927"
 ---
 # <a name="how-to-animate-the-size-of-a-frameworkelement"></a>如何：对 FrameworkElement 的大小进行动画处理

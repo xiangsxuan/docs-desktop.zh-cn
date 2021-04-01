@@ -9,10 +9,10 @@ helpviewer_keywords:
 - dialog boxes [WPF], opening
 ms.assetid: 6b1557d2-da98-4ef4-9f68-4089f04ab9ea
 ms.openlocfilehash: 70ac31285dd22244b4bd6ad0d188d182eb6e6264
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972865"
 ---
 # <a name="how-to-open-a-dialog-box"></a>如何：打开对话框
@@ -27,6 +27,6 @@ ms.locfileid: "96972865"
 ## <a name="net-framework-security"></a>.NET Framework 安全性  
  调用 <xref:System.Windows.Window.ShowDialog%2A> 需要权限以在没有限制的情况下使用所有窗口和用户输入事件。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [返回对话框结果](how-to-return-a-dialog-box-result.md)

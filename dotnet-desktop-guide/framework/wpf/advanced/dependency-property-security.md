@@ -11,10 +11,10 @@ helpviewer_keywords:
 - security [WPF], dependency properties
 ms.assetid: d10150ec-90c5-4571-8d35-84bafa2429a4
 ms.openlocfilehash: 4bb3f0e4264c8de2513fc757f5e1a5a2efdd541c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973044"
 ---
 # <a name="dependency-property-security"></a>依赖项属性的安全性
@@ -38,6 +38,6 @@ ms.locfileid: "96973044"
 ### <a name="validation-and-security"></a>验证和安全  
  将需求应用到 <xref:System.Windows.DependencyProperty.ValidateValueCallback%2A> ，并预期在请求失败时验证失败，以防止设置属性的安全机制。 如果执行的设置值无效 <xref:System.Windows.DependencyProperty.ValidateValueCallback%2A> ，则如果这些调用方在应用程序域中运行，则它也会被恶意调用方抑制。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [自定义依赖项属性](custom-dependency-properties.md)

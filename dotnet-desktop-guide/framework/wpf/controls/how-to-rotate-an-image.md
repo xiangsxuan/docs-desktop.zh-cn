@@ -9,10 +9,10 @@ helpviewer_keywords:
 - rotating images [WPF]
 ms.assetid: 863fe998-9a6b-490d-bd86-6ef5c9ec6d75
 ms.openlocfilehash: 41079a4b41f3e46a1dfcadcc89522e8277a03e60
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972930"
 ---
 # <a name="how-to-rotate-an-image"></a>如何：旋转图像

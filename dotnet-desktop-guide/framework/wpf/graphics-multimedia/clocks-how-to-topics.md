@@ -10,10 +10,10 @@ helpviewer_keywords:
 - animation [WPF], clocks
 ms.assetid: c687b2a5-b151-41e2-9ade-df2fc1a16b04
 ms.openlocfilehash: bb625c116b1c58071ec0f51729df07f43600f36f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970044"
 ---
 # <a name="clocks-how-to-topics"></a>时钟帮助主题

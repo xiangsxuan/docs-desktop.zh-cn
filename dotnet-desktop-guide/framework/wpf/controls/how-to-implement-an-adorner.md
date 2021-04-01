@@ -8,10 +8,10 @@ helpviewer_keywords:
 - adorners [WPF], implementing
 ms.assetid: 56ae32b6-0599-455c-b52f-2ff97e6f1ec2
 ms.openlocfilehash: da318fee42b4628351217774de2a2225cfb21ee1
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972812"
 ---
 # <a name="how-to-implement-an-adorner"></a>如何：实现装饰器

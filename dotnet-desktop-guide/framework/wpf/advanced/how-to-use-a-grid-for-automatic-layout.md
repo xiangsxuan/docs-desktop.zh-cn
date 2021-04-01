@@ -6,10 +6,10 @@ helpviewer_keywords:
 - automatic layout [WPF], grid use
 ms.assetid: ab9de407-e0c1-4047-bdf0-24951bf73879
 ms.openlocfilehash: 5389d8d6130367d36a5c81b3bdc316c989474ce2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971814"
 ---
 # <a name="how-to-use-a-grid-for-automatic-layout"></a>如何：使用网格进行自动布局
@@ -29,7 +29,7 @@ ms.locfileid: "96971814"
  ![网格示例](./media/glob-grid.png "glob_grid")  
 网格  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [使用自动布局概述](use-automatic-layout-overview.md)
 - [使用自动布局创建按钮](how-to-use-automatic-layout-to-create-a-button.md)

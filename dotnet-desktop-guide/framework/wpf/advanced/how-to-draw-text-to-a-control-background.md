@@ -9,10 +9,10 @@ helpviewer_keywords:
 - typography [WPF], drawing text to control backgrounds
 ms.assetid: 686d8fba-f61c-4974-a871-c635d67a7f69
 ms.openlocfilehash: 14300f763b67c6ac67ee408de2009c328d499c13
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970090"
 ---
 # <a name="how-to-draw-text-to-a-controls-background"></a>如何：将文本绘制到控件的背景上
@@ -28,7 +28,7 @@ ms.locfileid: "96970090"
   
  [!code-csharp[DrawTextToControlBackground#DrawTextToControlBackground1](~/samples/snippets/csharp/VS_Snippets_Wpf/DrawTextToControlBackground/CSHARP/Window1.xaml.cs#drawtexttocontrolbackground1)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Media.FormattedText>
 - [绘制格式化文本](drawing-formatted-text.md)

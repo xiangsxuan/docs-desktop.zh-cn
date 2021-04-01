@@ -13,10 +13,10 @@ helpviewer_keywords:
 - sorting data in views [WPF]
 ms.assetid: f4c43578-01b7-4774-a953-acb95a13b94a
 ms.openlocfilehash: 4ff90cc58cb3d7ceee0be2fd7f6ddaaa27df4cef
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973236"
 ---
 # <a name="how-to-sort-data-in-a-view"></a>如何：在视图中对数据进行排序
@@ -36,7 +36,7 @@ ms.locfileid: "96973236"
   
  有关如何在中应用排序逻辑的示例 [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] ，请参阅 [在 XAML 中使用视图对数据进行排序和分组](how-to-sort-and-group-data-using-a-view-in-xaml.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Data.ListCollectionView.CustomSort%2A>
 - [在标题获得单击时对 GridView 列进行排序](../controls/how-to-sort-a-gridview-column-when-a-header-is-clicked.md)

@@ -9,10 +9,10 @@ helpviewer_keywords:
 - content [WPF], GridSplitter control
 ms.assetid: 98b007e8-ea6b-41b5-8120-ca7134e8239f
 ms.openlocfilehash: 9fd1b50e4c3f79218de2d0d54f98d645ebb5fd61
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972959"
 ---
 # <a name="gridsplitter"></a>GridSplitter

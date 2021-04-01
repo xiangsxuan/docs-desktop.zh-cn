@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Panel control [WPF], binding adorners to children
 ms.assetid: 4cc9b972-b472-4e5c-bdf3-3702d7fbb1f5
 ms.openlocfilehash: 4c5ac537bfd68e9c43583758047b2ec378d0bb57
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972944"
 ---
 # <a name="how-to-adorn-the-children-of-a-panel"></a>如何：装饰面板的子级
@@ -33,6 +33,6 @@ ms.locfileid: "96972944"
 > [!NOTE]
 > 目前不支持使用 [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] 将装饰器绑定到另一个元素。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [装饰器概述](adorners-overview.md)

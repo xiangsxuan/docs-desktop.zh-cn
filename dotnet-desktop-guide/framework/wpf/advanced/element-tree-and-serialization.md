@@ -9,10 +9,10 @@ helpviewer_keywords:
 - tree [WPF]
 ms.assetid: 8f57e879-180b-421f-b3d0-ac007ff2ce80
 ms.openlocfilehash: 040f3df4008b5a5ac3cd290f3572f20e955c0844
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972921"
 ---
 # <a name="element-tree-and-serialization"></a>元素树和序列化

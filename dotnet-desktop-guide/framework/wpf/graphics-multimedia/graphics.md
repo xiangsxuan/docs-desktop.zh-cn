@@ -8,10 +8,10 @@ helpviewer_keywords:
 - graphics [WPF], effects
 ms.assetid: 3bfc652e-91b7-4697-a4f4-83ff0e98327e
 ms.openlocfilehash: b7f555eb22619c3040f8640f614e17b267b638e0
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970870"
 ---
 # <a name="graphics"></a>显卡
@@ -22,13 +22,13 @@ ms.locfileid: "96970870"
  [画笔](brushes.md)  
  [绘图](drawings.md)  
  [几何图形](geometries.md)  
- [图像](images.md)  
+ [映像](images.md)  
  [形状](shapes.md)  
  [转换](transformations.md)  
  [图形呈现注册表设置](graphics-rendering-registry-settings.md)  
  [操作指南主题](graphics-how-to-topics.md)  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Shapes.Shape>
 - <xref:System.Windows.Media.Transform>

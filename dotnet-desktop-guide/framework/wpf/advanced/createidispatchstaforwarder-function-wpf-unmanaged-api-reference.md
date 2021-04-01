@@ -10,10 +10,10 @@ api_location:
 - PresentationHost_v0400.dll
 ms.assetid: 57a02dfa-f091-4ace-9c06-1f4ab52b3527
 ms.openlocfilehash: f7f60c53125eaaafe88b8777f3b560d5d1e083b2
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971947"
 ---
 # <a name="createidispatchstaforwarder-function-wpf-unmanaged-api-reference"></a>CreateIDispatchSTAForwarder 函数 (WPF 非托管 API 参考) 
@@ -30,7 +30,7 @@ HRESULT CreateIDispatchSTAForwarder(
 )  
 ```  
   
-## <a name="parameters"></a>parameters  
+## <a name="parameters"></a>参数  
   
 ## <a name="property-valuereturn-value"></a>属性值/返回值  
  pDispatchDelegate  
@@ -50,6 +50,6 @@ HRESULT CreateIDispatchSTAForwarder(
   
  **.NET Framework 版本：**[!INCLUDE[net_current_v30plus](../../../includes/net-current-v30plus-md.md)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [WPF 非托管 API 参考](wpf-unmanaged-api-reference.md)

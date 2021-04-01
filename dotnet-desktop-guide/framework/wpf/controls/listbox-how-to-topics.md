@@ -8,10 +8,10 @@ helpviewer_keywords:
 - controls [WPF], ListBox
 ms.assetid: 15d58f1d-3db6-4cb5-88c7-8c45f19301e2
 ms.openlocfilehash: f3245fae8e58ff5677ea57ea25d064aac5b956ec
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970873"
 ---
 # <a name="listbox-how-to-topics"></a>ListBox 帮助主题

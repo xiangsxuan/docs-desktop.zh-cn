@@ -9,10 +9,10 @@ helpviewer_keywords:
 - Typography attribute [WPF], setting
 ms.assetid: 19a3b49b-60a2-4c11-a786-e26b4c965588
 ms.openlocfilehash: 4c027424632f8671ba8d7cae1c899ef3a53edc26
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971931"
 ---
 # <a name="how-to-alter-the-typography-of-text"></a>如何：修改文本的版式
@@ -35,6 +35,6 @@ ms.locfileid: "96971931"
  [!code-csharp[TextElementSnippets#_TextElement_Typog](~/samples/snippets/csharp/VS_Snippets_Wpf/TextElementSnippets/CSharp/Window1.xaml.cs#_textelement_typog)]
  [!code-vb[TextElementSnippets#_TextElement_Typog](~/samples/snippets/visualbasic/VS_Snippets_Wpf/TextElementSnippets/visualbasic/window1.xaml.vb#_textelement_typog)]  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [流文档概述](flow-document-overview.md)

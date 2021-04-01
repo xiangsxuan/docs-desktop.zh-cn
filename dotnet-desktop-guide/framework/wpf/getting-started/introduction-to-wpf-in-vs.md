@@ -18,10 +18,10 @@ helpviewer_keywords:
 - 3D rendering [WPF]
 ms.assetid: 582a314e-e23d-4144-b45b-acbbd5579252
 ms.openlocfilehash: 21c5311382b509fc3004f2609b2acc54e919eb56
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972810"
 ---
 # <a name="introduction-to-wpf-in-visual-studio"></a>Visual Studio 中的 WPF 简介

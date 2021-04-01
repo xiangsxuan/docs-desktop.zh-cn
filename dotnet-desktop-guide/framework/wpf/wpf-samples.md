@@ -7,10 +7,10 @@ helpviewer_keywords:
 - samples [WPF]
 ms.assetid: 1fc53e12-dfe5-476e-be13-fc3714aaf640
 ms.openlocfilehash: b3392d95dc20a28e7bbef417cee0552ca7616d80
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972527"
 ---
 # <a name="wpf-samples"></a>WPF 示例

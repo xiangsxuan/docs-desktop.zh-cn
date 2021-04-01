@@ -6,10 +6,10 @@ ms.author: adegeo
 ms.date: 12/03/2020
 ms.topic: overview
 ms.openlocfilehash: 4c203fab7381e993ebc38a595e9622a89cd66d4f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972829"
 ---
 # <a name="overview-of-xaml-resources"></a>XAML 资源概述

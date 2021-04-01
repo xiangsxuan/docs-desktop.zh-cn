@@ -14,10 +14,10 @@ helpviewer_keywords:
 - attached events [WPF], definition
 ms.assetid: 2c40eae3-80e4-4a45-ae09-df6c9ab4d91e
 ms.openlocfilehash: bcd9f0d3feac9cd5df475268edb4001e2c99f87a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971977"
 ---
 # <a name="attached-events-overview"></a>附加事件概述
@@ -92,7 +92,7 @@ XAML) Extensible Application Markup Language (定义称为 *附加事件* 的语
   
  但是，如果要基于在上建立附加事件的 WPF 模型定义自定义附加事件 <xref:System.Windows.RoutedEvent> ，则可以使用 <xref:System.Windows.UIElement.RaiseEvent%2A> 从任何或引发附加事件 <xref:System.Windows.UIElement> <xref:System.Windows.ContentElement> 。  (附加或不) 引发路由事件，要求您将元素树中的特定元素声明为事件源;该源将报告为 <xref:System.Windows.UIElement.RaiseEvent%2A> 调用方。 服务负责确定将哪个元素报告为元素树中的事件源  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [路由事件概述](routed-events-overview.md)
 - [XAML 语法详述](xaml-syntax-in-detail.md)

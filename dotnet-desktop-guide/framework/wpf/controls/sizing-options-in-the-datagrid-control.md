@@ -8,10 +8,10 @@ helpviewer_keywords:
 - automatically size DataGrid [WPF]
 ms.assetid: 96a0e47e-b010-4302-98ef-2daac446d8db
 ms.openlocfilehash: 0f10e385cbf18a26989614363ca6cd9f92bc83ec
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972890"
 ---
 # <a name="sizing-options-in-the-datagrid-control"></a>DataGrid 控件中的调整大小选项
@@ -86,7 +86,7 @@ ms.locfileid: "96972890"
 ### <a name="resizing-with-the-mouse"></a>用鼠标调整大小  
  用户可以 <xref:System.Windows.Controls.DataGrid> 通过拖动行标题或列标题分隔线来调整行和列的大小。 <xref:System.Windows.Controls.DataGrid>还支持通过双击行标题或列标题分隔符来自动调整行和列的大小。 若要防止用户调整特定列的大小，请将 <xref:System.Windows.Controls.DataGridColumn.CanUserResize%2A?displayProperty=nameWithType> 单个列的属性设置为 `false` 。 若要防止用户调整所有列的大小，请将 <xref:System.Windows.Controls.DataGrid.CanUserResizeColumns%2A?displayProperty=nameWithType> 属性设置为 `false` 。 若要防止用户调整所有行的大小，请将 <xref:System.Windows.Controls.DataGrid.CanUserResizeRows%2A?displayProperty=nameWithType> 属性设置为 `false` 。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.Windows.Controls.DataGrid>
 - <xref:System.Windows.Controls.DataGridColumn>

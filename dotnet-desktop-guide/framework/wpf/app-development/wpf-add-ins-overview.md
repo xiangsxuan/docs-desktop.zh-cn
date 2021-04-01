@@ -14,10 +14,10 @@ helpviewer_keywords:
 - add-ins [WPF], limitations
 ms.assetid: 00b4c776-29a8-4dba-b603-280a0cdc2ade
 ms.openlocfilehash: 5847542a1f51312d525d4939d4b21d11b1a70113
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972965"
 ---
 # <a name="wpf-add-ins-overview"></a>WPF 外接程序概述
@@ -192,7 +192,7 @@ Xbap 将下载到并从 ClickOnce 部署缓存中的一个安全文件夹运行�
 
 |管道程序集项目|生成输出路径|
 |-------------------------------|-----------------------|
-|协定|`..\HostXBAP\Contracts\`|
+|合约|`..\HostXBAP\Contracts\`|
 |加载项视图|`..\HostXBAP\AddInViews\`|
 |加载项方适配器|`..\HostXBAP\AddInSideAdapters\`|
 |宿主端适配器|`..\HostXBAP\HostSideAdapters\`|
@@ -309,7 +309,7 @@ Xbap 将下载到并从 ClickOnce 部署缓存中的一个安全文件夹运行�
 
 默认情况下，当使用多个应用程序域时，每个应用程序所需的各种 .NET Framework 程序集都将加载到该应用程序的域中。 因此，创建新应用程序域和在应用程序域中启动应用程序所需的时间可能会影响性能。 不过，通过指示应用程序在已加载的应用程序域之间共享程序集，.NET Framework 提供了一种减少开始时间的方法。 为此，需要使用 <xref:System.LoaderOptimizationAttribute> 属性，该属性必须应用于入口点方法 (`Main`) 。 这种情况下，只能使用代码来实现应用程序定义（请参阅[应用程序管理概述](application-management-overview.md)）。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - <xref:System.LoaderOptimizationAttribute>
 - [外接程序和扩展性](/previous-versions/dotnet/netframework-4.0/bb384200(v%3dvs.100))

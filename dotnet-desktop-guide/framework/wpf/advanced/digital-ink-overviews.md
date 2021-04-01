@@ -8,10 +8,10 @@ helpviewer_keywords:
 - digital ink [WPF]
 ms.assetid: 5ddb23a6-7813-4058-b59d-29ff3341638c
 ms.openlocfilehash: 57473d0a22bc7441e4c32506f57f402bab963c2d
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973106"
 ---
 # <a name="digital-ink-overviews"></a>数字墨迹概述

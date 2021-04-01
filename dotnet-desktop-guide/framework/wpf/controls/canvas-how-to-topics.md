@@ -8,10 +8,10 @@ helpviewer_keywords:
 - Canvas control [WPF], how-to topics
 ms.assetid: 5c8f5bca-7ba9-4526-a9bf-0852351dbe8a
 ms.openlocfilehash: 5c07039a66b40a6ecb54eda674bf2be396fc3e68
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973263"
 ---
 # <a name="canvas-how-to-topics"></a>画布帮助主题

@@ -8,10 +8,10 @@ helpviewer_keywords:
 - ListView controls [WPF], using
 ms.assetid: 49dfef1a-dddf-4fc6-a511-6d5f925a4781
 ms.openlocfilehash: 734b5265c1d25e4538c40f5a43bff220d675eedb
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973198"
 ---
 # <a name="listview-overviews"></a>ListView 概述

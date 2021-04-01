@@ -10,10 +10,10 @@ helpviewer_keywords:
 - rotating contents of brushes [WPF]
 ms.assetid: ebada2f9-f01f-4863-9ea2-c2e4e51610f1
 ms.openlocfilehash: b4484e2fc1ae3e969b02b1d8f3ae4ab2a035558e
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.sourcegitcommit: bf5dd80f4d7b202afa90e90d1148402c5474d826
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
+ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972766"
 ---
 # <a name="how-to-transform-a-brush"></a>如何：变换画笔
@@ -44,7 +44,7 @@ ms.locfileid: "96972766"
   
  有关完整示例，请参阅[画笔示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/Brushes)。 有关画笔的详细信息，请参阅[使用纯色和渐变进行绘制概述](painting-with-solid-colors-and-gradients-overview.md)。  
   
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [Brush 变换概述](brush-transformation-overview.md)
 - [使用纯色和渐变进行绘制概述](painting-with-solid-colors-and-gradients-overview.md)
