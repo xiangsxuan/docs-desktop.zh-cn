@@ -16,15 +16,15 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970044"
 ---
-# <a name="clocks-how-to-topics"></a><span data-ttu-id="2c775-102">时钟帮助主题</span><span class="sxs-lookup"><span data-stu-id="2c775-102">Clocks How-to Topics</span></span>
-<span data-ttu-id="2c775-103">以下主题介绍如何使用 <xref:System.Windows.Media.Animation.Clock> 对象来维护的计时状态信息 <xref:System.Windows.Media.Animation.Timeline> 。</span><span class="sxs-lookup"><span data-stu-id="2c775-103">The following topics describe how to use a <xref:System.Windows.Media.Animation.Clock> object to maintain timing state information for a <xref:System.Windows.Media.Animation.Timeline>.</span></span>  
+# <a name="clocks-how-to-topics"></a><span data-ttu-id="1af0b-102">时钟帮助主题</span><span class="sxs-lookup"><span data-stu-id="1af0b-102">Clocks How-to Topics</span></span>
+<span data-ttu-id="1af0b-103">以下主题介绍如何使用 <xref:System.Windows.Media.Animation.Clock> 对象来维护的计时状态信息 <xref:System.Windows.Media.Animation.Timeline> 。</span><span class="sxs-lookup"><span data-stu-id="1af0b-103">The following topics describe how to use a <xref:System.Windows.Media.Animation.Clock> object to maintain timing state information for a <xref:System.Windows.Media.Animation.Timeline>.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="2c775-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="2c775-104">In This Section</span></span>  
- [<span data-ttu-id="2c775-105">使用 AnimationClock 对属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="2c775-105">Animate a Property by Using an AnimationClock</span></span>](how-to-animate-a-property-by-using-an-animationclock.md)  
- [<span data-ttu-id="2c775-106">以交互方式控制时钟</span><span class="sxs-lookup"><span data-stu-id="2c775-106">Interactively Control a Clock</span></span>](how-to-interactively-control-a-clock.md)  
- [<span data-ttu-id="2c775-107">同步搜寻时钟</span><span class="sxs-lookup"><span data-stu-id="2c775-107">Seek a Clock Synchronously</span></span>](how-to-seek-a-clock-synchronously.md)  
+## <a name="in-this-section"></a><span data-ttu-id="1af0b-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="1af0b-104">In This Section</span></span>  
+ [<span data-ttu-id="1af0b-105">使用 AnimationClock 对属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="1af0b-105">Animate a Property by Using an AnimationClock</span></span>](how-to-animate-a-property-by-using-an-animationclock.md)  
+ [<span data-ttu-id="1af0b-106">以交互方式控制时钟</span><span class="sxs-lookup"><span data-stu-id="1af0b-106">Interactively Control a Clock</span></span>](how-to-interactively-control-a-clock.md)  
+ [<span data-ttu-id="1af0b-107">同步搜寻时钟</span><span class="sxs-lookup"><span data-stu-id="1af0b-107">Seek a Clock Synchronously</span></span>](how-to-seek-a-clock-synchronously.md)  
   
-## <a name="reference"></a><span data-ttu-id="2c775-108">参考</span><span class="sxs-lookup"><span data-stu-id="2c775-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="1af0b-108">参考</span><span class="sxs-lookup"><span data-stu-id="1af0b-108">Reference</span></span>  
  <xref:System.Windows.Media.Animation.Clock>  
   
  <xref:System.Windows.Media.Animation.Storyboard>  
@@ -33,7 +33,7 @@ ms.locfileid: "96970044"
   
  <xref:System.Windows.Media.Animation.Timeline>  
   
-## <a name="related-sections"></a><span data-ttu-id="2c775-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="2c775-109">Related Sections</span></span>  
- [<span data-ttu-id="2c775-110">动画概述</span><span class="sxs-lookup"><span data-stu-id="2c775-110">Animation Overview</span></span>](animation-overview.md)  
+## <a name="related-sections"></a><span data-ttu-id="1af0b-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="1af0b-109">Related Sections</span></span>  
+ [<span data-ttu-id="1af0b-110">动画概述</span><span class="sxs-lookup"><span data-stu-id="1af0b-110">Animation Overview</span></span>](animation-overview.md)  
   
- [<span data-ttu-id="2c775-111">演示图板概述</span><span class="sxs-lookup"><span data-stu-id="2c775-111">Storyboards Overview</span></span>](storyboards-overview.md)
+ [<span data-ttu-id="1af0b-111">演示图板概述</span><span class="sxs-lookup"><span data-stu-id="1af0b-111">Storyboards Overview</span></span>](storyboards-overview.md)

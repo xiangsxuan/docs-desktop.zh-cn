@@ -13,10 +13,10 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970213"
 ---
-# <a name="how-to-use-transforms-on-a-mediaelement"></a><span data-ttu-id="9f8e6-102">如何：针对 MediaElement 使用变换</span><span class="sxs-lookup"><span data-stu-id="9f8e6-102">How to: Use Transforms on a MediaElement</span></span>
-<span data-ttu-id="9f8e6-103">此示例演示如何 <xref:System.Windows.Media.RotateTransform> 在上使用 <xref:System.Windows.Controls.MediaElement> 。</span><span class="sxs-lookup"><span data-stu-id="9f8e6-103">This example shows how to use a <xref:System.Windows.Media.RotateTransform> on a <xref:System.Windows.Controls.MediaElement>.</span></span>  
+# <a name="how-to-use-transforms-on-a-mediaelement"></a><span data-ttu-id="5f39b-102">如何：针对 MediaElement 使用变换</span><span class="sxs-lookup"><span data-stu-id="5f39b-102">How to: Use Transforms on a MediaElement</span></span>
+<span data-ttu-id="5f39b-103">此示例演示如何 <xref:System.Windows.Media.RotateTransform> 在上使用 <xref:System.Windows.Controls.MediaElement> 。</span><span class="sxs-lookup"><span data-stu-id="5f39b-103">This example shows how to use a <xref:System.Windows.Media.RotateTransform> on a <xref:System.Windows.Controls.MediaElement>.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="9f8e6-104">示例</span><span class="sxs-lookup"><span data-stu-id="9f8e6-104">Example</span></span>  
- <span data-ttu-id="9f8e6-105">在以下标记中， <xref:System.Windows.Controls.MediaElement> 使用旋转 <xref:System.Windows.Media.RotateTransform> 。</span><span class="sxs-lookup"><span data-stu-id="9f8e6-105">In the following markup, the <xref:System.Windows.Controls.MediaElement> is rotated using a <xref:System.Windows.Media.RotateTransform>.</span></span>  
+## <a name="example"></a><span data-ttu-id="5f39b-104">示例</span><span class="sxs-lookup"><span data-stu-id="5f39b-104">Example</span></span>  
+ <span data-ttu-id="5f39b-105">在以下标记中， <xref:System.Windows.Controls.MediaElement> 使用旋转 <xref:System.Windows.Media.RotateTransform> 。</span><span class="sxs-lookup"><span data-stu-id="5f39b-105">In the following markup, the <xref:System.Windows.Controls.MediaElement> is rotated using a <xref:System.Windows.Media.RotateTransform>.</span></span>  
   
  [!code-xaml[MediaElement_snippet#MediaElementRotateTransform](~/samples/snippets/csharp/VS_Snippets_Wpf/MediaElement_snippet/CSharp/TransformExample.xaml#mediaelementrotatetransform)]
