@@ -13,18 +13,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973339"
 ---
-# <a name="fonts-wpf"></a><span data-ttu-id="305ef-102">字体 (WPF)</span><span class="sxs-lookup"><span data-stu-id="305ef-102">Fonts (WPF)</span></span>
-[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="305ef-103">支持使用 OpenType 字体对丰富的文本表示形式。</span><span class="sxs-lookup"><span data-stu-id="305ef-103">includes support for rich presentation of text using OpenType fonts.</span></span> <span data-ttu-id="305ef-104">Windows SDK 附带了一组 OpenType 字体示例。</span><span class="sxs-lookup"><span data-stu-id="305ef-104">A sample pack of OpenType fonts is included with the Windows SDK.</span></span>  
+# <a name="fonts-wpf"></a><span data-ttu-id="26469-102">字体 (WPF)</span><span class="sxs-lookup"><span data-stu-id="26469-102">Fonts (WPF)</span></span>
+[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="26469-103">支持使用 OpenType 字体对丰富的文本表示形式。</span><span class="sxs-lookup"><span data-stu-id="26469-103">includes support for rich presentation of text using OpenType fonts.</span></span> <span data-ttu-id="26469-104">Windows SDK 附带了一组 OpenType 字体示例。</span><span class="sxs-lookup"><span data-stu-id="26469-104">A sample pack of OpenType fonts is included with the Windows SDK.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="305ef-105">本节内容</span><span class="sxs-lookup"><span data-stu-id="305ef-105">In This Section</span></span>  
- [<span data-ttu-id="305ef-106">OpenType 字体功能</span><span class="sxs-lookup"><span data-stu-id="305ef-106">OpenType Font Features</span></span>](opentype-font-features.md)  
- [<span data-ttu-id="305ef-107">将字体与应用程序一起打包</span><span class="sxs-lookup"><span data-stu-id="305ef-107">Packaging Fonts with Applications</span></span>](packaging-fonts-with-applications.md)  
- [<span data-ttu-id="305ef-108">示例 OpenType 字体包</span><span class="sxs-lookup"><span data-stu-id="305ef-108">Sample OpenType Font Pack</span></span>](sample-opentype-font-pack.md)  
- [<span data-ttu-id="305ef-109">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="305ef-109">How-to Topics</span></span>](fonts-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="26469-105">本节内容</span><span class="sxs-lookup"><span data-stu-id="26469-105">In This Section</span></span>  
+ [<span data-ttu-id="26469-106">OpenType 字体功能</span><span class="sxs-lookup"><span data-stu-id="26469-106">OpenType Font Features</span></span>](opentype-font-features.md)  
+ [<span data-ttu-id="26469-107">将字体与应用程序一起打包</span><span class="sxs-lookup"><span data-stu-id="26469-107">Packaging Fonts with Applications</span></span>](packaging-fonts-with-applications.md)  
+ [<span data-ttu-id="26469-108">示例 OpenType 字体包</span><span class="sxs-lookup"><span data-stu-id="26469-108">Sample OpenType Font Pack</span></span>](sample-opentype-font-pack.md)  
+ [<span data-ttu-id="26469-109">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="26469-109">How-to Topics</span></span>](fonts-how-to-topics.md)  
   
-## <a name="see-also"></a><span data-ttu-id="305ef-110">请参阅</span><span class="sxs-lookup"><span data-stu-id="305ef-110">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="26469-110">另请参阅</span><span class="sxs-lookup"><span data-stu-id="26469-110">See also</span></span>
 
 - <xref:System.Windows.FontStyle>
 - <xref:System.Windows.SystemFonts>
-- [<span data-ttu-id="305ef-111">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="305ef-111">Documents in WPF</span></span>](documents-in-wpf.md)
-- [<span data-ttu-id="305ef-112">WPF 中的版式</span><span class="sxs-lookup"><span data-stu-id="305ef-112">Typography in WPF</span></span>](typography-in-wpf.md)
+- [<span data-ttu-id="26469-111">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="26469-111">Documents in WPF</span></span>](documents-in-wpf.md)
+- [<span data-ttu-id="26469-112">WPF 中的版式</span><span class="sxs-lookup"><span data-stu-id="26469-112">Typography in WPF</span></span>](typography-in-wpf.md)

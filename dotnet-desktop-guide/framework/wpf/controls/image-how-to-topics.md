@@ -14,23 +14,23 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972985"
 ---
-# <a name="image-how-to-topics"></a><span data-ttu-id="d6938-102">图像帮助主题</span><span class="sxs-lookup"><span data-stu-id="d6938-102">Image How-to Topics</span></span>
-<span data-ttu-id="d6938-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Image> 元素。</span><span class="sxs-lookup"><span data-stu-id="d6938-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Image> element.</span></span>  
+# <a name="image-how-to-topics"></a><span data-ttu-id="fafda-102">图像帮助主题</span><span class="sxs-lookup"><span data-stu-id="fafda-102">Image How-to Topics</span></span>
+<span data-ttu-id="fafda-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Image> 元素。</span><span class="sxs-lookup"><span data-stu-id="fafda-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Image> element.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="d6938-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d6938-104">In This Section</span></span>  
- [<span data-ttu-id="d6938-105">使用 Image 元素</span><span class="sxs-lookup"><span data-stu-id="d6938-105">Use the Image Element</span></span>](how-to-use-the-image-element.md)  
-  [<span data-ttu-id="d6938-106">将图像转换成灰度图像</span><span class="sxs-lookup"><span data-stu-id="d6938-106">Convert an Image to Greyscale</span></span>](how-to-convert-an-image-to-greyscale.md)  
-  [<span data-ttu-id="d6938-107">裁剪图像</span><span class="sxs-lookup"><span data-stu-id="d6938-107">Crop an Image</span></span>](how-to-crop-an-image.md)  
-  [<span data-ttu-id="d6938-108">旋转图像</span><span class="sxs-lookup"><span data-stu-id="d6938-108">Rotate an Image</span></span>](how-to-rotate-an-image.md)  
+## <a name="in-this-section"></a><span data-ttu-id="fafda-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="fafda-104">In This Section</span></span>  
+ [<span data-ttu-id="fafda-105">使用 Image 元素</span><span class="sxs-lookup"><span data-stu-id="fafda-105">Use the Image Element</span></span>](how-to-use-the-image-element.md)  
+  [<span data-ttu-id="fafda-106">将图像转换成灰度图像</span><span class="sxs-lookup"><span data-stu-id="fafda-106">Convert an Image to Greyscale</span></span>](how-to-convert-an-image-to-greyscale.md)  
+  [<span data-ttu-id="fafda-107">裁剪图像</span><span class="sxs-lookup"><span data-stu-id="fafda-107">Crop an Image</span></span>](how-to-crop-an-image.md)  
+  [<span data-ttu-id="fafda-108">旋转图像</span><span class="sxs-lookup"><span data-stu-id="fafda-108">Rotate an Image</span></span>](how-to-rotate-an-image.md)  
   
-## <a name="reference"></a><span data-ttu-id="d6938-109">参考</span><span class="sxs-lookup"><span data-stu-id="d6938-109">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="fafda-109">参考</span><span class="sxs-lookup"><span data-stu-id="fafda-109">Reference</span></span>  
  <xref:System.Windows.Controls.Image>  
   
  <xref:System.Windows.Media.Imaging.BitmapImage>  
   
  <xref:System.Windows.Media.Imaging.BitmapSource>  
   
-## <a name="see-also"></a><span data-ttu-id="d6938-110">请参阅</span><span class="sxs-lookup"><span data-stu-id="d6938-110">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="fafda-110">请参阅</span><span class="sxs-lookup"><span data-stu-id="fafda-110">See also</span></span>
 
-- [<span data-ttu-id="d6938-111">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="d6938-111">Imaging Overview</span></span>](../graphics-multimedia/imaging-overview.md)
-- [<span data-ttu-id="d6938-112">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="d6938-112">How-to Topics</span></span>](../graphics-multimedia/imaging-how-to-topics.md)
+- [<span data-ttu-id="fafda-111">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="fafda-111">Imaging Overview</span></span>](../graphics-multimedia/imaging-overview.md)
+- [<span data-ttu-id="fafda-112">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="fafda-112">How-to Topics</span></span>](../graphics-multimedia/imaging-how-to-topics.md)

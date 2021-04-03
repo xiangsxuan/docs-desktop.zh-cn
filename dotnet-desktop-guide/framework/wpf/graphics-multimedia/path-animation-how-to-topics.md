@@ -14,24 +14,24 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972759"
 ---
-# <a name="path-animation-how-to-topics"></a><span data-ttu-id="00cbe-102">路径动画帮助主题</span><span class="sxs-lookup"><span data-stu-id="00cbe-102">Path Animation How-to Topics</span></span>
-<span data-ttu-id="00cbe-103">本节中的主题演示如何沿着路径对对象进行动画处理。</span><span class="sxs-lookup"><span data-stu-id="00cbe-103">The topics in this section demonstrate how to animate an object along a path.</span></span>  
+# <a name="path-animation-how-to-topics"></a><span data-ttu-id="e01df-102">路径动画帮助主题</span><span class="sxs-lookup"><span data-stu-id="e01df-102">Path Animation How-to Topics</span></span>
+<span data-ttu-id="e01df-103">本节中的主题演示如何沿着路径对对象进行动画处理。</span><span class="sxs-lookup"><span data-stu-id="e01df-103">The topics in this section demonstrate how to animate an object along a path.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="00cbe-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="00cbe-104">In This Section</span></span>  
- [<span data-ttu-id="00cbe-105">沿着路径针对对象进行动画处理（双精度动画）</span><span class="sxs-lookup"><span data-stu-id="00cbe-105">Animate an Object Along a Path (Double Animation)</span></span>](how-to-animate-an-object-along-a-path-double-animation.md)  
- [<span data-ttu-id="00cbe-106">沿着路径针对对象进行动画处理（点动画）</span><span class="sxs-lookup"><span data-stu-id="00cbe-106">Animate an Object Along a Path (Point Animation)</span></span>](how-to-animate-an-object-along-a-path-point-animation.md)  
- [<span data-ttu-id="00cbe-107">沿着路径针对对象进行动画处理（矩阵动画）</span><span class="sxs-lookup"><span data-stu-id="00cbe-107">Animate an Object Along a Path (Matrix Animation)</span></span>](how-to-animate-an-object-along-a-path-matrix-animation.md)  
- [<span data-ttu-id="00cbe-108">沿着路径针对对象进行动画处理（累积偏移量的矩阵动画）</span><span class="sxs-lookup"><span data-stu-id="00cbe-108">Animate an Object Along a Path (Matrix Animation with Offset Accumulation)</span></span>](animate-an-object-along-a-path-matrix-animation-with-offset.md)  
- [<span data-ttu-id="00cbe-109">使用几何路径旋转对象（矩阵动画）</span><span class="sxs-lookup"><span data-stu-id="00cbe-109">Rotate an Object by Using a Geometric Path (Matrix Animation)</span></span>](how-to-rotate-an-object-by-using-a-geometric-path-matrix-animation.md)  
- [<span data-ttu-id="00cbe-110">使用几何路径旋转对象</span><span class="sxs-lookup"><span data-stu-id="00cbe-110">Rotate an Object by Using a Geometric Path</span></span>](how-to-rotate-an-object-by-using-a-geometric-path.md)  
+## <a name="in-this-section"></a><span data-ttu-id="e01df-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="e01df-104">In This Section</span></span>  
+ [<span data-ttu-id="e01df-105">沿着路径针对对象进行动画处理（双精度动画）</span><span class="sxs-lookup"><span data-stu-id="e01df-105">Animate an Object Along a Path (Double Animation)</span></span>](how-to-animate-an-object-along-a-path-double-animation.md)  
+ [<span data-ttu-id="e01df-106">沿着路径针对对象进行动画处理（点动画）</span><span class="sxs-lookup"><span data-stu-id="e01df-106">Animate an Object Along a Path (Point Animation)</span></span>](how-to-animate-an-object-along-a-path-point-animation.md)  
+ [<span data-ttu-id="e01df-107">沿着路径针对对象进行动画处理（矩阵动画）</span><span class="sxs-lookup"><span data-stu-id="e01df-107">Animate an Object Along a Path (Matrix Animation)</span></span>](how-to-animate-an-object-along-a-path-matrix-animation.md)  
+ [<span data-ttu-id="e01df-108">沿着路径针对对象进行动画处理（累积偏移量的矩阵动画）</span><span class="sxs-lookup"><span data-stu-id="e01df-108">Animate an Object Along a Path (Matrix Animation with Offset Accumulation)</span></span>](animate-an-object-along-a-path-matrix-animation-with-offset.md)  
+ [<span data-ttu-id="e01df-109">使用几何路径旋转对象（矩阵动画）</span><span class="sxs-lookup"><span data-stu-id="e01df-109">Rotate an Object by Using a Geometric Path (Matrix Animation)</span></span>](how-to-rotate-an-object-by-using-a-geometric-path-matrix-animation.md)  
+ [<span data-ttu-id="e01df-110">使用几何路径旋转对象</span><span class="sxs-lookup"><span data-stu-id="e01df-110">Rotate an Object by Using a Geometric Path</span></span>](how-to-rotate-an-object-by-using-a-geometric-path.md)  
   
-## <a name="reference"></a><span data-ttu-id="00cbe-111">参考</span><span class="sxs-lookup"><span data-stu-id="00cbe-111">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="e01df-111">参考</span><span class="sxs-lookup"><span data-stu-id="e01df-111">Reference</span></span>  
  <xref:System.Windows.Media.Animation.PathAnimationSource>  
   
  <xref:System.Windows.Media.Animation.Storyboard>  
   
-## <a name="see-also"></a><span data-ttu-id="00cbe-112">请参阅</span><span class="sxs-lookup"><span data-stu-id="00cbe-112">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="e01df-112">请参阅</span><span class="sxs-lookup"><span data-stu-id="e01df-112">See also</span></span>
 
-- [<span data-ttu-id="00cbe-113">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="00cbe-113">Graphics and Multimedia</span></span>](index.md)
-- [<span data-ttu-id="00cbe-114">动画概述</span><span class="sxs-lookup"><span data-stu-id="00cbe-114">Animation Overview</span></span>](animation-overview.md)
-- [<span data-ttu-id="00cbe-115">关键帧动画概述</span><span class="sxs-lookup"><span data-stu-id="00cbe-115">Key-Frame Animations Overview</span></span>](key-frame-animations-overview.md)
+- [<span data-ttu-id="e01df-113">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="e01df-113">Graphics and Multimedia</span></span>](index.md)
+- [<span data-ttu-id="e01df-114">动画概述</span><span class="sxs-lookup"><span data-stu-id="e01df-114">Animation Overview</span></span>](animation-overview.md)
+- [<span data-ttu-id="e01df-115">关键帧动画概述</span><span class="sxs-lookup"><span data-stu-id="e01df-115">Key-Frame Animations Overview</span></span>](key-frame-animations-overview.md)

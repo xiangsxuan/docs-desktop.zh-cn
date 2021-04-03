@@ -14,23 +14,23 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973765"
 ---
-# <a name="input-and-commands-how-to-topics"></a><span data-ttu-id="2af27-102">输入和命令帮助主题</span><span class="sxs-lookup"><span data-stu-id="2af27-102">Input and Commands How-to Topics</span></span>
-<span data-ttu-id="2af27-103">本节中的主题介绍如何在 Windows Presentation Foundation (WPF) 中使用输入和命令基础结构。</span><span class="sxs-lookup"><span data-stu-id="2af27-103">The topics in this section describe how to use the input and commanding infrastructure in Windows Presentation Foundation (WPF).</span></span>  
+# <a name="input-and-commands-how-to-topics"></a><span data-ttu-id="e1bce-102">输入和命令帮助主题</span><span class="sxs-lookup"><span data-stu-id="e1bce-102">Input and Commands How-to Topics</span></span>
+<span data-ttu-id="e1bce-103">本节中的主题介绍如何在 Windows Presentation Foundation (WPF) 中使用输入和命令基础结构。</span><span class="sxs-lookup"><span data-stu-id="e1bce-103">The topics in this section describe how to use the input and commanding infrastructure in Windows Presentation Foundation (WPF).</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="2af27-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="2af27-104">In This Section</span></span>  
- [<span data-ttu-id="2af27-105">启用命令</span><span class="sxs-lookup"><span data-stu-id="2af27-105">Enable a Command</span></span>](how-to-enable-a-command.md)  
- [<span data-ttu-id="2af27-106">更改光标类型</span><span class="sxs-lookup"><span data-stu-id="2af27-106">Change the Cursor Type</span></span>](how-to-change-the-cursor-type.md)  
- [<span data-ttu-id="2af27-107">使用焦点事件更改元素的颜色</span><span class="sxs-lookup"><span data-stu-id="2af27-107">Change the Color of an Element Using Focus Events</span></span>](how-to-change-the-color-of-an-element-using-focus-events.md)  
- [<span data-ttu-id="2af27-108">向控件应用 FocusVisualStyle</span><span class="sxs-lookup"><span data-stu-id="2af27-108">Apply a FocusVisualStyle to a Control</span></span>](how-to-apply-a-focusvisualstyle-to-a-control.md)  
- [<span data-ttu-id="2af27-109">检测何时按下 Enter 键</span><span class="sxs-lookup"><span data-stu-id="2af27-109">Detect When the Enter Key is Pressed</span></span>](how-to-detect-when-the-enter-key-pressed.md)  
- [<span data-ttu-id="2af27-110">使用事件创建变换效果</span><span class="sxs-lookup"><span data-stu-id="2af27-110">Create a Rollover Effect Using Events</span></span>](how-to-create-a-rollover-effect-using-events.md)  
- [<span data-ttu-id="2af27-111">使对象跟随鼠标指针移动</span><span class="sxs-lookup"><span data-stu-id="2af27-111">Make an Object Follow the Mouse Pointer</span></span>](how-to-make-an-object-follow-the-mouse-pointer.md)  
- [<span data-ttu-id="2af27-112">创建 RoutedCommand</span><span class="sxs-lookup"><span data-stu-id="2af27-112">Create a RoutedCommand</span></span>](how-to-create-a-routedcommand.md)  
- [<span data-ttu-id="2af27-113">实现 ICommandSource</span><span class="sxs-lookup"><span data-stu-id="2af27-113">Implement ICommandSource</span></span>](how-to-implement-icommandsource.md)  
- [<span data-ttu-id="2af27-114">将命令挂钩到不支持命令的控件</span><span class="sxs-lookup"><span data-stu-id="2af27-114">Hook Up a Command to a Control with No Command Support</span></span>](how-to-hook-up-a-command-to-a-control-with-no-command-support.md)  
- [<span data-ttu-id="2af27-115">将命令挂钩到支持命令的控件</span><span class="sxs-lookup"><span data-stu-id="2af27-115">Hook Up a Command to a Control with Command Support</span></span>](how-to-hook-up-a-command-to-a-control-with-command-support.md)  
+## <a name="in-this-section"></a><span data-ttu-id="e1bce-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="e1bce-104">In This Section</span></span>  
+ [<span data-ttu-id="e1bce-105">启用命令</span><span class="sxs-lookup"><span data-stu-id="e1bce-105">Enable a Command</span></span>](how-to-enable-a-command.md)  
+ [<span data-ttu-id="e1bce-106">更改光标类型</span><span class="sxs-lookup"><span data-stu-id="e1bce-106">Change the Cursor Type</span></span>](how-to-change-the-cursor-type.md)  
+ [<span data-ttu-id="e1bce-107">使用焦点事件更改元素的颜色</span><span class="sxs-lookup"><span data-stu-id="e1bce-107">Change the Color of an Element Using Focus Events</span></span>](how-to-change-the-color-of-an-element-using-focus-events.md)  
+ [<span data-ttu-id="e1bce-108">向控件应用 FocusVisualStyle</span><span class="sxs-lookup"><span data-stu-id="e1bce-108">Apply a FocusVisualStyle to a Control</span></span>](how-to-apply-a-focusvisualstyle-to-a-control.md)  
+ [<span data-ttu-id="e1bce-109">检测何时按下 Enter 键</span><span class="sxs-lookup"><span data-stu-id="e1bce-109">Detect When the Enter Key is Pressed</span></span>](how-to-detect-when-the-enter-key-pressed.md)  
+ [<span data-ttu-id="e1bce-110">使用事件创建变换效果</span><span class="sxs-lookup"><span data-stu-id="e1bce-110">Create a Rollover Effect Using Events</span></span>](how-to-create-a-rollover-effect-using-events.md)  
+ [<span data-ttu-id="e1bce-111">使对象跟随鼠标指针移动</span><span class="sxs-lookup"><span data-stu-id="e1bce-111">Make an Object Follow the Mouse Pointer</span></span>](how-to-make-an-object-follow-the-mouse-pointer.md)  
+ [<span data-ttu-id="e1bce-112">创建 RoutedCommand</span><span class="sxs-lookup"><span data-stu-id="e1bce-112">Create a RoutedCommand</span></span>](how-to-create-a-routedcommand.md)  
+ [<span data-ttu-id="e1bce-113">实现 ICommandSource</span><span class="sxs-lookup"><span data-stu-id="e1bce-113">Implement ICommandSource</span></span>](how-to-implement-icommandsource.md)  
+ [<span data-ttu-id="e1bce-114">将命令挂钩到不支持命令的控件</span><span class="sxs-lookup"><span data-stu-id="e1bce-114">Hook Up a Command to a Control with No Command Support</span></span>](how-to-hook-up-a-command-to-a-control-with-no-command-support.md)  
+ [<span data-ttu-id="e1bce-115">将命令挂钩到支持命令的控件</span><span class="sxs-lookup"><span data-stu-id="e1bce-115">Hook Up a Command to a Control with Command Support</span></span>](how-to-hook-up-a-command-to-a-control-with-command-support.md)  
   
-## <a name="reference"></a><span data-ttu-id="2af27-116">参考</span><span class="sxs-lookup"><span data-stu-id="2af27-116">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="e1bce-116">参考</span><span class="sxs-lookup"><span data-stu-id="e1bce-116">Reference</span></span>  
  <xref:System.Windows.UIElement>  
   
  <xref:System.Windows.FrameworkElement>  
@@ -45,4 +45,4 @@ ms.locfileid: "96973765"
   
  <xref:System.Windows.Input.FocusManager>  
   
-## <a name="related-sections"></a><span data-ttu-id="2af27-117">相关章节</span><span class="sxs-lookup"><span data-stu-id="2af27-117">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="e1bce-117">相关章节</span><span class="sxs-lookup"><span data-stu-id="e1bce-117">Related Sections</span></span>

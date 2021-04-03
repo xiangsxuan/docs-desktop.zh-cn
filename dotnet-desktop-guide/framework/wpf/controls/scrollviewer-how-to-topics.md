@@ -14,20 +14,20 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971799"
 ---
-# <a name="scrollviewer-how-to-topics"></a><span data-ttu-id="c0445-102">ScrollViewer 帮助主题</span><span class="sxs-lookup"><span data-stu-id="c0445-102">ScrollViewer How-to Topics</span></span>
-<span data-ttu-id="c0445-103">本节中的主题演示如何使用 <xref:System.Windows.Controls.ScrollViewer> 元素在应用程序中创建可滚动区域。</span><span class="sxs-lookup"><span data-stu-id="c0445-103">The topics in this section demonstrate how to use the <xref:System.Windows.Controls.ScrollViewer> element to create scrollable regions in your applications.</span></span>  
+# <a name="scrollviewer-how-to-topics"></a><span data-ttu-id="88fe6-102">ScrollViewer 帮助主题</span><span class="sxs-lookup"><span data-stu-id="88fe6-102">ScrollViewer How-to Topics</span></span>
+<span data-ttu-id="88fe6-103">本节中的主题演示如何使用 <xref:System.Windows.Controls.ScrollViewer> 元素在应用程序中创建可滚动区域。</span><span class="sxs-lookup"><span data-stu-id="88fe6-103">The topics in this section demonstrate how to use the <xref:System.Windows.Controls.ScrollViewer> element to create scrollable regions in your applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="c0445-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="c0445-104">In This Section</span></span>  
- [<span data-ttu-id="c0445-105">处理 ScrollChanged 事件</span><span class="sxs-lookup"><span data-stu-id="c0445-105">Handle the ScrollChanged Event</span></span>](how-to-handle-the-scrollchanged-event.md)  
- [<span data-ttu-id="c0445-106">使用 IScrollInfo 接口滚动内容</span><span class="sxs-lookup"><span data-stu-id="c0445-106">Scroll Content by Using the IScrollInfo Interface</span></span>](how-to-scroll-content-by-using-the-iscrollinfo-interface.md)  
- [<span data-ttu-id="c0445-107">使用 ScrollViewer 的内容滚动方法</span><span class="sxs-lookup"><span data-stu-id="c0445-107">Use the Content-Scrolling Methods of ScrollViewer</span></span>](how-to-use-the-content-scrolling-methods-of-scrollviewer.md)  
+## <a name="in-this-section"></a><span data-ttu-id="88fe6-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="88fe6-104">In This Section</span></span>  
+ [<span data-ttu-id="88fe6-105">处理 ScrollChanged 事件</span><span class="sxs-lookup"><span data-stu-id="88fe6-105">Handle the ScrollChanged Event</span></span>](how-to-handle-the-scrollchanged-event.md)  
+ [<span data-ttu-id="88fe6-106">使用 IScrollInfo 接口滚动内容</span><span class="sxs-lookup"><span data-stu-id="88fe6-106">Scroll Content by Using the IScrollInfo Interface</span></span>](how-to-scroll-content-by-using-the-iscrollinfo-interface.md)  
+ [<span data-ttu-id="88fe6-107">使用 ScrollViewer 的内容滚动方法</span><span class="sxs-lookup"><span data-stu-id="88fe6-107">Use the Content-Scrolling Methods of ScrollViewer</span></span>](how-to-use-the-content-scrolling-methods-of-scrollviewer.md)  
   
-## <a name="reference"></a><span data-ttu-id="c0445-108">参考</span><span class="sxs-lookup"><span data-stu-id="c0445-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="88fe6-108">参考</span><span class="sxs-lookup"><span data-stu-id="88fe6-108">Reference</span></span>  
  <xref:System.Windows.Controls.Primitives.ScrollBar>  
   
  <xref:System.Windows.Controls.ScrollViewer>  
   
-## <a name="see-also"></a><span data-ttu-id="c0445-109">请参阅</span><span class="sxs-lookup"><span data-stu-id="c0445-109">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="88fe6-109">请参阅</span><span class="sxs-lookup"><span data-stu-id="88fe6-109">See also</span></span>
 
-- [<span data-ttu-id="c0445-110">面板概述</span><span class="sxs-lookup"><span data-stu-id="c0445-110">Panels Overview</span></span>](panels-overview.md)
-- [<span data-ttu-id="c0445-111">布局</span><span class="sxs-lookup"><span data-stu-id="c0445-111">Layout</span></span>](../advanced/layout.md)
+- [<span data-ttu-id="88fe6-110">面板概述</span><span class="sxs-lookup"><span data-stu-id="88fe6-110">Panels Overview</span></span>](panels-overview.md)
+- [<span data-ttu-id="88fe6-111">布局</span><span class="sxs-lookup"><span data-stu-id="88fe6-111">Layout</span></span>](../advanced/layout.md)

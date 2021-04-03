@@ -13,18 +13,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973155"
 ---
-# <a name="annotations"></a><span data-ttu-id="372e6-102">批注</span><span class="sxs-lookup"><span data-stu-id="372e6-102">Annotations</span></span>
-[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="372e6-103">提供支持批注文档内容的文档查看控件。</span><span class="sxs-lookup"><span data-stu-id="372e6-103">provides document viewing controls that support annotating document content.</span></span>  
+# <a name="annotations"></a><span data-ttu-id="f5afa-102">批注</span><span class="sxs-lookup"><span data-stu-id="f5afa-102">Annotations</span></span>
+[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="f5afa-103">提供支持批注文档内容的文档查看控件。</span><span class="sxs-lookup"><span data-stu-id="f5afa-103">provides document viewing controls that support annotating document content.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="372e6-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="372e6-104">In This Section</span></span>  
- [<span data-ttu-id="372e6-105">批注概述</span><span class="sxs-lookup"><span data-stu-id="372e6-105">Annotations Overview</span></span>](annotations-overview.md)  
-  [<span data-ttu-id="372e6-106">批注架构</span><span class="sxs-lookup"><span data-stu-id="372e6-106">Annotations Schema</span></span>](annotations-schema.md)  
+## <a name="in-this-section"></a><span data-ttu-id="f5afa-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="f5afa-104">In This Section</span></span>  
+ [<span data-ttu-id="f5afa-105">批注概述</span><span class="sxs-lookup"><span data-stu-id="f5afa-105">Annotations Overview</span></span>](annotations-overview.md)  
+  [<span data-ttu-id="f5afa-106">批注架构</span><span class="sxs-lookup"><span data-stu-id="f5afa-106">Annotations Schema</span></span>](annotations-schema.md)  
   
-## <a name="reference"></a><span data-ttu-id="372e6-107">参考</span><span class="sxs-lookup"><span data-stu-id="372e6-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="f5afa-107">参考</span><span class="sxs-lookup"><span data-stu-id="f5afa-107">Reference</span></span>  
  <xref:System.Windows.Annotations.Annotation>  
   <xref:System.Windows.Annotations.AnnotationService>  
   <xref:System.Windows.Controls.DocumentViewer>  
   
-## <a name="related-sections"></a><span data-ttu-id="372e6-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="372e6-108">Related Sections</span></span>  
- [<span data-ttu-id="372e6-109">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="372e6-109">Documents in WPF</span></span>](documents-in-wpf.md)  
-  [<span data-ttu-id="372e6-110">流文档概述</span><span class="sxs-lookup"><span data-stu-id="372e6-110">Flow Document Overview</span></span>](flow-document-overview.md)
+## <a name="related-sections"></a><span data-ttu-id="f5afa-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="f5afa-108">Related Sections</span></span>  
+ [<span data-ttu-id="f5afa-109">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="f5afa-109">Documents in WPF</span></span>](documents-in-wpf.md)  
+  [<span data-ttu-id="f5afa-110">流文档概述</span><span class="sxs-lookup"><span data-stu-id="f5afa-110">Flow Document Overview</span></span>](flow-document-overview.md)

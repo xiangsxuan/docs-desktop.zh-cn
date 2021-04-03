@@ -20,26 +20,26 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974097"
 ---
-# <a name="how-to-encode-and-decode-a-jpeg-image"></a><span data-ttu-id="3a218-102">如何：编码和解码 JPEG 图像</span><span class="sxs-lookup"><span data-stu-id="3a218-102">How to: Encode and decode a JPEG image</span></span>
+# <a name="how-to-encode-and-decode-a-jpeg-image"></a><span data-ttu-id="943b6-102">如何：编码和解码 JPEG 图像</span><span class="sxs-lookup"><span data-stu-id="943b6-102">How to: Encode and decode a JPEG image</span></span>
 
-<span data-ttu-id="3a218-103">下面的示例演示如何使用特定和对象对 JPEG 图像进行解码和 <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> 编码 <xref:System.Windows.Media.Imaging.JpegBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="3a218-103">The following examples show how to decode and encode a JPEG image using the specific <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> and <xref:System.Windows.Media.Imaging.JpegBitmapEncoder> objects.</span></span>  
+<span data-ttu-id="943b6-103">下面的示例演示如何使用特定和对象对 JPEG 图像进行解码和 <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> 编码 <xref:System.Windows.Media.Imaging.JpegBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="943b6-103">The following examples show how to decode and encode a JPEG image using the specific <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> and <xref:System.Windows.Media.Imaging.JpegBitmapEncoder> objects.</span></span>  
   
-## <a name="example---decode-a-jpeg-image"></a><span data-ttu-id="3a218-104">示例-解码 JPEG 图像</span><span class="sxs-lookup"><span data-stu-id="3a218-104">Example - Decode a JPEG image</span></span>
+## <a name="example---decode-a-jpeg-image"></a><span data-ttu-id="943b6-104">示例-解码 JPEG 图像</span><span class="sxs-lookup"><span data-stu-id="943b6-104">Example - Decode a JPEG image</span></span>
 
-<span data-ttu-id="3a218-105">此示例演示如何使用从中解码 JPEG 图像 <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> <xref:System.IO.FileStream> 。</span><span class="sxs-lookup"><span data-stu-id="3a218-105">This example demonstrates how to decode a JPEG image using a <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> from a <xref:System.IO.FileStream>.</span></span>  
+<span data-ttu-id="943b6-105">此示例演示如何使用从中解码 JPEG 图像 <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> <xref:System.IO.FileStream> 。</span><span class="sxs-lookup"><span data-stu-id="943b6-105">This example demonstrates how to decode a JPEG image using a <xref:System.Windows.Media.Imaging.JpegBitmapDecoder> from a <xref:System.IO.FileStream>.</span></span>  
   
 [!code-cpp[JpegBitmapDecoderEncoder#1](~/samples/snippets/cpp/VS_Snippets_Wpf/JpegBitmapDecoderEncoder/CPP/jpegencoderdecoder.cpp#1)]
 [!code-csharp[JpegBitmapDecoderEncoder#1](~/samples/snippets/csharp/VS_Snippets_Wpf/JpegBitmapDecoderEncoder/CSharp/JpegEncoderDecoder.cs#1)]
 [!code-vb[JpegBitmapDecoderEncoder#1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/JpegBitmapDecoderEncoder/VB/JpegEncoderDecoder.vb#1)]  
   
-## <a name="example---encode-a-jpeg-image"></a><span data-ttu-id="3a218-106">示例-对 JPEG 图像进行编码</span><span class="sxs-lookup"><span data-stu-id="3a218-106">Example - Encode a JPEG image</span></span>
+## <a name="example---encode-a-jpeg-image"></a><span data-ttu-id="943b6-106">示例-对 JPEG 图像进行编码</span><span class="sxs-lookup"><span data-stu-id="943b6-106">Example - Encode a JPEG image</span></span>
 
-<span data-ttu-id="3a218-107">此示例演示如何使用将编码为 <xref:System.Windows.Media.Imaging.BitmapSource> JPEG 图像 <xref:System.Windows.Media.Imaging.JpegBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="3a218-107">This example demonstrates how to encode a <xref:System.Windows.Media.Imaging.BitmapSource> into a JPEG image using a <xref:System.Windows.Media.Imaging.JpegBitmapEncoder>.</span></span>  
+<span data-ttu-id="943b6-107">此示例演示如何使用将编码为 <xref:System.Windows.Media.Imaging.BitmapSource> JPEG 图像 <xref:System.Windows.Media.Imaging.JpegBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="943b6-107">This example demonstrates how to encode a <xref:System.Windows.Media.Imaging.BitmapSource> into a JPEG image using a <xref:System.Windows.Media.Imaging.JpegBitmapEncoder>.</span></span>  
   
 [!code-cpp[JpegBitmapDecoderEncoder#4](~/samples/snippets/cpp/VS_Snippets_Wpf/JpegBitmapDecoderEncoder/CPP/jpegencoderdecoder.cpp#4)]
 [!code-csharp[JpegBitmapDecoderEncoder#4](~/samples/snippets/csharp/VS_Snippets_Wpf/JpegBitmapDecoderEncoder/CSharp/JpegEncoderDecoder.cs#4)]
 [!code-vb[JpegBitmapDecoderEncoder#4](~/samples/snippets/visualbasic/VS_Snippets_Wpf/JpegBitmapDecoderEncoder/VB/JpegEncoderDecoder.vb#4)]  
   
-## <a name="see-also"></a><span data-ttu-id="3a218-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="3a218-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="943b6-108">另请参阅</span><span class="sxs-lookup"><span data-stu-id="943b6-108">See also</span></span>
 
-- [<span data-ttu-id="3a218-109">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="3a218-109">Imaging Overview</span></span>](imaging-overview.md)
+- [<span data-ttu-id="943b6-109">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="943b6-109">Imaging Overview</span></span>](imaging-overview.md)

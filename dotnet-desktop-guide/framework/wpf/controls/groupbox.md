@@ -14,17 +14,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972952"
 ---
-# <a name="groupbox"></a><span data-ttu-id="f4b26-102">GroupBox</span><span class="sxs-lookup"><span data-stu-id="f4b26-102">GroupBox</span></span>
-<span data-ttu-id="f4b26-103"><xref:System.Windows.Controls.GroupBox>控件是一个 <xref:System.Windows.Controls.HeaderedContentControl> ，它为图形用户界面提供标题容器 (GUI) 内容。</span><span class="sxs-lookup"><span data-stu-id="f4b26-103">The <xref:System.Windows.Controls.GroupBox> control is a <xref:System.Windows.Controls.HeaderedContentControl> that provides a titled container for graphical user interface (GUI) content.</span></span>  
+# <a name="groupbox"></a><span data-ttu-id="09275-102">GroupBox</span><span class="sxs-lookup"><span data-stu-id="09275-102">GroupBox</span></span>
+<span data-ttu-id="09275-103"><xref:System.Windows.Controls.GroupBox>控件是一个 <xref:System.Windows.Controls.HeaderedContentControl> ，它为图形用户界面提供标题容器 (GUI) 内容。</span><span class="sxs-lookup"><span data-stu-id="09275-103">The <xref:System.Windows.Controls.GroupBox> control is a <xref:System.Windows.Controls.HeaderedContentControl> that provides a titled container for graphical user interface (GUI) content.</span></span>  
   
- <span data-ttu-id="f4b26-104">下图显示了 <xref:System.Windows.Controls.GroupBox> 包含的和的 <xref:System.Windows.Controls.TabControl> <xref:System.Windows.Controls.Button> <xref:System.Windows.Controls.StackPanel> 。</span><span class="sxs-lookup"><span data-stu-id="f4b26-104">The following illustration shows a <xref:System.Windows.Controls.GroupBox> that contains a <xref:System.Windows.Controls.TabControl> and a <xref:System.Windows.Controls.Button> that are enclosed in a <xref:System.Windows.Controls.StackPanel>.</span></span>  
+ <span data-ttu-id="09275-104">下图显示了 <xref:System.Windows.Controls.GroupBox> 包含的和的 <xref:System.Windows.Controls.TabControl> <xref:System.Windows.Controls.Button> <xref:System.Windows.Controls.StackPanel> 。</span><span class="sxs-lookup"><span data-stu-id="09275-104">The following illustration shows a <xref:System.Windows.Controls.GroupBox> that contains a <xref:System.Windows.Controls.TabControl> and a <xref:System.Windows.Controls.Button> that are enclosed in a <xref:System.Windows.Controls.StackPanel>.</span></span>  
   
  ![显示分组框的屏幕截图。](./media/groupbox/groupbox-tab-button-stackpanel.jpg)  
   
-## <a name="in-this-section"></a><span data-ttu-id="f4b26-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="f4b26-106">In This Section</span></span>  
- [<span data-ttu-id="f4b26-107">定义 GroupBox 模板</span><span class="sxs-lookup"><span data-stu-id="f4b26-107">Define a GroupBox Template</span></span>](how-to-define-a-groupbox-template.md)  
+## <a name="in-this-section"></a><span data-ttu-id="09275-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="09275-106">In This Section</span></span>  
+ [<span data-ttu-id="09275-107">定义 GroupBox 模板</span><span class="sxs-lookup"><span data-stu-id="09275-107">Define a GroupBox Template</span></span>](how-to-define-a-groupbox-template.md)  
   
-## <a name="reference"></a><span data-ttu-id="f4b26-108">参考</span><span class="sxs-lookup"><span data-stu-id="f4b26-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="09275-108">参考</span><span class="sxs-lookup"><span data-stu-id="09275-108">Reference</span></span>  
  <xref:System.Windows.Controls.GroupBox>  
   
-## <a name="related-sections"></a><span data-ttu-id="f4b26-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="f4b26-109">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="09275-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="09275-109">Related Sections</span></span>

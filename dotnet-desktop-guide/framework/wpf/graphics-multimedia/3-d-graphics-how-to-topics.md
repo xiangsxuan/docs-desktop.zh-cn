@@ -14,29 +14,29 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972688"
 ---
-# <a name="3d-graphics-how-to-topics"></a><span data-ttu-id="7debf-102">3D 图形操作指南主题</span><span class="sxs-lookup"><span data-stu-id="7debf-102">3D Graphics How-to Topics</span></span>
-<span data-ttu-id="7debf-103">本节中的主题演示如何在应用程序中使用三维图形 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。</span><span class="sxs-lookup"><span data-stu-id="7debf-103">The topics in this section demonstrate how to use 3D graphics in [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] applications.</span></span>  
+# <a name="3d-graphics-how-to-topics"></a><span data-ttu-id="62a5c-102">3D 图形操作指南主题</span><span class="sxs-lookup"><span data-stu-id="62a5c-102">3D Graphics How-to Topics</span></span>
+<span data-ttu-id="62a5c-103">本节中的主题演示如何在应用程序中使用三维图形 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。</span><span class="sxs-lookup"><span data-stu-id="62a5c-103">The topics in this section demonstrate how to use 3D graphics in [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="7debf-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="7debf-104">In This Section</span></span>  
- [<span data-ttu-id="7debf-105">创建三维场景</span><span class="sxs-lookup"><span data-stu-id="7debf-105">Create a 3D Scene</span></span>](how-to-create-a-3-d-scene.md)  
- [<span data-ttu-id="7debf-106">向三维模型应用绘图</span><span class="sxs-lookup"><span data-stu-id="7debf-106">Apply a Drawing to a 3D Model</span></span>](how-to-apply-a-drawing-to-a-3-d-model.md)  
- [<span data-ttu-id="7debf-107">向三维对象的正面和背面应用材料</span><span class="sxs-lookup"><span data-stu-id="7debf-107">Apply Material to the Front and Back of a 3D Object</span></span>](how-to-apply-material-to-the-front-and-back-of-a-3-d-object.md)  
- [<span data-ttu-id="7debf-108">向三维对象应用放射材料</span><span class="sxs-lookup"><span data-stu-id="7debf-108">Apply Emissive Material to a 3D Object</span></span>](how-to-apply-emissive-material-to-a-3-d-object.md)  
- [<span data-ttu-id="7debf-109">转换三维模型的比例</span><span class="sxs-lookup"><span data-stu-id="7debf-109">Transform the Scale of a 3D Model</span></span>](how-to-transform-the-scale-of-a-3-d-model.md)  
- [<span data-ttu-id="7debf-110">向三维模型应用多个转换</span><span class="sxs-lookup"><span data-stu-id="7debf-110">Apply Multiple Transformations to a 3D Model</span></span>](how-to-apply-multiple-transformations-to-a-3-d-model.md)  
- [<span data-ttu-id="7debf-111">对三维转换进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-111">Animate 3D Translations</span></span>](how-to-animate-3-d-translations.md)  
- [<span data-ttu-id="7debf-112">使用故事板对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-112">Animate a 3D Rotation Using Storyboards</span></span>](how-to-animate-a-3-d-rotation-using-storyboards.md)  
- [<span data-ttu-id="7debf-113">使用 Rotation3DAnimation 对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-113">Animate a 3D Rotation Using Rotation3DAnimation</span></span>](how-to-animate-a-3-d-rotation-using-rotation3danimation.md)  
- [<span data-ttu-id="7debf-114">使用四元数对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-114">Animate a 3D Rotation Using Quaternions</span></span>](how-to-animate-a-3-d-rotation-using-quaternions.md)  
- [<span data-ttu-id="7debf-115">使用关键帧对三维旋转进行动画处理 (Rotation3DAnimationUsingKeyFrames)</span><span class="sxs-lookup"><span data-stu-id="7debf-115">Animate a 3D Rotation Using Key Frames (Rotation3DAnimationUsingKeyFrames)</span></span>](how-to-animate-a-3-d-rotation-using-key-frames.md)  
- [<span data-ttu-id="7debf-116">使用关键帧对三维旋转进行动画处理 (QuaternionAnimationUsingKeyFrames)</span><span class="sxs-lookup"><span data-stu-id="7debf-116">Animate a 3D Rotation Using Key Frames (QuaternionAnimationUsingKeyFrames)</span></span>](animate-a-3-d-rotation-quaternionanimationusingkeyframes.md)  
- [<span data-ttu-id="7debf-117">在三维场景中对照相机位置和方向进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-117">Animate Camera Position and Direction in a 3D Scene</span></span>](how-to-animate-camera-position-and-direction-in-a-3d-scene.md)  
- [<span data-ttu-id="7debf-118">使用关键帧对照相机位置和方向进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-118">Animate Camera Position and Direction Using Key Frames</span></span>](how-to-animate-camera-position-and-direction-using-key-frames.md)  
- [<span data-ttu-id="7debf-119">对三维场景中的材料属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="7debf-119">Animate Material Properties in a 3D Scene</span></span>](how-to-animate-material-properties-in-a-3-d-scene.md)  
- [<span data-ttu-id="7debf-120">在 Viewport3D 中进行命中测试</span><span class="sxs-lookup"><span data-stu-id="7debf-120">Hit Test in a Viewport3D</span></span>](how-to-hit-test-in-a-viewport3d.md)  
- [<span data-ttu-id="7debf-121">测试 Point4D 结构是否相等和不相等</span><span class="sxs-lookup"><span data-stu-id="7debf-121">Test Point4D structures for equality and inequality</span></span>](how-to-test-point4d-structures-for-equality-and-inequality.md)  
+## <a name="in-this-section"></a><span data-ttu-id="62a5c-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="62a5c-104">In This Section</span></span>  
+ [<span data-ttu-id="62a5c-105">创建三维场景</span><span class="sxs-lookup"><span data-stu-id="62a5c-105">Create a 3D Scene</span></span>](how-to-create-a-3-d-scene.md)  
+ [<span data-ttu-id="62a5c-106">向三维模型应用绘图</span><span class="sxs-lookup"><span data-stu-id="62a5c-106">Apply a Drawing to a 3D Model</span></span>](how-to-apply-a-drawing-to-a-3-d-model.md)  
+ [<span data-ttu-id="62a5c-107">向三维对象的正面和背面应用材料</span><span class="sxs-lookup"><span data-stu-id="62a5c-107">Apply Material to the Front and Back of a 3D Object</span></span>](how-to-apply-material-to-the-front-and-back-of-a-3-d-object.md)  
+ [<span data-ttu-id="62a5c-108">向三维对象应用放射材料</span><span class="sxs-lookup"><span data-stu-id="62a5c-108">Apply Emissive Material to a 3D Object</span></span>](how-to-apply-emissive-material-to-a-3-d-object.md)  
+ [<span data-ttu-id="62a5c-109">转换三维模型的比例</span><span class="sxs-lookup"><span data-stu-id="62a5c-109">Transform the Scale of a 3D Model</span></span>](how-to-transform-the-scale-of-a-3-d-model.md)  
+ [<span data-ttu-id="62a5c-110">向三维模型应用多个转换</span><span class="sxs-lookup"><span data-stu-id="62a5c-110">Apply Multiple Transformations to a 3D Model</span></span>](how-to-apply-multiple-transformations-to-a-3-d-model.md)  
+ [<span data-ttu-id="62a5c-111">对三维转换进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-111">Animate 3D Translations</span></span>](how-to-animate-3-d-translations.md)  
+ [<span data-ttu-id="62a5c-112">使用故事板对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-112">Animate a 3D Rotation Using Storyboards</span></span>](how-to-animate-a-3-d-rotation-using-storyboards.md)  
+ [<span data-ttu-id="62a5c-113">使用 Rotation3DAnimation 对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-113">Animate a 3D Rotation Using Rotation3DAnimation</span></span>](how-to-animate-a-3-d-rotation-using-rotation3danimation.md)  
+ [<span data-ttu-id="62a5c-114">使用四元数对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-114">Animate a 3D Rotation Using Quaternions</span></span>](how-to-animate-a-3-d-rotation-using-quaternions.md)  
+ [<span data-ttu-id="62a5c-115">使用关键帧对三维旋转进行动画处理 (Rotation3DAnimationUsingKeyFrames)</span><span class="sxs-lookup"><span data-stu-id="62a5c-115">Animate a 3D Rotation Using Key Frames (Rotation3DAnimationUsingKeyFrames)</span></span>](how-to-animate-a-3-d-rotation-using-key-frames.md)  
+ [<span data-ttu-id="62a5c-116">使用关键帧对三维旋转进行动画处理 (QuaternionAnimationUsingKeyFrames)</span><span class="sxs-lookup"><span data-stu-id="62a5c-116">Animate a 3D Rotation Using Key Frames (QuaternionAnimationUsingKeyFrames)</span></span>](animate-a-3-d-rotation-quaternionanimationusingkeyframes.md)  
+ [<span data-ttu-id="62a5c-117">在三维场景中对照相机位置和方向进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-117">Animate Camera Position and Direction in a 3D Scene</span></span>](how-to-animate-camera-position-and-direction-in-a-3d-scene.md)  
+ [<span data-ttu-id="62a5c-118">使用关键帧对照相机位置和方向进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-118">Animate Camera Position and Direction Using Key Frames</span></span>](how-to-animate-camera-position-and-direction-using-key-frames.md)  
+ [<span data-ttu-id="62a5c-119">对三维场景中的材料属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="62a5c-119">Animate Material Properties in a 3D Scene</span></span>](how-to-animate-material-properties-in-a-3-d-scene.md)  
+ [<span data-ttu-id="62a5c-120">在 Viewport3D 中进行命中测试</span><span class="sxs-lookup"><span data-stu-id="62a5c-120">Hit Test in a Viewport3D</span></span>](how-to-hit-test-in-a-viewport3d.md)  
+ [<span data-ttu-id="62a5c-121">测试 Point4D 结构是否相等和不相等</span><span class="sxs-lookup"><span data-stu-id="62a5c-121">Test Point4D structures for equality and inequality</span></span>](how-to-test-point4d-structures-for-equality-and-inequality.md)  
   
-## <a name="reference"></a><span data-ttu-id="7debf-122">参考</span><span class="sxs-lookup"><span data-stu-id="7debf-122">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="62a5c-122">参考</span><span class="sxs-lookup"><span data-stu-id="62a5c-122">Reference</span></span>  
  <xref:System.Windows.Controls.Viewport3D>  
   
  <xref:System.Windows.Media.Media3D.PerspectiveCamera>  
@@ -45,5 +45,5 @@ ms.locfileid: "96972688"
   
  <xref:System.Windows.Media.Media3D.Material>  
   
-## <a name="related-sections"></a><span data-ttu-id="7debf-123">相关章节</span><span class="sxs-lookup"><span data-stu-id="7debf-123">Related Sections</span></span>  
- [<span data-ttu-id="7debf-124">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="7debf-124">Graphics and Multimedia</span></span>](index.md)
+## <a name="related-sections"></a><span data-ttu-id="62a5c-123">相关章节</span><span class="sxs-lookup"><span data-stu-id="62a5c-123">Related Sections</span></span>  
+ [<span data-ttu-id="62a5c-124">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="62a5c-124">Graphics and Multimedia</span></span>](index.md)

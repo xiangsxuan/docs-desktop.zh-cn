@@ -16,18 +16,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972750"
 ---
-# <a name="shapes-how-to-topics"></a><span data-ttu-id="92ee3-102">形状帮助主题</span><span class="sxs-lookup"><span data-stu-id="92ee3-102">Shapes How-to Topics</span></span>
-<span data-ttu-id="92ee3-103">本节中的主题演示如何使用对象在 <xref:System.Windows.Shapes.Shape> 屏幕上绘制基本形状。</span><span class="sxs-lookup"><span data-stu-id="92ee3-103">The topics in this section demonstrate how to use <xref:System.Windows.Shapes.Shape> objects to draw basic shapes to the screen.</span></span>  
+# <a name="shapes-how-to-topics"></a><span data-ttu-id="569e1-102">形状帮助主题</span><span class="sxs-lookup"><span data-stu-id="569e1-102">Shapes How-to Topics</span></span>
+<span data-ttu-id="569e1-103">本节中的主题演示如何使用对象在 <xref:System.Windows.Shapes.Shape> 屏幕上绘制基本形状。</span><span class="sxs-lookup"><span data-stu-id="569e1-103">The topics in this section demonstrate how to use <xref:System.Windows.Shapes.Shape> objects to draw basic shapes to the screen.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="92ee3-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="92ee3-104">In This Section</span></span>  
- [<span data-ttu-id="92ee3-105">使用多边形元素绘制闭合形状</span><span class="sxs-lookup"><span data-stu-id="92ee3-105">Draw a Closed Shape by Using the Polygon Element</span></span>](how-to-draw-a-closed-shape-by-using-the-polygon-element.md)  
- [<span data-ttu-id="92ee3-106">绘制椭圆或圆</span><span class="sxs-lookup"><span data-stu-id="92ee3-106">Draw an Ellipse or a Circle</span></span>](how-to-draw-an-ellipse-or-a-circle.md)  
- [<span data-ttu-id="92ee3-107">绘制线条</span><span class="sxs-lookup"><span data-stu-id="92ee3-107">Draw a Line</span></span>](how-to-draw-a-line.md)  
- [<span data-ttu-id="92ee3-108">使用 Polyline 元素绘制折线</span><span class="sxs-lookup"><span data-stu-id="92ee3-108">Draw a Polyline by Using the Polyline Element</span></span>](how-to-draw-a-polyline-by-using-the-polyline-element.md)  
- [<span data-ttu-id="92ee3-109">绘制矩形</span><span class="sxs-lookup"><span data-stu-id="92ee3-109">Draw a Rectangle</span></span>](how-to-draw-a-rectangle.md)  
- [<span data-ttu-id="92ee3-110">修改直线或线段末端的线帽</span><span class="sxs-lookup"><span data-stu-id="92ee3-110">Modify the Cap at the End of a Line or Segment</span></span>](how-to-modify-the-cap-at-the-end-of-a-line-or-segment.md)  
+## <a name="in-this-section"></a><span data-ttu-id="569e1-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="569e1-104">In This Section</span></span>  
+ [<span data-ttu-id="569e1-105">使用多边形元素绘制闭合形状</span><span class="sxs-lookup"><span data-stu-id="569e1-105">Draw a Closed Shape by Using the Polygon Element</span></span>](how-to-draw-a-closed-shape-by-using-the-polygon-element.md)  
+ [<span data-ttu-id="569e1-106">绘制椭圆或圆</span><span class="sxs-lookup"><span data-stu-id="569e1-106">Draw an Ellipse or a Circle</span></span>](how-to-draw-an-ellipse-or-a-circle.md)  
+ [<span data-ttu-id="569e1-107">绘制线条</span><span class="sxs-lookup"><span data-stu-id="569e1-107">Draw a Line</span></span>](how-to-draw-a-line.md)  
+ [<span data-ttu-id="569e1-108">使用 Polyline 元素绘制折线</span><span class="sxs-lookup"><span data-stu-id="569e1-108">Draw a Polyline by Using the Polyline Element</span></span>](how-to-draw-a-polyline-by-using-the-polyline-element.md)  
+ [<span data-ttu-id="569e1-109">绘制矩形</span><span class="sxs-lookup"><span data-stu-id="569e1-109">Draw a Rectangle</span></span>](how-to-draw-a-rectangle.md)  
+ [<span data-ttu-id="569e1-110">修改直线或线段末端的线帽</span><span class="sxs-lookup"><span data-stu-id="569e1-110">Modify the Cap at the End of a Line or Segment</span></span>](how-to-modify-the-cap-at-the-end-of-a-line-or-segment.md)  
   
-## <a name="see-also"></a><span data-ttu-id="92ee3-111">请参阅</span><span class="sxs-lookup"><span data-stu-id="92ee3-111">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="569e1-111">另请参阅</span><span class="sxs-lookup"><span data-stu-id="569e1-111">See also</span></span>
 
 - <xref:System.Windows.Shapes.Shape>
-- [<span data-ttu-id="92ee3-112">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="92ee3-112">Graphics and Multimedia</span></span>](index.md)
+- [<span data-ttu-id="569e1-112">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="569e1-112">Graphics and Multimedia</span></span>](index.md)

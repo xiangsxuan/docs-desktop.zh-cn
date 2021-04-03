@@ -14,16 +14,16 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973689"
 ---
-# <a name="documentviewer"></a><span data-ttu-id="7a219-102">DocumentViewer</span><span class="sxs-lookup"><span data-stu-id="7a219-102">DocumentViewer</span></span>
-<span data-ttu-id="7a219-103"><xref:System.Windows.Controls.DocumentViewer>控件用于查看 <xref:System.Windows.Documents.FixedDocument> 内容 (例如，XML 纸张规范 (XPS) 文档) 以分页格式显示。</span><span class="sxs-lookup"><span data-stu-id="7a219-103">The <xref:System.Windows.Controls.DocumentViewer> control is used to view <xref:System.Windows.Documents.FixedDocument> content (such as XML Paper Specification (XPS) documents) in a paginated format.</span></span>  
+# <a name="documentviewer"></a><span data-ttu-id="9d67f-102">DocumentViewer</span><span class="sxs-lookup"><span data-stu-id="9d67f-102">DocumentViewer</span></span>
+<span data-ttu-id="9d67f-103"><xref:System.Windows.Controls.DocumentViewer>控件用于查看 <xref:System.Windows.Documents.FixedDocument> 内容 (例如，XML 纸张规范 (XPS) 文档) 以分页格式显示。</span><span class="sxs-lookup"><span data-stu-id="9d67f-103">The <xref:System.Windows.Controls.DocumentViewer> control is used to view <xref:System.Windows.Documents.FixedDocument> content (such as XML Paper Specification (XPS) documents) in a paginated format.</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="7a219-104">参考</span><span class="sxs-lookup"><span data-stu-id="7a219-104">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="9d67f-104">参考</span><span class="sxs-lookup"><span data-stu-id="9d67f-104">Reference</span></span>  
  <xref:System.Windows.Controls.DocumentViewer>  
   
  <xref:System.Windows.Documents.FixedDocument>  
   
-## <a name="see-also"></a><span data-ttu-id="7a219-105">请参阅</span><span class="sxs-lookup"><span data-stu-id="7a219-105">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="9d67f-105">请参阅</span><span class="sxs-lookup"><span data-stu-id="9d67f-105">See also</span></span>
 
-- <span data-ttu-id="7a219-106">文档</span><span class="sxs-lookup"><span data-stu-id="7a219-106">[Documents](../advanced/documents.md)</span></span>
-- [<span data-ttu-id="7a219-107">文档序列化和存储</span><span class="sxs-lookup"><span data-stu-id="7a219-107">Document Serialization and Storage</span></span>](../advanced/document-serialization-and-storage.md)
-- [<span data-ttu-id="7a219-108">打印概述</span><span class="sxs-lookup"><span data-stu-id="7a219-108">Printing Overview</span></span>](../advanced/printing-overview.md)
+- <span data-ttu-id="9d67f-106">文档</span><span class="sxs-lookup"><span data-stu-id="9d67f-106">[Documents](../advanced/documents.md)</span></span>
+- [<span data-ttu-id="9d67f-107">文档序列化和存储</span><span class="sxs-lookup"><span data-stu-id="9d67f-107">Document Serialization and Storage</span></span>](../advanced/document-serialization-and-storage.md)
+- [<span data-ttu-id="9d67f-108">打印概述</span><span class="sxs-lookup"><span data-stu-id="9d67f-108">Printing Overview</span></span>](../advanced/printing-overview.md)

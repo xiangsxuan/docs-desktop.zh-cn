@@ -14,17 +14,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970625"
 ---
-# <a name="gridsplitter-how-to-topics"></a><span data-ttu-id="bba5a-102">GridSplitter 帮助主题</span><span class="sxs-lookup"><span data-stu-id="bba5a-102">GridSplitter How-to Topics</span></span>
-<span data-ttu-id="bba5a-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.GridSplitter> 控件。</span><span class="sxs-lookup"><span data-stu-id="bba5a-103">The topics in this section describe how to use the <xref:System.Windows.Controls.GridSplitter> control.</span></span>  
+# <a name="gridsplitter-how-to-topics"></a><span data-ttu-id="a7914-102">GridSplitter 帮助主题</span><span class="sxs-lookup"><span data-stu-id="a7914-102">GridSplitter How-to Topics</span></span>
+<span data-ttu-id="a7914-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.GridSplitter> 控件。</span><span class="sxs-lookup"><span data-stu-id="a7914-103">The topics in this section describe how to use the <xref:System.Windows.Controls.GridSplitter> control.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="bba5a-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="bba5a-104">In This Section</span></span>  
- [<span data-ttu-id="bba5a-105">使用 GridSplitter 重设行大小</span><span class="sxs-lookup"><span data-stu-id="bba5a-105">Resize Rows with a GridSplitter</span></span>](how-to-resize-rows-with-a-gridsplitter.md)  
- [<span data-ttu-id="bba5a-106">使用 GridSplitter 重设列大小</span><span class="sxs-lookup"><span data-stu-id="bba5a-106">Resize Columns with a GridSplitter</span></span>](how-to-resize-columns-with-a-gridsplitter.md)  
- [<span data-ttu-id="bba5a-107">确保 GridSplitter 可见</span><span class="sxs-lookup"><span data-stu-id="bba5a-107">Make Sure That a GridSplitter Is Visible</span></span>](how-to-make-sure-that-a-gridsplitter-is-visible.md)  
+## <a name="in-this-section"></a><span data-ttu-id="a7914-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="a7914-104">In This Section</span></span>  
+ [<span data-ttu-id="a7914-105">使用 GridSplitter 重设行大小</span><span class="sxs-lookup"><span data-stu-id="a7914-105">Resize Rows with a GridSplitter</span></span>](how-to-resize-rows-with-a-gridsplitter.md)  
+ [<span data-ttu-id="a7914-106">使用 GridSplitter 重设列大小</span><span class="sxs-lookup"><span data-stu-id="a7914-106">Resize Columns with a GridSplitter</span></span>](how-to-resize-columns-with-a-gridsplitter.md)  
+ [<span data-ttu-id="a7914-107">确保 GridSplitter 可见</span><span class="sxs-lookup"><span data-stu-id="a7914-107">Make Sure That a GridSplitter Is Visible</span></span>](how-to-make-sure-that-a-gridsplitter-is-visible.md)  
   
-## <a name="reference"></a><span data-ttu-id="bba5a-108">参考</span><span class="sxs-lookup"><span data-stu-id="bba5a-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="a7914-108">参考</span><span class="sxs-lookup"><span data-stu-id="a7914-108">Reference</span></span>  
  <xref:System.Windows.Controls.GridSplitter>  
   
  <xref:System.Windows.Controls.Grid>  
   
-## <a name="related-sections"></a><span data-ttu-id="bba5a-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="bba5a-109">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="a7914-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="a7914-109">Related Sections</span></span>

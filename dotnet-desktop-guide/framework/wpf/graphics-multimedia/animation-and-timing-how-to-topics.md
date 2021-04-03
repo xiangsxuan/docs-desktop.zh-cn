@@ -14,36 +14,36 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972883"
 ---
-# <a name="animation-and-timing-how-to-topics"></a><span data-ttu-id="41165-102">动画和计时帮助主题</span><span class="sxs-lookup"><span data-stu-id="41165-102">Animation and Timing How-to Topics</span></span>
-<span data-ttu-id="41165-103">以下主题演示如何 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 在应用程序中使用动画和计时系统。</span><span class="sxs-lookup"><span data-stu-id="41165-103">The following topics demonstrate how to use the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] animation and timing system in your applications.</span></span>  
+# <a name="animation-and-timing-how-to-topics"></a><span data-ttu-id="ced21-102">动画和计时帮助主题</span><span class="sxs-lookup"><span data-stu-id="ced21-102">Animation and Timing How-to Topics</span></span>
+<span data-ttu-id="ced21-103">以下主题演示如何 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 在应用程序中使用动画和计时系统。</span><span class="sxs-lookup"><span data-stu-id="ced21-103">The following topics demonstrate how to use the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] animation and timing system in your applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="41165-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="41165-104">In This Section</span></span>  
- [<span data-ttu-id="41165-105">使动画加速或减速</span><span class="sxs-lookup"><span data-stu-id="41165-105">Accelerate or Decelerate an Animation</span></span>](how-to-accelerate-or-decelerate-an-animation.md)  
- [<span data-ttu-id="41165-106">在重复循环过程中累积动画值</span><span class="sxs-lookup"><span data-stu-id="41165-106">Accumulate Animation Values During Repeat Cycles</span></span>](how-to-accumulate-animation-values-during-repeat-cycles.md)  
- [<span data-ttu-id="41165-107">向动画起始值添加动画输出值</span><span class="sxs-lookup"><span data-stu-id="41165-107">Add an Animation Output Value to an Animation Starting Value</span></span>](how-to-add-an-animation-output-value-to-an-animation-starting-value.md)  
- [<span data-ttu-id="41165-108">使用情节提要对属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="41165-108">Animate a Property by Using a Storyboard</span></span>](how-to-animate-a-property-by-using-a-storyboard.md)  
- [<span data-ttu-id="41165-109">在不使用情节提要的情况下对属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="41165-109">Animate a Property Without Using a Storyboard</span></span>](how-to-animate-a-property-without-using-a-storyboard.md)  
- [<span data-ttu-id="41165-110">在 ControlTemplate 中进行动画处理</span><span class="sxs-lookup"><span data-stu-id="41165-110">Animate in a ControlTemplate</span></span>](how-to-animate-in-a-controltemplate.md)  
- [<span data-ttu-id="41165-111">在样式中进行动画处理</span><span class="sxs-lookup"><span data-stu-id="41165-111">Animate in a Style</span></span>](how-to-animate-in-a-style.md)  
- [<span data-ttu-id="41165-112">对元素或画笔的不透明度进行动画处理</span><span class="sxs-lookup"><span data-stu-id="41165-112">Animate the Opacity of an Element or Brush</span></span>](how-to-animate-the-opacity-of-an-element-or-brush.md)  
- [<span data-ttu-id="41165-113">在不更改时间线速度的情况下更改时钟速度</span><span class="sxs-lookup"><span data-stu-id="41165-113">Change the Speed of a Clock Without Changing the Speed of Its Timeline</span></span>](change-the-speed-of-a-clock.md)  
- [<span data-ttu-id="41165-114">在情节提要启动后使用其交互式方法对其进行控制</span><span class="sxs-lookup"><span data-stu-id="41165-114">Control a Storyboard After It Starts Using Its Interactive Methods</span></span>](how-to-control-a-storyboard-after-it-starts.md)  
- [<span data-ttu-id="41165-115">使用 From、To 和 By 控制动画</span><span class="sxs-lookup"><span data-stu-id="41165-115">Control an Animation using From, To, and By</span></span>](how-to-control-an-animation-using-from-to-and-by.md)  
- [<span data-ttu-id="41165-116">定义名称范围</span><span class="sxs-lookup"><span data-stu-id="41165-116">Define a Name Scope</span></span>](how-to-define-a-name-scope.md)  
- [<span data-ttu-id="41165-117">在时钟状态发生变化时接收通知</span><span class="sxs-lookup"><span data-stu-id="41165-117">Receive Notification When a Clock's State Changes</span></span>](how-to-receive-notification-when-clock-state-changes.md)  
- [<span data-ttu-id="41165-118">重复动画</span><span class="sxs-lookup"><span data-stu-id="41165-118">Repeat an Animation</span></span>](how-to-repeat-an-animation.md)  
- [<span data-ttu-id="41165-119">搜寻情节提要</span><span class="sxs-lookup"><span data-stu-id="41165-119">Seek a Storyboard</span></span>](how-to-seek-a-storyboard.md)  
- [<span data-ttu-id="41165-120">同步搜寻情节提要</span><span class="sxs-lookup"><span data-stu-id="41165-120">Seek a Storyboard Synchronously</span></span>](how-to-seek-a-storyboard-synchronously.md)  
- [<span data-ttu-id="41165-121">设置动画的持续时间</span><span class="sxs-lookup"><span data-stu-id="41165-121">Set a Duration for an Animation</span></span>](how-to-set-a-duration-for-an-animation.md)  
- [<span data-ttu-id="41165-122">在使用情节提要对属性进行动画处理后设置此属性</span><span class="sxs-lookup"><span data-stu-id="41165-122">Set a Property After Animating It with a Storyboard</span></span>](how-to-set-a-property-after-animating-it-with-a-storyboard.md)  
- [<span data-ttu-id="41165-123">使用子时间线简化动画</span><span class="sxs-lookup"><span data-stu-id="41165-123">Simplify Animations by Using Child Timelines</span></span>](how-to-simplify-animations-by-using-child-timelines.md)  
- [<span data-ttu-id="41165-124">指定情节提要动画之间的 HandoffBehavior</span><span class="sxs-lookup"><span data-stu-id="41165-124">Specify HandoffBehavior Between Storyboard Animations</span></span>](how-to-specify-handoffbehavior-between-storyboard-animations.md)  
- [<span data-ttu-id="41165-125">为已经到达有效期末尾的时间线指定 FillBehavior</span><span class="sxs-lookup"><span data-stu-id="41165-125">Specify the FillBehavior for a Timeline that has Reached the End of Its Active Period</span></span>](specify-the-fillbehavior-for-a-timeline.md)  
- [<span data-ttu-id="41165-126">指定时间线是否自动反转</span><span class="sxs-lookup"><span data-stu-id="41165-126">Specify Whether a Timeline Automatically Reverses</span></span>](how-to-specify-whether-a-timeline-automatically-reverses.md)  
- [<span data-ttu-id="41165-127">在属性值更改时触发动画</span><span class="sxs-lookup"><span data-stu-id="41165-127">Trigger an Animation When a Property Value Changes</span></span>](how-to-trigger-an-animation-when-a-property-value-changes.md)  
- [<span data-ttu-id="41165-128">在情节提要启动之后使用事件触发器来控制情节提要</span><span class="sxs-lookup"><span data-stu-id="41165-128">Use Event Triggers to Control a Storyboard After It Starts</span></span>](how-to-use-event-triggers-to-control-a-storyboard-after-it-starts.md)  
+## <a name="in-this-section"></a><span data-ttu-id="ced21-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="ced21-104">In This Section</span></span>  
+ [<span data-ttu-id="ced21-105">使动画加速或减速</span><span class="sxs-lookup"><span data-stu-id="ced21-105">Accelerate or Decelerate an Animation</span></span>](how-to-accelerate-or-decelerate-an-animation.md)  
+ [<span data-ttu-id="ced21-106">在重复循环过程中累积动画值</span><span class="sxs-lookup"><span data-stu-id="ced21-106">Accumulate Animation Values During Repeat Cycles</span></span>](how-to-accumulate-animation-values-during-repeat-cycles.md)  
+ [<span data-ttu-id="ced21-107">向动画起始值添加动画输出值</span><span class="sxs-lookup"><span data-stu-id="ced21-107">Add an Animation Output Value to an Animation Starting Value</span></span>](how-to-add-an-animation-output-value-to-an-animation-starting-value.md)  
+ [<span data-ttu-id="ced21-108">使用情节提要对属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="ced21-108">Animate a Property by Using a Storyboard</span></span>](how-to-animate-a-property-by-using-a-storyboard.md)  
+ [<span data-ttu-id="ced21-109">在不使用情节提要的情况下对属性进行动画处理</span><span class="sxs-lookup"><span data-stu-id="ced21-109">Animate a Property Without Using a Storyboard</span></span>](how-to-animate-a-property-without-using-a-storyboard.md)  
+ [<span data-ttu-id="ced21-110">在 ControlTemplate 中进行动画处理</span><span class="sxs-lookup"><span data-stu-id="ced21-110">Animate in a ControlTemplate</span></span>](how-to-animate-in-a-controltemplate.md)  
+ [<span data-ttu-id="ced21-111">在样式中进行动画处理</span><span class="sxs-lookup"><span data-stu-id="ced21-111">Animate in a Style</span></span>](how-to-animate-in-a-style.md)  
+ [<span data-ttu-id="ced21-112">对元素或画笔的不透明度进行动画处理</span><span class="sxs-lookup"><span data-stu-id="ced21-112">Animate the Opacity of an Element or Brush</span></span>](how-to-animate-the-opacity-of-an-element-or-brush.md)  
+ [<span data-ttu-id="ced21-113">在不更改时间线速度的情况下更改时钟速度</span><span class="sxs-lookup"><span data-stu-id="ced21-113">Change the Speed of a Clock Without Changing the Speed of Its Timeline</span></span>](change-the-speed-of-a-clock.md)  
+ [<span data-ttu-id="ced21-114">在情节提要启动后使用其交互式方法对其进行控制</span><span class="sxs-lookup"><span data-stu-id="ced21-114">Control a Storyboard After It Starts Using Its Interactive Methods</span></span>](how-to-control-a-storyboard-after-it-starts.md)  
+ [<span data-ttu-id="ced21-115">使用 From、To 和 By 控制动画</span><span class="sxs-lookup"><span data-stu-id="ced21-115">Control an Animation using From, To, and By</span></span>](how-to-control-an-animation-using-from-to-and-by.md)  
+ [<span data-ttu-id="ced21-116">定义名称范围</span><span class="sxs-lookup"><span data-stu-id="ced21-116">Define a Name Scope</span></span>](how-to-define-a-name-scope.md)  
+ [<span data-ttu-id="ced21-117">在时钟状态发生变化时接收通知</span><span class="sxs-lookup"><span data-stu-id="ced21-117">Receive Notification When a Clock's State Changes</span></span>](how-to-receive-notification-when-clock-state-changes.md)  
+ [<span data-ttu-id="ced21-118">重复动画</span><span class="sxs-lookup"><span data-stu-id="ced21-118">Repeat an Animation</span></span>](how-to-repeat-an-animation.md)  
+ [<span data-ttu-id="ced21-119">搜寻情节提要</span><span class="sxs-lookup"><span data-stu-id="ced21-119">Seek a Storyboard</span></span>](how-to-seek-a-storyboard.md)  
+ [<span data-ttu-id="ced21-120">同步搜寻情节提要</span><span class="sxs-lookup"><span data-stu-id="ced21-120">Seek a Storyboard Synchronously</span></span>](how-to-seek-a-storyboard-synchronously.md)  
+ [<span data-ttu-id="ced21-121">设置动画的持续时间</span><span class="sxs-lookup"><span data-stu-id="ced21-121">Set a Duration for an Animation</span></span>](how-to-set-a-duration-for-an-animation.md)  
+ [<span data-ttu-id="ced21-122">在使用情节提要对属性进行动画处理后设置此属性</span><span class="sxs-lookup"><span data-stu-id="ced21-122">Set a Property After Animating It with a Storyboard</span></span>](how-to-set-a-property-after-animating-it-with-a-storyboard.md)  
+ [<span data-ttu-id="ced21-123">使用子时间线简化动画</span><span class="sxs-lookup"><span data-stu-id="ced21-123">Simplify Animations by Using Child Timelines</span></span>](how-to-simplify-animations-by-using-child-timelines.md)  
+ [<span data-ttu-id="ced21-124">指定情节提要动画之间的 HandoffBehavior</span><span class="sxs-lookup"><span data-stu-id="ced21-124">Specify HandoffBehavior Between Storyboard Animations</span></span>](how-to-specify-handoffbehavior-between-storyboard-animations.md)  
+ [<span data-ttu-id="ced21-125">为已经到达有效期末尾的时间线指定 FillBehavior</span><span class="sxs-lookup"><span data-stu-id="ced21-125">Specify the FillBehavior for a Timeline that has Reached the End of Its Active Period</span></span>](specify-the-fillbehavior-for-a-timeline.md)  
+ [<span data-ttu-id="ced21-126">指定时间线是否自动反转</span><span class="sxs-lookup"><span data-stu-id="ced21-126">Specify Whether a Timeline Automatically Reverses</span></span>](how-to-specify-whether-a-timeline-automatically-reverses.md)  
+ [<span data-ttu-id="ced21-127">在属性值更改时触发动画</span><span class="sxs-lookup"><span data-stu-id="ced21-127">Trigger an Animation When a Property Value Changes</span></span>](how-to-trigger-an-animation-when-a-property-value-changes.md)  
+ [<span data-ttu-id="ced21-128">在情节提要启动之后使用事件触发器来控制情节提要</span><span class="sxs-lookup"><span data-stu-id="ced21-128">Use Event Triggers to Control a Storyboard After It Starts</span></span>](how-to-use-event-triggers-to-control-a-storyboard-after-it-starts.md)  
   
-## <a name="reference"></a><span data-ttu-id="41165-129">参考</span><span class="sxs-lookup"><span data-stu-id="41165-129">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="ced21-129">参考</span><span class="sxs-lookup"><span data-stu-id="ced21-129">Reference</span></span>  
  <xref:System.Windows.Media.Animation.Timeline>  
   
  <xref:System.Windows.Media.Animation.Storyboard>  
@@ -54,5 +54,5 @@ ms.locfileid: "96972883"
   
  <xref:System.Windows.Media.Animation>  
   
-## <a name="related-sections"></a><span data-ttu-id="41165-130">相关章节</span><span class="sxs-lookup"><span data-stu-id="41165-130">Related Sections</span></span>  
- [<span data-ttu-id="41165-131">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="41165-131">Graphics and Multimedia</span></span>](index.md)
+## <a name="related-sections"></a><span data-ttu-id="ced21-130">相关章节</span><span class="sxs-lookup"><span data-stu-id="ced21-130">Related Sections</span></span>  
+ [<span data-ttu-id="ced21-131">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="ced21-131">Graphics and Multimedia</span></span>](index.md)

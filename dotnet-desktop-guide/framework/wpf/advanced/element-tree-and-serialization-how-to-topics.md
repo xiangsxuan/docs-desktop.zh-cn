@@ -14,18 +14,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973042"
 ---
-# <a name="element-tree-and-serialization-how-to-topics"></a><span data-ttu-id="9bf1b-102">元素树和序列化帮助主题</span><span class="sxs-lookup"><span data-stu-id="9bf1b-102">Element Tree and Serialization How-to Topics</span></span>
-<span data-ttu-id="9bf1b-103">本节中的主题介绍如何使用 WPF 元素树。</span><span class="sxs-lookup"><span data-stu-id="9bf1b-103">The topics in this section describe how to use the WPF element tree.</span></span>  
+# <a name="element-tree-and-serialization-how-to-topics"></a><span data-ttu-id="dcace-102">元素树和序列化帮助主题</span><span class="sxs-lookup"><span data-stu-id="dcace-102">Element Tree and Serialization How-to Topics</span></span>
+<span data-ttu-id="dcace-103">本节中的主题介绍如何使用 WPF 元素树。</span><span class="sxs-lookup"><span data-stu-id="dcace-103">The topics in this section describe how to use the WPF element tree.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="9bf1b-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="9bf1b-104">In This Section</span></span>  
- [<span data-ttu-id="9bf1b-105">按名称查找元素</span><span class="sxs-lookup"><span data-stu-id="9bf1b-105">Find an Element by Its Name</span></span>](how-to-find-an-element-by-its-name.md)  
- [<span data-ttu-id="9bf1b-106">重写逻辑树</span><span class="sxs-lookup"><span data-stu-id="9bf1b-106">Override the Logical Tree</span></span>](how-to-override-the-logical-tree.md)  
+## <a name="in-this-section"></a><span data-ttu-id="dcace-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="dcace-104">In This Section</span></span>  
+ [<span data-ttu-id="dcace-105">按名称查找元素</span><span class="sxs-lookup"><span data-stu-id="dcace-105">Find an Element by Its Name</span></span>](how-to-find-an-element-by-its-name.md)  
+ [<span data-ttu-id="dcace-106">重写逻辑树</span><span class="sxs-lookup"><span data-stu-id="dcace-106">Override the Logical Tree</span></span>](how-to-override-the-logical-tree.md)  
   
-## <a name="reference"></a><span data-ttu-id="9bf1b-107">参考</span><span class="sxs-lookup"><span data-stu-id="9bf1b-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="dcace-107">参考</span><span class="sxs-lookup"><span data-stu-id="dcace-107">Reference</span></span>  
  <xref:System.Windows.LogicalTreeHelper>  
   
  <xref:System.Windows.Media.VisualTreeHelper>  
   
  <xref:System.Windows.Markup>  
   
-## <a name="related-sections"></a><span data-ttu-id="9bf1b-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="9bf1b-108">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="dcace-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="dcace-108">Related Sections</span></span>

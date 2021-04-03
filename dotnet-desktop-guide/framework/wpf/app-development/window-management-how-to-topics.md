@@ -13,23 +13,23 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972970"
 ---
-# <a name="window-management-how-to-topics"></a><span data-ttu-id="98e51-102">窗口管理操作指南主题</span><span class="sxs-lookup"><span data-stu-id="98e51-102">Window Management How-to Topics</span></span>
-<span data-ttu-id="98e51-103">以下主题演示了如何管理 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] windows。</span><span class="sxs-lookup"><span data-stu-id="98e51-103">The following topics show how to manage [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] windows.</span></span>  
+# <a name="window-management-how-to-topics"></a><span data-ttu-id="d6744-102">窗口管理操作指南主题</span><span class="sxs-lookup"><span data-stu-id="d6744-102">Window Management How-to Topics</span></span>
+<span data-ttu-id="d6744-103">以下主题演示了如何管理 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] windows。</span><span class="sxs-lookup"><span data-stu-id="d6744-103">The following topics show how to manage [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] windows.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="98e51-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="98e51-104">In This Section</span></span>  
- [<span data-ttu-id="98e51-105">自动调整窗口大小以适应其中的内容</span><span class="sxs-lookup"><span data-stu-id="98e51-105">Automatically Size a Window to Fit Its Content</span></span>](how-to-automatically-size-a-window-to-fit-its-content.md)  
-  [<span data-ttu-id="98e51-106">在应用程序中获取所有窗口</span><span class="sxs-lookup"><span data-stu-id="98e51-106">Get all Windows in an Application</span></span>](how-to-get-all-windows-in-an-application.md)  
-  [<span data-ttu-id="98e51-107">获取和设置主应用程序窗口</span><span class="sxs-lookup"><span data-stu-id="98e51-107">Get and Set the Main Application Window</span></span>](how-to-get-and-set-the-main-application-window.md)  
-  [<span data-ttu-id="98e51-108">打开对话框</span><span class="sxs-lookup"><span data-stu-id="98e51-108">Open a Dialog Box</span></span>](how-to-open-a-dialog-box.md)  
-  [<span data-ttu-id="98e51-109">打开消息框</span><span class="sxs-lookup"><span data-stu-id="98e51-109">Open a Message Box</span></span>](how-to-open-a-message-box.md)  
-  [<span data-ttu-id="98e51-110">打开窗口</span><span class="sxs-lookup"><span data-stu-id="98e51-110">Open a Window</span></span>](how-to-open-a-window.md)  
-  [<span data-ttu-id="98e51-111">返回对话框结果</span><span class="sxs-lookup"><span data-stu-id="98e51-111">Return a Dialog Box Result</span></span>](how-to-return-a-dialog-box-result.md)  
+## <a name="in-this-section"></a><span data-ttu-id="d6744-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d6744-104">In This Section</span></span>  
+ [<span data-ttu-id="d6744-105">自动调整窗口大小以适应其中的内容</span><span class="sxs-lookup"><span data-stu-id="d6744-105">Automatically Size a Window to Fit Its Content</span></span>](how-to-automatically-size-a-window-to-fit-its-content.md)  
+  [<span data-ttu-id="d6744-106">在应用程序中获取所有窗口</span><span class="sxs-lookup"><span data-stu-id="d6744-106">Get all Windows in an Application</span></span>](how-to-get-all-windows-in-an-application.md)  
+  [<span data-ttu-id="d6744-107">获取和设置主应用程序窗口</span><span class="sxs-lookup"><span data-stu-id="d6744-107">Get and Set the Main Application Window</span></span>](how-to-get-and-set-the-main-application-window.md)  
+  [<span data-ttu-id="d6744-108">打开对话框</span><span class="sxs-lookup"><span data-stu-id="d6744-108">Open a Dialog Box</span></span>](how-to-open-a-dialog-box.md)  
+  [<span data-ttu-id="d6744-109">打开消息框</span><span class="sxs-lookup"><span data-stu-id="d6744-109">Open a Message Box</span></span>](how-to-open-a-message-box.md)  
+  [<span data-ttu-id="d6744-110">打开窗口</span><span class="sxs-lookup"><span data-stu-id="d6744-110">Open a Window</span></span>](how-to-open-a-window.md)  
+  [<span data-ttu-id="d6744-111">返回对话框结果</span><span class="sxs-lookup"><span data-stu-id="d6744-111">Return a Dialog Box Result</span></span>](how-to-return-a-dialog-box-result.md)  
   
-## <a name="related-sections"></a><span data-ttu-id="98e51-112">相关章节</span><span class="sxs-lookup"><span data-stu-id="98e51-112">Related Sections</span></span>  
- [<span data-ttu-id="98e51-113">应用程序管理概述</span><span class="sxs-lookup"><span data-stu-id="98e51-113">Application Management Overview</span></span>](application-management-overview.md)  
+## <a name="related-sections"></a><span data-ttu-id="d6744-112">相关章节</span><span class="sxs-lookup"><span data-stu-id="d6744-112">Related Sections</span></span>  
+ [<span data-ttu-id="d6744-113">应用程序管理概述</span><span class="sxs-lookup"><span data-stu-id="d6744-113">Application Management Overview</span></span>](application-management-overview.md)  
   
- [<span data-ttu-id="98e51-114">导航概述</span><span class="sxs-lookup"><span data-stu-id="98e51-114">Navigation Overview</span></span>](navigation-overview.md)  
+ [<span data-ttu-id="d6744-114">导航概述</span><span class="sxs-lookup"><span data-stu-id="d6744-114">Navigation Overview</span></span>](navigation-overview.md)  
   
- [<span data-ttu-id="98e51-115">承载</span><span class="sxs-lookup"><span data-stu-id="98e51-115">Hosting</span></span>](hosting-wpf-applications.md)  
+ [<span data-ttu-id="d6744-115">承载</span><span class="sxs-lookup"><span data-stu-id="d6744-115">Hosting</span></span>](hosting-wpf-applications.md)  
   
- [<span data-ttu-id="98e51-116">生成和部署</span><span class="sxs-lookup"><span data-stu-id="98e51-116">Build and Deploy</span></span>](building-and-deploying-wpf-applications.md)
+ [<span data-ttu-id="d6744-116">生成和部署</span><span class="sxs-lookup"><span data-stu-id="d6744-116">Build and Deploy</span></span>](building-and-deploying-wpf-applications.md)

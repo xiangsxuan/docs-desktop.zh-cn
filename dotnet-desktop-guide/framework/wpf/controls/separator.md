@@ -14,10 +14,10 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973761"
 ---
-# <a name="separator"></a><span data-ttu-id="23280-102">Separator</span><span class="sxs-lookup"><span data-stu-id="23280-102">Separator</span></span>
-<span data-ttu-id="23280-103"><xref:System.Windows.Controls.Separator>控件在控件中的项之间（如、和）绘制线条（水平或垂直） <xref:System.Windows.Controls.ListBox> <xref:System.Windows.Controls.Menu> <xref:System.Windows.Controls.ToolBar> 。</span><span class="sxs-lookup"><span data-stu-id="23280-103">A <xref:System.Windows.Controls.Separator> control draws a line, horizontal or vertical, between items in controls, such as <xref:System.Windows.Controls.ListBox>, <xref:System.Windows.Controls.Menu>, and <xref:System.Windows.Controls.ToolBar>.</span></span>  
+# <a name="separator"></a><span data-ttu-id="447aa-102">Separator</span><span class="sxs-lookup"><span data-stu-id="447aa-102">Separator</span></span>
+<span data-ttu-id="447aa-103"><xref:System.Windows.Controls.Separator>控件在控件中的项之间（如、和）绘制线条（水平或垂直） <xref:System.Windows.Controls.ListBox> <xref:System.Windows.Controls.Menu> <xref:System.Windows.Controls.ToolBar> 。</span><span class="sxs-lookup"><span data-stu-id="447aa-103">A <xref:System.Windows.Controls.Separator> control draws a line, horizontal or vertical, between items in controls, such as <xref:System.Windows.Controls.ListBox>, <xref:System.Windows.Controls.Menu>, and <xref:System.Windows.Controls.ToolBar>.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="23280-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="23280-104">In This Section</span></span>  
+## <a name="in-this-section"></a><span data-ttu-id="447aa-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="447aa-104">In This Section</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="23280-105">参考</span><span class="sxs-lookup"><span data-stu-id="23280-105">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="447aa-105">参考</span><span class="sxs-lookup"><span data-stu-id="447aa-105">Reference</span></span>  
  <xref:System.Windows.Controls.Separator>

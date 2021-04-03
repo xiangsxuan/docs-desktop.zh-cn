@@ -15,13 +15,13 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972959"
 ---
-# <a name="gridsplitter"></a><span data-ttu-id="bc87a-102">GridSplitter</span><span class="sxs-lookup"><span data-stu-id="bc87a-102">GridSplitter</span></span>
-<span data-ttu-id="bc87a-103">在 <xref:System.Windows.Controls.GridSplitter> 控件的列或行之间重新分配空间 <xref:System.Windows.Controls.Grid> 。</span><span class="sxs-lookup"><span data-stu-id="bc87a-103">The <xref:System.Windows.Controls.GridSplitter> redistributes space between columns or rows of a <xref:System.Windows.Controls.Grid> control.</span></span>  
+# <a name="gridsplitter"></a><span data-ttu-id="6d99e-102">GridSplitter</span><span class="sxs-lookup"><span data-stu-id="6d99e-102">GridSplitter</span></span>
+<span data-ttu-id="6d99e-103">在 <xref:System.Windows.Controls.GridSplitter> 控件的列或行之间重新分配空间 <xref:System.Windows.Controls.Grid> 。</span><span class="sxs-lookup"><span data-stu-id="6d99e-103">The <xref:System.Windows.Controls.GridSplitter> redistributes space between columns or rows of a <xref:System.Windows.Controls.Grid> control.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="bc87a-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="bc87a-104">In This Section</span></span>  
- [<span data-ttu-id="bc87a-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="bc87a-105">How-to Topics</span></span>](gridsplitter-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="6d99e-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="6d99e-104">In This Section</span></span>  
+ [<span data-ttu-id="6d99e-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="6d99e-105">How-to Topics</span></span>](gridsplitter-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="bc87a-106">参考</span><span class="sxs-lookup"><span data-stu-id="bc87a-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="6d99e-106">参考</span><span class="sxs-lookup"><span data-stu-id="6d99e-106">Reference</span></span>  
  <xref:System.Windows.Controls.GridSplitter>  
   
-## <a name="related-sections"></a><span data-ttu-id="bc87a-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="bc87a-107">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="6d99e-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="6d99e-107">Related Sections</span></span>

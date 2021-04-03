@@ -16,12 +16,12 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973774"
 ---
-# <a name="how-to-chain-bitmapsource-objects-together"></a><span data-ttu-id="399bb-102">如何：将多个 BitmapSource 对象链在一起</span><span class="sxs-lookup"><span data-stu-id="399bb-102">How to: Chain BitmapSource Objects Together</span></span>
-<span data-ttu-id="399bb-103">此示例演示如何通过将多个派生对象链接在一起，将各种效果应用于图像源 <xref:System.Windows.Media.Imaging.BitmapSource> 。</span><span class="sxs-lookup"><span data-stu-id="399bb-103">This example shows how you can apply a variety of effects to an image source by chaining multiple <xref:System.Windows.Media.Imaging.BitmapSource> derived objects together.</span></span>  
+# <a name="how-to-chain-bitmapsource-objects-together"></a><span data-ttu-id="46e5d-102">如何：将多个 BitmapSource 对象链在一起</span><span class="sxs-lookup"><span data-stu-id="46e5d-102">How to: Chain BitmapSource Objects Together</span></span>
+<span data-ttu-id="46e5d-103">此示例演示如何通过将多个派生对象链接在一起，将各种效果应用于图像源 <xref:System.Windows.Media.Imaging.BitmapSource> 。</span><span class="sxs-lookup"><span data-stu-id="46e5d-103">This example shows how you can apply a variety of effects to an image source by chaining multiple <xref:System.Windows.Media.Imaging.BitmapSource> derived objects together.</span></span>  
   
- <span data-ttu-id="399bb-104">以下示例使用链接来翻转和更改图像源的像素格式。</span><span class="sxs-lookup"><span data-stu-id="399bb-104">The following example uses chaining to flip and change the pixel format of the source of an image.</span></span>  
+ <span data-ttu-id="46e5d-104">以下示例使用链接来翻转和更改图像源的像素格式。</span><span class="sxs-lookup"><span data-stu-id="46e5d-104">The following example uses chaining to flip and change the pixel format of the source of an image.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="399bb-105">示例</span><span class="sxs-lookup"><span data-stu-id="399bb-105">Example</span></span>  
+## <a name="example"></a><span data-ttu-id="46e5d-105">示例</span><span class="sxs-lookup"><span data-stu-id="46e5d-105">Example</span></span>  
  [!code-xaml[ImagingSnippetGallery_snip#ChainedBitmapSourcesXamlExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/ImagingSnippetGallery_snip/CS/ChainedBitmapSourcesExample.xaml#chainedbitmapsourcesxamlexamplewholepage)]  
   
  [!code-csharp[ImagingSnippetGallery_procedural_snip#ChainedBitmapSourcesCodeExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/ImagingSnippetGallery_procedural_snip/CSharp/ChainedBitmapSourcesExample.cs#chainedbitmapsourcescodeexamplewholepage)]

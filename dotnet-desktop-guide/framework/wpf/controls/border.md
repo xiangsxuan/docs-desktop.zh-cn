@@ -15,18 +15,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973278"
 ---
-# <a name="border"></a><span data-ttu-id="af3ca-102">边框</span><span class="sxs-lookup"><span data-stu-id="af3ca-102">Border</span></span>
-<span data-ttu-id="af3ca-103">下面的示例演示如何动态更改元素的属性 <xref:System.Windows.Controls.Border> 。</span><span class="sxs-lookup"><span data-stu-id="af3ca-103">The following sample demonstrates how to dynamically change properties of the <xref:System.Windows.Controls.Border> element.</span></span>  
+# <a name="border"></a><span data-ttu-id="9d796-102">边框</span><span class="sxs-lookup"><span data-stu-id="9d796-102">Border</span></span>
+<span data-ttu-id="9d796-103">下面的示例演示如何动态更改元素的属性 <xref:System.Windows.Controls.Border> 。</span><span class="sxs-lookup"><span data-stu-id="9d796-103">The following sample demonstrates how to dynamically change properties of the <xref:System.Windows.Controls.Border> element.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="af3ca-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="af3ca-104">In This Section</span></span>  
- [<span data-ttu-id="af3ca-105">对 BorderThickness 值进行动画处理</span><span class="sxs-lookup"><span data-stu-id="af3ca-105">Animate a BorderThickness Value</span></span>](how-to-animate-a-borderthickness-value.md)  
+## <a name="in-this-section"></a><span data-ttu-id="9d796-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="9d796-104">In This Section</span></span>  
+ [<span data-ttu-id="9d796-105">对 BorderThickness 值进行动画处理</span><span class="sxs-lookup"><span data-stu-id="9d796-105">Animate a BorderThickness Value</span></span>](how-to-animate-a-borderthickness-value.md)  
   
-## <a name="reference"></a><span data-ttu-id="af3ca-106">参考</span><span class="sxs-lookup"><span data-stu-id="af3ca-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="9d796-106">参考</span><span class="sxs-lookup"><span data-stu-id="9d796-106">Reference</span></span>  
  <xref:System.Windows.Controls.Decorator>  
   
  <xref:System.Windows.Controls.Border>  
   
-## <a name="related-sections"></a><span data-ttu-id="af3ca-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="af3ca-107">Related Sections</span></span>  
- [<span data-ttu-id="af3ca-108">面板概述</span><span class="sxs-lookup"><span data-stu-id="af3ca-108">Panels Overview</span></span>](panels-overview.md)  
+## <a name="related-sections"></a><span data-ttu-id="9d796-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="9d796-107">Related Sections</span></span>  
+ [<span data-ttu-id="9d796-108">面板概述</span><span class="sxs-lookup"><span data-stu-id="9d796-108">Panels Overview</span></span>](panels-overview.md)  
   
- [<span data-ttu-id="af3ca-109">Alignment、Margin 和 Padding 概述</span><span class="sxs-lookup"><span data-stu-id="af3ca-109">Alignment, Margins, and Padding Overview</span></span>](../advanced/alignment-margins-and-padding-overview.md)
+ [<span data-ttu-id="9d796-109">Alignment、Margin 和 Padding 概述</span><span class="sxs-lookup"><span data-stu-id="9d796-109">Alignment, Margins, and Padding Overview</span></span>](../advanced/alignment-margins-and-padding-overview.md)

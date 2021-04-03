@@ -13,16 +13,16 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974123"
 ---
-# <a name="navigation-how-to-topics"></a><span data-ttu-id="c29fa-102">导航帮助主题</span><span class="sxs-lookup"><span data-stu-id="c29fa-102">Navigation How-to Topics</span></span>
-<span data-ttu-id="c29fa-103">以下主题演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 导航。</span><span class="sxs-lookup"><span data-stu-id="c29fa-103">The following topics show how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] navigation.</span></span>  
+# <a name="navigation-how-to-topics"></a><span data-ttu-id="7e843-102">导航帮助主题</span><span class="sxs-lookup"><span data-stu-id="7e843-102">Navigation How-to Topics</span></span>
+<span data-ttu-id="7e843-103">以下主题演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 导航。</span><span class="sxs-lookup"><span data-stu-id="7e843-103">The following topics show how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] navigation.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="c29fa-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="c29fa-104">In This Section</span></span>  
- [<span data-ttu-id="c29fa-105">调用页函数</span><span class="sxs-lookup"><span data-stu-id="c29fa-105">Call a Page Function</span></span>](how-to-call-a-page-function.md)  
-  [<span data-ttu-id="c29fa-106">获取页函数的返回值</span><span class="sxs-lookup"><span data-stu-id="c29fa-106">Get the Return Value of a Page Function</span></span>](how-to-get-the-return-value-of-a-page-function.md)  
-  [<span data-ttu-id="c29fa-107">通过导航历史记录前进或后退</span><span class="sxs-lookup"><span data-stu-id="c29fa-107">Navigate Forward or Back Through Navigation History</span></span>](how-to-navigate-forward-or-back-through-navigation-history.md)  
-  [<span data-ttu-id="c29fa-108">通过页函数返回</span><span class="sxs-lookup"><span data-stu-id="c29fa-108">Return from a Page Function</span></span>](how-to-return-from-a-page-function.md)  
+## <a name="in-this-section"></a><span data-ttu-id="7e843-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="7e843-104">In This Section</span></span>  
+ [<span data-ttu-id="7e843-105">调用页函数</span><span class="sxs-lookup"><span data-stu-id="7e843-105">Call a Page Function</span></span>](how-to-call-a-page-function.md)  
+  [<span data-ttu-id="7e843-106">获取页函数的返回值</span><span class="sxs-lookup"><span data-stu-id="7e843-106">Get the Return Value of a Page Function</span></span>](how-to-get-the-return-value-of-a-page-function.md)  
+  [<span data-ttu-id="7e843-107">通过导航历史记录前进或后退</span><span class="sxs-lookup"><span data-stu-id="7e843-107">Navigate Forward or Back Through Navigation History</span></span>](how-to-navigate-forward-or-back-through-navigation-history.md)  
+  [<span data-ttu-id="7e843-108">通过页函数返回</span><span class="sxs-lookup"><span data-stu-id="7e843-108">Return from a Page Function</span></span>](how-to-return-from-a-page-function.md)  
   
-## <a name="related-sections"></a><span data-ttu-id="c29fa-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="c29fa-109">Related Sections</span></span>  
- [<span data-ttu-id="c29fa-110">导航概述</span><span class="sxs-lookup"><span data-stu-id="c29fa-110">Navigation Overview</span></span>](navigation-overview.md)  
+## <a name="related-sections"></a><span data-ttu-id="7e843-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="7e843-109">Related Sections</span></span>  
+ [<span data-ttu-id="7e843-110">导航概述</span><span class="sxs-lookup"><span data-stu-id="7e843-110">Navigation Overview</span></span>](navigation-overview.md)  
   
- [<span data-ttu-id="c29fa-111">结构化导航概述</span><span class="sxs-lookup"><span data-stu-id="c29fa-111">Structured Navigation Overview</span></span>](structured-navigation-overview.md)
+ [<span data-ttu-id="7e843-111">结构化导航概述</span><span class="sxs-lookup"><span data-stu-id="7e843-111">Structured Navigation Overview</span></span>](structured-navigation-overview.md)

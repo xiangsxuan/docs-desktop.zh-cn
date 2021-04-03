@@ -14,13 +14,13 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971803"
 ---
-# <a name="scrollbar"></a><span data-ttu-id="66cdc-102">ScrollBar</span><span class="sxs-lookup"><span data-stu-id="66cdc-102">ScrollBar</span></span>
-<span data-ttu-id="66cdc-103"><xref:System.Windows.Controls.Primitives.ScrollBar>允许您通过滑动使内容可见，来查看当前查看区域外的内容 <xref:System.Windows.Controls.Primitives.Thumb> 。</span><span class="sxs-lookup"><span data-stu-id="66cdc-103">A <xref:System.Windows.Controls.Primitives.ScrollBar> allows you to view content that is outside of the current viewing area by sliding the <xref:System.Windows.Controls.Primitives.Thumb> to make the content visible.</span></span>  
+# <a name="scrollbar"></a><span data-ttu-id="2ca06-102">ScrollBar</span><span class="sxs-lookup"><span data-stu-id="2ca06-102">ScrollBar</span></span>
+<span data-ttu-id="2ca06-103"><xref:System.Windows.Controls.Primitives.ScrollBar>允许您通过滑动使内容可见，来查看当前查看区域外的内容 <xref:System.Windows.Controls.Primitives.Thumb> 。</span><span class="sxs-lookup"><span data-stu-id="2ca06-103">A <xref:System.Windows.Controls.Primitives.ScrollBar> allows you to view content that is outside of the current viewing area by sliding the <xref:System.Windows.Controls.Primitives.Thumb> to make the content visible.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="66cdc-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="66cdc-104">In This Section</span></span>  
- [<span data-ttu-id="66cdc-105">自定义滚动条上的 Thumb 大小</span><span class="sxs-lookup"><span data-stu-id="66cdc-105">Customize the Thumb Size on a ScrollBar</span></span>](how-to-customize-the-thumb-size-on-a-scrollbar.md)  
+## <a name="in-this-section"></a><span data-ttu-id="2ca06-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="2ca06-104">In This Section</span></span>  
+ [<span data-ttu-id="2ca06-105">自定义滚动条上的 Thumb 大小</span><span class="sxs-lookup"><span data-stu-id="2ca06-105">Customize the Thumb Size on a ScrollBar</span></span>](how-to-customize-the-thumb-size-on-a-scrollbar.md)  
   
-## <a name="reference"></a><span data-ttu-id="66cdc-106">参考</span><span class="sxs-lookup"><span data-stu-id="66cdc-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="2ca06-106">参考</span><span class="sxs-lookup"><span data-stu-id="2ca06-106">Reference</span></span>  
  <xref:System.Windows.Controls.Primitives.ScrollBar>  
   <xref:System.Windows.Controls.Primitives.Track>  
   <xref:System.Windows.Controls.Primitives.Thumb>  

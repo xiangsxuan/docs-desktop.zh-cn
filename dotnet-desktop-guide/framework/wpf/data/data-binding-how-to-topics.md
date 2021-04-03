@@ -14,55 +14,55 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973371"
 ---
-# <a name="data-binding-how-to-topics"></a><span data-ttu-id="bdaf5-102">数据绑定操作指南主题</span><span class="sxs-lookup"><span data-stu-id="bdaf5-102">Data binding how-to topics</span></span>
+# <a name="data-binding-how-to-topics"></a><span data-ttu-id="a3ee3-102">数据绑定操作指南主题</span><span class="sxs-lookup"><span data-stu-id="a3ee3-102">Data binding how-to topics</span></span>
 
-<span data-ttu-id="bdaf5-103">本节中的主题介绍如何使用数据绑定，以公共语言运行时 (CLR) 对象和 XML 格式将元素绑定到各种数据源中的数据。</span><span class="sxs-lookup"><span data-stu-id="bdaf5-103">The topics in this section describe how to use data binding to bind elements to data from a variety of data sources in the form of common language runtime (CLR) objects and XML.</span></span>
+<span data-ttu-id="a3ee3-103">本节中的主题介绍如何使用数据绑定，以公共语言运行时 (CLR) 对象和 XML 格式将元素绑定到各种数据源中的数据。</span><span class="sxs-lookup"><span data-stu-id="a3ee3-103">The topics in this section describe how to use data binding to bind elements to data from a variety of data sources in the form of common language runtime (CLR) objects and XML.</span></span>
 
-## <a name="in-this-section"></a><span data-ttu-id="bdaf5-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="bdaf5-104">In this section</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="a3ee3-104">在本节中</span><span class="sxs-lookup"><span data-stu-id="a3ee3-104">In this section</span></span>
 
-- [<span data-ttu-id="bdaf5-105">创建简单绑定</span><span class="sxs-lookup"><span data-stu-id="bdaf5-105">Create a Simple Binding</span></span>](how-to-create-a-simple-binding.md)
-- [<span data-ttu-id="bdaf5-106">指定绑定源</span><span class="sxs-lookup"><span data-stu-id="bdaf5-106">Specify the Binding Source</span></span>](how-to-specify-the-binding-source.md)
-- [<span data-ttu-id="bdaf5-107">使数据可用于 XAML 中的绑定</span><span class="sxs-lookup"><span data-stu-id="bdaf5-107">Make Data Available for Binding in XAML</span></span>](how-to-make-data-available-for-binding-in-xaml.md)
-- [<span data-ttu-id="bdaf5-108">控制文本框文本更新源的时间</span><span class="sxs-lookup"><span data-stu-id="bdaf5-108">Control When the TextBox Text Updates the Source</span></span>](how-to-control-when-the-textbox-text-updates-the-source.md)
-- [<span data-ttu-id="bdaf5-109">指定绑定的方向</span><span class="sxs-lookup"><span data-stu-id="bdaf5-109">Specify the Direction of the Binding</span></span>](how-to-specify-the-direction-of-the-binding.md)
-- [<span data-ttu-id="bdaf5-110">绑定到集合并基于选择显示信息</span><span class="sxs-lookup"><span data-stu-id="bdaf5-110">Bind to a Collection and Display Information Based on Selection</span></span>](how-to-bind-to-a-collection-and-display-information-based-on-selection.md)
-- [<span data-ttu-id="bdaf5-111">绑定到枚举</span><span class="sxs-lookup"><span data-stu-id="bdaf5-111">Bind to an Enumeration</span></span>](how-to-bind-to-an-enumeration.md)
-- [<span data-ttu-id="bdaf5-112">绑定两个控件的属性</span><span class="sxs-lookup"><span data-stu-id="bdaf5-112">Bind the Properties of Two Controls</span></span>](how-to-bind-the-properties-of-two-controls.md)
-- [<span data-ttu-id="bdaf5-113">实现绑定验证</span><span class="sxs-lookup"><span data-stu-id="bdaf5-113">Implement Binding Validation</span></span>](how-to-implement-binding-validation.md)
-- [<span data-ttu-id="bdaf5-114">在自定义对象上实现验证逻辑</span><span class="sxs-lookup"><span data-stu-id="bdaf5-114">Implement Validation Logic on Custom Objects</span></span>](how-to-implement-validation-logic-on-custom-objects.md)
-- [<span data-ttu-id="bdaf5-115">从绑定的目标属性获取绑定对象</span><span class="sxs-lookup"><span data-stu-id="bdaf5-115">Get the Binding Object from a Bound Target Property</span></span>](how-to-get-the-binding-object-from-a-bound-target-property.md)
-- [<span data-ttu-id="bdaf5-116">实现 CompositeCollection</span><span class="sxs-lookup"><span data-stu-id="bdaf5-116">Implement a CompositeCollection</span></span>](how-to-implement-a-compositecollection.md)
-- [<span data-ttu-id="bdaf5-117">转换绑定数据</span><span class="sxs-lookup"><span data-stu-id="bdaf5-117">Convert Bound Data</span></span>](how-to-convert-bound-data.md)
-- [<span data-ttu-id="bdaf5-118">在代码中创建绑定</span><span class="sxs-lookup"><span data-stu-id="bdaf5-118">Create a Binding in Code</span></span>](how-to-create-a-binding-in-code.md)
-- [<span data-ttu-id="bdaf5-119">获取数据集合的默认视图</span><span class="sxs-lookup"><span data-stu-id="bdaf5-119">Get the Default View of a Data Collection</span></span>](how-to-get-the-default-view-of-a-data-collection.md)
-- [<span data-ttu-id="bdaf5-120">在数据 CollectionView 中浏览对象</span><span class="sxs-lookup"><span data-stu-id="bdaf5-120">Navigate Through the Objects in a Data CollectionView</span></span>](how-to-navigate-through-the-objects-in-a-data-collectionview.md)
-- [<span data-ttu-id="bdaf5-121">筛选视图中的数据</span><span class="sxs-lookup"><span data-stu-id="bdaf5-121">Filter Data in a View</span></span>](how-to-filter-data-in-a-view.md)
-- [<span data-ttu-id="bdaf5-122">在视图中对数据进行排序</span><span class="sxs-lookup"><span data-stu-id="bdaf5-122">Sort Data in a View</span></span>](how-to-sort-data-in-a-view.md)
-- [<span data-ttu-id="bdaf5-123">在 XAML 中使用视图对数据进行排序和分组</span><span class="sxs-lookup"><span data-stu-id="bdaf5-123">Sort and Group Data Using a View in XAML</span></span>](how-to-sort-and-group-data-using-a-view-in-xaml.md)
-- [<span data-ttu-id="bdaf5-124">将 Master-Detail 模式用于分层数据</span><span class="sxs-lookup"><span data-stu-id="bdaf5-124">Use the Master-Detail Pattern with Hierarchical Data</span></span>](how-to-use-the-master-detail-pattern-with-hierarchical-data.md)
-- [<span data-ttu-id="bdaf5-125">将 Master-Detail 模式用于分层 XML 数据</span><span class="sxs-lookup"><span data-stu-id="bdaf5-125">Use the Master-Detail Pattern with Hierarchical XML Data</span></span>](how-to-use-the-master-detail-pattern-with-hierarchical-xml-data.md)
-- [<span data-ttu-id="bdaf5-126">基于绑定项列表生成值</span><span class="sxs-lookup"><span data-stu-id="bdaf5-126">Produce a Value Based on a List of Bound Items</span></span>](how-to-produce-a-value-based-on-a-list-of-bound-items.md)
-- [<span data-ttu-id="bdaf5-127">实现属性更改通知</span><span class="sxs-lookup"><span data-stu-id="bdaf5-127">Implement Property Change Notification</span></span>](how-to-implement-property-change-notification.md)
-- [<span data-ttu-id="bdaf5-128">创建和绑定到 ObservableCollection</span><span class="sxs-lookup"><span data-stu-id="bdaf5-128">Create and Bind to an ObservableCollection</span></span>](how-to-create-and-bind-to-an-observablecollection.md)
-- [<span data-ttu-id="bdaf5-129">实现 PriorityBinding</span><span class="sxs-lookup"><span data-stu-id="bdaf5-129">Implement PriorityBinding</span></span>](how-to-implement-prioritybinding.md)
-- [<span data-ttu-id="bdaf5-130">使用 XMLDataProvider 和 XPath 查询绑定到 XML 数据</span><span class="sxs-lookup"><span data-stu-id="bdaf5-130">Bind to XML Data Using an XMLDataProvider and XPath Queries</span></span>](how-to-bind-to-xml-data-using-an-xmldataprovider-and-xpath-queries.md)
-- [<span data-ttu-id="bdaf5-131">绑定到 XDocument、XElement 或 LINQ for XML 查询结果</span><span class="sxs-lookup"><span data-stu-id="bdaf5-131">Bind to XDocument, XElement, or LINQ for XML Query Results</span></span>](how-to-bind-to-xdocument-xelement-or-linq-for-xml-query-results.md)
-- [<span data-ttu-id="bdaf5-132">绑定到 LINQ 查询的结果</span><span class="sxs-lookup"><span data-stu-id="bdaf5-132">Bind to the Results of a LINQ Query</span></span>](how-to-bind-to-the-results-of-a-linq-query.md)
-- [<span data-ttu-id="bdaf5-133">在数据绑定中使用 XML 命名空间</span><span class="sxs-lookup"><span data-stu-id="bdaf5-133">Use XML Namespaces in Data Binding</span></span>](how-to-use-xml-namespaces-in-data-binding.md)
-- [<span data-ttu-id="bdaf5-134">绑定到 ADO.NET 数据源</span><span class="sxs-lookup"><span data-stu-id="bdaf5-134">Bind to an ADO.NET Data Source</span></span>](how-to-bind-to-an-ado-net-data-source.md)
-- [<span data-ttu-id="bdaf5-135">绑定到方法</span><span class="sxs-lookup"><span data-stu-id="bdaf5-135">Bind to a Method</span></span>](how-to-bind-to-a-method.md)
-- [<span data-ttu-id="bdaf5-136">设置绑定更新的通知</span><span class="sxs-lookup"><span data-stu-id="bdaf5-136">Set Up Notification of Binding Updates</span></span>](how-to-set-up-notification-of-binding-updates.md)
-- [<span data-ttu-id="bdaf5-137">清除绑定</span><span class="sxs-lookup"><span data-stu-id="bdaf5-137">Clear Bindings</span></span>](how-to-clear-bindings.md)
-- [<span data-ttu-id="bdaf5-138">查找由 DataTemplate 生成的元素</span><span class="sxs-lookup"><span data-stu-id="bdaf5-138">Find DataTemplate-Generated Elements</span></span>](how-to-find-datatemplate-generated-elements.md)
+- [<span data-ttu-id="a3ee3-105">创建简单绑定</span><span class="sxs-lookup"><span data-stu-id="a3ee3-105">Create a Simple Binding</span></span>](how-to-create-a-simple-binding.md)
+- [<span data-ttu-id="a3ee3-106">指定绑定源</span><span class="sxs-lookup"><span data-stu-id="a3ee3-106">Specify the Binding Source</span></span>](how-to-specify-the-binding-source.md)
+- [<span data-ttu-id="a3ee3-107">使数据可用于 XAML 中的绑定</span><span class="sxs-lookup"><span data-stu-id="a3ee3-107">Make Data Available for Binding in XAML</span></span>](how-to-make-data-available-for-binding-in-xaml.md)
+- [<span data-ttu-id="a3ee3-108">控制文本框文本更新源的时间</span><span class="sxs-lookup"><span data-stu-id="a3ee3-108">Control When the TextBox Text Updates the Source</span></span>](how-to-control-when-the-textbox-text-updates-the-source.md)
+- [<span data-ttu-id="a3ee3-109">指定绑定的方向</span><span class="sxs-lookup"><span data-stu-id="a3ee3-109">Specify the Direction of the Binding</span></span>](how-to-specify-the-direction-of-the-binding.md)
+- [<span data-ttu-id="a3ee3-110">绑定到集合并基于选择显示信息</span><span class="sxs-lookup"><span data-stu-id="a3ee3-110">Bind to a Collection and Display Information Based on Selection</span></span>](how-to-bind-to-a-collection-and-display-information-based-on-selection.md)
+- [<span data-ttu-id="a3ee3-111">绑定到枚举</span><span class="sxs-lookup"><span data-stu-id="a3ee3-111">Bind to an Enumeration</span></span>](how-to-bind-to-an-enumeration.md)
+- [<span data-ttu-id="a3ee3-112">绑定两个控件的属性</span><span class="sxs-lookup"><span data-stu-id="a3ee3-112">Bind the Properties of Two Controls</span></span>](how-to-bind-the-properties-of-two-controls.md)
+- [<span data-ttu-id="a3ee3-113">实现绑定验证</span><span class="sxs-lookup"><span data-stu-id="a3ee3-113">Implement Binding Validation</span></span>](how-to-implement-binding-validation.md)
+- [<span data-ttu-id="a3ee3-114">在自定义对象上实现验证逻辑</span><span class="sxs-lookup"><span data-stu-id="a3ee3-114">Implement Validation Logic on Custom Objects</span></span>](how-to-implement-validation-logic-on-custom-objects.md)
+- [<span data-ttu-id="a3ee3-115">从绑定的目标属性获取绑定对象</span><span class="sxs-lookup"><span data-stu-id="a3ee3-115">Get the Binding Object from a Bound Target Property</span></span>](how-to-get-the-binding-object-from-a-bound-target-property.md)
+- [<span data-ttu-id="a3ee3-116">实现 CompositeCollection</span><span class="sxs-lookup"><span data-stu-id="a3ee3-116">Implement a CompositeCollection</span></span>](how-to-implement-a-compositecollection.md)
+- [<span data-ttu-id="a3ee3-117">转换绑定数据</span><span class="sxs-lookup"><span data-stu-id="a3ee3-117">Convert Bound Data</span></span>](how-to-convert-bound-data.md)
+- [<span data-ttu-id="a3ee3-118">在代码中创建绑定</span><span class="sxs-lookup"><span data-stu-id="a3ee3-118">Create a Binding in Code</span></span>](how-to-create-a-binding-in-code.md)
+- [<span data-ttu-id="a3ee3-119">获取数据集合的默认视图</span><span class="sxs-lookup"><span data-stu-id="a3ee3-119">Get the Default View of a Data Collection</span></span>](how-to-get-the-default-view-of-a-data-collection.md)
+- [<span data-ttu-id="a3ee3-120">在数据 CollectionView 中浏览对象</span><span class="sxs-lookup"><span data-stu-id="a3ee3-120">Navigate Through the Objects in a Data CollectionView</span></span>](how-to-navigate-through-the-objects-in-a-data-collectionview.md)
+- [<span data-ttu-id="a3ee3-121">筛选视图中的数据</span><span class="sxs-lookup"><span data-stu-id="a3ee3-121">Filter Data in a View</span></span>](how-to-filter-data-in-a-view.md)
+- [<span data-ttu-id="a3ee3-122">在视图中对数据进行排序</span><span class="sxs-lookup"><span data-stu-id="a3ee3-122">Sort Data in a View</span></span>](how-to-sort-data-in-a-view.md)
+- [<span data-ttu-id="a3ee3-123">在 XAML 中使用视图对数据进行排序和分组</span><span class="sxs-lookup"><span data-stu-id="a3ee3-123">Sort and Group Data Using a View in XAML</span></span>](how-to-sort-and-group-data-using-a-view-in-xaml.md)
+- [<span data-ttu-id="a3ee3-124">将 Master-Detail 模式用于分层数据</span><span class="sxs-lookup"><span data-stu-id="a3ee3-124">Use the Master-Detail Pattern with Hierarchical Data</span></span>](how-to-use-the-master-detail-pattern-with-hierarchical-data.md)
+- [<span data-ttu-id="a3ee3-125">将 Master-Detail 模式用于分层 XML 数据</span><span class="sxs-lookup"><span data-stu-id="a3ee3-125">Use the Master-Detail Pattern with Hierarchical XML Data</span></span>](how-to-use-the-master-detail-pattern-with-hierarchical-xml-data.md)
+- [<span data-ttu-id="a3ee3-126">基于绑定项列表生成值</span><span class="sxs-lookup"><span data-stu-id="a3ee3-126">Produce a Value Based on a List of Bound Items</span></span>](how-to-produce-a-value-based-on-a-list-of-bound-items.md)
+- [<span data-ttu-id="a3ee3-127">实现属性更改通知</span><span class="sxs-lookup"><span data-stu-id="a3ee3-127">Implement Property Change Notification</span></span>](how-to-implement-property-change-notification.md)
+- [<span data-ttu-id="a3ee3-128">创建和绑定到 ObservableCollection</span><span class="sxs-lookup"><span data-stu-id="a3ee3-128">Create and Bind to an ObservableCollection</span></span>](how-to-create-and-bind-to-an-observablecollection.md)
+- [<span data-ttu-id="a3ee3-129">实现 PriorityBinding</span><span class="sxs-lookup"><span data-stu-id="a3ee3-129">Implement PriorityBinding</span></span>](how-to-implement-prioritybinding.md)
+- [<span data-ttu-id="a3ee3-130">使用 XMLDataProvider 和 XPath 查询绑定到 XML 数据</span><span class="sxs-lookup"><span data-stu-id="a3ee3-130">Bind to XML Data Using an XMLDataProvider and XPath Queries</span></span>](how-to-bind-to-xml-data-using-an-xmldataprovider-and-xpath-queries.md)
+- [<span data-ttu-id="a3ee3-131">绑定到 XDocument、XElement 或 LINQ for XML 查询结果</span><span class="sxs-lookup"><span data-stu-id="a3ee3-131">Bind to XDocument, XElement, or LINQ for XML Query Results</span></span>](how-to-bind-to-xdocument-xelement-or-linq-for-xml-query-results.md)
+- [<span data-ttu-id="a3ee3-132">绑定到 LINQ 查询的结果</span><span class="sxs-lookup"><span data-stu-id="a3ee3-132">Bind to the Results of a LINQ Query</span></span>](how-to-bind-to-the-results-of-a-linq-query.md)
+- [<span data-ttu-id="a3ee3-133">在数据绑定中使用 XML 命名空间</span><span class="sxs-lookup"><span data-stu-id="a3ee3-133">Use XML Namespaces in Data Binding</span></span>](how-to-use-xml-namespaces-in-data-binding.md)
+- [<span data-ttu-id="a3ee3-134">绑定到 ADO.NET 数据源</span><span class="sxs-lookup"><span data-stu-id="a3ee3-134">Bind to an ADO.NET Data Source</span></span>](how-to-bind-to-an-ado-net-data-source.md)
+- [<span data-ttu-id="a3ee3-135">绑定到方法</span><span class="sxs-lookup"><span data-stu-id="a3ee3-135">Bind to a Method</span></span>](how-to-bind-to-a-method.md)
+- [<span data-ttu-id="a3ee3-136">设置绑定更新的通知</span><span class="sxs-lookup"><span data-stu-id="a3ee3-136">Set Up Notification of Binding Updates</span></span>](how-to-set-up-notification-of-binding-updates.md)
+- [<span data-ttu-id="a3ee3-137">清除绑定</span><span class="sxs-lookup"><span data-stu-id="a3ee3-137">Clear Bindings</span></span>](how-to-clear-bindings.md)
+- [<span data-ttu-id="a3ee3-138">查找由 DataTemplate 生成的元素</span><span class="sxs-lookup"><span data-stu-id="a3ee3-138">Find DataTemplate-Generated Elements</span></span>](how-to-find-datatemplate-generated-elements.md)
 
-## <a name="reference"></a><span data-ttu-id="bdaf5-139">参考</span><span class="sxs-lookup"><span data-stu-id="bdaf5-139">Reference</span></span>
+## <a name="reference"></a><span data-ttu-id="a3ee3-139">参考</span><span class="sxs-lookup"><span data-stu-id="a3ee3-139">Reference</span></span>
 
 - <xref:System.Windows.Data>
 - <xref:System.Windows.Data.Binding>
 - <xref:System.Windows.DataTemplate>
 - <xref:System.Windows.Controls.DataTemplateSelector>
 
-## <a name="related-sections"></a><span data-ttu-id="bdaf5-140">相关章节</span><span class="sxs-lookup"><span data-stu-id="bdaf5-140">Related sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="a3ee3-140">相关章节</span><span class="sxs-lookup"><span data-stu-id="a3ee3-140">Related sections</span></span>
 
-- [<span data-ttu-id="bdaf5-141">WPF 中的数据绑定</span><span class="sxs-lookup"><span data-stu-id="bdaf5-141">Data binding in WPF</span></span>](/dotnet/desktop-wpf/data/data-binding-overview)
-- [<span data-ttu-id="bdaf5-142">数据绑定性能</span><span class="sxs-lookup"><span data-stu-id="bdaf5-142">Data binding performance</span></span>](../advanced/optimizing-performance-data-binding.md)
+- [<span data-ttu-id="a3ee3-141">WPF 中的数据绑定</span><span class="sxs-lookup"><span data-stu-id="a3ee3-141">Data binding in WPF</span></span>](/dotnet/desktop-wpf/data/data-binding-overview)
+- [<span data-ttu-id="a3ee3-142">数据绑定性能</span><span class="sxs-lookup"><span data-stu-id="a3ee3-142">Data binding performance</span></span>](../advanced/optimizing-performance-data-binding.md)

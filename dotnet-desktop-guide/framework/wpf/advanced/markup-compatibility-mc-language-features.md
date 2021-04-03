@@ -18,7 +18,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973440"
 ---
-# <a name="markup-compatibility-mc-language-features"></a><span data-ttu-id="264e0-102">标记兼容 (mc:)语言功能</span><span class="sxs-lookup"><span data-stu-id="264e0-102">Markup Compatibility (mc:) Language Features</span></span>
-## <a name="in-this-section"></a><span data-ttu-id="264e0-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="264e0-103">In This Section</span></span>  
- [<span data-ttu-id="264e0-104">mc:Ignorable 特性</span><span class="sxs-lookup"><span data-stu-id="264e0-104">mc:Ignorable Attribute</span></span>](mc-ignorable-attribute.md)  
-  [<span data-ttu-id="264e0-105">mc:ProcessContent 特性</span><span class="sxs-lookup"><span data-stu-id="264e0-105">mc:ProcessContent Attribute</span></span>](mc-processcontent-attribute.md)
+# <a name="markup-compatibility-mc-language-features"></a><span data-ttu-id="f3472-102">标记兼容 (mc:)语言功能</span><span class="sxs-lookup"><span data-stu-id="f3472-102">Markup Compatibility (mc:) Language Features</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="f3472-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="f3472-103">In This Section</span></span>  
+ [<span data-ttu-id="f3472-104">mc:Ignorable 特性</span><span class="sxs-lookup"><span data-stu-id="f3472-104">mc:Ignorable Attribute</span></span>](mc-ignorable-attribute.md)  
+  [<span data-ttu-id="f3472-105">mc:ProcessContent 特性</span><span class="sxs-lookup"><span data-stu-id="f3472-105">mc:ProcessContent Attribute</span></span>](mc-processcontent-attribute.md)

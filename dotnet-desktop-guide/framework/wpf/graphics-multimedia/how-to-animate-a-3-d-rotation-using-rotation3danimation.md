@@ -13,16 +13,16 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973222"
 ---
-# <a name="how-to-animate-a-3d-rotation-using-rotation3danimation"></a><span data-ttu-id="d50bb-102">如何：使用 Rotation3DAnimation 对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="d50bb-102">How to: Animate a 3D Rotation Using Rotation3DAnimation</span></span>
-<span data-ttu-id="d50bb-103">下面的示例演示如何通过使用 <xref:System.Windows.Media.Animation.Rotation3DAnimation> 对 <xref:System.Windows.Media.Media3D.RotateTransform3D.Rotation%2A> <xref:System.Windows.Media.Media3D.RotateTransform3D> 应用于三维对象的对象的属性进行动画处理，使3d 对象在 "wobbles" 时旋转。</span><span class="sxs-lookup"><span data-stu-id="d50bb-103">The following example shows how to make a 3D object rotate while it "wobbles" by using <xref:System.Windows.Media.Animation.Rotation3DAnimation> to animate the <xref:System.Windows.Media.Media3D.RotateTransform3D.Rotation%2A> property of the <xref:System.Windows.Media.Media3D.RotateTransform3D> object applied to the 3D object.</span></span>  
+# <a name="how-to-animate-a-3d-rotation-using-rotation3danimation"></a><span data-ttu-id="81a83-102">如何：使用 Rotation3DAnimation 对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="81a83-102">How to: Animate a 3D Rotation Using Rotation3DAnimation</span></span>
+<span data-ttu-id="81a83-103">下面的示例演示如何通过使用 <xref:System.Windows.Media.Animation.Rotation3DAnimation> 对 <xref:System.Windows.Media.Media3D.RotateTransform3D.Rotation%2A> <xref:System.Windows.Media.Media3D.RotateTransform3D> 应用于三维对象的对象的属性进行动画处理，使3d 对象在 "wobbles" 时旋转。</span><span class="sxs-lookup"><span data-stu-id="81a83-103">The following example shows how to make a 3D object rotate while it "wobbles" by using <xref:System.Windows.Media.Animation.Rotation3DAnimation> to animate the <xref:System.Windows.Media.Media3D.RotateTransform3D.Rotation%2A> property of the <xref:System.Windows.Media.Media3D.RotateTransform3D> object applied to the 3D object.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="d50bb-104">示例</span><span class="sxs-lookup"><span data-stu-id="d50bb-104">Example</span></span>  
+## <a name="example"></a><span data-ttu-id="81a83-104">示例</span><span class="sxs-lookup"><span data-stu-id="81a83-104">Example</span></span>  
  [!code-xaml[Animation3DGallery_snip#Rotation3DAnimationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/Rotation3DAnimationExample.xaml#rotation3danimationexamplewholepage)]  
   
-## <a name="see-also"></a><span data-ttu-id="d50bb-105">请参阅</span><span class="sxs-lookup"><span data-stu-id="d50bb-105">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="81a83-105">另请参阅</span><span class="sxs-lookup"><span data-stu-id="81a83-105">See also</span></span>
 
-- [<span data-ttu-id="d50bb-106">三维图形概述</span><span class="sxs-lookup"><span data-stu-id="d50bb-106">3D Graphics Overview</span></span>](3-d-graphics-overview.md)
-- [<span data-ttu-id="d50bb-107">使用关键帧对三维旋转进行动画处理 (Rotation3DAnimationUsingKeyFrames)</span><span class="sxs-lookup"><span data-stu-id="d50bb-107">Animate a 3D Rotation Using Key Frames (Rotation3DAnimationUsingKeyFrames)</span></span>](how-to-animate-a-3-d-rotation-using-key-frames.md)
-- [<span data-ttu-id="d50bb-108">使用故事板对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="d50bb-108">Animate a 3D Rotation Using Storyboards</span></span>](how-to-animate-a-3-d-rotation-using-storyboards.md)
-- [<span data-ttu-id="d50bb-109">使用四元数对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="d50bb-109">Animate a 3D Rotation Using Quaternions</span></span>](how-to-animate-a-3-d-rotation-using-quaternions.md)
-- [<span data-ttu-id="d50bb-110">动画概述</span><span class="sxs-lookup"><span data-stu-id="d50bb-110">Animation Overview</span></span>](animation-overview.md)
+- [<span data-ttu-id="81a83-106">三维图形概述</span><span class="sxs-lookup"><span data-stu-id="81a83-106">3D Graphics Overview</span></span>](3-d-graphics-overview.md)
+- [<span data-ttu-id="81a83-107">使用关键帧对三维旋转进行动画处理 (Rotation3DAnimationUsingKeyFrames)</span><span class="sxs-lookup"><span data-stu-id="81a83-107">Animate a 3D Rotation Using Key Frames (Rotation3DAnimationUsingKeyFrames)</span></span>](how-to-animate-a-3-d-rotation-using-key-frames.md)
+- [<span data-ttu-id="81a83-108">使用故事板对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="81a83-108">Animate a 3D Rotation Using Storyboards</span></span>](how-to-animate-a-3-d-rotation-using-storyboards.md)
+- [<span data-ttu-id="81a83-109">使用四元数对三维旋转进行动画处理</span><span class="sxs-lookup"><span data-stu-id="81a83-109">Animate a 3D Rotation Using Quaternions</span></span>](how-to-animate-a-3-d-rotation-using-quaternions.md)
+- [<span data-ttu-id="81a83-110">动画概述</span><span class="sxs-lookup"><span data-stu-id="81a83-110">Animation Overview</span></span>](animation-overview.md)

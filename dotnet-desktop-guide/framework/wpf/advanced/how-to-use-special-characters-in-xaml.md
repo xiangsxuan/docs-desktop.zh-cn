@@ -16,24 +16,24 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973742"
 ---
-# <a name="how-to-use-special-characters-in-xaml"></a><span data-ttu-id="f233e-103">如何：在 XAML 中使用特殊字符</span><span class="sxs-lookup"><span data-stu-id="f233e-103">How to: Use Special Characters in XAML</span></span>
-<span data-ttu-id="f233e-104">在 Visual Studio 中创建的标记文件将自动保存为 Unicode UTF-8 文件格式，这意味着，最特殊的字符（如重音符号）已正确编码。</span><span class="sxs-lookup"><span data-stu-id="f233e-104">Markup files that are created in Visual Studio are automatically saved in the Unicode UTF-8 file format, which means that most special characters, such as accent marks, are encoded correctly.</span></span> <span data-ttu-id="f233e-105">但是，有一组常用特殊字符的处理方式不同。</span><span class="sxs-lookup"><span data-stu-id="f233e-105">However, there is a set of commonly-used special characters that are handled differently.</span></span> <span data-ttu-id="f233e-106">这些特殊字符遵循万维网 [联合会 (W3C) XML 标准进行编码](https://www.w3resource.com/xml/reserved-markup-characters.php)。</span><span class="sxs-lookup"><span data-stu-id="f233e-106">These special characters follow the World [Wide Web Consortium (W3C) XML standard for encoding](https://www.w3resource.com/xml/reserved-markup-characters.php).</span></span>
+# <a name="how-to-use-special-characters-in-xaml"></a><span data-ttu-id="f65f7-103">如何：在 XAML 中使用特殊字符</span><span class="sxs-lookup"><span data-stu-id="f65f7-103">How to: Use Special Characters in XAML</span></span>
+<span data-ttu-id="f65f7-104">在 Visual Studio 中创建的标记文件将自动保存为 Unicode UTF-8 文件格式，这意味着，最特殊的字符（如重音符号）已正确编码。</span><span class="sxs-lookup"><span data-stu-id="f65f7-104">Markup files that are created in Visual Studio are automatically saved in the Unicode UTF-8 file format, which means that most special characters, such as accent marks, are encoded correctly.</span></span> <span data-ttu-id="f65f7-105">但是，有一组常用特殊字符的处理方式不同。</span><span class="sxs-lookup"><span data-stu-id="f65f7-105">However, there is a set of commonly-used special characters that are handled differently.</span></span> <span data-ttu-id="f65f7-106">这些特殊字符遵循万维网 [联合会 (W3C) XML 标准进行编码](https://www.w3resource.com/xml/reserved-markup-characters.php)。</span><span class="sxs-lookup"><span data-stu-id="f65f7-106">These special characters follow the World [Wide Web Consortium (W3C) XML standard for encoding](https://www.w3resource.com/xml/reserved-markup-characters.php).</span></span>
 
-<span data-ttu-id="f233e-107">下表显示这组特殊字符的编码语法：</span><span class="sxs-lookup"><span data-stu-id="f233e-107">The following table shows the syntax for encoding this set of special characters:</span></span>
+<span data-ttu-id="f65f7-107">下表显示这组特殊字符的编码语法：</span><span class="sxs-lookup"><span data-stu-id="f65f7-107">The following table shows the syntax for encoding this set of special characters:</span></span>
 
-| <span data-ttu-id="f233e-108">字符</span><span class="sxs-lookup"><span data-stu-id="f233e-108">Character</span></span> | <span data-ttu-id="f233e-109">语法</span><span class="sxs-lookup"><span data-stu-id="f233e-109">Syntax</span></span>   | <span data-ttu-id="f233e-110">说明</span><span class="sxs-lookup"><span data-stu-id="f233e-110">Description</span></span>          |
+| <span data-ttu-id="f65f7-108">字符</span><span class="sxs-lookup"><span data-stu-id="f65f7-108">Character</span></span> | <span data-ttu-id="f65f7-109">语法</span><span class="sxs-lookup"><span data-stu-id="f65f7-109">Syntax</span></span>   | <span data-ttu-id="f65f7-110">说明</span><span class="sxs-lookup"><span data-stu-id="f65f7-110">Description</span></span>          |
 |-----------|----------|----------------------|
-| `<`       | `&lt;`   | <span data-ttu-id="f233e-111">小于符号。</span><span class="sxs-lookup"><span data-stu-id="f233e-111">Less than symbol.</span></span>    |
-| `>`       | `&gt;`   | <span data-ttu-id="f233e-112">大于符号。</span><span class="sxs-lookup"><span data-stu-id="f233e-112">Greater than sign.</span></span>   |
-| `&`       | `&amp;`  | <span data-ttu-id="f233e-113">& 符号。</span><span class="sxs-lookup"><span data-stu-id="f233e-113">Ampersand symbol.</span></span>    |
-| `"`       | `&quot;` | <span data-ttu-id="f233e-114">双引号。</span><span class="sxs-lookup"><span data-stu-id="f233e-114">Double quote symbol.</span></span> |
-| `'`       | `&apos;` | <span data-ttu-id="f233e-115">单引号符号。</span><span class="sxs-lookup"><span data-stu-id="f233e-115">Single quote symbol.</span></span> |
+| `<`       | `&lt;`   | <span data-ttu-id="f65f7-111">小于符号。</span><span class="sxs-lookup"><span data-stu-id="f65f7-111">Less than symbol.</span></span>    |
+| `>`       | `&gt;`   | <span data-ttu-id="f65f7-112">大于符号。</span><span class="sxs-lookup"><span data-stu-id="f65f7-112">Greater than sign.</span></span>   |
+| `&`       | `&amp;`  | <span data-ttu-id="f65f7-113">& 符号。</span><span class="sxs-lookup"><span data-stu-id="f65f7-113">Ampersand symbol.</span></span>    |
+| `"`       | `&quot;` | <span data-ttu-id="f65f7-114">双引号。</span><span class="sxs-lookup"><span data-stu-id="f65f7-114">Double quote symbol.</span></span> |
+| `'`       | `&apos;` | <span data-ttu-id="f65f7-115">单引号符号。</span><span class="sxs-lookup"><span data-stu-id="f65f7-115">Single quote symbol.</span></span> |
 
 > [!NOTE]
-> <span data-ttu-id="f233e-116">如果使用文本编辑器（如 Windows 记事本）创建标记文件，则必须将该文件保存为 Unicode UTF-8 文件格式，以便保留所有编码的特殊字符。</span><span class="sxs-lookup"><span data-stu-id="f233e-116">If you create a markup file using a text editor, such as Windows Notepad, you must save the file in the Unicode UTF-8 file format in order to preserve any encoded special characters.</span></span>
+> <span data-ttu-id="f65f7-116">如果使用文本编辑器（如 Windows 记事本）创建标记文件，则必须将该文件保存为 Unicode UTF-8 文件格式，以便保留所有编码的特殊字符。</span><span class="sxs-lookup"><span data-stu-id="f65f7-116">If you create a markup file using a text editor, such as Windows Notepad, you must save the file in the Unicode UTF-8 file format in order to preserve any encoded special characters.</span></span>
 
-<span data-ttu-id="f233e-117">以下示例演示创建标记时如何在文本中使用特殊字符。</span><span class="sxs-lookup"><span data-stu-id="f233e-117">The following example shows how you can use special characters in text when creating markup.</span></span>
+<span data-ttu-id="f65f7-117">以下示例演示创建标记时如何在文本中使用特殊字符。</span><span class="sxs-lookup"><span data-stu-id="f65f7-117">The following example shows how you can use special characters in text when creating markup.</span></span>
 
-## <a name="example"></a><span data-ttu-id="f233e-118">示例</span><span class="sxs-lookup"><span data-stu-id="f233e-118">Example</span></span>
+## <a name="example"></a><span data-ttu-id="f65f7-118">示例</span><span class="sxs-lookup"><span data-stu-id="f65f7-118">Example</span></span>
 
 [!code-xaml[SpecialCharsSnippets#SpecialCharsSnippet1](~/samples/snippets/csharp/VS_Snippets_Wpf/SpecialCharsSnippets/CS/Window1.xaml#specialcharssnippet1)]

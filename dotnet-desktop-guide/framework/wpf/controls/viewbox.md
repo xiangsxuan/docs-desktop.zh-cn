@@ -16,17 +16,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973600"
 ---
-# <a name="viewbox"></a><span data-ttu-id="26f7d-102">Viewbox</span><span class="sxs-lookup"><span data-stu-id="26f7d-102">Viewbox</span></span>
-<span data-ttu-id="26f7d-103"><xref:System.Windows.Controls.Viewbox>控件用于拉伸或缩放子元素。</span><span class="sxs-lookup"><span data-stu-id="26f7d-103">The <xref:System.Windows.Controls.Viewbox> control is used to stretch or scale a child element.</span></span>  
+# <a name="viewbox"></a><span data-ttu-id="8e2d5-102">Viewbox</span><span class="sxs-lookup"><span data-stu-id="8e2d5-102">Viewbox</span></span>
+<span data-ttu-id="8e2d5-103"><xref:System.Windows.Controls.Viewbox>控件用于拉伸或缩放子元素。</span><span class="sxs-lookup"><span data-stu-id="8e2d5-103">The <xref:System.Windows.Controls.Viewbox> control is used to stretch or scale a child element.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="26f7d-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="26f7d-104">In This Section</span></span>  
- [<span data-ttu-id="26f7d-105">向 Viewbox 的内容应用 Stretch 属性</span><span class="sxs-lookup"><span data-stu-id="26f7d-105">Apply Stretch Properties to the Contents of a Viewbox</span></span>](how-to-apply-stretch-properties-to-the-contents-of-a-viewbox.md)  
+## <a name="in-this-section"></a><span data-ttu-id="8e2d5-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="8e2d5-104">In This Section</span></span>  
+ [<span data-ttu-id="8e2d5-105">向 Viewbox 的内容应用 Stretch 属性</span><span class="sxs-lookup"><span data-stu-id="8e2d5-105">Apply Stretch Properties to the Contents of a Viewbox</span></span>](how-to-apply-stretch-properties-to-the-contents-of-a-viewbox.md)  
   
-## <a name="reference"></a><span data-ttu-id="26f7d-106">参考</span><span class="sxs-lookup"><span data-stu-id="26f7d-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="8e2d5-106">参考</span><span class="sxs-lookup"><span data-stu-id="8e2d5-106">Reference</span></span>  
  <xref:System.Windows.Controls.Viewbox>  
   
  <xref:System.Windows.Controls.Image>  
   
-## <a name="see-also"></a><span data-ttu-id="26f7d-107">请参阅</span><span class="sxs-lookup"><span data-stu-id="26f7d-107">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="8e2d5-107">请参阅</span><span class="sxs-lookup"><span data-stu-id="8e2d5-107">See also</span></span>
 
-- [<span data-ttu-id="26f7d-108">WPF 控件库示例</span><span class="sxs-lookup"><span data-stu-id="26f7d-108">WPF Controls Gallery Sample</span></span>](https://github.com/Microsoft/WPF-Samples/tree/master/Getting%20Started/ControlsAndLayout)
+- [<span data-ttu-id="8e2d5-108">WPF 控件库示例</span><span class="sxs-lookup"><span data-stu-id="8e2d5-108">WPF Controls Gallery Sample</span></span>](https://github.com/Microsoft/WPF-Samples/tree/master/Getting%20Started/ControlsAndLayout)

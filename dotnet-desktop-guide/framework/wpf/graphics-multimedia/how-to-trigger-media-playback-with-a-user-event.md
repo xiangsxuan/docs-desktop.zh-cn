@@ -14,19 +14,19 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973779"
 ---
-# <a name="how-to-trigger-media-playback-with-a-user-event"></a><span data-ttu-id="f414d-102">如何：使用用户事件来触发媒体播放功能</span><span class="sxs-lookup"><span data-stu-id="f414d-102">How to: Trigger Media Playback with a User Event</span></span>
-<span data-ttu-id="f414d-103">此示例演示如何将媒体播放与事件同步。</span><span class="sxs-lookup"><span data-stu-id="f414d-103">This example shows how to synchronize media playback with an event.</span></span>  
+# <a name="how-to-trigger-media-playback-with-a-user-event"></a><span data-ttu-id="cd5af-102">如何：使用用户事件来触发媒体播放功能</span><span class="sxs-lookup"><span data-stu-id="cd5af-102">How to: Trigger Media Playback with a User Event</span></span>
+<span data-ttu-id="cd5af-103">此示例演示如何将媒体播放与事件同步。</span><span class="sxs-lookup"><span data-stu-id="cd5af-103">This example shows how to synchronize media playback with an event.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="f414d-104">示例</span><span class="sxs-lookup"><span data-stu-id="f414d-104">Example</span></span>  
- <span data-ttu-id="f414d-105">下面的示例使用 <xref:System.Windows.Controls.MediaElement> 控件和 <xref:System.Windows.Media.MediaTimeline> 类播放用户单击时产生的声音 <xref:System.Windows.Controls.Button> 。</span><span class="sxs-lookup"><span data-stu-id="f414d-105">The following example uses the <xref:System.Windows.Controls.MediaElement> control and the <xref:System.Windows.Media.MediaTimeline> class to play a sound that occurs when the user clicks a <xref:System.Windows.Controls.Button>.</span></span>  
+## <a name="example"></a><span data-ttu-id="cd5af-104">示例</span><span class="sxs-lookup"><span data-stu-id="cd5af-104">Example</span></span>  
+ <span data-ttu-id="cd5af-105">下面的示例使用 <xref:System.Windows.Controls.MediaElement> 控件和 <xref:System.Windows.Media.MediaTimeline> 类播放用户单击时产生的声音 <xref:System.Windows.Controls.Button> 。</span><span class="sxs-lookup"><span data-stu-id="cd5af-105">The following example uses the <xref:System.Windows.Controls.MediaElement> control and the <xref:System.Windows.Media.MediaTimeline> class to play a sound that occurs when the user clicks a <xref:System.Windows.Controls.Button>.</span></span>  
   
  [!code-xaml[MediaGallery_snippet#SoundFromUserEventExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/MediaGallery_snippet/CSharp/SoundFromUserEventExample.xaml#soundfromusereventexamplewholepage)]  
   
-## <a name="see-also"></a><span data-ttu-id="f414d-106">请参阅</span><span class="sxs-lookup"><span data-stu-id="f414d-106">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="cd5af-106">另请参阅</span><span class="sxs-lookup"><span data-stu-id="cd5af-106">See also</span></span>
 
 - <xref:System.Windows.Controls.MediaElement>
 - <xref:System.Windows.Media.MediaTimeline>
 - <xref:System.Windows.EventTrigger.RoutedEvent%2A>
 - <xref:System.Windows.Media.Animation.Storyboard>
-- [<span data-ttu-id="f414d-107">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="f414d-107">How-to Topics</span></span>](audio-and-video-how-to-topics.md)
-- [<span data-ttu-id="f414d-108">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="f414d-108">Graphics and Multimedia</span></span>](index.md)
+- [<span data-ttu-id="cd5af-107">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="cd5af-107">How-to Topics</span></span>](audio-and-video-how-to-topics.md)
+- [<span data-ttu-id="cd5af-108">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="cd5af-108">Graphics and Multimedia</span></span>](index.md)

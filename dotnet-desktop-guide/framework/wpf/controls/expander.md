@@ -17,18 +17,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96974109"
 ---
-# <a name="expander"></a><span data-ttu-id="da7ec-102">Expander</span><span class="sxs-lookup"><span data-stu-id="da7ec-102">Expander</span></span>
-<span data-ttu-id="da7ec-103"><xref:System.Windows.Controls.Expander>允许用户查看标题并展开该标头以查看更多详细信息，或将节向上折叠到标题。</span><span class="sxs-lookup"><span data-stu-id="da7ec-103">An <xref:System.Windows.Controls.Expander> allows a user to view a header and expand that header to see further details, or to collapse a section up to a header.</span></span>  
+# <a name="expander"></a><span data-ttu-id="543b4-102">Expander</span><span class="sxs-lookup"><span data-stu-id="543b4-102">Expander</span></span>
+<span data-ttu-id="543b4-103"><xref:System.Windows.Controls.Expander>允许用户查看标题并展开该标头以查看更多详细信息，或将节向上折叠到标题。</span><span class="sxs-lookup"><span data-stu-id="543b4-103">An <xref:System.Windows.Controls.Expander> allows a user to view a header and expand that header to see further details, or to collapse a section up to a header.</span></span>  
   
- <span data-ttu-id="da7ec-104">下图提供了此控件在其扩展位置的示例。</span><span class="sxs-lookup"><span data-stu-id="da7ec-104">The following illustration provides an example of this control in its expanded position.</span></span>  
+ <span data-ttu-id="543b4-104">下图提供了此控件在其扩展位置的示例。</span><span class="sxs-lookup"><span data-stu-id="543b4-104">The following illustration provides an example of this control in its expanded position.</span></span>  
   
  ![Expander 示例](./media/expander/expander-control-example.jpg)
   
-## <a name="in-this-section"></a><span data-ttu-id="da7ec-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="da7ec-106">In This Section</span></span>  
- [<span data-ttu-id="da7ec-107">Expander 概述</span><span class="sxs-lookup"><span data-stu-id="da7ec-107">Expander Overview</span></span>](expander-overview.md)  
- [<span data-ttu-id="da7ec-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="da7ec-108">How-to Topics</span></span>](expander-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="543b4-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="543b4-106">In This Section</span></span>  
+ [<span data-ttu-id="543b4-107">Expander 概述</span><span class="sxs-lookup"><span data-stu-id="543b4-107">Expander Overview</span></span>](expander-overview.md)  
+ [<span data-ttu-id="543b4-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="543b4-108">How-to Topics</span></span>](expander-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="da7ec-109">参考</span><span class="sxs-lookup"><span data-stu-id="da7ec-109">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="543b4-109">参考</span><span class="sxs-lookup"><span data-stu-id="543b4-109">Reference</span></span>  
  <xref:System.Windows.Controls.Expander>  
   
-## <a name="related-sections"></a><span data-ttu-id="da7ec-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="da7ec-110">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="543b4-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="543b4-110">Related Sections</span></span>

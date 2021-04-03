@@ -14,14 +14,14 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973008"
 ---
-# <a name="digital-ink-how-to-topics"></a><span data-ttu-id="9311b-102">数字墨迹帮助主题</span><span class="sxs-lookup"><span data-stu-id="9311b-102">Digital Ink How-to Topics</span></span>
-## <a name="in-this-section"></a><span data-ttu-id="9311b-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="9311b-103">In This Section</span></span>  
- [<span data-ttu-id="9311b-104">从自定义控件选择墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-104">Select Ink from a Custom Control</span></span>](how-to-select-ink-from-a-custom-control.md)  
-  [<span data-ttu-id="9311b-105">向墨迹数据添加自定义数据</span><span class="sxs-lookup"><span data-stu-id="9311b-105">Add Custom Data to Ink Data</span></span>](how-to-add-custom-data-to-ink-data.md)  
-  [<span data-ttu-id="9311b-106">清除自定义控件上的墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-106">Erase Ink on a Custom Control</span></span>](how-to-erase-ink-on-a-custom-control.md)  
-  [<span data-ttu-id="9311b-107">识别应用程序笔势</span><span class="sxs-lookup"><span data-stu-id="9311b-107">Recognize Application Gestures</span></span>](how-to-recognize-application-gestures.md)  
-  [<span data-ttu-id="9311b-108">拖放墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-108">Drag and Drop Ink</span></span>](how-to-drag-and-drop-ink.md)  
-  [<span data-ttu-id="9311b-109">将数据绑定到 InkCanvas</span><span class="sxs-lookup"><span data-stu-id="9311b-109">Data Bind to an InkCanvas</span></span>](how-to-data-bind-to-an-inkcanvas.md)  
-  [<span data-ttu-id="9311b-110">通过分析提示来分析墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-110">Analyze Ink with Analysis Hints</span></span>](how-to-analyze-ink-with-analysis-hints.md)  
-  [<span data-ttu-id="9311b-111">旋转墨迹</span><span class="sxs-lookup"><span data-stu-id="9311b-111">Rotate Ink</span></span>](how-to-rotate-ink.md)  
-  [<span data-ttu-id="9311b-112">禁用用于 WPF 应用程序的 RealTimeStylus</span><span class="sxs-lookup"><span data-stu-id="9311b-112">Disable the RealTimeStylus for WPF Applications</span></span>](disable-the-realtimestylus-for-wpf-applications.md)
+# <a name="digital-ink-how-to-topics"></a><span data-ttu-id="3edcb-102">数字墨迹帮助主题</span><span class="sxs-lookup"><span data-stu-id="3edcb-102">Digital Ink How-to Topics</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="3edcb-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="3edcb-103">In This Section</span></span>  
+ [<span data-ttu-id="3edcb-104">从自定义控件选择墨迹</span><span class="sxs-lookup"><span data-stu-id="3edcb-104">Select Ink from a Custom Control</span></span>](how-to-select-ink-from-a-custom-control.md)  
+  [<span data-ttu-id="3edcb-105">向墨迹数据添加自定义数据</span><span class="sxs-lookup"><span data-stu-id="3edcb-105">Add Custom Data to Ink Data</span></span>](how-to-add-custom-data-to-ink-data.md)  
+  [<span data-ttu-id="3edcb-106">清除自定义控件上的墨迹</span><span class="sxs-lookup"><span data-stu-id="3edcb-106">Erase Ink on a Custom Control</span></span>](how-to-erase-ink-on-a-custom-control.md)  
+  [<span data-ttu-id="3edcb-107">识别应用程序笔势</span><span class="sxs-lookup"><span data-stu-id="3edcb-107">Recognize Application Gestures</span></span>](how-to-recognize-application-gestures.md)  
+  [<span data-ttu-id="3edcb-108">拖放墨迹</span><span class="sxs-lookup"><span data-stu-id="3edcb-108">Drag and Drop Ink</span></span>](how-to-drag-and-drop-ink.md)  
+  [<span data-ttu-id="3edcb-109">将数据绑定到 InkCanvas</span><span class="sxs-lookup"><span data-stu-id="3edcb-109">Data Bind to an InkCanvas</span></span>](how-to-data-bind-to-an-inkcanvas.md)  
+  [<span data-ttu-id="3edcb-110">通过分析提示来分析墨迹</span><span class="sxs-lookup"><span data-stu-id="3edcb-110">Analyze Ink with Analysis Hints</span></span>](how-to-analyze-ink-with-analysis-hints.md)  
+  [<span data-ttu-id="3edcb-111">旋转墨迹</span><span class="sxs-lookup"><span data-stu-id="3edcb-111">Rotate Ink</span></span>](how-to-rotate-ink.md)  
+  [<span data-ttu-id="3edcb-112">禁用用于 WPF 应用程序的 RealTimeStylus</span><span class="sxs-lookup"><span data-stu-id="3edcb-112">Disable the RealTimeStylus for WPF Applications</span></span>](disable-the-realtimestylus-for-wpf-applications.md)

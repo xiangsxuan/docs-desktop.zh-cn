@@ -14,11 +14,11 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973106"
 ---
-# <a name="digital-ink-overviews"></a><span data-ttu-id="1e134-102">数字墨迹概述</span><span class="sxs-lookup"><span data-stu-id="1e134-102">Digital Ink Overviews</span></span>
-## <a name="in-this-section"></a><span data-ttu-id="1e134-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="1e134-103">In This Section</span></span>  
- [<span data-ttu-id="1e134-104">墨迹入门</span><span class="sxs-lookup"><span data-stu-id="1e134-104">Getting Started with Ink</span></span>](getting-started-with-ink.md)  
-  [<span data-ttu-id="1e134-105">收集墨迹</span><span class="sxs-lookup"><span data-stu-id="1e134-105">Collecting Ink</span></span>](collecting-ink.md)  
-  [<span data-ttu-id="1e134-106">手写识别</span><span class="sxs-lookup"><span data-stu-id="1e134-106">Handwriting Recognition</span></span>](handwriting-recognition.md)  
-  [<span data-ttu-id="1e134-107">存储墨迹</span><span class="sxs-lookup"><span data-stu-id="1e134-107">Storing Ink</span></span>](storing-ink.md)  
-  [<span data-ttu-id="1e134-108">墨迹对象模型：Windows 窗体和 COM 与 WPF</span><span class="sxs-lookup"><span data-stu-id="1e134-108">The Ink Object Model: Windows Forms and COM versus WPF</span></span>](the-ink-object-model-windows-forms-and-com-versus-wpf.md)  
-  [<span data-ttu-id="1e134-109">高级墨迹处理</span><span class="sxs-lookup"><span data-stu-id="1e134-109">Advanced Ink Handling</span></span>](advanced-ink-handling.md)
+# <a name="digital-ink-overviews"></a><span data-ttu-id="ec121-102">数字墨迹概述</span><span class="sxs-lookup"><span data-stu-id="ec121-102">Digital Ink Overviews</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="ec121-103">本节内容</span><span class="sxs-lookup"><span data-stu-id="ec121-103">In This Section</span></span>  
+ [<span data-ttu-id="ec121-104">墨迹入门</span><span class="sxs-lookup"><span data-stu-id="ec121-104">Getting Started with Ink</span></span>](getting-started-with-ink.md)  
+  [<span data-ttu-id="ec121-105">收集墨迹</span><span class="sxs-lookup"><span data-stu-id="ec121-105">Collecting Ink</span></span>](collecting-ink.md)  
+  [<span data-ttu-id="ec121-106">手写识别</span><span class="sxs-lookup"><span data-stu-id="ec121-106">Handwriting Recognition</span></span>](handwriting-recognition.md)  
+  [<span data-ttu-id="ec121-107">存储墨迹</span><span class="sxs-lookup"><span data-stu-id="ec121-107">Storing Ink</span></span>](storing-ink.md)  
+  [<span data-ttu-id="ec121-108">墨迹对象模型：Windows 窗体和 COM 与 WPF</span><span class="sxs-lookup"><span data-stu-id="ec121-108">The Ink Object Model: Windows Forms and COM versus WPF</span></span>](the-ink-object-model-windows-forms-and-com-versus-wpf.md)  
+  [<span data-ttu-id="ec121-109">高级墨迹处理</span><span class="sxs-lookup"><span data-stu-id="ec121-109">Advanced Ink Handling</span></span>](advanced-ink-handling.md)

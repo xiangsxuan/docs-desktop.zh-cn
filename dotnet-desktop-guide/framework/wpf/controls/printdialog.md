@@ -15,17 +15,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973606"
 ---
-# <a name="printdialog"></a><span data-ttu-id="e307a-102">PrintDialog</span><span class="sxs-lookup"><span data-stu-id="e307a-102">PrintDialog</span></span>
-<span data-ttu-id="e307a-103"><xref:System.Windows.Controls.PrintDialog>控件用于实例化标准的 "打印" 对话框，该对话框可 <xref:System.Printing.PrintTicket> <xref:System.Printing.PrintQueue> 根据用户输入自动配置和。</span><span class="sxs-lookup"><span data-stu-id="e307a-103">The <xref:System.Windows.Controls.PrintDialog> control is used to instantiate a standard print dialog box that automatically configures a <xref:System.Printing.PrintTicket> and <xref:System.Printing.PrintQueue> according to user input.</span></span>  
+# <a name="printdialog"></a><span data-ttu-id="677d7-102">PrintDialog</span><span class="sxs-lookup"><span data-stu-id="677d7-102">PrintDialog</span></span>
+<span data-ttu-id="677d7-103"><xref:System.Windows.Controls.PrintDialog>控件用于实例化标准的 "打印" 对话框，该对话框可 <xref:System.Printing.PrintTicket> <xref:System.Printing.PrintQueue> 根据用户输入自动配置和。</span><span class="sxs-lookup"><span data-stu-id="677d7-103">The <xref:System.Windows.Controls.PrintDialog> control is used to instantiate a standard print dialog box that automatically configures a <xref:System.Printing.PrintTicket> and <xref:System.Printing.PrintQueue> according to user input.</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="e307a-104">参考</span><span class="sxs-lookup"><span data-stu-id="e307a-104">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="677d7-104">参考</span><span class="sxs-lookup"><span data-stu-id="677d7-104">Reference</span></span>  
  <xref:System.Windows.Controls.PrintDialog>  
   
  <xref:System.Printing.PrintTicket>  
   
  <xref:System.Printing.PrintQueue>  
   
-## <a name="see-also"></a><span data-ttu-id="e307a-105">请参阅</span><span class="sxs-lookup"><span data-stu-id="e307a-105">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="677d7-105">请参阅</span><span class="sxs-lookup"><span data-stu-id="677d7-105">See also</span></span>
 
-- [<span data-ttu-id="e307a-106">打印概述</span><span class="sxs-lookup"><span data-stu-id="e307a-106">Printing Overview</span></span>](../advanced/printing-overview.md)
-- [<span data-ttu-id="e307a-107">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="e307a-107">Documents in WPF</span></span>](../advanced/documents-in-wpf.md)
+- [<span data-ttu-id="677d7-106">打印概述</span><span class="sxs-lookup"><span data-stu-id="677d7-106">Printing Overview</span></span>](../advanced/printing-overview.md)
+- [<span data-ttu-id="677d7-107">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="677d7-107">Documents in WPF</span></span>](../advanced/documents-in-wpf.md)

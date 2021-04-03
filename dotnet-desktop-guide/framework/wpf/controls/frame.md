@@ -16,11 +16,11 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970628"
 ---
-# <a name="frame"></a><span data-ttu-id="c2e8f-102">Frame</span><span class="sxs-lookup"><span data-stu-id="c2e8f-102">Frame</span></span>
-<span data-ttu-id="c2e8f-103"><xref:System.Windows.Controls.Frame>控件在内容中支持内容导航。</span><span class="sxs-lookup"><span data-stu-id="c2e8f-103">The <xref:System.Windows.Controls.Frame> control supports content navigation within content.</span></span> <span data-ttu-id="c2e8f-104"><xref:System.Windows.Controls.Frame> 可由根元素（如、、、、）托管， <xref:System.Windows.Window> <xref:System.Windows.Navigation.NavigationWindow> <xref:System.Windows.Controls.Page> <xref:System.Windows.Controls.UserControl> <xref:System.Windows.Documents.FlowDocument> 或作为属于根元素的内容树中的岛。</span><span class="sxs-lookup"><span data-stu-id="c2e8f-104"><xref:System.Windows.Controls.Frame> can be hosted by a root element like <xref:System.Windows.Window>, <xref:System.Windows.Navigation.NavigationWindow>, <xref:System.Windows.Controls.Page>, <xref:System.Windows.Controls.UserControl>, <xref:System.Windows.Documents.FlowDocument>, or as an island within a content tree that belongs to a root element.</span></span>  
+# <a name="frame"></a><span data-ttu-id="385bf-102">Frame</span><span class="sxs-lookup"><span data-stu-id="385bf-102">Frame</span></span>
+<span data-ttu-id="385bf-103"><xref:System.Windows.Controls.Frame>控件在内容中支持内容导航。</span><span class="sxs-lookup"><span data-stu-id="385bf-103">The <xref:System.Windows.Controls.Frame> control supports content navigation within content.</span></span> <span data-ttu-id="385bf-104"><xref:System.Windows.Controls.Frame> 可由根元素（如、、、、）托管， <xref:System.Windows.Window> <xref:System.Windows.Navigation.NavigationWindow> <xref:System.Windows.Controls.Page> <xref:System.Windows.Controls.UserControl> <xref:System.Windows.Documents.FlowDocument> 或作为属于根元素的内容树中的岛。</span><span class="sxs-lookup"><span data-stu-id="385bf-104"><xref:System.Windows.Controls.Frame> can be hosted by a root element like <xref:System.Windows.Window>, <xref:System.Windows.Navigation.NavigationWindow>, <xref:System.Windows.Controls.Page>, <xref:System.Windows.Controls.UserControl>, <xref:System.Windows.Documents.FlowDocument>, or as an island within a content tree that belongs to a root element.</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="c2e8f-105">参考</span><span class="sxs-lookup"><span data-stu-id="c2e8f-105">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="385bf-105">参考</span><span class="sxs-lookup"><span data-stu-id="385bf-105">Reference</span></span>  
  <xref:System.Windows.Controls.Frame>  
   
-## <a name="related-sections"></a><span data-ttu-id="c2e8f-106">相关章节</span><span class="sxs-lookup"><span data-stu-id="c2e8f-106">Related Sections</span></span>  
- [<span data-ttu-id="c2e8f-107">导航概述</span><span class="sxs-lookup"><span data-stu-id="c2e8f-107">Navigation Overview</span></span>](../app-development/navigation-overview.md)
+## <a name="related-sections"></a><span data-ttu-id="385bf-106">相关章节</span><span class="sxs-lookup"><span data-stu-id="385bf-106">Related Sections</span></span>  
+ [<span data-ttu-id="385bf-107">导航概述</span><span class="sxs-lookup"><span data-stu-id="385bf-107">Navigation Overview</span></span>](../app-development/navigation-overview.md)

@@ -13,14 +13,14 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973281"
 ---
-# <a name="adorners"></a><span data-ttu-id="62049-102">装饰器</span><span class="sxs-lookup"><span data-stu-id="62049-102">Adorners</span></span>
-<span data-ttu-id="62049-103">本部分提供有关装饰 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 器和装饰器框架的信息。</span><span class="sxs-lookup"><span data-stu-id="62049-103">This section provides information about Adorners and the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] Adorner framework.</span></span>  
+# <a name="adorners"></a><span data-ttu-id="f8906-102">装饰器</span><span class="sxs-lookup"><span data-stu-id="f8906-102">Adorners</span></span>
+<span data-ttu-id="f8906-103">本部分提供有关装饰 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 器和装饰器框架的信息。</span><span class="sxs-lookup"><span data-stu-id="f8906-103">This section provides information about Adorners and the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] Adorner framework.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="62049-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="62049-104">In This Section</span></span>  
- [<span data-ttu-id="62049-105">装饰器概述</span><span class="sxs-lookup"><span data-stu-id="62049-105">Adorners Overview</span></span>](adorners-overview.md)  
- [<span data-ttu-id="62049-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="62049-106">How-to Topics</span></span>](adorners-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="f8906-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="f8906-104">In This Section</span></span>  
+ [<span data-ttu-id="f8906-105">装饰器概述</span><span class="sxs-lookup"><span data-stu-id="f8906-105">Adorners Overview</span></span>](adorners-overview.md)  
+ [<span data-ttu-id="f8906-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="f8906-106">How-to Topics</span></span>](adorners-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="62049-107">参考</span><span class="sxs-lookup"><span data-stu-id="62049-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="f8906-107">参考</span><span class="sxs-lookup"><span data-stu-id="f8906-107">Reference</span></span>  
  <xref:System.Windows.Controls.AdornedElementPlaceholder>  
   
  <xref:System.Windows.Documents.Adorner>  
@@ -31,4 +31,4 @@ ms.locfileid: "96973281"
   
  <xref:System.Windows.Documents.AdornerLayer>  
   
-## <a name="related-sections"></a><span data-ttu-id="62049-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="62049-108">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="f8906-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="f8906-108">Related Sections</span></span>

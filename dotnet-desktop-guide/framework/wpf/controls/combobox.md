@@ -14,13 +14,13 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973244"
 ---
-# <a name="combobox"></a><span data-ttu-id="542c3-102">ComboBox</span><span class="sxs-lookup"><span data-stu-id="542c3-102">ComboBox</span></span>
-<span data-ttu-id="542c3-103"><xref:System.Windows.Controls.ComboBox>控件向用户提供选项列表。</span><span class="sxs-lookup"><span data-stu-id="542c3-103">The <xref:System.Windows.Controls.ComboBox> control presents users with a list of options.</span></span> <span data-ttu-id="542c3-104">当控件展开和折叠时，列表将显示并隐藏。</span><span class="sxs-lookup"><span data-stu-id="542c3-104">The list is shown and hidden as the control expands and collapses.</span></span> <span data-ttu-id="542c3-105">在其默认状态下，列表将折叠，只显示一个选项。</span><span class="sxs-lookup"><span data-stu-id="542c3-105">In its default state, the list is collapsed, displaying only one choice.</span></span> <span data-ttu-id="542c3-106">用户单击按钮以查看选项的完整列表。</span><span class="sxs-lookup"><span data-stu-id="542c3-106">The user clicks a button to see the complete list of options.</span></span>  
+# <a name="combobox"></a><span data-ttu-id="976a1-102">ComboBox</span><span class="sxs-lookup"><span data-stu-id="976a1-102">ComboBox</span></span>
+<span data-ttu-id="976a1-103"><xref:System.Windows.Controls.ComboBox>控件向用户提供选项列表。</span><span class="sxs-lookup"><span data-stu-id="976a1-103">The <xref:System.Windows.Controls.ComboBox> control presents users with a list of options.</span></span> <span data-ttu-id="976a1-104">当控件展开和折叠时，列表将显示并隐藏。</span><span class="sxs-lookup"><span data-stu-id="976a1-104">The list is shown and hidden as the control expands and collapses.</span></span> <span data-ttu-id="976a1-105">在其默认状态下，列表将折叠，只显示一个选项。</span><span class="sxs-lookup"><span data-stu-id="976a1-105">In its default state, the list is collapsed, displaying only one choice.</span></span> <span data-ttu-id="976a1-106">用户单击按钮以查看选项的完整列表。</span><span class="sxs-lookup"><span data-stu-id="976a1-106">The user clicks a button to see the complete list of options.</span></span>  
   
- <span data-ttu-id="542c3-107">下图显示了 <xref:System.Windows.Controls.ComboBox> 处于不同状态的。</span><span class="sxs-lookup"><span data-stu-id="542c3-107">The following illustration shows a <xref:System.Windows.Controls.ComboBox> in different states.</span></span>  
+ <span data-ttu-id="976a1-107">下图显示了 <xref:System.Windows.Controls.ComboBox> 处于不同状态的。</span><span class="sxs-lookup"><span data-stu-id="976a1-107">The following illustration shows a <xref:System.Windows.Controls.ComboBox> in different states.</span></span>  
   
- <span data-ttu-id="542c3-108">![处于默认状态和按下状态的组合框](./media/ss-ctl-combobox.gif "SS_CTL_combobox")</span><span class="sxs-lookup"><span data-stu-id="542c3-108">![Combo boxes in default and pressed states](./media/ss-ctl-combobox.gif "SS_CTL_combobox")</span></span>  
-<span data-ttu-id="542c3-109">折叠和展开</span><span class="sxs-lookup"><span data-stu-id="542c3-109">Collapsed and expanded</span></span>  
+ <span data-ttu-id="976a1-108">![处于默认状态和按下状态的组合框](./media/ss-ctl-combobox.gif "SS_CTL_combobox")</span><span class="sxs-lookup"><span data-stu-id="976a1-108">![Combo boxes in default and pressed states](./media/ss-ctl-combobox.gif "SS_CTL_combobox")</span></span>  
+<span data-ttu-id="976a1-109">折叠和展开</span><span class="sxs-lookup"><span data-stu-id="976a1-109">Collapsed and expanded</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="542c3-110">参考</span><span class="sxs-lookup"><span data-stu-id="542c3-110">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="976a1-110">参考</span><span class="sxs-lookup"><span data-stu-id="976a1-110">Reference</span></span>  
  <xref:System.Windows.Controls.ComboBox>

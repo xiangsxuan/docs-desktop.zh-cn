@@ -13,17 +13,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973284"
 ---
-# <a name="adorners-how-to-topics"></a><span data-ttu-id="651da-102">装饰器帮助主题</span><span class="sxs-lookup"><span data-stu-id="651da-102">Adorners How-to Topics</span></span>
-<span data-ttu-id="651da-103">下面的示例演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 装饰器框架完成常见任务。</span><span class="sxs-lookup"><span data-stu-id="651da-103">The following examples demonstrate how to accomplish common tasks using the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] adorner framework.</span></span>  
+# <a name="adorners-how-to-topics"></a><span data-ttu-id="38e79-102">装饰器帮助主题</span><span class="sxs-lookup"><span data-stu-id="38e79-102">Adorners How-to Topics</span></span>
+<span data-ttu-id="38e79-103">下面的示例演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 装饰器框架完成常见任务。</span><span class="sxs-lookup"><span data-stu-id="38e79-103">The following examples demonstrate how to accomplish common tasks using the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] adorner framework.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="651da-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="651da-104">In This Section</span></span>  
- [<span data-ttu-id="651da-105">实现装饰器</span><span class="sxs-lookup"><span data-stu-id="651da-105">Implement an Adorner</span></span>](how-to-implement-an-adorner.md)  
- [<span data-ttu-id="651da-106">将装饰器绑定到元素</span><span class="sxs-lookup"><span data-stu-id="651da-106">Bind an Adorner to an Element</span></span>](how-to-bind-an-adorner-to-an-element.md)  
- [<span data-ttu-id="651da-107">装饰面板的子元素</span><span class="sxs-lookup"><span data-stu-id="651da-107">Adorn the Children of a Panel</span></span>](how-to-adorn-the-children-of-a-panel.md)  
- [<span data-ttu-id="651da-108">从元素中删除装饰器</span><span class="sxs-lookup"><span data-stu-id="651da-108">Remove an Adorner from an Element</span></span>](how-to-remove-an-adorner-from-an-element.md)  
- [<span data-ttu-id="651da-109">从元素中删除所有装饰器</span><span class="sxs-lookup"><span data-stu-id="651da-109">Remove all Adorners from an Element</span></span>](how-to-remove-all-adorners-from-an-element.md)  
+## <a name="in-this-section"></a><span data-ttu-id="38e79-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="38e79-104">In This Section</span></span>  
+ [<span data-ttu-id="38e79-105">实现装饰器</span><span class="sxs-lookup"><span data-stu-id="38e79-105">Implement an Adorner</span></span>](how-to-implement-an-adorner.md)  
+ [<span data-ttu-id="38e79-106">将装饰器绑定到元素</span><span class="sxs-lookup"><span data-stu-id="38e79-106">Bind an Adorner to an Element</span></span>](how-to-bind-an-adorner-to-an-element.md)  
+ [<span data-ttu-id="38e79-107">装饰面板的子元素</span><span class="sxs-lookup"><span data-stu-id="38e79-107">Adorn the Children of a Panel</span></span>](how-to-adorn-the-children-of-a-panel.md)  
+ [<span data-ttu-id="38e79-108">从元素中删除装饰器</span><span class="sxs-lookup"><span data-stu-id="38e79-108">Remove an Adorner from an Element</span></span>](how-to-remove-an-adorner-from-an-element.md)  
+ [<span data-ttu-id="38e79-109">从元素中删除所有装饰器</span><span class="sxs-lookup"><span data-stu-id="38e79-109">Remove all Adorners from an Element</span></span>](how-to-remove-all-adorners-from-an-element.md)  
   
-## <a name="reference"></a><span data-ttu-id="651da-110">参考</span><span class="sxs-lookup"><span data-stu-id="651da-110">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="38e79-110">参考</span><span class="sxs-lookup"><span data-stu-id="38e79-110">Reference</span></span>  
  <xref:System.Windows.Controls.AdornedElementPlaceholder>  
   
  <xref:System.Windows.Documents.Adorner>  
@@ -34,4 +34,4 @@ ms.locfileid: "96973284"
   
  <xref:System.Windows.Documents.AdornerLayer>  
   
-## <a name="related-sections"></a><span data-ttu-id="651da-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="651da-111">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="38e79-111">相关章节</span><span class="sxs-lookup"><span data-stu-id="38e79-111">Related Sections</span></span>

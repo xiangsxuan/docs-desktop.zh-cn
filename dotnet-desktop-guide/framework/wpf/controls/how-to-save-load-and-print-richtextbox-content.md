@@ -19,21 +19,21 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973589"
 ---
-# <a name="how-to-save-load-and-print-richtextbox-content"></a><span data-ttu-id="b25aa-102">如何：保存、加载和打印 RichTextBox 内容</span><span class="sxs-lookup"><span data-stu-id="b25aa-102">How to: Save, Load, and Print RichTextBox Content</span></span>
-<span data-ttu-id="b25aa-103">下面的示例演示如何将的内容保存 <xref:System.Windows.Controls.RichTextBox> 到文件，将该内容重新加载到 <xref:System.Windows.Controls.RichTextBox> 中，然后打印内容。</span><span class="sxs-lookup"><span data-stu-id="b25aa-103">The following example shows how to save content of a <xref:System.Windows.Controls.RichTextBox> to a file, load that content back into the <xref:System.Windows.Controls.RichTextBox>, and print the contents.</span></span>  
+# <a name="how-to-save-load-and-print-richtextbox-content"></a><span data-ttu-id="a0b1d-102">如何：保存、加载和打印 RichTextBox 内容</span><span class="sxs-lookup"><span data-stu-id="a0b1d-102">How to: Save, Load, and Print RichTextBox Content</span></span>
+<span data-ttu-id="a0b1d-103">下面的示例演示如何将的内容保存 <xref:System.Windows.Controls.RichTextBox> 到文件，将该内容重新加载到 <xref:System.Windows.Controls.RichTextBox> 中，然后打印内容。</span><span class="sxs-lookup"><span data-stu-id="a0b1d-103">The following example shows how to save content of a <xref:System.Windows.Controls.RichTextBox> to a file, load that content back into the <xref:System.Windows.Controls.RichTextBox>, and print the contents.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="b25aa-104">示例</span><span class="sxs-lookup"><span data-stu-id="b25aa-104">Example</span></span>  
- <span data-ttu-id="b25aa-105">下面是示例的标记。</span><span class="sxs-lookup"><span data-stu-id="b25aa-105">Below is the markup for the example.</span></span>  
+## <a name="example"></a><span data-ttu-id="a0b1d-104">示例</span><span class="sxs-lookup"><span data-stu-id="a0b1d-104">Example</span></span>  
+ <span data-ttu-id="a0b1d-105">下面是示例的标记。</span><span class="sxs-lookup"><span data-stu-id="a0b1d-105">Below is the markup for the example.</span></span>  
   
  [!code-xaml[RichTextBoxMiscSnippets_snip#SaveLoadPrintRTBExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/RichTextBoxMiscSnippets_snip/CSharp/SaveLoadPrintRTB.xaml#saveloadprintrtbexamplewholepage)]  
   
-## <a name="example"></a><span data-ttu-id="b25aa-106">示例</span><span class="sxs-lookup"><span data-stu-id="b25aa-106">Example</span></span>  
- <span data-ttu-id="b25aa-107">下面是该示例的隐藏代码。</span><span class="sxs-lookup"><span data-stu-id="b25aa-107">Below is the code behind for the example.</span></span>  
+## <a name="example"></a><span data-ttu-id="a0b1d-106">示例</span><span class="sxs-lookup"><span data-stu-id="a0b1d-106">Example</span></span>  
+ <span data-ttu-id="a0b1d-107">下面是该示例的隐藏代码。</span><span class="sxs-lookup"><span data-stu-id="a0b1d-107">Below is the code behind for the example.</span></span>  
   
  [!code-csharp[RichTextBoxMiscSnippets_snip#SaveLoadPrintRTBCodeExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/RichTextBoxMiscSnippets_snip/CSharp/SaveLoadPrintRTB.xaml.cs#saveloadprintrtbcodeexamplewholepage)]
  [!code-vb[RichTextBoxMiscSnippets_snip#SaveLoadPrintRTBCodeExampleWholePage](~/samples/snippets/visualbasic/VS_Snippets_Wpf/RichTextBoxMiscSnippets_snip/VisualBasic/SaveLoadPrintRTB.xaml.vb#saveloadprintrtbcodeexamplewholepage)]  
   
-## <a name="see-also"></a><span data-ttu-id="b25aa-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="b25aa-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="a0b1d-108">另请参阅</span><span class="sxs-lookup"><span data-stu-id="a0b1d-108">See also</span></span>
 
-- [<span data-ttu-id="b25aa-109">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="b25aa-109">RichTextBox Overview</span></span>](richtextbox-overview.md)
-- [<span data-ttu-id="b25aa-110">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="b25aa-110">TextBox Overview</span></span>](textbox-overview.md)
+- [<span data-ttu-id="a0b1d-109">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="a0b1d-109">RichTextBox Overview</span></span>](richtextbox-overview.md)
+- [<span data-ttu-id="a0b1d-110">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="a0b1d-110">TextBox Overview</span></span>](textbox-overview.md)

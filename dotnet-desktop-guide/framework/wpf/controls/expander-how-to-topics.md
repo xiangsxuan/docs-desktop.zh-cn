@@ -14,14 +14,14 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973688"
 ---
-# <a name="expander-how-to-topics"></a><span data-ttu-id="bc91f-102">Expander 帮助主题</span><span class="sxs-lookup"><span data-stu-id="bc91f-102">Expander How-to Topics</span></span>
-<span data-ttu-id="bc91f-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Expander> 控件。</span><span class="sxs-lookup"><span data-stu-id="bc91f-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Expander> control.</span></span>  
+# <a name="expander-how-to-topics"></a><span data-ttu-id="605a9-102">Expander 帮助主题</span><span class="sxs-lookup"><span data-stu-id="605a9-102">Expander How-to Topics</span></span>
+<span data-ttu-id="605a9-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Expander> 控件。</span><span class="sxs-lookup"><span data-stu-id="605a9-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Expander> control.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="bc91f-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="bc91f-104">In This Section</span></span>  
- [<span data-ttu-id="bc91f-105">使用 ScrollViewer 创建扩展器</span><span class="sxs-lookup"><span data-stu-id="bc91f-105">Create an Expander with a ScrollViewer</span></span>](how-to-create-an-expander-with-a-scrollviewer.md)  
+## <a name="in-this-section"></a><span data-ttu-id="605a9-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="605a9-104">In This Section</span></span>  
+ [<span data-ttu-id="605a9-105">使用 ScrollViewer 创建扩展器</span><span class="sxs-lookup"><span data-stu-id="605a9-105">Create an Expander with a ScrollViewer</span></span>](how-to-create-an-expander-with-a-scrollviewer.md)  
   
-## <a name="reference"></a><span data-ttu-id="bc91f-106">参考</span><span class="sxs-lookup"><span data-stu-id="bc91f-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="605a9-106">参考</span><span class="sxs-lookup"><span data-stu-id="605a9-106">Reference</span></span>  
  <xref:System.Windows.Controls.Expander>  
   
-## <a name="related-sections"></a><span data-ttu-id="bc91f-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="bc91f-107">Related Sections</span></span>  
- [<span data-ttu-id="bc91f-108">Expander 概述</span><span class="sxs-lookup"><span data-stu-id="bc91f-108">Expander Overview</span></span>](expander-overview.md)
+## <a name="related-sections"></a><span data-ttu-id="605a9-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="605a9-107">Related Sections</span></span>  
+ [<span data-ttu-id="605a9-108">Expander 概述</span><span class="sxs-lookup"><span data-stu-id="605a9-108">Expander Overview</span></span>](expander-overview.md)

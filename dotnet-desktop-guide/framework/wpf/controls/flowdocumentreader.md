@@ -14,13 +14,13 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973834"
 ---
-# <a name="flowdocumentreader"></a><span data-ttu-id="ba084-102">FlowDocumentReader</span><span class="sxs-lookup"><span data-stu-id="ba084-102">FlowDocumentReader</span></span>
-<span data-ttu-id="ba084-103"><xref:System.Windows.Controls.FlowDocumentReader>控件用于查看 <xref:System.Windows.Documents.FlowDocument> 内容。</span><span class="sxs-lookup"><span data-stu-id="ba084-103">The <xref:System.Windows.Controls.FlowDocumentReader> control is used to view <xref:System.Windows.Documents.FlowDocument> content.</span></span> <span data-ttu-id="ba084-104">它支持多个查看模式。</span><span class="sxs-lookup"><span data-stu-id="ba084-104">It supports multiple viewing modes.</span></span>  
+# <a name="flowdocumentreader"></a><span data-ttu-id="c472d-102">FlowDocumentReader</span><span class="sxs-lookup"><span data-stu-id="c472d-102">FlowDocumentReader</span></span>
+<span data-ttu-id="c472d-103"><xref:System.Windows.Controls.FlowDocumentReader>控件用于查看 <xref:System.Windows.Documents.FlowDocument> 内容。</span><span class="sxs-lookup"><span data-stu-id="c472d-103">The <xref:System.Windows.Controls.FlowDocumentReader> control is used to view <xref:System.Windows.Documents.FlowDocument> content.</span></span> <span data-ttu-id="c472d-104">它支持多个查看模式。</span><span class="sxs-lookup"><span data-stu-id="c472d-104">It supports multiple viewing modes.</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="ba084-105">请参阅</span><span class="sxs-lookup"><span data-stu-id="ba084-105">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="c472d-105">另请参阅</span><span class="sxs-lookup"><span data-stu-id="c472d-105">See also</span></span>
 
 - <xref:System.Windows.Controls.FlowDocumentReader>
 - <xref:System.Windows.Controls.FlowDocumentPageViewer>
 - <xref:System.Windows.Controls.FlowDocumentScrollViewer>
-- [<span data-ttu-id="ba084-106">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="ba084-106">Documents in WPF</span></span>](../advanced/documents-in-wpf.md)
-- [<span data-ttu-id="ba084-107">流文档概述</span><span class="sxs-lookup"><span data-stu-id="ba084-107">Flow Document Overview</span></span>](../advanced/flow-document-overview.md)
+- [<span data-ttu-id="c472d-106">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="c472d-106">Documents in WPF</span></span>](../advanced/documents-in-wpf.md)
+- [<span data-ttu-id="c472d-107">流文档概述</span><span class="sxs-lookup"><span data-stu-id="c472d-107">Flow Document Overview</span></span>](../advanced/flow-document-overview.md)

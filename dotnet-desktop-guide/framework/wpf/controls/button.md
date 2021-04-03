@@ -14,15 +14,15 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973268"
 ---
-# <a name="button"></a><span data-ttu-id="c7579-102">Button</span><span class="sxs-lookup"><span data-stu-id="c7579-102">Button</span></span>
-<span data-ttu-id="c7579-103"><xref:System.Windows.Controls.Button>控件对鼠标、键盘、触笔或其他输入设备的用户输入做出反应，并引发 <xref:System.Windows.Controls.Primitives.ButtonBase.Click> 事件。</span><span class="sxs-lookup"><span data-stu-id="c7579-103">A <xref:System.Windows.Controls.Button> control reacts to user input from a mouse, keyboard, stylus, or other input device and raises a <xref:System.Windows.Controls.Primitives.ButtonBase.Click> event.</span></span> <span data-ttu-id="c7579-104"><xref:System.Windows.Controls.Button>是 [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] 可以包含简单内容（如文本）的基本组件，还可以包含复杂内容，如图像和 <xref:System.Windows.Controls.Panel> 控件。</span><span class="sxs-lookup"><span data-stu-id="c7579-104">A <xref:System.Windows.Controls.Button> is a basic [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] component that can contain simple content, such as text, and can also contain complex content, such as images and <xref:System.Windows.Controls.Panel> controls.</span></span>  
+# <a name="button"></a><span data-ttu-id="081ee-102">Button</span><span class="sxs-lookup"><span data-stu-id="081ee-102">Button</span></span>
+<span data-ttu-id="081ee-103"><xref:System.Windows.Controls.Button>控件对鼠标、键盘、触笔或其他输入设备的用户输入做出反应，并引发 <xref:System.Windows.Controls.Primitives.ButtonBase.Click> 事件。</span><span class="sxs-lookup"><span data-stu-id="081ee-103">A <xref:System.Windows.Controls.Button> control reacts to user input from a mouse, keyboard, stylus, or other input device and raises a <xref:System.Windows.Controls.Primitives.ButtonBase.Click> event.</span></span> <span data-ttu-id="081ee-104"><xref:System.Windows.Controls.Button>是 [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] 可以包含简单内容（如文本）的基本组件，还可以包含复杂内容，如图像和 <xref:System.Windows.Controls.Panel> 控件。</span><span class="sxs-lookup"><span data-stu-id="081ee-104">A <xref:System.Windows.Controls.Button> is a basic [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] component that can contain simple content, such as text, and can also contain complex content, such as images and <xref:System.Windows.Controls.Panel> controls.</span></span>  
   
- <span data-ttu-id="c7579-105">![按钮状态](./media/ss-ctl-buttons.png "SS_CTL_buttons")</span><span class="sxs-lookup"><span data-stu-id="c7579-105">![Button states](./media/ss-ctl-buttons.png "SS_CTL_buttons")</span></span>  
+ <span data-ttu-id="081ee-105">![按钮状态](./media/ss-ctl-buttons.png "SS_CTL_buttons")</span><span class="sxs-lookup"><span data-stu-id="081ee-105">![Button states](./media/ss-ctl-buttons.png "SS_CTL_buttons")</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="c7579-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="c7579-106">In This Section</span></span>  
- [<span data-ttu-id="c7579-107">创建包含图像的按钮</span><span class="sxs-lookup"><span data-stu-id="c7579-107">Create a Button That Has an Image</span></span>](how-to-create-a-button-that-has-an-image.md)  
+## <a name="in-this-section"></a><span data-ttu-id="081ee-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="081ee-106">In This Section</span></span>  
+ [<span data-ttu-id="081ee-107">创建包含图像的按钮</span><span class="sxs-lookup"><span data-stu-id="081ee-107">Create a Button That Has an Image</span></span>](how-to-create-a-button-that-has-an-image.md)  
   
-## <a name="reference"></a><span data-ttu-id="c7579-108">参考</span><span class="sxs-lookup"><span data-stu-id="c7579-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="081ee-108">参考</span><span class="sxs-lookup"><span data-stu-id="081ee-108">Reference</span></span>  
  <xref:System.Windows.Controls.Button>  
  <xref:System.Windows.Controls.Primitives.ButtonBase>  
  <xref:System.Windows.Controls.RadioButton>  

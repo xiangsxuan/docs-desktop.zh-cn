@@ -14,11 +14,11 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970460"
 ---
-# <a name="passwordbox"></a><span data-ttu-id="0518a-102">PasswordBox</span><span class="sxs-lookup"><span data-stu-id="0518a-102">PasswordBox</span></span>
-<span data-ttu-id="0518a-103"><xref:System.Windows.Controls.PasswordBox>控件用于输入敏感或私有信息。</span><span class="sxs-lookup"><span data-stu-id="0518a-103">The <xref:System.Windows.Controls.PasswordBox> control is used to input sensitive or private information.</span></span>  
+# <a name="passwordbox"></a><span data-ttu-id="d69d1-102">PasswordBox</span><span class="sxs-lookup"><span data-stu-id="d69d1-102">PasswordBox</span></span>
+<span data-ttu-id="d69d1-103"><xref:System.Windows.Controls.PasswordBox>控件用于输入敏感或私有信息。</span><span class="sxs-lookup"><span data-stu-id="d69d1-103">The <xref:System.Windows.Controls.PasswordBox> control is used to input sensitive or private information.</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="0518a-104">另请参阅</span><span class="sxs-lookup"><span data-stu-id="0518a-104">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="d69d1-104">另请参阅</span><span class="sxs-lookup"><span data-stu-id="d69d1-104">See also</span></span>
 
 - <xref:System.Windows.Controls.TextBox>
 - <xref:System.Windows.Controls.RichTextBox>
-- [<span data-ttu-id="0518a-105">控件库</span><span class="sxs-lookup"><span data-stu-id="0518a-105">Control Library</span></span>](control-library.md)
+- [<span data-ttu-id="d69d1-105">控件库</span><span class="sxs-lookup"><span data-stu-id="d69d1-105">Control Library</span></span>](control-library.md)

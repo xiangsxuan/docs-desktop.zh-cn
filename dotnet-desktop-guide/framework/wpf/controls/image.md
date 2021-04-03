@@ -14,20 +14,20 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972984"
 ---
-# <a name="image"></a><span data-ttu-id="c3ad0-102">映像</span><span class="sxs-lookup"><span data-stu-id="c3ad0-102">Image</span></span>
-<span data-ttu-id="c3ad0-103"><xref:System.Windows.Controls.Image>元素用于显示应用程序中的位图图像 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。</span><span class="sxs-lookup"><span data-stu-id="c3ad0-103">The <xref:System.Windows.Controls.Image> element is used to display bitmap images in [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] applications.</span></span>  
+# <a name="image"></a><span data-ttu-id="5fb5d-102">映像</span><span class="sxs-lookup"><span data-stu-id="5fb5d-102">Image</span></span>
+<span data-ttu-id="5fb5d-103"><xref:System.Windows.Controls.Image>元素用于显示应用程序中的位图图像 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。</span><span class="sxs-lookup"><span data-stu-id="5fb5d-103">The <xref:System.Windows.Controls.Image> element is used to display bitmap images in [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="c3ad0-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="c3ad0-104">In This Section</span></span>  
- [<span data-ttu-id="c3ad0-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="c3ad0-105">How-to Topics</span></span>](image-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="5fb5d-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="5fb5d-104">In This Section</span></span>  
+ [<span data-ttu-id="5fb5d-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="5fb5d-105">How-to Topics</span></span>](image-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="c3ad0-106">参考</span><span class="sxs-lookup"><span data-stu-id="c3ad0-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="5fb5d-106">参考</span><span class="sxs-lookup"><span data-stu-id="5fb5d-106">Reference</span></span>  
  <xref:System.Windows.Controls.Image>  
   
  <xref:System.Windows.Media.Imaging.BitmapImage>  
   
  <xref:System.Windows.Media.Imaging.BitmapSource>  
   
-## <a name="see-also"></a><span data-ttu-id="c3ad0-107">请参阅</span><span class="sxs-lookup"><span data-stu-id="c3ad0-107">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="5fb5d-107">请参阅</span><span class="sxs-lookup"><span data-stu-id="5fb5d-107">See also</span></span>
 
-- [<span data-ttu-id="c3ad0-108">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="c3ad0-108">Imaging Overview</span></span>](../graphics-multimedia/imaging-overview.md)
-- [<span data-ttu-id="c3ad0-109">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="c3ad0-109">How-to Topics</span></span>](../graphics-multimedia/imaging-how-to-topics.md)
+- [<span data-ttu-id="5fb5d-108">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="5fb5d-108">Imaging Overview</span></span>](../graphics-multimedia/imaging-overview.md)
+- [<span data-ttu-id="5fb5d-109">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="5fb5d-109">How-to Topics</span></span>](../graphics-multimedia/imaging-how-to-topics.md)

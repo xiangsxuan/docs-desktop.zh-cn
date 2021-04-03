@@ -14,16 +14,16 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973705"
 ---
-# <a name="panel-how-to-topics"></a><span data-ttu-id="c0498-102">Panel 帮助主题</span><span class="sxs-lookup"><span data-stu-id="c0498-102">Panel How-to Topics</span></span>
-<span data-ttu-id="c0498-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Panel> 元素和相关的 api。</span><span class="sxs-lookup"><span data-stu-id="c0498-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Panel> element and related APIs.</span></span>  
+# <a name="panel-how-to-topics"></a><span data-ttu-id="56f16-102">Panel 帮助主题</span><span class="sxs-lookup"><span data-stu-id="56f16-102">Panel How-to Topics</span></span>
+<span data-ttu-id="56f16-103">本节中的主题介绍如何使用 <xref:System.Windows.Controls.Panel> 元素和相关的 api。</span><span class="sxs-lookup"><span data-stu-id="56f16-103">The topics in this section describe how to use the <xref:System.Windows.Controls.Panel> element and related APIs.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="c0498-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="c0498-104">In This Section</span></span>  
- [<span data-ttu-id="c0498-105">创建自定义 Panel 元素</span><span class="sxs-lookup"><span data-stu-id="c0498-105">Create a Custom Panel Element</span></span>](how-to-create-a-custom-panel-element.md)  
- [<span data-ttu-id="c0498-106">重写面板的 OnRender 方法</span><span class="sxs-lookup"><span data-stu-id="c0498-106">Override the Panel OnRender Method</span></span>](how-to-override-the-panel-onrender-method.md)  
- [<span data-ttu-id="c0498-107">设置元素的高度属性</span><span class="sxs-lookup"><span data-stu-id="c0498-107">Set the Height Properties of an Element</span></span>](how-to-set-the-height-properties-of-an-element.md)  
- [<span data-ttu-id="c0498-108">设置元素的宽度属性</span><span class="sxs-lookup"><span data-stu-id="c0498-108">Set the Width Properties of an Element</span></span>](how-to-set-the-width-properties-of-an-element.md)  
+## <a name="in-this-section"></a><span data-ttu-id="56f16-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="56f16-104">In This Section</span></span>  
+ [<span data-ttu-id="56f16-105">创建自定义 Panel 元素</span><span class="sxs-lookup"><span data-stu-id="56f16-105">Create a Custom Panel Element</span></span>](how-to-create-a-custom-panel-element.md)  
+ [<span data-ttu-id="56f16-106">重写面板的 OnRender 方法</span><span class="sxs-lookup"><span data-stu-id="56f16-106">Override the Panel OnRender Method</span></span>](how-to-override-the-panel-onrender-method.md)  
+ [<span data-ttu-id="56f16-107">设置元素的高度属性</span><span class="sxs-lookup"><span data-stu-id="56f16-107">Set the Height Properties of an Element</span></span>](how-to-set-the-height-properties-of-an-element.md)  
+ [<span data-ttu-id="56f16-108">设置元素的宽度属性</span><span class="sxs-lookup"><span data-stu-id="56f16-108">Set the Width Properties of an Element</span></span>](how-to-set-the-width-properties-of-an-element.md)  
   
-## <a name="reference"></a><span data-ttu-id="c0498-109">参考</span><span class="sxs-lookup"><span data-stu-id="c0498-109">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="56f16-109">参考</span><span class="sxs-lookup"><span data-stu-id="56f16-109">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -38,9 +38,9 @@ ms.locfileid: "96973705"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="c0498-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="c0498-110">Related Sections</span></span>  
- [<span data-ttu-id="c0498-111">布局</span><span class="sxs-lookup"><span data-stu-id="c0498-111">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="56f16-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="56f16-110">Related Sections</span></span>  
+ [<span data-ttu-id="56f16-111">布局</span><span class="sxs-lookup"><span data-stu-id="56f16-111">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="c0498-112">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="c0498-112">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="56f16-112">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="56f16-112">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="c0498-113">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="c0498-113">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="56f16-113">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="56f16-113">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

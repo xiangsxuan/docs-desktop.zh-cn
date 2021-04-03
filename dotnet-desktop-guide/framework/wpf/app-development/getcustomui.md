@@ -11,40 +11,40 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972708"
 ---
-# <a name="getcustomui"></a><span data-ttu-id="30933-102">GetCustomUI</span><span class="sxs-lookup"><span data-stu-id="30933-102">GetCustomUI</span></span>
-<span data-ttu-id="30933-103">由 PresentationHost.exe 调用，以从主机获取自定义进度和错误消息（如果已实现）。</span><span class="sxs-lookup"><span data-stu-id="30933-103">Called by PresentationHost.exe to get custom progress and error messages from the host, if implemented.</span></span>  
+# <a name="getcustomui"></a><span data-ttu-id="8811a-102">GetCustomUI</span><span class="sxs-lookup"><span data-stu-id="8811a-102">GetCustomUI</span></span>
+<span data-ttu-id="8811a-103">由 PresentationHost.exe 调用，以从主机获取自定义进度和错误消息（如果已实现）。</span><span class="sxs-lookup"><span data-stu-id="8811a-103">Called by PresentationHost.exe to get custom progress and error messages from the host, if implemented.</span></span>  
   
-## <a name="syntax"></a><span data-ttu-id="30933-104">语法</span><span class="sxs-lookup"><span data-stu-id="30933-104">Syntax</span></span>  
+## <a name="syntax"></a><span data-ttu-id="8811a-104">语法</span><span class="sxs-lookup"><span data-stu-id="8811a-104">Syntax</span></span>  
   
 ```cpp  
 HRESULT GetCustomUI( [out] BSTR* pwzProgressAssemblyName, [out] BSTR* pwzProgressClassName, [out] BSTR* pwzErrorAssemblyName, [out] BSTR* pwzErrorClassName );  
 ```  
   
-## <a name="parameters"></a><span data-ttu-id="30933-105">参数</span><span class="sxs-lookup"><span data-stu-id="30933-105">Parameters</span></span>  
+## <a name="parameters"></a><span data-ttu-id="8811a-105">参数</span><span class="sxs-lookup"><span data-stu-id="8811a-105">Parameters</span></span>  
  `pwzProgressAssemblyName`  
   
- <span data-ttu-id="30933-106">弄指向包含主机提供的进度用户界面的程序集的指针。</span><span class="sxs-lookup"><span data-stu-id="30933-106">[out] A pointer to the assembly that contains the host-supplied progress user interface.</span></span>  
+ <span data-ttu-id="8811a-106">弄指向包含主机提供的进度用户界面的程序集的指针。</span><span class="sxs-lookup"><span data-stu-id="8811a-106">[out] A pointer to the assembly that contains the host-supplied progress user interface.</span></span>  
   
  `pwzProgressClassName`  
   
- <span data-ttu-id="30933-107">弄类的名称，它是宿主提供的进度用户界面，最好是具有的 XAML 文件 <xref:System.Windows.Controls.Page> 是其顶级元素。</span><span class="sxs-lookup"><span data-stu-id="30933-107">[out] The name of the class that is the host-supplied progress user interface, preferably a XAML file with <xref:System.Windows.Controls.Page> is its top-level element.</span></span> <span data-ttu-id="30933-108">此类驻留在指定的程序集中 `pwzProgressAssemblyName` 。</span><span class="sxs-lookup"><span data-stu-id="30933-108">This class resides in the assembly that is specified by `pwzProgressAssemblyName`.</span></span>  
+ <span data-ttu-id="8811a-107">弄类的名称，它是宿主提供的进度用户界面，最好是具有的 XAML 文件 <xref:System.Windows.Controls.Page> 是其顶级元素。</span><span class="sxs-lookup"><span data-stu-id="8811a-107">[out] The name of the class that is the host-supplied progress user interface, preferably a XAML file with <xref:System.Windows.Controls.Page> is its top-level element.</span></span> <span data-ttu-id="8811a-108">此类驻留在指定的程序集中 `pwzProgressAssemblyName` 。</span><span class="sxs-lookup"><span data-stu-id="8811a-108">This class resides in the assembly that is specified by `pwzProgressAssemblyName`.</span></span>  
   
  `pwzErrorAssemblyName`  
   
- <span data-ttu-id="30933-109">弄指向包含宿主提供的错误用户界面的程序集的指针。</span><span class="sxs-lookup"><span data-stu-id="30933-109">[out] A pointer to the assembly that contains the host-supplied error user interface.</span></span>  
+ <span data-ttu-id="8811a-109">弄指向包含宿主提供的错误用户界面的程序集的指针。</span><span class="sxs-lookup"><span data-stu-id="8811a-109">[out] A pointer to the assembly that contains the host-supplied error user interface.</span></span>  
   
  `pwzErrorClassName`  
   
- <span data-ttu-id="30933-110">弄类的名称，它是宿主提供的错误用户界面，最好是具有的 XAML 文件 <xref:System.Windows.Controls.Page> 是它的顶级元素。</span><span class="sxs-lookup"><span data-stu-id="30933-110">[out] The name of the class that is the host-supplied error user interface, preferably a XAML file with <xref:System.Windows.Controls.Page> is its top-level element.</span></span> <span data-ttu-id="30933-111">此类驻留在指定的程序集中 `pwzErrorAssemblyName` 。</span><span class="sxs-lookup"><span data-stu-id="30933-111">This class resides in the assembly that is specified by `pwzErrorAssemblyName`.</span></span>  
+ <span data-ttu-id="8811a-110">弄类的名称，它是宿主提供的错误用户界面，最好是具有的 XAML 文件 <xref:System.Windows.Controls.Page> 是它的顶级元素。</span><span class="sxs-lookup"><span data-stu-id="8811a-110">[out] The name of the class that is the host-supplied error user interface, preferably a XAML file with <xref:System.Windows.Controls.Page> is its top-level element.</span></span> <span data-ttu-id="8811a-111">此类驻留在指定的程序集中 `pwzErrorAssemblyName` 。</span><span class="sxs-lookup"><span data-stu-id="8811a-111">This class resides in the assembly that is specified by `pwzErrorAssemblyName`.</span></span>  
   
-## <a name="property-valuereturn-value"></a><span data-ttu-id="30933-112">属性值/返回值</span><span class="sxs-lookup"><span data-stu-id="30933-112">Property Value/Return Value</span></span>  
- <span data-ttu-id="30933-113">HRESULT：已忽略。</span><span class="sxs-lookup"><span data-stu-id="30933-113">HRESULT: Ignored.</span></span>  
+## <a name="property-valuereturn-value"></a><span data-ttu-id="8811a-112">属性值/返回值</span><span class="sxs-lookup"><span data-stu-id="8811a-112">Property Value/Return Value</span></span>  
+ <span data-ttu-id="8811a-113">HRESULT：已忽略。</span><span class="sxs-lookup"><span data-stu-id="8811a-113">HRESULT: Ignored.</span></span>  
   
-## <a name="remarks"></a><span data-ttu-id="30933-114">备注</span><span class="sxs-lookup"><span data-stu-id="30933-114">Remarks</span></span>  
- <span data-ttu-id="30933-115">宿主应用程序可能有 PresentationHost.exe 默认用户界面不符合的特定主题。</span><span class="sxs-lookup"><span data-stu-id="30933-115">A host application may have a specific theme that PresentationHost.exe’s default user interfaces may not conform to.</span></span> <span data-ttu-id="30933-116">如果是这种情况，主机应用程序可以实现 [GetCustomUI](getcustomui.md) ，以将进度和错误用户界面返回到 PresentationHost.exe。</span><span class="sxs-lookup"><span data-stu-id="30933-116">If this is the case, the host application can implement [GetCustomUI](getcustomui.md) to return progress and error user interfaces to PresentationHost.exe.</span></span> <span data-ttu-id="30933-117">PresentationHost.exe 将始终在使用其默认用户界面之前调用 [GetCustomUI](getcustomui.md) 。</span><span class="sxs-lookup"><span data-stu-id="30933-117">PresentationHost.exe will always call [GetCustomUI](getcustomui.md) before using its default user interfaces.</span></span>  
+## <a name="remarks"></a><span data-ttu-id="8811a-114">注解</span><span class="sxs-lookup"><span data-stu-id="8811a-114">Remarks</span></span>  
+ <span data-ttu-id="8811a-115">宿主应用程序可能有 PresentationHost.exe 默认用户界面不符合的特定主题。</span><span class="sxs-lookup"><span data-stu-id="8811a-115">A host application may have a specific theme that PresentationHost.exe’s default user interfaces may not conform to.</span></span> <span data-ttu-id="8811a-116">如果是这种情况，主机应用程序可以实现 [GetCustomUI](getcustomui.md) ，以将进度和错误用户界面返回到 PresentationHost.exe。</span><span class="sxs-lookup"><span data-stu-id="8811a-116">If this is the case, the host application can implement [GetCustomUI](getcustomui.md) to return progress and error user interfaces to PresentationHost.exe.</span></span> <span data-ttu-id="8811a-117">PresentationHost.exe 将始终在使用其默认用户界面之前调用 [GetCustomUI](getcustomui.md) 。</span><span class="sxs-lookup"><span data-stu-id="8811a-117">PresentationHost.exe will always call [GetCustomUI](getcustomui.md) before using its default user interfaces.</span></span>  
   
- <span data-ttu-id="30933-118">此函数在 Presentationhost.exe 的初始化过程中调用一次。</span><span class="sxs-lookup"><span data-stu-id="30933-118">This function is called once during PresentationHost’s initialization.</span></span>  
+ <span data-ttu-id="8811a-118">此函数在 Presentationhost.exe 的初始化过程中调用一次。</span><span class="sxs-lookup"><span data-stu-id="8811a-118">This function is called once during PresentationHost’s initialization.</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="30933-119">请参阅</span><span class="sxs-lookup"><span data-stu-id="30933-119">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="8811a-119">另请参阅</span><span class="sxs-lookup"><span data-stu-id="8811a-119">See also</span></span>
 
-- [<span data-ttu-id="30933-120">IWpfHostSupport</span><span class="sxs-lookup"><span data-stu-id="30933-120">IWpfHostSupport</span></span>](iwpfhostsupport.md)
+- [<span data-ttu-id="8811a-120">IWpfHostSupport</span><span class="sxs-lookup"><span data-stu-id="8811a-120">IWpfHostSupport</span></span>](iwpfhostsupport.md)

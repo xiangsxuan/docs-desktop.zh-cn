@@ -15,10 +15,10 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973702"
 ---
-# <a name="wrappanel"></a><span data-ttu-id="a5c66-102">WrapPanel</span><span class="sxs-lookup"><span data-stu-id="a5c66-102">WrapPanel</span></span>
-<span data-ttu-id="a5c66-103"><xref:System.Windows.Controls.WrapPanel>元素按从左到右的顺序位置定位子元素，将内容分解到其包含框的边缘处的下一行。</span><span class="sxs-lookup"><span data-stu-id="a5c66-103">The <xref:System.Windows.Controls.WrapPanel> element positions child elements in sequential position from left to right, breaking content to the next line at the edge of its containing box.</span></span>  
+# <a name="wrappanel"></a><span data-ttu-id="33608-102">WrapPanel</span><span class="sxs-lookup"><span data-stu-id="33608-102">WrapPanel</span></span>
+<span data-ttu-id="33608-103"><xref:System.Windows.Controls.WrapPanel>元素按从左到右的顺序位置定位子元素，将内容分解到其包含框的边缘处的下一行。</span><span class="sxs-lookup"><span data-stu-id="33608-103">The <xref:System.Windows.Controls.WrapPanel> element positions child elements in sequential position from left to right, breaking content to the next line at the edge of its containing box.</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="a5c66-104">参考</span><span class="sxs-lookup"><span data-stu-id="a5c66-104">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="33608-104">参考</span><span class="sxs-lookup"><span data-stu-id="33608-104">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -33,9 +33,9 @@ ms.locfileid: "96973702"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="a5c66-105">相关章节</span><span class="sxs-lookup"><span data-stu-id="a5c66-105">Related Sections</span></span>  
- [<span data-ttu-id="a5c66-106">布局</span><span class="sxs-lookup"><span data-stu-id="a5c66-106">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="33608-105">相关章节</span><span class="sxs-lookup"><span data-stu-id="33608-105">Related Sections</span></span>  
+ [<span data-ttu-id="33608-106">布局</span><span class="sxs-lookup"><span data-stu-id="33608-106">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="a5c66-107">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="a5c66-107">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="33608-107">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="33608-107">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="a5c66-108">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="a5c66-108">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="33608-108">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="33608-108">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

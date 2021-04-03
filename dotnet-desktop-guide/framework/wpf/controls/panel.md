@@ -15,14 +15,14 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973704"
 ---
-# <a name="panel"></a><span data-ttu-id="a0190-102">陪审团</span><span class="sxs-lookup"><span data-stu-id="a0190-102">Panel</span></span>
-<span data-ttu-id="a0190-103"><xref:System.Windows.Controls.Panel> 是中支持应用程序布局的所有元素的基类 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。</span><span class="sxs-lookup"><span data-stu-id="a0190-103"><xref:System.Windows.Controls.Panel> is the base class for all elements that support application layout in [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)].</span></span>  
+# <a name="panel"></a><span data-ttu-id="434a4-102">陪审团</span><span class="sxs-lookup"><span data-stu-id="434a4-102">Panel</span></span>
+<span data-ttu-id="434a4-103"><xref:System.Windows.Controls.Panel> 是中支持应用程序布局的所有元素的基类 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。</span><span class="sxs-lookup"><span data-stu-id="434a4-103"><xref:System.Windows.Controls.Panel> is the base class for all elements that support application layout in [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)].</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="a0190-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="a0190-104">In This Section</span></span>  
- [<span data-ttu-id="a0190-105">面板概述</span><span class="sxs-lookup"><span data-stu-id="a0190-105">Panels Overview</span></span>](panels-overview.md)  
- [<span data-ttu-id="a0190-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="a0190-106">How-to Topics</span></span>](panel-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="434a4-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="434a4-104">In This Section</span></span>  
+ [<span data-ttu-id="434a4-105">面板概述</span><span class="sxs-lookup"><span data-stu-id="434a4-105">Panels Overview</span></span>](panels-overview.md)  
+ [<span data-ttu-id="434a4-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="434a4-106">How-to Topics</span></span>](panel-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="a0190-107">参考</span><span class="sxs-lookup"><span data-stu-id="a0190-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="434a4-107">参考</span><span class="sxs-lookup"><span data-stu-id="434a4-107">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -37,9 +37,9 @@ ms.locfileid: "96973704"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="a0190-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="a0190-108">Related Sections</span></span>  
- [<span data-ttu-id="a0190-109">布局</span><span class="sxs-lookup"><span data-stu-id="a0190-109">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="434a4-108">相关章节</span><span class="sxs-lookup"><span data-stu-id="434a4-108">Related Sections</span></span>  
+ [<span data-ttu-id="434a4-109">布局</span><span class="sxs-lookup"><span data-stu-id="434a4-109">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="a0190-110">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="a0190-110">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="434a4-110">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="434a4-110">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="a0190-111">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="a0190-111">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="434a4-111">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="434a4-111">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

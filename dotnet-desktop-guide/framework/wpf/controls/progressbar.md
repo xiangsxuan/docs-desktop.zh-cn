@@ -14,17 +14,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973675"
 ---
-# <a name="progressbar"></a><span data-ttu-id="b20ed-102">ProgressBar</span><span class="sxs-lookup"><span data-stu-id="b20ed-102">ProgressBar</span></span>
-<span data-ttu-id="b20ed-103"><xref:System.Windows.Controls.ProgressBar>指示操作的进度。</span><span class="sxs-lookup"><span data-stu-id="b20ed-103">A <xref:System.Windows.Controls.ProgressBar> indicates the progress of an operation.</span></span> <span data-ttu-id="b20ed-104"><xref:System.Windows.Controls.ProgressBar>控件包含一个窗口，该窗口在操作过程中填充系统突出显示颜色。</span><span class="sxs-lookup"><span data-stu-id="b20ed-104">The <xref:System.Windows.Controls.ProgressBar> control consists of a window that is filled with the system highlight color as an operation progresses.</span></span>  
+# <a name="progressbar"></a><span data-ttu-id="1c55f-102">ProgressBar</span><span class="sxs-lookup"><span data-stu-id="1c55f-102">ProgressBar</span></span>
+<span data-ttu-id="1c55f-103"><xref:System.Windows.Controls.ProgressBar>指示操作的进度。</span><span class="sxs-lookup"><span data-stu-id="1c55f-103">A <xref:System.Windows.Controls.ProgressBar> indicates the progress of an operation.</span></span> <span data-ttu-id="1c55f-104"><xref:System.Windows.Controls.ProgressBar>控件包含一个窗口，该窗口在操作过程中填充系统突出显示颜色。</span><span class="sxs-lookup"><span data-stu-id="1c55f-104">The <xref:System.Windows.Controls.ProgressBar> control consists of a window that is filled with the system highlight color as an operation progresses.</span></span>  
   
- <span data-ttu-id="b20ed-105">下图显示了一个典型的 <xref:System.Windows.Controls.ProgressBar> 。</span><span class="sxs-lookup"><span data-stu-id="b20ed-105">The following illustration shows a typical <xref:System.Windows.Controls.ProgressBar>.</span></span>  
+ <span data-ttu-id="1c55f-105">下图显示了一个典型的 <xref:System.Windows.Controls.ProgressBar> 。</span><span class="sxs-lookup"><span data-stu-id="1c55f-105">The following illustration shows a typical <xref:System.Windows.Controls.ProgressBar>.</span></span>  
   
- <span data-ttu-id="b20ed-106">![进度条](./media/ss-ctl-progressbar.GIF "SS_CTL_progressbar")</span><span class="sxs-lookup"><span data-stu-id="b20ed-106">![Progress bar](./media/ss-ctl-progressbar.GIF "SS_CTL_progressbar")</span></span>  
+ <span data-ttu-id="1c55f-106">![进度条](./media/ss-ctl-progressbar.GIF "SS_CTL_progressbar")</span><span class="sxs-lookup"><span data-stu-id="1c55f-106">![Progress bar](./media/ss-ctl-progressbar.GIF "SS_CTL_progressbar")</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="b20ed-107">本节内容</span><span class="sxs-lookup"><span data-stu-id="b20ed-107">In This Section</span></span>  
+## <a name="in-this-section"></a><span data-ttu-id="1c55f-107">本节内容</span><span class="sxs-lookup"><span data-stu-id="1c55f-107">In This Section</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="b20ed-108">参考</span><span class="sxs-lookup"><span data-stu-id="b20ed-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="1c55f-108">参考</span><span class="sxs-lookup"><span data-stu-id="1c55f-108">Reference</span></span>  
  <xref:System.Windows.Controls.ProgressBar>  
   <xref:System.Windows.Controls.Primitives.StatusBar>  
   
-## <a name="related-sections"></a><span data-ttu-id="b20ed-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="b20ed-109">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="1c55f-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="1c55f-109">Related Sections</span></span>

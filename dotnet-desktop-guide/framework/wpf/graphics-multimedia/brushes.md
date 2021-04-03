@@ -15,19 +15,19 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972800"
 ---
-# <a name="brushes"></a><span data-ttu-id="3d875-102">画笔</span><span class="sxs-lookup"><span data-stu-id="3d875-102">Brushes</span></span>
-<span data-ttu-id="3d875-103">以下主题介绍如何使用画笔将 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 内容 "绘制" 到屏幕</span><span class="sxs-lookup"><span data-stu-id="3d875-103">The following topics describe how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] brushes to "paint" content to the screen</span></span>  
+# <a name="brushes"></a><span data-ttu-id="b8392-102">画笔</span><span class="sxs-lookup"><span data-stu-id="b8392-102">Brushes</span></span>
+<span data-ttu-id="b8392-103">以下主题介绍如何使用画笔将 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 内容 "绘制" 到屏幕</span><span class="sxs-lookup"><span data-stu-id="b8392-103">The following topics describe how to use [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] brushes to "paint" content to the screen</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="3d875-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="3d875-104">In This Section</span></span>  
- [<span data-ttu-id="3d875-105">WPF 画笔概述</span><span class="sxs-lookup"><span data-stu-id="3d875-105">WPF Brushes Overview</span></span>](wpf-brushes-overview.md)  
- [<span data-ttu-id="3d875-106">Brush 变换概述</span><span class="sxs-lookup"><span data-stu-id="3d875-106">Brush Transformation Overview</span></span>](brush-transformation-overview.md)  
- [<span data-ttu-id="3d875-107">不透明蒙板概述</span><span class="sxs-lookup"><span data-stu-id="3d875-107">Opacity Masks Overview</span></span>](opacity-masks-overview.md)  
- [<span data-ttu-id="3d875-108">使用纯色和渐变进行绘制概述</span><span class="sxs-lookup"><span data-stu-id="3d875-108">Painting with Solid Colors and Gradients Overview</span></span>](painting-with-solid-colors-and-gradients-overview.md)  
- [<span data-ttu-id="3d875-109">使用图像、图形和视觉对象进行绘制</span><span class="sxs-lookup"><span data-stu-id="3d875-109">Painting with Images, Drawings, and Visuals</span></span>](painting-with-images-drawings-and-visuals.md)  
- [<span data-ttu-id="3d875-110">TileBrush 概述</span><span class="sxs-lookup"><span data-stu-id="3d875-110">TileBrush Overview</span></span>](tilebrush-overview.md)  
- [<span data-ttu-id="3d875-111">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="3d875-111">How-to Topics</span></span>](brushes-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="b8392-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="b8392-104">In This Section</span></span>  
+ [<span data-ttu-id="b8392-105">WPF 画笔概述</span><span class="sxs-lookup"><span data-stu-id="b8392-105">WPF Brushes Overview</span></span>](wpf-brushes-overview.md)  
+ [<span data-ttu-id="b8392-106">Brush 变换概述</span><span class="sxs-lookup"><span data-stu-id="b8392-106">Brush Transformation Overview</span></span>](brush-transformation-overview.md)  
+ [<span data-ttu-id="b8392-107">不透明蒙板概述</span><span class="sxs-lookup"><span data-stu-id="b8392-107">Opacity Masks Overview</span></span>](opacity-masks-overview.md)  
+ [<span data-ttu-id="b8392-108">使用纯色和渐变进行绘制概述</span><span class="sxs-lookup"><span data-stu-id="b8392-108">Painting with Solid Colors and Gradients Overview</span></span>](painting-with-solid-colors-and-gradients-overview.md)  
+ [<span data-ttu-id="b8392-109">使用图像、图形和视觉对象进行绘制</span><span class="sxs-lookup"><span data-stu-id="b8392-109">Painting with Images, Drawings, and Visuals</span></span>](painting-with-images-drawings-and-visuals.md)  
+ [<span data-ttu-id="b8392-110">TileBrush 概述</span><span class="sxs-lookup"><span data-stu-id="b8392-110">TileBrush Overview</span></span>](tilebrush-overview.md)  
+ [<span data-ttu-id="b8392-111">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="b8392-111">How-to Topics</span></span>](brushes-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="3d875-112">参考</span><span class="sxs-lookup"><span data-stu-id="3d875-112">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="b8392-112">参考</span><span class="sxs-lookup"><span data-stu-id="b8392-112">Reference</span></span>  
  <xref:System.Windows.Media.Brush>  
   
  <xref:System.Windows.Media.SolidColorBrush>  
@@ -40,7 +40,7 @@ ms.locfileid: "96972800"
   
  <xref:System.Windows.Media.VisualBrush>  
   
-## <a name="related-sections"></a><span data-ttu-id="3d875-113">相关章节</span><span class="sxs-lookup"><span data-stu-id="3d875-113">Related Sections</span></span>  
- [<span data-ttu-id="3d875-114">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="3d875-114">Graphics and Multimedia</span></span>](index.md)  
+## <a name="related-sections"></a><span data-ttu-id="b8392-113">相关章节</span><span class="sxs-lookup"><span data-stu-id="b8392-113">Related Sections</span></span>  
+ [<span data-ttu-id="b8392-114">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="b8392-114">Graphics and Multimedia</span></span>](index.md)  
   
- [<span data-ttu-id="3d875-115">WPF 图形呈现疑难解答</span><span class="sxs-lookup"><span data-stu-id="3d875-115">WPF Graphics Rendering Overview</span></span>](wpf-graphics-rendering-overview.md)
+ [<span data-ttu-id="b8392-115">WPF 图形呈现疑难解答</span><span class="sxs-lookup"><span data-stu-id="b8392-115">WPF Graphics Rendering Overview</span></span>](wpf-graphics-rendering-overview.md)

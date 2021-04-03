@@ -13,17 +13,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972995"
 ---
-# <a name="drag-and-drop-how-to-topics"></a><span data-ttu-id="d153c-102">拖放帮助主题</span><span class="sxs-lookup"><span data-stu-id="d153c-102">Drag and Drop How-to Topics</span></span>
-<span data-ttu-id="d153c-103">下面的示例演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 拖放框架完成常见任务。</span><span class="sxs-lookup"><span data-stu-id="d153c-103">The following examples demonstrate how to accomplish common tasks using the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] drag-and-drop framework.</span></span>  
+# <a name="drag-and-drop-how-to-topics"></a><span data-ttu-id="ea9cb-102">拖放帮助主题</span><span class="sxs-lookup"><span data-stu-id="ea9cb-102">Drag and Drop How-to Topics</span></span>
+<span data-ttu-id="ea9cb-103">下面的示例演示如何使用 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 拖放框架完成常见任务。</span><span class="sxs-lookup"><span data-stu-id="ea9cb-103">The following examples demonstrate how to accomplish common tasks using the [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] drag-and-drop framework.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="d153c-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d153c-104">In This Section</span></span>  
- [<span data-ttu-id="d153c-105">打开放入 RichTextBox 控件的文件</span><span class="sxs-lookup"><span data-stu-id="d153c-105">Open a File That is Dropped on a RichTextBox Control</span></span>](how-to-open-a-file-that-is-dropped-on-a-richtextbox-control.md)  
- [<span data-ttu-id="d153c-106">创建数据对象</span><span class="sxs-lookup"><span data-stu-id="d153c-106">Create a Data Object</span></span>](how-to-create-a-data-object.md)  
- [<span data-ttu-id="d153c-107">确定数据格式是否存在于数据对象中</span><span class="sxs-lookup"><span data-stu-id="d153c-107">Determine if a Data Format is Present in a Data Object</span></span>](how-to-determine-if-a-data-format-is-present-in-a-data-object.md)  
- [<span data-ttu-id="d153c-108">列出数据对象中的数据格式</span><span class="sxs-lookup"><span data-stu-id="d153c-108">List the Data Formats in a Data Object</span></span>](how-to-list-the-data-formats-in-a-data-object.md)  
- [<span data-ttu-id="d153c-109">以特定数据格式检索数据</span><span class="sxs-lookup"><span data-stu-id="d153c-109">Retrieve Data in a Particular Data Format</span></span>](how-to-retrieve-data-in-a-particular-data-format.md)  
- [<span data-ttu-id="d153c-110">在数据对象中存储多种数据格式</span><span class="sxs-lookup"><span data-stu-id="d153c-110">Store Multiple Data Formats in a Data Object</span></span>](how-to-store-multiple-data-formats-in-a-data-object.md)  
+## <a name="in-this-section"></a><span data-ttu-id="ea9cb-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="ea9cb-104">In This Section</span></span>  
+ [<span data-ttu-id="ea9cb-105">打开放入 RichTextBox 控件的文件</span><span class="sxs-lookup"><span data-stu-id="ea9cb-105">Open a File That is Dropped on a RichTextBox Control</span></span>](how-to-open-a-file-that-is-dropped-on-a-richtextbox-control.md)  
+ [<span data-ttu-id="ea9cb-106">创建数据对象</span><span class="sxs-lookup"><span data-stu-id="ea9cb-106">Create a Data Object</span></span>](how-to-create-a-data-object.md)  
+ [<span data-ttu-id="ea9cb-107">确定数据格式是否存在于数据对象中</span><span class="sxs-lookup"><span data-stu-id="ea9cb-107">Determine if a Data Format is Present in a Data Object</span></span>](how-to-determine-if-a-data-format-is-present-in-a-data-object.md)  
+ [<span data-ttu-id="ea9cb-108">列出数据对象中的数据格式</span><span class="sxs-lookup"><span data-stu-id="ea9cb-108">List the Data Formats in a Data Object</span></span>](how-to-list-the-data-formats-in-a-data-object.md)  
+ [<span data-ttu-id="ea9cb-109">以特定数据格式检索数据</span><span class="sxs-lookup"><span data-stu-id="ea9cb-109">Retrieve Data in a Particular Data Format</span></span>](how-to-retrieve-data-in-a-particular-data-format.md)  
+ [<span data-ttu-id="ea9cb-110">在数据对象中存储多种数据格式</span><span class="sxs-lookup"><span data-stu-id="ea9cb-110">Store Multiple Data Formats in a Data Object</span></span>](how-to-store-multiple-data-formats-in-a-data-object.md)  
   
-## <a name="see-also"></a><span data-ttu-id="d153c-111">请参阅</span><span class="sxs-lookup"><span data-stu-id="d153c-111">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="ea9cb-111">另请参阅</span><span class="sxs-lookup"><span data-stu-id="ea9cb-111">See also</span></span>
 
-- [<span data-ttu-id="d153c-112">拖放概述</span><span class="sxs-lookup"><span data-stu-id="d153c-112">Drag and Drop Overview</span></span>](drag-and-drop-overview.md)
+- [<span data-ttu-id="ea9cb-112">拖放概述</span><span class="sxs-lookup"><span data-stu-id="ea9cb-112">Drag and Drop Overview</span></span>](drag-and-drop-overview.md)

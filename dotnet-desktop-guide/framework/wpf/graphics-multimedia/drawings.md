@@ -20,17 +20,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973193"
 ---
-# <a name="drawings"></a><span data-ttu-id="04423-102">绘图</span><span class="sxs-lookup"><span data-stu-id="04423-102">Drawings</span></span>
-<span data-ttu-id="04423-103"><xref:System.Windows.Media.Drawing> 对象用于有效地绘制形状、图像或文本。</span><span class="sxs-lookup"><span data-stu-id="04423-103"><xref:System.Windows.Media.Drawing> objects are used to efficiently draw shapes, images, or text.</span></span> <span data-ttu-id="04423-104">使用绘制或使用对象编程时使用绘图 <xref:System.Windows.Media.DrawingBrush> <xref:System.Windows.Media.Visual> 。</span><span class="sxs-lookup"><span data-stu-id="04423-104">Drawings are used when painting with a <xref:System.Windows.Media.DrawingBrush> or programming with <xref:System.Windows.Media.Visual> objects.</span></span>  
+# <a name="drawings"></a><span data-ttu-id="a190e-102">绘图</span><span class="sxs-lookup"><span data-stu-id="a190e-102">Drawings</span></span>
+<span data-ttu-id="a190e-103"><xref:System.Windows.Media.Drawing> 对象用于有效地绘制形状、图像或文本。</span><span class="sxs-lookup"><span data-stu-id="a190e-103"><xref:System.Windows.Media.Drawing> objects are used to efficiently draw shapes, images, or text.</span></span> <span data-ttu-id="a190e-104">使用绘制或使用对象编程时使用绘图 <xref:System.Windows.Media.DrawingBrush> <xref:System.Windows.Media.Visual> 。</span><span class="sxs-lookup"><span data-stu-id="a190e-104">Drawings are used when painting with a <xref:System.Windows.Media.DrawingBrush> or programming with <xref:System.Windows.Media.Visual> objects.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="04423-105">本节内容</span><span class="sxs-lookup"><span data-stu-id="04423-105">In This Section</span></span>  
- [<span data-ttu-id="04423-106">Drawing 对象概述</span><span class="sxs-lookup"><span data-stu-id="04423-106">Drawing Objects Overview</span></span>](drawing-objects-overview.md)  
-  [<span data-ttu-id="04423-107">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="04423-107">How-to Topics</span></span>](drawings-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="a190e-105">本节内容</span><span class="sxs-lookup"><span data-stu-id="a190e-105">In This Section</span></span>  
+ [<span data-ttu-id="a190e-106">Drawing 对象概述</span><span class="sxs-lookup"><span data-stu-id="a190e-106">Drawing Objects Overview</span></span>](drawing-objects-overview.md)  
+  [<span data-ttu-id="a190e-107">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="a190e-107">How-to Topics</span></span>](drawings-how-to-topics.md)  
   
-## <a name="see-also"></a><span data-ttu-id="04423-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="04423-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="a190e-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="a190e-108">See also</span></span>
 
 - <xref:System.Windows.Media.Drawing>
-- [<span data-ttu-id="04423-109">二维图形和图像处理</span><span class="sxs-lookup"><span data-stu-id="04423-109">2D Graphics and Imaging</span></span>](../advanced/optimizing-performance-2d-graphics-and-imaging.md)
-- [<span data-ttu-id="04423-110">WPF 图形呈现疑难解答</span><span class="sxs-lookup"><span data-stu-id="04423-110">WPF Graphics Rendering Overview</span></span>](wpf-graphics-rendering-overview.md)
-- [<span data-ttu-id="04423-111">WPF 中的形状和基本图形概述</span><span class="sxs-lookup"><span data-stu-id="04423-111">Shapes and Basic Drawing in WPF Overview</span></span>](shapes-and-basic-drawing-in-wpf-overview.md)
-- [<span data-ttu-id="04423-112">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="04423-112">Graphics and Multimedia</span></span>](index.md)
+- [<span data-ttu-id="a190e-109">二维图形和图像处理</span><span class="sxs-lookup"><span data-stu-id="a190e-109">2D Graphics and Imaging</span></span>](../advanced/optimizing-performance-2d-graphics-and-imaging.md)
+- [<span data-ttu-id="a190e-110">WPF 图形呈现疑难解答</span><span class="sxs-lookup"><span data-stu-id="a190e-110">WPF Graphics Rendering Overview</span></span>](wpf-graphics-rendering-overview.md)
+- [<span data-ttu-id="a190e-111">WPF 中的形状和基本图形概述</span><span class="sxs-lookup"><span data-stu-id="a190e-111">Shapes and Basic Drawing in WPF Overview</span></span>](shapes-and-basic-drawing-in-wpf-overview.md)
+- [<span data-ttu-id="a190e-112">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="a190e-112">Graphics and Multimedia</span></span>](index.md)

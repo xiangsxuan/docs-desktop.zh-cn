@@ -14,23 +14,23 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973780"
 ---
-# <a name="audio-and-video-how-to-topics"></a><span data-ttu-id="6accf-102">音频和视频帮助主题</span><span class="sxs-lookup"><span data-stu-id="6accf-102">Audio and Video How-to Topics</span></span>
-<span data-ttu-id="6accf-103">以下主题演示如何使用在 <xref:System.Windows.Controls.MediaElement> 应用程序中集成音频和视频内容。</span><span class="sxs-lookup"><span data-stu-id="6accf-103">The following topics demonstrate how to use the <xref:System.Windows.Controls.MediaElement> to integrate audio and video content in your applications.</span></span>  
+# <a name="audio-and-video-how-to-topics"></a><span data-ttu-id="722b7-102">音频和视频帮助主题</span><span class="sxs-lookup"><span data-stu-id="722b7-102">Audio and Video How-to Topics</span></span>
+<span data-ttu-id="722b7-103">以下主题演示如何使用在 <xref:System.Windows.Controls.MediaElement> 应用程序中集成音频和视频内容。</span><span class="sxs-lookup"><span data-stu-id="722b7-103">The following topics demonstrate how to use the <xref:System.Windows.Controls.MediaElement> to integrate audio and video content in your applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="6accf-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="6accf-104">In This Section</span></span>  
- [<span data-ttu-id="6accf-105">控制 MediaElement（播放、暂停、停止、音量和速度）</span><span class="sxs-lookup"><span data-stu-id="6accf-105">Control a MediaElement (Play, Pause, Stop, Volume, and Speed)</span></span>](how-to-control-a-mediaelement-play-pause-stop-volume-and-speed.md)  
- [<span data-ttu-id="6accf-106">使用情节提要控制 MediaElement</span><span class="sxs-lookup"><span data-stu-id="6accf-106">Control a MediaElement by Using a Storyboard</span></span>](how-to-control-a-mediaelement-by-using-a-storyboard.md)  
- [<span data-ttu-id="6accf-107">使用用户事件触发媒体播放</span><span class="sxs-lookup"><span data-stu-id="6accf-107">Trigger Media Playback with a User Event</span></span>](how-to-trigger-media-playback-with-a-user-event.md)  
- [<span data-ttu-id="6accf-108">重复媒体播放</span><span class="sxs-lookup"><span data-stu-id="6accf-108">Repeat Media Playback</span></span>](how-to-repeat-media-playback.md)  
- [<span data-ttu-id="6accf-109">播放带有动画的媒体</span><span class="sxs-lookup"><span data-stu-id="6accf-109">Play Media with Animations</span></span>](how-to-play-media-with-animations.md)  
- [<span data-ttu-id="6accf-110">对 MediaElement 使用转换</span><span class="sxs-lookup"><span data-stu-id="6accf-110">Use Transforms on a MediaElement</span></span>](how-to-use-transforms-on-a-mediaelement.md)  
+## <a name="in-this-section"></a><span data-ttu-id="722b7-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="722b7-104">In This Section</span></span>  
+ [<span data-ttu-id="722b7-105">控制 MediaElement（播放、暂停、停止、音量和速度）</span><span class="sxs-lookup"><span data-stu-id="722b7-105">Control a MediaElement (Play, Pause, Stop, Volume, and Speed)</span></span>](how-to-control-a-mediaelement-play-pause-stop-volume-and-speed.md)  
+ [<span data-ttu-id="722b7-106">使用情节提要控制 MediaElement</span><span class="sxs-lookup"><span data-stu-id="722b7-106">Control a MediaElement by Using a Storyboard</span></span>](how-to-control-a-mediaelement-by-using-a-storyboard.md)  
+ [<span data-ttu-id="722b7-107">使用用户事件触发媒体播放</span><span class="sxs-lookup"><span data-stu-id="722b7-107">Trigger Media Playback with a User Event</span></span>](how-to-trigger-media-playback-with-a-user-event.md)  
+ [<span data-ttu-id="722b7-108">重复媒体播放</span><span class="sxs-lookup"><span data-stu-id="722b7-108">Repeat Media Playback</span></span>](how-to-repeat-media-playback.md)  
+ [<span data-ttu-id="722b7-109">播放带有动画的媒体</span><span class="sxs-lookup"><span data-stu-id="722b7-109">Play Media with Animations</span></span>](how-to-play-media-with-animations.md)  
+ [<span data-ttu-id="722b7-110">对 MediaElement 使用转换</span><span class="sxs-lookup"><span data-stu-id="722b7-110">Use Transforms on a MediaElement</span></span>](how-to-use-transforms-on-a-mediaelement.md)  
   
-## <a name="reference"></a><span data-ttu-id="6accf-111">参考</span><span class="sxs-lookup"><span data-stu-id="6accf-111">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="722b7-111">参考</span><span class="sxs-lookup"><span data-stu-id="722b7-111">Reference</span></span>  
  <xref:System.Windows.Controls.MediaElement>  
   
  <xref:System.Windows.Media.MediaPlayer>  
   
  <xref:System.Windows.Media.MediaTimeline>  
   
-## <a name="related-sections"></a><span data-ttu-id="6accf-112">相关章节</span><span class="sxs-lookup"><span data-stu-id="6accf-112">Related Sections</span></span>  
- [<span data-ttu-id="6accf-113">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="6accf-113">Graphics and Multimedia</span></span>](index.md)
+## <a name="related-sections"></a><span data-ttu-id="722b7-112">相关章节</span><span class="sxs-lookup"><span data-stu-id="722b7-112">Related Sections</span></span>  
+ [<span data-ttu-id="722b7-113">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="722b7-113">Graphics and Multimedia</span></span>](index.md)

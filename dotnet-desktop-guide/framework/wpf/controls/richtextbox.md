@@ -14,15 +14,15 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973795"
 ---
-# <a name="richtextbox"></a><span data-ttu-id="4094c-102">RichTextBox</span><span class="sxs-lookup"><span data-stu-id="4094c-102">RichTextBox</span></span>
-<span data-ttu-id="4094c-103"><xref:System.Windows.Controls.RichTextBox>元素定义了一个编辑控件，其中包含对剪切和粘贴、丰富文档演示和内容选择等功能的内置支持。</span><span class="sxs-lookup"><span data-stu-id="4094c-103">The <xref:System.Windows.Controls.RichTextBox> element defines an editing control with built-in support for features such as cut and paste, rich document presentation, and content selection.</span></span>  
+# <a name="richtextbox"></a><span data-ttu-id="56ef7-102">RichTextBox</span><span class="sxs-lookup"><span data-stu-id="56ef7-102">RichTextBox</span></span>
+<span data-ttu-id="56ef7-103"><xref:System.Windows.Controls.RichTextBox>元素定义了一个编辑控件，其中包含对剪切和粘贴、丰富文档演示和内容选择等功能的内置支持。</span><span class="sxs-lookup"><span data-stu-id="56ef7-103">The <xref:System.Windows.Controls.RichTextBox> element defines an editing control with built-in support for features such as cut and paste, rich document presentation, and content selection.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="4094c-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="4094c-104">In This Section</span></span>  
- [<span data-ttu-id="4094c-105">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="4094c-105">RichTextBox Overview</span></span>](richtextbox-overview.md)  
- [<span data-ttu-id="4094c-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="4094c-106">How-to Topics</span></span>](richtextbox-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="56ef7-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="56ef7-104">In This Section</span></span>  
+ [<span data-ttu-id="56ef7-105">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="56ef7-105">RichTextBox Overview</span></span>](richtextbox-overview.md)  
+ [<span data-ttu-id="56ef7-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="56ef7-106">How-to Topics</span></span>](richtextbox-how-to-topics.md)  
   
-## <a name="see-also"></a><span data-ttu-id="4094c-107">请参阅</span><span class="sxs-lookup"><span data-stu-id="4094c-107">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="56ef7-107">另请参阅</span><span class="sxs-lookup"><span data-stu-id="56ef7-107">See also</span></span>
 
 - <xref:System.Windows.Controls.TextBox>
-- [<span data-ttu-id="4094c-108">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="4094c-108">Documents in WPF</span></span>](../advanced/documents-in-wpf.md)
-- [<span data-ttu-id="4094c-109">流文档概述</span><span class="sxs-lookup"><span data-stu-id="4094c-109">Flow Document Overview</span></span>](../advanced/flow-document-overview.md)
+- [<span data-ttu-id="56ef7-108">WPF 中的文档</span><span class="sxs-lookup"><span data-stu-id="56ef7-108">Documents in WPF</span></span>](../advanced/documents-in-wpf.md)
+- [<span data-ttu-id="56ef7-109">流文档概述</span><span class="sxs-lookup"><span data-stu-id="56ef7-109">Flow Document Overview</span></span>](../advanced/flow-document-overview.md)

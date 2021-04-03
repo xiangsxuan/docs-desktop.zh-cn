@@ -18,17 +18,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973200"
 ---
-# <a name="how-to-insert-an-element-into-text-programmatically"></a><span data-ttu-id="a4bf9-102">如何：以编程方式将元素插入文本</span><span class="sxs-lookup"><span data-stu-id="a4bf9-102">How to: Insert an Element Into Text Programmatically</span></span>
-<span data-ttu-id="a4bf9-103">下面的示例演示如何使用两个 <xref:System.Windows.Documents.TextPointer> 对象来指定要向其应用元素的文本范围 <xref:System.Windows.Documents.Span> 。</span><span class="sxs-lookup"><span data-stu-id="a4bf9-103">The following example shows how to use two <xref:System.Windows.Documents.TextPointer> objects to specify a range within text to apply a <xref:System.Windows.Documents.Span> element to.</span></span>  
+# <a name="how-to-insert-an-element-into-text-programmatically"></a><span data-ttu-id="a5b31-102">如何：以编程方式将元素插入文本</span><span class="sxs-lookup"><span data-stu-id="a5b31-102">How to: Insert an Element Into Text Programmatically</span></span>
+<span data-ttu-id="a5b31-103">下面的示例演示如何使用两个 <xref:System.Windows.Documents.TextPointer> 对象来指定要向其应用元素的文本范围 <xref:System.Windows.Documents.Span> 。</span><span class="sxs-lookup"><span data-stu-id="a5b31-103">The following example shows how to use two <xref:System.Windows.Documents.TextPointer> objects to specify a range within text to apply a <xref:System.Windows.Documents.Span> element to.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="a4bf9-104">示例</span><span class="sxs-lookup"><span data-stu-id="a4bf9-104">Example</span></span>  
+## <a name="example"></a><span data-ttu-id="a5b31-104">示例</span><span class="sxs-lookup"><span data-stu-id="a5b31-104">Example</span></span>  
  [!code-csharp[FlowMiscSnippets_procedural_snip#InsertInlineIntoTextExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/FlowMiscSnippets_procedural_snip/CSharp/InsertInlineIntoTextExample.cs#insertinlineintotextexamplewholepage)]
  [!code-vb[FlowMiscSnippets_procedural_snip#InsertInlineIntoTextExampleWholePage](~/samples/snippets/visualbasic/VS_Snippets_Wpf/FlowMiscSnippets_procedural_snip/VisualBasic/InsertInlineIntoTextExample.vb#insertinlineintotextexamplewholepage)]  
   
- <span data-ttu-id="a4bf9-105">下图显示此示例。</span><span class="sxs-lookup"><span data-stu-id="a4bf9-105">The illustration below shows what this example looks like.</span></span>  
+ <span data-ttu-id="a5b31-105">下图显示此示例。</span><span class="sxs-lookup"><span data-stu-id="a5b31-105">The illustration below shows what this example looks like.</span></span>  
   
- <span data-ttu-id="a4bf9-106">![应用于一定范围文本的 Span 元素](./media/flow-insertelementintotextprogrammatically.png "Flow_InsertElementIntoTextProgrammatically")</span><span class="sxs-lookup"><span data-stu-id="a4bf9-106">![A Span element applied to a range of text](./media/flow-insertelementintotextprogrammatically.png "Flow_InsertElementIntoTextProgrammatically")</span></span>  
+ <span data-ttu-id="a5b31-106">![应用于一定范围文本的 Span 元素](./media/flow-insertelementintotextprogrammatically.png "Flow_InsertElementIntoTextProgrammatically")</span><span class="sxs-lookup"><span data-stu-id="a5b31-106">![A Span element applied to a range of text](./media/flow-insertelementintotextprogrammatically.png "Flow_InsertElementIntoTextProgrammatically")</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="a4bf9-107">请参阅</span><span class="sxs-lookup"><span data-stu-id="a4bf9-107">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="a5b31-107">另请参阅</span><span class="sxs-lookup"><span data-stu-id="a5b31-107">See also</span></span>
 
-- [<span data-ttu-id="a4bf9-108">流文档概述</span><span class="sxs-lookup"><span data-stu-id="a4bf9-108">Flow Document Overview</span></span>](flow-document-overview.md)
+- [<span data-ttu-id="a5b31-108">流文档概述</span><span class="sxs-lookup"><span data-stu-id="a5b31-108">Flow Document Overview</span></span>](flow-document-overview.md)

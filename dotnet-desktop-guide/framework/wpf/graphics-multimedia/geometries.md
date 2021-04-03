@@ -16,18 +16,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973582"
 ---
-# <a name="geometries"></a><span data-ttu-id="ed258-102">几何图形</span><span class="sxs-lookup"><span data-stu-id="ed258-102">Geometries</span></span>
-<span data-ttu-id="ed258-103"><xref:System.Windows.Media.Geometry> 是一个通用类，用于呈现2D 图形、命中测试对象和定义剪辑区域</span><span class="sxs-lookup"><span data-stu-id="ed258-103"><xref:System.Windows.Media.Geometry> is a versatile class, used to render 2D graphics, hit-test objects, and define clipping regions</span></span>  
+# <a name="geometries"></a><span data-ttu-id="815e1-102">几何图形</span><span class="sxs-lookup"><span data-stu-id="815e1-102">Geometries</span></span>
+<span data-ttu-id="815e1-103"><xref:System.Windows.Media.Geometry> 是一个通用类，用于呈现2D 图形、命中测试对象和定义剪辑区域</span><span class="sxs-lookup"><span data-stu-id="815e1-103"><xref:System.Windows.Media.Geometry> is a versatile class, used to render 2D graphics, hit-test objects, and define clipping regions</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="ed258-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="ed258-104">In This Section</span></span>  
- [<span data-ttu-id="ed258-105">路径标记语法</span><span class="sxs-lookup"><span data-stu-id="ed258-105">Path Markup Syntax</span></span>](path-markup-syntax.md)  
- [<span data-ttu-id="ed258-106">Geometry 概述</span><span class="sxs-lookup"><span data-stu-id="ed258-106">Geometry Overview</span></span>](geometry-overview.md)  
- [<span data-ttu-id="ed258-107">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="ed258-107">How-to Topics</span></span>](geometries-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="815e1-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="815e1-104">In This Section</span></span>  
+ [<span data-ttu-id="815e1-105">路径标记语法</span><span class="sxs-lookup"><span data-stu-id="815e1-105">Path Markup Syntax</span></span>](path-markup-syntax.md)  
+ [<span data-ttu-id="815e1-106">Geometry 概述</span><span class="sxs-lookup"><span data-stu-id="815e1-106">Geometry Overview</span></span>](geometry-overview.md)  
+ [<span data-ttu-id="815e1-107">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="815e1-107">How-to Topics</span></span>](geometries-how-to-topics.md)  
   
-## <a name="see-also"></a><span data-ttu-id="ed258-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="ed258-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="815e1-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="815e1-108">See also</span></span>
 
 - <xref:System.Windows.Media.Brushes>
 - <xref:System.Windows.Shapes.Shape>
-- [<span data-ttu-id="ed258-109">二维图形和图像处理</span><span class="sxs-lookup"><span data-stu-id="ed258-109">2D Graphics and Imaging</span></span>](../advanced/optimizing-performance-2d-graphics-and-imaging.md)
-- [<span data-ttu-id="ed258-110">WPF 中的形状和基本图形概述</span><span class="sxs-lookup"><span data-stu-id="ed258-110">Shapes and Basic Drawing in WPF Overview</span></span>](shapes-and-basic-drawing-in-wpf-overview.md)
-- [<span data-ttu-id="ed258-111">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="ed258-111">Graphics and Multimedia</span></span>](index.md)
+- [<span data-ttu-id="815e1-109">二维图形和图像处理</span><span class="sxs-lookup"><span data-stu-id="815e1-109">2D Graphics and Imaging</span></span>](../advanced/optimizing-performance-2d-graphics-and-imaging.md)
+- [<span data-ttu-id="815e1-110">WPF 中的形状和基本图形概述</span><span class="sxs-lookup"><span data-stu-id="815e1-110">Shapes and Basic Drawing in WPF Overview</span></span>](shapes-and-basic-drawing-in-wpf-overview.md)
+- [<span data-ttu-id="815e1-111">图形和多媒体</span><span class="sxs-lookup"><span data-stu-id="815e1-111">Graphics and Multimedia</span></span>](index.md)

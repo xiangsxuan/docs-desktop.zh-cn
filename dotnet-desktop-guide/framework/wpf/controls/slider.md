@@ -14,17 +14,17 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96972888"
 ---
-# <a name="slider"></a><span data-ttu-id="02a9f-102">Slider</span><span class="sxs-lookup"><span data-stu-id="02a9f-102">Slider</span></span>
-<span data-ttu-id="02a9f-103"><xref:System.Windows.Controls.Slider>允许您通过在一系列值中进行选择 <xref:System.Windows.Controls.Primitives.Thumb> <xref:System.Windows.Controls.Primitives.Track> 。</span><span class="sxs-lookup"><span data-stu-id="02a9f-103">The <xref:System.Windows.Controls.Slider> allows you select from a range of values by moving a <xref:System.Windows.Controls.Primitives.Thumb> along a <xref:System.Windows.Controls.Primitives.Track>.</span></span>  
+# <a name="slider"></a><span data-ttu-id="38dff-102">Slider</span><span class="sxs-lookup"><span data-stu-id="38dff-102">Slider</span></span>
+<span data-ttu-id="38dff-103"><xref:System.Windows.Controls.Slider>允许您通过在一系列值中进行选择 <xref:System.Windows.Controls.Primitives.Thumb> <xref:System.Windows.Controls.Primitives.Track> 。</span><span class="sxs-lookup"><span data-stu-id="38dff-103">The <xref:System.Windows.Controls.Slider> allows you select from a range of values by moving a <xref:System.Windows.Controls.Primitives.Thumb> along a <xref:System.Windows.Controls.Primitives.Track>.</span></span>  
   
- <span data-ttu-id="02a9f-104">下图显示了水平控件的一个示例 <xref:System.Windows.Controls.Slider> 。</span><span class="sxs-lookup"><span data-stu-id="02a9f-104">The following illustration shows an example of a horizontal <xref:System.Windows.Controls.Slider> control.</span></span>  
+ <span data-ttu-id="38dff-104">下图显示了水平控件的一个示例 <xref:System.Windows.Controls.Slider> 。</span><span class="sxs-lookup"><span data-stu-id="38dff-104">The following illustration shows an example of a horizontal <xref:System.Windows.Controls.Slider> control.</span></span>  
   
- <span data-ttu-id="02a9f-105">![具有刻度线标记的水平滑块](./media/ss-ctl-hslider-ticks.png "SS_CTL_hslider_ticks")</span><span class="sxs-lookup"><span data-stu-id="02a9f-105">![Horizontal slider with tick marks](./media/ss-ctl-hslider-ticks.png "SS_CTL_hslider_ticks")</span></span>  
+ <span data-ttu-id="38dff-105">![具有刻度线标记的水平滑块](./media/ss-ctl-hslider-ticks.png "SS_CTL_hslider_ticks")</span><span class="sxs-lookup"><span data-stu-id="38dff-105">![Horizontal slider with tick marks](./media/ss-ctl-hslider-ticks.png "SS_CTL_hslider_ticks")</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="02a9f-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="02a9f-106">In This Section</span></span>  
- [<span data-ttu-id="02a9f-107">自定义滑块上的刻度</span><span class="sxs-lookup"><span data-stu-id="02a9f-107">Customize the Ticks on a Slider</span></span>](how-to-customize-the-ticks-on-a-slider.md)  
+## <a name="in-this-section"></a><span data-ttu-id="38dff-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="38dff-106">In This Section</span></span>  
+ [<span data-ttu-id="38dff-107">自定义滑块上的刻度</span><span class="sxs-lookup"><span data-stu-id="38dff-107">Customize the Ticks on a Slider</span></span>](how-to-customize-the-ticks-on-a-slider.md)  
   
-## <a name="reference"></a><span data-ttu-id="02a9f-108">参考</span><span class="sxs-lookup"><span data-stu-id="02a9f-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="38dff-108">参考</span><span class="sxs-lookup"><span data-stu-id="38dff-108">Reference</span></span>  
  <xref:System.Windows.Controls.Slider>  
   <xref:System.Windows.Controls.Primitives.Track>  
   <xref:System.Windows.Controls.Primitives.Thumb>

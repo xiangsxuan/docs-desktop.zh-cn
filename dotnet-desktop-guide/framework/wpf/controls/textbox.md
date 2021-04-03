@@ -14,14 +14,14 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96970431"
 ---
-# <a name="textbox"></a><span data-ttu-id="d68e4-102">TextBox</span><span class="sxs-lookup"><span data-stu-id="d68e4-102">TextBox</span></span>
-<span data-ttu-id="d68e4-103"><xref:System.Windows.Controls.TextBox>控件为 WPF 应用程序中的基本文本输入提供支持。</span><span class="sxs-lookup"><span data-stu-id="d68e4-103">The <xref:System.Windows.Controls.TextBox> control provides support for basic text input in WPF applications.</span></span>  
+# <a name="textbox"></a><span data-ttu-id="8bc6a-102">TextBox</span><span class="sxs-lookup"><span data-stu-id="8bc6a-102">TextBox</span></span>
+<span data-ttu-id="8bc6a-103"><xref:System.Windows.Controls.TextBox>控件为 WPF 应用程序中的基本文本输入提供支持。</span><span class="sxs-lookup"><span data-stu-id="8bc6a-103">The <xref:System.Windows.Controls.TextBox> control provides support for basic text input in WPF applications.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="d68e4-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="d68e4-104">In This Section</span></span>  
- [<span data-ttu-id="d68e4-105">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="d68e4-105">TextBox Overview</span></span>](textbox-overview.md)  
- [<span data-ttu-id="d68e4-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="d68e4-106">How-to Topics</span></span>](textbox-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="8bc6a-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="8bc6a-104">In This Section</span></span>  
+ [<span data-ttu-id="8bc6a-105">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="8bc6a-105">TextBox Overview</span></span>](textbox-overview.md)  
+ [<span data-ttu-id="8bc6a-106">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="8bc6a-106">How-to Topics</span></span>](textbox-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="d68e4-107">参考</span><span class="sxs-lookup"><span data-stu-id="d68e4-107">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="8bc6a-107">参考</span><span class="sxs-lookup"><span data-stu-id="8bc6a-107">Reference</span></span>  
  <xref:System.Windows.Controls.TextBox>  
   
  <xref:System.Windows.Controls.RichTextBox>  
@@ -30,7 +30,7 @@ ms.locfileid: "96970431"
   
  <xref:System.Windows.Controls.PasswordBox>  
   
-## <a name="see-also"></a><span data-ttu-id="d68e4-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="d68e4-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="8bc6a-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="8bc6a-108">See also</span></span>
 
-- [<span data-ttu-id="d68e4-109">WPF 控件库示例</span><span class="sxs-lookup"><span data-stu-id="d68e4-109">WPF Controls Gallery Sample</span></span>](https://github.com/Microsoft/WPF-Samples/tree/master/Getting%20Started/ControlsAndLayout)
-- [<span data-ttu-id="d68e4-110">TextBox 样式和模板</span><span class="sxs-lookup"><span data-stu-id="d68e4-110">TextBox Styles and Templates</span></span>](textbox-styles-and-templates.md)
+- [<span data-ttu-id="8bc6a-109">WPF 控件库示例</span><span class="sxs-lookup"><span data-stu-id="8bc6a-109">WPF Controls Gallery Sample</span></span>](https://github.com/Microsoft/WPF-Samples/tree/master/Getting%20Started/ControlsAndLayout)
+- [<span data-ttu-id="8bc6a-110">TextBox 样式和模板</span><span class="sxs-lookup"><span data-stu-id="8bc6a-110">TextBox Styles and Templates</span></span>](textbox-styles-and-templates.md)

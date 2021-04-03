@@ -14,13 +14,13 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973690"
 ---
-# <a name="dockpanel"></a><span data-ttu-id="2fc9c-102">DockPanel</span><span class="sxs-lookup"><span data-stu-id="2fc9c-102">DockPanel</span></span>
-<span data-ttu-id="2fc9c-103"><xref:System.Windows.Controls.DockPanel>元素用于沿布局容器的边缘定位子内容。</span><span class="sxs-lookup"><span data-stu-id="2fc9c-103">The <xref:System.Windows.Controls.DockPanel> element is used to position child content along the edge of a layout container.</span></span>  
+# <a name="dockpanel"></a><span data-ttu-id="571da-102">DockPanel</span><span class="sxs-lookup"><span data-stu-id="571da-102">DockPanel</span></span>
+<span data-ttu-id="571da-103"><xref:System.Windows.Controls.DockPanel>元素用于沿布局容器的边缘定位子内容。</span><span class="sxs-lookup"><span data-stu-id="571da-103">The <xref:System.Windows.Controls.DockPanel> element is used to position child content along the edge of a layout container.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="2fc9c-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="2fc9c-104">In This Section</span></span>  
- [<span data-ttu-id="2fc9c-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="2fc9c-105">How-to Topics</span></span>](dockpanel-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="571da-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="571da-104">In This Section</span></span>  
+ [<span data-ttu-id="571da-105">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="571da-105">How-to Topics</span></span>](dockpanel-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="2fc9c-106">参考</span><span class="sxs-lookup"><span data-stu-id="2fc9c-106">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="571da-106">参考</span><span class="sxs-lookup"><span data-stu-id="571da-106">Reference</span></span>  
  <xref:System.Windows.Controls.Panel>  
   
  <xref:System.Windows.Controls.Canvas>  
@@ -35,9 +35,9 @@ ms.locfileid: "96973690"
   
  <xref:System.Windows.Controls.WrapPanel>  
   
-## <a name="related-sections"></a><span data-ttu-id="2fc9c-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="2fc9c-107">Related Sections</span></span>  
- [<span data-ttu-id="2fc9c-108">布局</span><span class="sxs-lookup"><span data-stu-id="2fc9c-108">Layout</span></span>](../advanced/layout.md)  
+## <a name="related-sections"></a><span data-ttu-id="571da-107">相关章节</span><span class="sxs-lookup"><span data-stu-id="571da-107">Related Sections</span></span>  
+ [<span data-ttu-id="571da-108">布局</span><span class="sxs-lookup"><span data-stu-id="571da-108">Layout</span></span>](../advanced/layout.md)  
   
- [<span data-ttu-id="2fc9c-109">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="2fc9c-109">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
+ [<span data-ttu-id="571da-109">演练：我的第一个 WPF 桌面应用程序</span><span class="sxs-lookup"><span data-stu-id="571da-109">Walkthrough: My first WPF desktop application</span></span>](../getting-started/walkthrough-my-first-wpf-desktop-application.md)  
   
- [<span data-ttu-id="2fc9c-110">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="2fc9c-110">ScrollViewer Overview</span></span>](scrollviewer-overview.md)
+ [<span data-ttu-id="571da-110">ScrollViewer 概述</span><span class="sxs-lookup"><span data-stu-id="571da-110">ScrollViewer Overview</span></span>](scrollviewer-overview.md)

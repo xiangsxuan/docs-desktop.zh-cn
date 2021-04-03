@@ -12,19 +12,19 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973090"
 ---
-# <a name="how-to-make-a-textbox-control-read-only"></a><span data-ttu-id="c1e35-102">如何：将 TextBox 控件设为只读</span><span class="sxs-lookup"><span data-stu-id="c1e35-102">How to: Make a TextBox Control Read-Only</span></span>
-<span data-ttu-id="c1e35-103">此示例演示如何将控件配置 <xref:System.Windows.Controls.TextBox> 为不允许用户输入或修改。</span><span class="sxs-lookup"><span data-stu-id="c1e35-103">This example shows how to configure a <xref:System.Windows.Controls.TextBox> control to not allow user input or modification.</span></span>  
+# <a name="how-to-make-a-textbox-control-read-only"></a><span data-ttu-id="b4587-102">如何：将 TextBox 控件设为只读</span><span class="sxs-lookup"><span data-stu-id="b4587-102">How to: Make a TextBox Control Read-Only</span></span>
+<span data-ttu-id="b4587-103">此示例演示如何将控件配置 <xref:System.Windows.Controls.TextBox> 为不允许用户输入或修改。</span><span class="sxs-lookup"><span data-stu-id="b4587-103">This example shows how to configure a <xref:System.Windows.Controls.TextBox> control to not allow user input or modification.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="c1e35-104">示例</span><span class="sxs-lookup"><span data-stu-id="c1e35-104">Example</span></span>  
- <span data-ttu-id="c1e35-105">若要防止用户修改控件的内容 <xref:System.Windows.Controls.TextBox> ，请将属性设置 <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> 为 **true**。</span><span class="sxs-lookup"><span data-stu-id="c1e35-105">To prevent users from modifying the contents of a <xref:System.Windows.Controls.TextBox> control, set the <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> attribute to **true**.</span></span>  
+## <a name="example"></a><span data-ttu-id="b4587-104">示例</span><span class="sxs-lookup"><span data-stu-id="b4587-104">Example</span></span>  
+ <span data-ttu-id="b4587-105">若要防止用户修改控件的内容 <xref:System.Windows.Controls.TextBox> ，请将属性设置 <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> 为 **true**。</span><span class="sxs-lookup"><span data-stu-id="b4587-105">To prevent users from modifying the contents of a <xref:System.Windows.Controls.TextBox> control, set the <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> attribute to **true**.</span></span>  
   
  [!code-xaml[TextBox_MiscCode#_ReadOnlyTextBoxXAML](~/samples/snippets/csharp/VS_Snippets_Wpf/TextBox_MiscCode/CSharp/Window1.xaml#_readonlytextboxxaml)]  
   
- <span data-ttu-id="c1e35-106"><xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A>特性仅影响用户输入; 不影响控件说明中设置的文本 [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] <xref:System.Windows.Controls.TextBox> 或通过属性以编程方式设置的文本 <xref:System.Windows.Controls.TextBox.Text%2A> 。</span><span class="sxs-lookup"><span data-stu-id="c1e35-106">The <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> attribute affects user input only; it does not affect text set in the [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] description of a <xref:System.Windows.Controls.TextBox> control, or text set programmatically through the <xref:System.Windows.Controls.TextBox.Text%2A> property.</span></span>  
+ <span data-ttu-id="b4587-106"><xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A>特性仅影响用户输入; 不影响控件说明中设置的文本 [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] <xref:System.Windows.Controls.TextBox> 或通过属性以编程方式设置的文本 <xref:System.Windows.Controls.TextBox.Text%2A> 。</span><span class="sxs-lookup"><span data-stu-id="b4587-106">The <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> attribute affects user input only; it does not affect text set in the [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] description of a <xref:System.Windows.Controls.TextBox> control, or text set programmatically through the <xref:System.Windows.Controls.TextBox.Text%2A> property.</span></span>  
   
- <span data-ttu-id="c1e35-107">的默认值 <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> 为 **false**。</span><span class="sxs-lookup"><span data-stu-id="c1e35-107">The default value of <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> is **false**.</span></span>  
+ <span data-ttu-id="b4587-107">的默认值 <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> 为 **false**。</span><span class="sxs-lookup"><span data-stu-id="b4587-107">The default value of <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> is **false**.</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="c1e35-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="c1e35-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="b4587-108">另请参阅</span><span class="sxs-lookup"><span data-stu-id="b4587-108">See also</span></span>
 
-- [<span data-ttu-id="c1e35-109">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="c1e35-109">TextBox Overview</span></span>](textbox-overview.md)
-- [<span data-ttu-id="c1e35-110">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="c1e35-110">RichTextBox Overview</span></span>](richtextbox-overview.md)
+- [<span data-ttu-id="b4587-109">TextBox 概述</span><span class="sxs-lookup"><span data-stu-id="b4587-109">TextBox Overview</span></span>](textbox-overview.md)
+- [<span data-ttu-id="b4587-110">RichTextBox 概述</span><span class="sxs-lookup"><span data-stu-id="b4587-110">RichTextBox Overview</span></span>](richtextbox-overview.md)

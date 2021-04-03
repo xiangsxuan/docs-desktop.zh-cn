@@ -14,18 +14,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973097"
 ---
-# <a name="resources-how-to-topics"></a><span data-ttu-id="22ddf-102">资源帮助主题</span><span class="sxs-lookup"><span data-stu-id="22ddf-102">Resources How-to Topics</span></span>
-<span data-ttu-id="22ddf-103">本节中的主题介绍如何使用 Windows Presentation Foundation (WPF) 资源。</span><span class="sxs-lookup"><span data-stu-id="22ddf-103">The topics in this section describe how to use Windows Presentation Foundation (WPF) resources.</span></span>  
+# <a name="resources-how-to-topics"></a><span data-ttu-id="11dbd-102">资源帮助主题</span><span class="sxs-lookup"><span data-stu-id="11dbd-102">Resources How-to Topics</span></span>
+<span data-ttu-id="11dbd-103">本节中的主题介绍如何使用 Windows Presentation Foundation (WPF) 资源。</span><span class="sxs-lookup"><span data-stu-id="11dbd-103">The topics in this section describe how to use Windows Presentation Foundation (WPF) resources.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="22ddf-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="22ddf-104">In This Section</span></span>  
- [<span data-ttu-id="22ddf-105">定义和引用资源</span><span class="sxs-lookup"><span data-stu-id="22ddf-105">Define and Reference a Resource</span></span>](how-to-define-and-reference-a-resource.md)  
- [<span data-ttu-id="22ddf-106">使用应用程序资源</span><span class="sxs-lookup"><span data-stu-id="22ddf-106">Use Application Resources</span></span>](how-to-use-application-resources.md)  
- [<span data-ttu-id="22ddf-107">使用 SystemFonts</span><span class="sxs-lookup"><span data-stu-id="22ddf-107">Use SystemFonts</span></span>](how-to-use-systemfonts.md)  
- [<span data-ttu-id="22ddf-108">使用系统字体键</span><span class="sxs-lookup"><span data-stu-id="22ddf-108">Use System Fonts Keys</span></span>](how-to-use-system-fonts-keys.md)  
- [<span data-ttu-id="22ddf-109">使用 SystemParameters</span><span class="sxs-lookup"><span data-stu-id="22ddf-109">Use SystemParameters</span></span>](how-to-use-systemparameters.md)  
- [<span data-ttu-id="22ddf-110">使用系统参数键</span><span class="sxs-lookup"><span data-stu-id="22ddf-110">Use System Parameters Keys</span></span>](how-to-use-system-parameters-keys.md)  
+## <a name="in-this-section"></a><span data-ttu-id="11dbd-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="11dbd-104">In This Section</span></span>  
+ [<span data-ttu-id="11dbd-105">定义和引用资源</span><span class="sxs-lookup"><span data-stu-id="11dbd-105">Define and Reference a Resource</span></span>](how-to-define-and-reference-a-resource.md)  
+ [<span data-ttu-id="11dbd-106">使用应用程序资源</span><span class="sxs-lookup"><span data-stu-id="11dbd-106">Use Application Resources</span></span>](how-to-use-application-resources.md)  
+ [<span data-ttu-id="11dbd-107">使用 SystemFonts</span><span class="sxs-lookup"><span data-stu-id="11dbd-107">Use SystemFonts</span></span>](how-to-use-systemfonts.md)  
+ [<span data-ttu-id="11dbd-108">使用系统字体键</span><span class="sxs-lookup"><span data-stu-id="11dbd-108">Use System Fonts Keys</span></span>](how-to-use-system-fonts-keys.md)  
+ [<span data-ttu-id="11dbd-109">使用 SystemParameters</span><span class="sxs-lookup"><span data-stu-id="11dbd-109">Use SystemParameters</span></span>](how-to-use-systemparameters.md)  
+ [<span data-ttu-id="11dbd-110">使用系统参数键</span><span class="sxs-lookup"><span data-stu-id="11dbd-110">Use System Parameters Keys</span></span>](how-to-use-system-parameters-keys.md)  
   
-## <a name="reference"></a><span data-ttu-id="22ddf-111">参考</span><span class="sxs-lookup"><span data-stu-id="22ddf-111">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="11dbd-111">参考</span><span class="sxs-lookup"><span data-stu-id="11dbd-111">Reference</span></span>  
  <xref:System.Windows.FrameworkTemplate.Resources%2A>  
   
  <xref:System.Windows.SystemColors>  
@@ -34,5 +34,5 @@ ms.locfileid: "96973097"
   
  <xref:System.Windows.SystemFonts>  
   
-## <a name="related-sections"></a><span data-ttu-id="22ddf-112">相关章节</span><span class="sxs-lookup"><span data-stu-id="22ddf-112">Related Sections</span></span>  
- [<span data-ttu-id="22ddf-113">XAML 资源</span><span class="sxs-lookup"><span data-stu-id="22ddf-113">XAML Resources</span></span>](/dotnet/desktop-wpf/fundamentals/xaml-resources-define)
+## <a name="related-sections"></a><span data-ttu-id="11dbd-112">相关章节</span><span class="sxs-lookup"><span data-stu-id="11dbd-112">Related Sections</span></span>  
+ [<span data-ttu-id="11dbd-113">XAML 资源</span><span class="sxs-lookup"><span data-stu-id="11dbd-113">XAML Resources</span></span>](/dotnet/desktop-wpf/fundamentals/xaml-resources-define)

@@ -15,21 +15,21 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96971028"
 ---
-# <a name="treeview"></a><span data-ttu-id="8c0d9-102">TreeView</span><span class="sxs-lookup"><span data-stu-id="8c0d9-102">TreeView</span></span>
-<span data-ttu-id="8c0d9-103"><xref:System.Windows.Controls.TreeView>控件使用可折叠节点显示层次结构中的信息。</span><span class="sxs-lookup"><span data-stu-id="8c0d9-103">The <xref:System.Windows.Controls.TreeView> control displays information in a hierarchical structure by using collapsible nodes.</span></span>  
+# <a name="treeview"></a><span data-ttu-id="d503b-102">TreeView</span><span class="sxs-lookup"><span data-stu-id="d503b-102">TreeView</span></span>
+<span data-ttu-id="d503b-103"><xref:System.Windows.Controls.TreeView>控件使用可折叠节点显示层次结构中的信息。</span><span class="sxs-lookup"><span data-stu-id="d503b-103">The <xref:System.Windows.Controls.TreeView> control displays information in a hierarchical structure by using collapsible nodes.</span></span>  
   
- <span data-ttu-id="8c0d9-104">下图是 <xref:System.Windows.Controls.TreeView> 具有嵌套控件的控件的一个示例 <xref:System.Windows.Controls.TreeViewItem> ：</span><span class="sxs-lookup"><span data-stu-id="8c0d9-104">The following illustration is an example of a <xref:System.Windows.Controls.TreeView> control that has nested <xref:System.Windows.Controls.TreeViewItem> controls:</span></span>  
+ <span data-ttu-id="d503b-104">下图是 <xref:System.Windows.Controls.TreeView> 具有嵌套控件的控件的一个示例 <xref:System.Windows.Controls.TreeViewItem> ：</span><span class="sxs-lookup"><span data-stu-id="d503b-104">The following illustration is an example of a <xref:System.Windows.Controls.TreeView> control that has nested <xref:System.Windows.Controls.TreeViewItem> controls:</span></span>  
   
  ![显示嵌套的 TreeViewItem 控件的插图。](./media/treeview/nested-treeviewitem-controls.jpg)  
   
-## <a name="in-this-section"></a><span data-ttu-id="8c0d9-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="8c0d9-106">In This Section</span></span>  
- [<span data-ttu-id="8c0d9-107">TreeView 概述</span><span class="sxs-lookup"><span data-stu-id="8c0d9-107">TreeView Overview</span></span>](treeview-overview.md)  
- [<span data-ttu-id="8c0d9-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="8c0d9-108">How-to Topics</span></span>](treeview-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="d503b-106">本节内容</span><span class="sxs-lookup"><span data-stu-id="d503b-106">In This Section</span></span>  
+ [<span data-ttu-id="d503b-107">TreeView 概述</span><span class="sxs-lookup"><span data-stu-id="d503b-107">TreeView Overview</span></span>](treeview-overview.md)  
+ [<span data-ttu-id="d503b-108">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="d503b-108">How-to Topics</span></span>](treeview-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="8c0d9-109">参考</span><span class="sxs-lookup"><span data-stu-id="8c0d9-109">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="d503b-109">参考</span><span class="sxs-lookup"><span data-stu-id="d503b-109">Reference</span></span>  
  <xref:System.Windows.Controls.TreeView>  
   <xref:System.Windows.Controls.TreeViewItem>  
   
-## <a name="related-sections"></a><span data-ttu-id="8c0d9-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="8c0d9-110">Related Sections</span></span>  
- [<span data-ttu-id="8c0d9-111">数据绑定概述</span><span class="sxs-lookup"><span data-stu-id="8c0d9-111">Data Binding Overview</span></span>](/dotnet/desktop-wpf/data/data-binding-overview)  
-  [<span data-ttu-id="8c0d9-112">数据模板化概述</span><span class="sxs-lookup"><span data-stu-id="8c0d9-112">Data Templating Overview</span></span>](../data/data-templating-overview.md)
+## <a name="related-sections"></a><span data-ttu-id="d503b-110">相关章节</span><span class="sxs-lookup"><span data-stu-id="d503b-110">Related Sections</span></span>  
+ [<span data-ttu-id="d503b-111">数据绑定概述</span><span class="sxs-lookup"><span data-stu-id="d503b-111">Data Binding Overview</span></span>](/dotnet/desktop-wpf/data/data-binding-overview)  
+  [<span data-ttu-id="d503b-112">数据模板化概述</span><span class="sxs-lookup"><span data-stu-id="d503b-112">Data Templating Overview</span></span>](../data/data-templating-overview.md)

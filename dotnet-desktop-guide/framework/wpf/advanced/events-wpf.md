@@ -15,35 +15,35 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973461"
 ---
-# <a name="events-wpf"></a><span data-ttu-id="b47bc-102">事件 (WPF)</span><span class="sxs-lookup"><span data-stu-id="b47bc-102">Events (WPF)</span></span>
-[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="b47bc-103">引入了路由事件，这些事件可在应用程序的元素树中调用存在于各个侦听器上的处理程序。</span><span class="sxs-lookup"><span data-stu-id="b47bc-103">introduces routed events that can invoke handlers that exist on various listeners in the element tree of an application.</span></span>  
+# <a name="events-wpf"></a><span data-ttu-id="ce2ff-102">事件 (WPF)</span><span class="sxs-lookup"><span data-stu-id="ce2ff-102">Events (WPF)</span></span>
+[!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] <span data-ttu-id="ce2ff-103">引入了路由事件，这些事件可在应用程序的元素树中调用存在于各个侦听器上的处理程序。</span><span class="sxs-lookup"><span data-stu-id="ce2ff-103">introduces routed events that can invoke handlers that exist on various listeners in the element tree of an application.</span></span>  
   
-## <a name="in-this-section"></a><span data-ttu-id="b47bc-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="b47bc-104">In This Section</span></span>  
- [<span data-ttu-id="b47bc-105">路由事件概述</span><span class="sxs-lookup"><span data-stu-id="b47bc-105">Routed Events Overview</span></span>](routed-events-overview.md)  
- [<span data-ttu-id="b47bc-106">附加事件概述</span><span class="sxs-lookup"><span data-stu-id="b47bc-106">Attached Events Overview</span></span>](attached-events-overview.md)  
- [<span data-ttu-id="b47bc-107">对象生存期事件</span><span class="sxs-lookup"><span data-stu-id="b47bc-107">Object Lifetime Events</span></span>](object-lifetime-events.md)  
- [<span data-ttu-id="b47bc-108">将路由事件标记为“已处理”和“类处理”</span><span class="sxs-lookup"><span data-stu-id="b47bc-108">Marking Routed Events as Handled, and Class Handling</span></span>](marking-routed-events-as-handled-and-class-handling.md)  
- [<span data-ttu-id="b47bc-109">预览事件</span><span class="sxs-lookup"><span data-stu-id="b47bc-109">Preview Events</span></span>](preview-events.md)  
- [<span data-ttu-id="b47bc-110">属性更改事件</span><span class="sxs-lookup"><span data-stu-id="b47bc-110">Property Change Events</span></span>](property-change-events.md)  
- [<span data-ttu-id="b47bc-111">Visual Basic 和 WPF 事件处理</span><span class="sxs-lookup"><span data-stu-id="b47bc-111">Visual Basic and WPF Event Handling</span></span>](visual-basic-and-wpf-event-handling.md)  
- [<span data-ttu-id="b47bc-112">弱事件模式</span><span class="sxs-lookup"><span data-stu-id="b47bc-112">Weak Event Patterns</span></span>](weak-event-patterns.md)  
- [<span data-ttu-id="b47bc-113">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="b47bc-113">How-to Topics</span></span>](events-how-to-topics.md)  
+## <a name="in-this-section"></a><span data-ttu-id="ce2ff-104">本节内容</span><span class="sxs-lookup"><span data-stu-id="ce2ff-104">In This Section</span></span>  
+ [<span data-ttu-id="ce2ff-105">路由事件概述</span><span class="sxs-lookup"><span data-stu-id="ce2ff-105">Routed Events Overview</span></span>](routed-events-overview.md)  
+ [<span data-ttu-id="ce2ff-106">附加事件概述</span><span class="sxs-lookup"><span data-stu-id="ce2ff-106">Attached Events Overview</span></span>](attached-events-overview.md)  
+ [<span data-ttu-id="ce2ff-107">对象生存期事件</span><span class="sxs-lookup"><span data-stu-id="ce2ff-107">Object Lifetime Events</span></span>](object-lifetime-events.md)  
+ [<span data-ttu-id="ce2ff-108">将路由事件标记为“已处理”和“类处理”</span><span class="sxs-lookup"><span data-stu-id="ce2ff-108">Marking Routed Events as Handled, and Class Handling</span></span>](marking-routed-events-as-handled-and-class-handling.md)  
+ [<span data-ttu-id="ce2ff-109">预览事件</span><span class="sxs-lookup"><span data-stu-id="ce2ff-109">Preview Events</span></span>](preview-events.md)  
+ [<span data-ttu-id="ce2ff-110">属性更改事件</span><span class="sxs-lookup"><span data-stu-id="ce2ff-110">Property Change Events</span></span>](property-change-events.md)  
+ [<span data-ttu-id="ce2ff-111">Visual Basic 和 WPF 事件处理</span><span class="sxs-lookup"><span data-stu-id="ce2ff-111">Visual Basic and WPF Event Handling</span></span>](visual-basic-and-wpf-event-handling.md)  
+ [<span data-ttu-id="ce2ff-112">弱事件模式</span><span class="sxs-lookup"><span data-stu-id="ce2ff-112">Weak Event Patterns</span></span>](weak-event-patterns.md)  
+ [<span data-ttu-id="ce2ff-113">操作指南主题</span><span class="sxs-lookup"><span data-stu-id="ce2ff-113">How-to Topics</span></span>](events-how-to-topics.md)  
   
-## <a name="reference"></a><span data-ttu-id="b47bc-114">参考</span><span class="sxs-lookup"><span data-stu-id="b47bc-114">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="ce2ff-114">参考</span><span class="sxs-lookup"><span data-stu-id="ce2ff-114">Reference</span></span>  
  <xref:System.Windows.RoutedEvent>  
   
  <xref:System.Windows.EventManager>  
   
  <xref:System.Windows.RoutingStrategy>  
   
-## <a name="related-sections"></a><span data-ttu-id="b47bc-115">相关章节</span><span class="sxs-lookup"><span data-stu-id="b47bc-115">Related Sections</span></span>  
- [<span data-ttu-id="b47bc-116">WPF 体系结构</span><span class="sxs-lookup"><span data-stu-id="b47bc-116">WPF Architecture</span></span>](wpf-architecture.md)  
-  [<span data-ttu-id="b47bc-117">WPF 中的 XAML</span><span class="sxs-lookup"><span data-stu-id="b47bc-117">XAML in WPF</span></span>](xaml-in-wpf.md)  
-  [<span data-ttu-id="b47bc-118">基元素</span><span class="sxs-lookup"><span data-stu-id="b47bc-118">Base Elements</span></span>](base-elements.md)  
-  [<span data-ttu-id="b47bc-119">元素树和序列化</span><span class="sxs-lookup"><span data-stu-id="b47bc-119">Element Tree and Serialization</span></span>](element-tree-and-serialization.md)  
-  [<span data-ttu-id="b47bc-120">属性</span><span class="sxs-lookup"><span data-stu-id="b47bc-120">Properties</span></span>](properties-wpf.md)  
-  [<span data-ttu-id="b47bc-121">输入</span><span class="sxs-lookup"><span data-stu-id="b47bc-121">Input</span></span>](input-wpf.md)  
-  [<span data-ttu-id="b47bc-122">资源</span><span class="sxs-lookup"><span data-stu-id="b47bc-122">Resources</span></span>](resources-wpf.md)  
-  [<span data-ttu-id="b47bc-123">样式设置和模板化</span><span class="sxs-lookup"><span data-stu-id="b47bc-123">Styling and Templating</span></span>](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)  
-  [<span data-ttu-id="b47bc-124">WPF 内容模型</span><span class="sxs-lookup"><span data-stu-id="b47bc-124">WPF Content Model</span></span>](../controls/wpf-content-model.md)  
-  [<span data-ttu-id="b47bc-125">线程模型</span><span class="sxs-lookup"><span data-stu-id="b47bc-125">Threading Model</span></span>](threading-model.md)
+## <a name="related-sections"></a><span data-ttu-id="ce2ff-115">相关章节</span><span class="sxs-lookup"><span data-stu-id="ce2ff-115">Related Sections</span></span>  
+ [<span data-ttu-id="ce2ff-116">WPF 体系结构</span><span class="sxs-lookup"><span data-stu-id="ce2ff-116">WPF Architecture</span></span>](wpf-architecture.md)  
+  [<span data-ttu-id="ce2ff-117">WPF 中的 XAML</span><span class="sxs-lookup"><span data-stu-id="ce2ff-117">XAML in WPF</span></span>](xaml-in-wpf.md)  
+  [<span data-ttu-id="ce2ff-118">基元素</span><span class="sxs-lookup"><span data-stu-id="ce2ff-118">Base Elements</span></span>](base-elements.md)  
+  [<span data-ttu-id="ce2ff-119">元素树和序列化</span><span class="sxs-lookup"><span data-stu-id="ce2ff-119">Element Tree and Serialization</span></span>](element-tree-and-serialization.md)  
+  [<span data-ttu-id="ce2ff-120">属性</span><span class="sxs-lookup"><span data-stu-id="ce2ff-120">Properties</span></span>](properties-wpf.md)  
+  [<span data-ttu-id="ce2ff-121">输入</span><span class="sxs-lookup"><span data-stu-id="ce2ff-121">Input</span></span>](input-wpf.md)  
+  [<span data-ttu-id="ce2ff-122">资源</span><span class="sxs-lookup"><span data-stu-id="ce2ff-122">Resources</span></span>](resources-wpf.md)  
+  [<span data-ttu-id="ce2ff-123">样式设置和模板化</span><span class="sxs-lookup"><span data-stu-id="ce2ff-123">Styling and Templating</span></span>](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)  
+  [<span data-ttu-id="ce2ff-124">WPF 内容模型</span><span class="sxs-lookup"><span data-stu-id="ce2ff-124">WPF Content Model</span></span>](../controls/wpf-content-model.md)  
+  [<span data-ttu-id="ce2ff-125">线程模型</span><span class="sxs-lookup"><span data-stu-id="ce2ff-125">Threading Model</span></span>](threading-model.md)

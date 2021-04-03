@@ -20,23 +20,23 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973472"
 ---
-# <a name="how-to-encode-and-decode-a-gif-image"></a><span data-ttu-id="b997d-102">如何：编码和解码 GIF 图像</span><span class="sxs-lookup"><span data-stu-id="b997d-102">How to: Encode and Decode a GIF Image</span></span>
-<span data-ttu-id="b997d-103">下面的示例演示如何使用特定和对象对图形交换格式进行解码和编码 (GIF) <xref:System.Windows.Media.Imaging.GifBitmapDecoder> 图像 <xref:System.Windows.Media.Imaging.GifBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="b997d-103">The following examples show how to decode and encode a Graphics Interchange Format (GIF) image using the specific <xref:System.Windows.Media.Imaging.GifBitmapDecoder> and <xref:System.Windows.Media.Imaging.GifBitmapEncoder> objects.</span></span>  
+# <a name="how-to-encode-and-decode-a-gif-image"></a><span data-ttu-id="a9553-102">如何：编码和解码 GIF 图像</span><span class="sxs-lookup"><span data-stu-id="a9553-102">How to: Encode and Decode a GIF Image</span></span>
+<span data-ttu-id="a9553-103">下面的示例演示如何使用特定和对象对图形交换格式进行解码和编码 (GIF) <xref:System.Windows.Media.Imaging.GifBitmapDecoder> 图像 <xref:System.Windows.Media.Imaging.GifBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="a9553-103">The following examples show how to decode and encode a Graphics Interchange Format (GIF) image using the specific <xref:System.Windows.Media.Imaging.GifBitmapDecoder> and <xref:System.Windows.Media.Imaging.GifBitmapEncoder> objects.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="b997d-104">示例</span><span class="sxs-lookup"><span data-stu-id="b997d-104">Example</span></span>  
- <span data-ttu-id="b997d-105">此示例演示如何使用从对 GIF 图像进行解码 <xref:System.Windows.Media.Imaging.GifBitmapDecoder> <xref:System.IO.FileStream> 。</span><span class="sxs-lookup"><span data-stu-id="b997d-105">This example demonstrates how to decode a GIF image using a <xref:System.Windows.Media.Imaging.GifBitmapDecoder> from a <xref:System.IO.FileStream>.</span></span>  
+## <a name="example"></a><span data-ttu-id="a9553-104">示例</span><span class="sxs-lookup"><span data-stu-id="a9553-104">Example</span></span>  
+ <span data-ttu-id="a9553-105">此示例演示如何使用从对 GIF 图像进行解码 <xref:System.Windows.Media.Imaging.GifBitmapDecoder> <xref:System.IO.FileStream> 。</span><span class="sxs-lookup"><span data-stu-id="a9553-105">This example demonstrates how to decode a GIF image using a <xref:System.Windows.Media.Imaging.GifBitmapDecoder> from a <xref:System.IO.FileStream>.</span></span>  
   
  [!code-cpp[GifBitmapDecoderEncoder#1](~/samples/snippets/cpp/VS_Snippets_Wpf/GifBitmapDecoderEncoder/CPP/GifEncoderDecoder.cpp#1)]
  [!code-csharp[GifBitmapDecoderEncoder#1](~/samples/snippets/csharp/VS_Snippets_Wpf/GifBitmapDecoderEncoder/CSharp/GifEncoderDecoder.cs#1)]
  [!code-vb[GifBitmapDecoderEncoder#1](~/samples/snippets/visualbasic/VS_Snippets_Wpf/GifBitmapDecoderEncoder/VB/GifEncoderDecoder.vb#1)]  
   
-## <a name="example"></a><span data-ttu-id="b997d-106">示例</span><span class="sxs-lookup"><span data-stu-id="b997d-106">Example</span></span>  
- <span data-ttu-id="b997d-107">此示例演示如何使用将编码为 <xref:System.Windows.Media.Imaging.BitmapSource> GIF 图像 <xref:System.Windows.Media.Imaging.GifBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="b997d-107">This example demonstrates how to encode a <xref:System.Windows.Media.Imaging.BitmapSource> into a GIF image using a <xref:System.Windows.Media.Imaging.GifBitmapEncoder>.</span></span>  
+## <a name="example"></a><span data-ttu-id="a9553-106">示例</span><span class="sxs-lookup"><span data-stu-id="a9553-106">Example</span></span>  
+ <span data-ttu-id="a9553-107">此示例演示如何使用将编码为 <xref:System.Windows.Media.Imaging.BitmapSource> GIF 图像 <xref:System.Windows.Media.Imaging.GifBitmapEncoder> 。</span><span class="sxs-lookup"><span data-stu-id="a9553-107">This example demonstrates how to encode a <xref:System.Windows.Media.Imaging.BitmapSource> into a GIF image using a <xref:System.Windows.Media.Imaging.GifBitmapEncoder>.</span></span>  
   
  [!code-cpp[GifBitmapDecoderEncoder#4](~/samples/snippets/cpp/VS_Snippets_Wpf/GifBitmapDecoderEncoder/CPP/GifEncoderDecoder.cpp#4)]
  [!code-csharp[GifBitmapDecoderEncoder#4](~/samples/snippets/csharp/VS_Snippets_Wpf/GifBitmapDecoderEncoder/CSharp/GifEncoderDecoder.cs#4)]
  [!code-vb[GifBitmapDecoderEncoder#4](~/samples/snippets/visualbasic/VS_Snippets_Wpf/GifBitmapDecoderEncoder/VB/GifEncoderDecoder.vb#4)]  
   
-## <a name="see-also"></a><span data-ttu-id="b997d-108">请参阅</span><span class="sxs-lookup"><span data-stu-id="b997d-108">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="a9553-108">另请参阅</span><span class="sxs-lookup"><span data-stu-id="a9553-108">See also</span></span>
 
-- [<span data-ttu-id="b997d-109">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="b997d-109">Imaging Overview</span></span>](imaging-overview.md)
+- [<span data-ttu-id="a9553-109">图像处理概述</span><span class="sxs-lookup"><span data-stu-id="a9553-109">Imaging Overview</span></span>](imaging-overview.md)

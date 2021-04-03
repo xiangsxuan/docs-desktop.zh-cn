@@ -17,9 +17,9 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973031"
 ---
-# <a name="how-to-automatically-size-a-window-to-fit-its-content"></a><span data-ttu-id="9324b-103">如何：自动调整窗口大小以适应其内容</span><span class="sxs-lookup"><span data-stu-id="9324b-103">How to: Automatically Size a Window to Fit Its Content</span></span>
-<span data-ttu-id="9324b-104">此示例演示如何设置 <xref:System.Windows.Window.SizeToContent%2A> 属性以指定如何调整窗口大小以适应其内容。</span><span class="sxs-lookup"><span data-stu-id="9324b-104">This example shows how to set the <xref:System.Windows.Window.SizeToContent%2A> property to specify how a window resizes to fit its content.</span></span>  
+# <a name="how-to-automatically-size-a-window-to-fit-its-content"></a><span data-ttu-id="f0070-103">如何：自动调整窗口大小以适应其内容</span><span class="sxs-lookup"><span data-stu-id="f0070-103">How to: Automatically Size a Window to Fit Its Content</span></span>
+<span data-ttu-id="f0070-104">此示例演示如何设置 <xref:System.Windows.Window.SizeToContent%2A> 属性以指定如何调整窗口大小以适应其内容。</span><span class="sxs-lookup"><span data-stu-id="f0070-104">This example shows how to set the <xref:System.Windows.Window.SizeToContent%2A> property to specify how a window resizes to fit its content.</span></span>  
   
-## <a name="example"></a><span data-ttu-id="9324b-105">示例</span><span class="sxs-lookup"><span data-stu-id="9324b-105">Example</span></span>  
+## <a name="example"></a><span data-ttu-id="f0070-105">示例</span><span class="sxs-lookup"><span data-stu-id="f0070-105">Example</span></span>  
  [!code-csharp[HOWTOWindowManagementSnippets#SetWindowSizeToContentPropertyCODE](~/samples/snippets/csharp/VS_Snippets_Wpf/HOWTOWindowManagementSnippets/CSharp/MainWindow.xaml.cs#setwindowsizetocontentpropertycode)]
  [!code-vb[HOWTOWindowManagementSnippets#SetWindowSizeToContentPropertyCODE](~/samples/snippets/visualbasic/VS_Snippets_Wpf/HOWTOWindowManagementSnippets/visualbasic/mainwindow.xaml.vb#setwindowsizetocontentpropertycode)]

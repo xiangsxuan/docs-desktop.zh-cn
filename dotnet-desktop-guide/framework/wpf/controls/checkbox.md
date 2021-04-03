@@ -14,18 +14,18 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 03/30/2021
 ms.locfileid: "96973257"
 ---
-# <a name="checkbox"></a><span data-ttu-id="21346-102">CheckBox</span><span class="sxs-lookup"><span data-stu-id="21346-102">CheckBox</span></span>
-<span data-ttu-id="21346-103">你可以 <xref:System.Windows.Controls.CheckBox> 在应用程序的中使用 [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] 来表示用户可以选择或清除的选项。</span><span class="sxs-lookup"><span data-stu-id="21346-103">You can use a <xref:System.Windows.Controls.CheckBox> in the [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] of your application to represent options that a user can select or clear.</span></span> <span data-ttu-id="21346-104">您可以使用单个复选框或将两个或多个复选框组合在一起。</span><span class="sxs-lookup"><span data-stu-id="21346-104">You can use a single check box or you can group two or more check boxes.</span></span>  
+# <a name="checkbox"></a><span data-ttu-id="e87a4-102">CheckBox</span><span class="sxs-lookup"><span data-stu-id="e87a4-102">CheckBox</span></span>
+<span data-ttu-id="e87a4-103">你可以 <xref:System.Windows.Controls.CheckBox> 在应用程序的中使用 [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] 来表示用户可以选择或清除的选项。</span><span class="sxs-lookup"><span data-stu-id="e87a4-103">You can use a <xref:System.Windows.Controls.CheckBox> in the [!INCLUDE[TLA#tla_ui](../../../includes/tlasharptla-ui-md.md)] of your application to represent options that a user can select or clear.</span></span> <span data-ttu-id="e87a4-104">您可以使用单个复选框或将两个或多个复选框组合在一起。</span><span class="sxs-lookup"><span data-stu-id="e87a4-104">You can use a single check box or you can group two or more check boxes.</span></span>  
   
- <span data-ttu-id="21346-105">下图显示了的不同状态 <xref:System.Windows.Controls.CheckBox> 。</span><span class="sxs-lookup"><span data-stu-id="21346-105">The following graphic shows the different states of a <xref:System.Windows.Controls.CheckBox>.</span></span>  
+ <span data-ttu-id="e87a4-105">下图显示了的不同状态 <xref:System.Windows.Controls.CheckBox> 。</span><span class="sxs-lookup"><span data-stu-id="e87a4-105">The following graphic shows the different states of a <xref:System.Windows.Controls.CheckBox>.</span></span>  
   
- <span data-ttu-id="21346-106">![CheckBox 状态](./media/ss-ctl-checkbox.png "SS_CTL_checkbox")</span><span class="sxs-lookup"><span data-stu-id="21346-106">![CheckBox states](./media/ss-ctl-checkbox.png "SS_CTL_checkbox")</span></span>  
-<span data-ttu-id="21346-107">处于不同状态的复选框控件</span><span class="sxs-lookup"><span data-stu-id="21346-107">CheckBox controls in different states</span></span>  
+ <span data-ttu-id="e87a4-106">![CheckBox 状态](./media/ss-ctl-checkbox.png "SS_CTL_checkbox")</span><span class="sxs-lookup"><span data-stu-id="e87a4-106">![CheckBox states](./media/ss-ctl-checkbox.png "SS_CTL_checkbox")</span></span>  
+<span data-ttu-id="e87a4-107">处于不同状态的复选框控件</span><span class="sxs-lookup"><span data-stu-id="e87a4-107">CheckBox controls in different states</span></span>  
   
-## <a name="reference"></a><span data-ttu-id="21346-108">参考</span><span class="sxs-lookup"><span data-stu-id="21346-108">Reference</span></span>  
+## <a name="reference"></a><span data-ttu-id="e87a4-108">参考</span><span class="sxs-lookup"><span data-stu-id="e87a4-108">Reference</span></span>  
  <xref:System.Windows.Controls.CheckBox>  
   <xref:System.Windows.Controls.RadioButton>  
   <xref:System.Windows.Controls.Primitives.ButtonBase>  
   <xref:System.Windows.Controls.Primitives.RepeatButton>  
   
-## <a name="related-sections"></a><span data-ttu-id="21346-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="21346-109">Related Sections</span></span>
+## <a name="related-sections"></a><span data-ttu-id="e87a4-109">相关章节</span><span class="sxs-lookup"><span data-stu-id="e87a4-109">Related Sections</span></span>
