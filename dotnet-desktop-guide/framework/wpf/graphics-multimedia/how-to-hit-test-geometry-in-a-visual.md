@@ -35,7 +35,7 @@ ms.locfileid: "96972684"
 > [!NOTE]
 > 此示例并未考虑可能应用到几何图形中的任何变形或剪裁。 此外，此示例不会使用已设置样式的控件，因为这种控件没有与它直接关联的绘图。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [可视化层中的命中测试](hit-testing-in-the-visual-layer.md)
 - [对用作参数的几何图形进行命中测试](how-to-hit-test-using-geometry-as-a-parameter.md)

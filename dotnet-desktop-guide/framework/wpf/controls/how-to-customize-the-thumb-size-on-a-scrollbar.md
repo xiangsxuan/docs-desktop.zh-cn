@@ -18,7 +18,7 @@ ms.locfileid: "96973719"
   
 ## <a name="example"></a>示例  
   
-## <a name="description"></a>描述  
+## <a name="description"></a>说明  
  下面的示例创建一个 <xref:System.Windows.Controls.Primitives.ScrollBar> 具有 <xref:System.Windows.Controls.Primitives.Thumb> 固定大小的。 该示例将 <xref:System.Windows.Controls.Primitives.Track.ViewportSize%2A> 的属性设置 <xref:System.Windows.Controls.Primitives.Thumb> 为 <xref:System.Double.NaN> ，并设置的高度 <xref:System.Windows.Controls.Primitives.Thumb> 。  若要创建具有 <xref:System.Windows.Controls.Primitives.ScrollBar> <xref:System.Windows.Controls.Primitives.Thumb> 固定宽度的水平，请设置的宽度 <xref:System.Windows.Controls.Primitives.Thumb> 。  
   
 ## <a name="code"></a>代码  
@@ -30,6 +30,6 @@ ms.locfileid: "96973719"
 ## <a name="code"></a>代码  
  [!code-xaml[ScrollBarCustomThumbSize#2](~/samples/snippets/csharp/VS_Snippets_Wpf/ScrollBarCustomThumbSize/CS/Window1.xaml#2)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [ScrollBar 样式和模板](scrollbar-styles-and-templates.md)

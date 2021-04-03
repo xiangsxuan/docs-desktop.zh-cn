@@ -24,7 +24,7 @@ DatePicker 控件
   
  用户可以直接在文本字段中键入日期，以设置 <xref:System.Windows.Controls.DatePicker.Text%2A> 属性。 如果 <xref:System.Windows.Controls.DatePicker> 无法将输入的字符串转换为有效的日期，则 <xref:System.Windows.Controls.DatePicker.DateValidationError> 会引发事件。 默认情况下，这会引发异常，但的事件处理程序 <xref:System.Windows.Controls.DatePicker.DateValidationError> 可以将 <xref:System.Windows.Controls.DatePickerDateValidationErrorEventArgs.ThrowException%2A> 属性设置为 `false` ，并防止引发异常。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [控件](index.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

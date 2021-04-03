@@ -143,7 +143,7 @@ WPF 定义了多个 .NET 特性，旨在向反射进程提供附加属性的相�
 
 - 还可将属性注册为附加属性和依赖属性，但仍需公开“包装器”实现。 在这种情况下，属性可在该元素上设置，也可通过 XAML 附加属性语法在任何元素上设置。 具有适用于标准和附加用法的适当方案的属性示例是 <xref:System.Windows.FrameworkElement.FlowDirection%2A?displayProperty=nameWithType> 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.DependencyProperty>
 - [依赖项属性概述](dependency-properties-overview.md)

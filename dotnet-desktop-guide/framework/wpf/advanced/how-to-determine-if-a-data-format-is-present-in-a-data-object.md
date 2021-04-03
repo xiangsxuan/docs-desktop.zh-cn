@@ -21,7 +21,7 @@ ms.locfileid: "96972784"
   
 ## <a name="example"></a>示例  
   
-### <a name="description"></a>描述  
+### <a name="description"></a>说明  
  下面的示例代码使用 <xref:System.Windows.DataObject.GetDataPresent%28System.String%29> 重载通过描述符字符串查询是否存在特定的数据格式。  
   
 ### <a name="code"></a>代码  
@@ -30,7 +30,7 @@ ms.locfileid: "96972784"
   
 ## <a name="example"></a>示例  
   
-### <a name="description"></a>描述  
+### <a name="description"></a>说明  
  下面的示例代码使用 <xref:System.Windows.DataObject.GetDataPresent%28System.Type%29> 重载通过类型来查询是否存在特定的数据格式。  
   
 ### <a name="code"></a>代码  
@@ -39,13 +39,13 @@ ms.locfileid: "96972784"
   
 ## <a name="example"></a>示例  
   
-### <a name="description"></a>描述  
+### <a name="description"></a>说明  
  下面的示例代码使用 <xref:System.Windows.DataObject.GetDataPresent%28System.String%2CSystem.Boolean%29> 重载通过描述符字符串来查询数据，并指定如何处理自动转换的数据格式。  
   
 ### <a name="code"></a>代码  
  [!code-csharp[DragDrop_DragDropMiscCode#_DragDrop_QueryDataFormats_Autoconvert](~/samples/snippets/csharp/VS_Snippets_Wpf/DragDrop_DragDropMiscCode/CSharp/Window1.xaml.cs#_dragdrop_querydataformats_autoconvert)]
  [!code-vb[DragDrop_DragDropMiscCode#_DragDrop_QueryDataFormats_Autoconvert](~/samples/snippets/visualbasic/VS_Snippets_Wpf/DragDrop_DragDropMiscCode/visualbasic/window1.xaml.vb#_dragdrop_querydataformats_autoconvert)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.IDataObject>

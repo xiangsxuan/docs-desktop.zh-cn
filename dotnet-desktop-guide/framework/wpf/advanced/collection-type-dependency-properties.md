@@ -57,7 +57,7 @@ ms.locfileid: "96971957"
   
  若要启用依赖项对象集合中的子属性绑定，请创建类型为的集合属性 <xref:System.Windows.FreezableCollection%601> ，并将该集合的类型约束为任何 <xref:System.Windows.DependencyObject> 派生类。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FreezableCollection%601>
 - [XAML 及 WPF 的自定义类](xaml-and-custom-classes-for-wpf.md)

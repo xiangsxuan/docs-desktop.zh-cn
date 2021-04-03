@@ -40,7 +40,7 @@ ms.locfileid: "96972087"
   
  对于 <xref:System.Windows.Data.BindingMode.TwoWay> 或 <xref:System.Windows.Data.BindingMode.OneWayToSource> 绑定，可以通过设置属性来控制源更新的时间 <xref:System.Windows.Data.Binding.UpdateSourceTrigger%2A> 。 有关详细信息，请参阅<xref:System.Windows.Data.Binding.UpdateSourceTrigger%2A>。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Data.Binding>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

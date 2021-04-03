@@ -46,7 +46,7 @@ ms.locfileid: "96974040"
   
  有关 <xref:System.Windows.Data.PriorityBinding> 从绑定中被视为成功返回值的信息，请参阅。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Data.Binding.IsAsync%2A?displayProperty=nameWithType>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

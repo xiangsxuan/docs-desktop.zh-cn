@@ -150,7 +150,7 @@ void OnLoaded(object sender, RoutedEventArgs e)
 
 ![显示扩展到 WPF 应用程序中的玻璃框的屏幕截图。](./media/extend-glass-frame-into-a-wpf-application/glass-frame-extended-wpf-application.png)
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [桌面窗口管理器概述](/windows/desktop/dwm/dwm-overview)
 - [桌面窗口管理器模糊概述](/windows/desktop/dwm/blur-ovw)

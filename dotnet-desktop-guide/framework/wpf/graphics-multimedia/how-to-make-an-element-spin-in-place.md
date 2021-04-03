@@ -22,7 +22,7 @@ ms.locfileid: "96974096"
   
  有关包含更多转换示例的完整示例，请参阅 [2D 转换示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/2DTransforms)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [动画概述](animation-overview.md)
 - [转换概述](transforms-overview.md)

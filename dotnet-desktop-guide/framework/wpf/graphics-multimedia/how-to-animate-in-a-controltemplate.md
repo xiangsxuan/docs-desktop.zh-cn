@@ -20,6 +20,6 @@ ms.locfileid: "96973543"
   
  有关利用情节提要对属性进行动画处理的详细信息，请参阅 [情节提要概述](storyboards-overview.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.ControlTemplate>

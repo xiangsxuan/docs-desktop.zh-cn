@@ -27,7 +27,7 @@ ms.locfileid: "96972750"
  [绘制矩形](how-to-draw-a-rectangle.md)  
  [修改直线或线段末端的线帽](how-to-modify-the-cap-at-the-end-of-a-line-or-segment.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Shapes.Shape>
 - [图形和多媒体](index.md)

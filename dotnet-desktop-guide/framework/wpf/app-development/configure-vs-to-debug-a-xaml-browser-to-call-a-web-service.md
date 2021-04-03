@@ -62,6 +62,6 @@ XAML 浏览器应用程序 (Xbap) 在仅限于 Internet 区域权限集的部分
 
  `-debugSecurityZoneURL http://services.msdn.microsoft.com`
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [WPF 主机 (PresentationHost.exe) ](wpf-host-presentationhost-exe.md)

@@ -31,7 +31,7 @@ ms.locfileid: "96974069"
   
  [!code-xaml[GridSplitterSnips#GridSplitterMargin](~/samples/snippets/csharp/VS_Snippets_Wpf/GridSplitterSnips/CSharp/Window1.xaml#gridsplittermargin)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.GridSplitter>
 - [操作指南主题](gridsplitter-how-to-topics.md)

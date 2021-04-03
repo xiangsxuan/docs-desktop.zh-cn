@@ -29,7 +29,7 @@ ms.locfileid: "96973194"
   [使用 VideoDrawing 播放媒体](how-to-play-media-using-a-videodrawing.md)  
   [将绘图用作图像源](how-to-use-a-drawing-as-an-image-source.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Drawing>
 - [WPF 图形呈现疑难解答](wpf-graphics-rendering-overview.md)

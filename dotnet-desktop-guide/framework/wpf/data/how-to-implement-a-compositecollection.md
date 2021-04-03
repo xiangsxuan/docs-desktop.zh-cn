@@ -17,7 +17,7 @@ ms.locfileid: "96974044"
   
  [!code-xaml[CompositeCollections#1](~/samples/snippets/csharp/VS_Snippets_Wpf/CompositeCollections/CS/Window1.xaml#1)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Data.CollectionContainer>
 - <xref:System.Windows.Controls.ItemsControl.ItemsSource%2A>

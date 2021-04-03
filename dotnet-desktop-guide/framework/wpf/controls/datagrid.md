@@ -34,7 +34,7 @@ ms.locfileid: "96972468"
   
  下表列出了一些常见的任务 <xref:System.Windows.Controls.DataGrid> ，以及如何完成这些任务。 通过查看相关 API，可以找到详细信息和示例代码。  
   
-|方案|方法|  
+|场景|方法|  
 |--------------|--------------|  
 |交替背景色|将 <xref:System.Windows.Controls.ItemsControl.AlternationIndex%2A> 属性设置为2或更大，然后将分配给 <xref:System.Windows.Media.Brush> <xref:System.Windows.Controls.DataGrid.RowBackground%2A> 和 <xref:System.Windows.Controls.DataGrid.AlternatingRowBackground%2A> 属性。|  
 |定义单元格和行选择行为|设置 <xref:System.Windows.Controls.DataGrid.SelectionMode%2A> 和 <xref:System.Windows.Controls.DataGrid.SelectionUnit%2A> 属性。|  
@@ -48,7 +48,7 @@ ms.locfileid: "96972468"
   
 ## <a name="related-topics"></a>相关主题  
   
-|Title|描述|  
+|Title|说明|  
 |-----------|-----------------|  
 |[演练：在 DataGrid 控件中显示 SQL Server 数据库中的数据](walkthrough-display-data-from-a-sql-server-database-in-a-datagrid-control.md)|描述如何设置新的 WPF 项目，添加实体框架元素，设置源，并在中显示数据 <xref:System.Windows.Controls.DataGrid> 。|  
 |[如何：向 DataGrid 控件中添加行详细信息](how-to-add-row-details-to-a-datagrid-control.md)|描述如何为创建行详细信息 <xref:System.Windows.Controls.DataGrid> 。|  

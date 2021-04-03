@@ -32,12 +32,12 @@ HRESULT GetRawInputDevices( [out] IEnumRAWINPUTDEVICE **ppEnum );
   
  E_NOTIMPL  
   
-## <a name="remarks"></a>备注  
+## <a name="remarks"></a>注解  
  原始输入设备是一组输入设备，其中包括键盘、鼠标和非传统设备（如远程控制设备）。  
   
  一旦已检索到的原始输入设备的列表，则 PresentationHost.exe 将使用此设备进行注册，以接收 WM_INPUT 通知消息。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [GetRawInputDeviceList](/windows/desktop/api/winuser/nf-winuser-getrawinputdevicelist)
 - [FilterInputMessage](filterinputmessage.md)

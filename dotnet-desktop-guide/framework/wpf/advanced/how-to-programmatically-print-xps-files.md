@@ -61,7 +61,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Environments\Windows N
 > [!NOTE]
 > 为简单起见，上面的示例使用 \* .xps 扩展名作为其测试文件是 xps。 但是，XPS 文件不必具有此扩展名。 [isXPS.exe (Isxps.exe 一致性工具) ](/previous-versions/dotnet/netframework-4.0/aa348104(v=vs.100))是一种测试文件以获得 XPS 有效性的方法。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Printing.PrintQueue>
 - <xref:System.Printing.PrintQueue.AddJob%2A>

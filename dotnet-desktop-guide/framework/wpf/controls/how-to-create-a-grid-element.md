@@ -25,7 +25,7 @@ ms.locfileid: "96973974"
   这两种方法都将生成一个与下面类似的用户界面。
 
   ![屏幕截图描述了一个 WPF 用户界面，其中包含一个分为三列的网格。  这种情况下，标题为 "2018 Products" 的数据跨越了顶行的所有列，并且每个列都有三列，每个季度使用销售数据。  下半行包含的文本包含两列，消息总数为：300000](././media/how-to-create-a-grid-element/how-to-create-a-grid-element.png)
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Grid>
 - [面板概述](panels-overview.md)

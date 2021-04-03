@@ -24,6 +24,6 @@ ms.locfileid: "96972995"
  [以特定数据格式检索数据](how-to-retrieve-data-in-a-particular-data-format.md)  
  [在数据对象中存储多种数据格式](how-to-store-multiple-data-formats-in-a-data-object.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [拖放概述](drag-and-drop-overview.md)

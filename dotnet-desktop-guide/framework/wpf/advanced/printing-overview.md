@@ -134,7 +134,7 @@ ms.locfileid: "96973153"
   
 - **ZIP 压缩**。 所有 XPS 文档均使用 ZIP 压缩。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.PrintDialog>
 - <xref:System.Windows.Xps.XpsDocumentWriter>

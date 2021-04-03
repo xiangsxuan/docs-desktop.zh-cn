@@ -37,7 +37,7 @@ ms.locfileid: "96972682"
 > [!NOTE]
 > <xref:System.Windows.Media.HitTestResult>当交集详细信息为时，不应调用回调 <xref:System.Windows.Media.IntersectionDetail.Empty> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [可视化层中的命中测试](hit-testing-in-the-visual-layer.md)
 - [对视觉对象中的几何图形进行命中测试](how-to-hit-test-geometry-in-a-visual.md)

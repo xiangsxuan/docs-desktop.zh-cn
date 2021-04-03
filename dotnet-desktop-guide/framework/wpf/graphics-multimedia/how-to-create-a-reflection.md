@@ -31,7 +31,7 @@ ms.locfileid: "96973760"
   
  有关完整示例，包括演示如何放大屏幕的各个部分以及如何创建反射的示例，请参阅 [System.windows.media.visualbrush> 示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/VisualBrush)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.VisualBrush>
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

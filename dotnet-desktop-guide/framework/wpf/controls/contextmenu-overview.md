@@ -60,7 +60,7 @@ ms.locfileid: "96973245"
 </Style>  
 ```  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.ContextMenu>
 - <xref:System.Windows.Style>

@@ -27,7 +27,7 @@ ms.locfileid: "96974098"
   
  <xref:System.Windows.Media.Imaging.PngBitmapEncoder>在此示例中使用了，但任何派生 <xref:System.Windows.Media.Imaging.BitmapEncoder> 对象均可用于创建图像文件。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.DrawingContext>
 - [图像处理概述](imaging-overview.md)

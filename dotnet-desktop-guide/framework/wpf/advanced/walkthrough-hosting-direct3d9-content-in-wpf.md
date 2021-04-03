@@ -77,7 +77,7 @@ Mainwindow.xaml 在 WPF 设计器中打开。
 
     Direct3D9 内容显示在 WPF 应用程序中。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Interop.D3DImage>
 - [Direct3D9 和 WPF 互操作性的性能注意事项](performance-considerations-for-direct3d9-and-wpf-interoperability.md)

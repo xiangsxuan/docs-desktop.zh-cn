@@ -29,7 +29,7 @@ ms.locfileid: "96973511"
   
  若要创建更复杂的绘图，可以使用将多个绘图对象组合成单个复合绘图 <xref:System.Windows.Media.DrawingGroup> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.DrawingGroup>
 - [Drawing 对象概述](drawing-objects-overview.md)

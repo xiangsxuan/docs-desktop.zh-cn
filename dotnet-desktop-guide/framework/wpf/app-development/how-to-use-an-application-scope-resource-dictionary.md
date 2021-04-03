@@ -46,7 +46,7 @@ ms.locfileid: "98535983"
 
 某些资源类型可能会自动使用类型定义的属性作为显式键，如 <xref:System.Windows.Style> 和 <xref:System.Windows.DataTemplate> 类型。 这可能会覆盖你的 `x:Key` 值。 若要确保遵循你的 `x:Key` 密钥，请在显式键属性之前声明。 有关详细信息，请参阅 [样式、DataTemplates 和隐式键](../advanced/xaml-resources-define.md#styles-datatemplates-and-implicit-keys)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.ResourceDictionary>
 - <xref:System.Windows.Application.Resources%2A>

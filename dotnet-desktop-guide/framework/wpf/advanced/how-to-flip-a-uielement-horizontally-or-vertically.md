@@ -49,6 +49,6 @@ System.windows.uielement.rendertransformorigin 为0.5，0.5 的按钮
  ![围绕中心垂直翻转的按钮](./media/graphicsmm-buttonflipverticalflip-inplace.gif "graphicsmm_buttonflipverticalflip_inplace")  
 垂直翻转按钮  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [转换概述](../graphics-multimedia/transforms-overview.md)

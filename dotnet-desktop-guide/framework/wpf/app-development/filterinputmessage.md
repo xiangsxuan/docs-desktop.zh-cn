@@ -35,13 +35,13 @@ HRESULT FilterInputMessage( [in] MSG* pMsg ) ;
   
  E_NOTIMPL –如果返回此值，则不会再次调用 [FilterInputMessage](filterinputmessage.md) 。 这可能会从以下主机应用程序返回：仅对向 PresentationHost.exe 提供自定义进度和错误用户界面有兴趣且对从 PresentationHost.exe 向自身转发原始输入消息不感兴趣。  
   
-## <a name="remarks"></a>备注  
+## <a name="remarks"></a>注解  
  PresentationHost.exe 是各种原始输入设备（包括键盘、鼠标和远程控件）的目标。 有时，主机应用程序中的行为取决于输入，否则将由 PresentationHost.exe 消耗。 例如，主机应用程序可能依靠接收特定输入消息来确定是否显示特定的用户界面元素。  
   
  若要允许主机应用程序接收所需的输入消息以提供这些行为，PresentationHost.exe 通过调用 [FilterInputMessage](filterinputmessage.md)将相应的原始输入消息转发到托管应用程序。  
   
  托管应用程序通过使用一组原始输入设备（ (人体学接口设备）注册来接收原始输入消息，) 由 [GetRawInputDevices](getrawinputdevices.md)返回。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [WM_INPUT 消息](/windows/desktop/inputdev/wm-input)

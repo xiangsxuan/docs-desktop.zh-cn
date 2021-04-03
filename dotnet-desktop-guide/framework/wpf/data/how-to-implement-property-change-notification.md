@@ -29,7 +29,7 @@ ms.locfileid: "96973599"
   
  若要查看如何 `Person` 使用类来支持绑定的示例 <xref:System.Windows.Data.BindingMode.TwoWay> ，请参阅 [控制文本框文本更新源的时间](how-to-control-when-the-textbox-text-updates-the-source.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [绑定源概述](binding-sources-overview.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

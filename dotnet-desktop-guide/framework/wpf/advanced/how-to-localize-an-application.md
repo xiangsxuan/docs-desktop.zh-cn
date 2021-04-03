@@ -80,7 +80,7 @@ ms.locfileid: "96972785"
   
 4. 运行 LocBaml 时可以指定的选项如下所示。
 
-   | 选项 | 描述|
+   | 选项 | 说明|
    | - | - |
    | `parse` 或 `-p` | 分析 Baml、资源或 DLL 文件以生成 .csv 或 .txt 文件。 |
    | `generate` 或 `-g` | 使用翻译的文件生成本地化的二进制文件。 |
@@ -136,8 +136,8 @@ ms.locfileid: "96972785"
    |BAML 名称|资源键|类别|可读性|可修改性|注释|值|  
    |---------------|------------------|--------------|-----------------|-------------------|--------------|-----------|
    |HelloApp.g.en-US.resources:window1.baml|Stack1:System.Windows.Controls.StackPanel.$Content|忽略|false|false||#Text1;#Text2|
-   |HelloApp.g.en-US.resources:window1.baml|Text1:System.Windows.Controls.TextBlock.$Content|无|TRUE|TRUE||Hello World|
-   |HelloApp.g.en-US.resources:window1.baml|Text2:System.Windows.Controls.TextBlock.$Content|无|TRUE|TRUE||Goodbye World|
+   |HelloApp.g.en-US.resources:window1.baml|Text1:System.Windows.Controls.TextBlock.$Content|None|TRUE|TRUE||Hello World|
+   |HelloApp.g.en-US.resources:window1.baml|Text2:System.Windows.Controls.TextBlock.$Content|None|TRUE|TRUE||Goodbye World|
   
    请注意， **注释** 字段的所有值不包含任何值;如果字段没有值，则为空。 另请注意，第一行中的项既不可读也不可修改，并且具有 "Ignore" 作为其 **类别** 值，所有这些都指示该值不可本地化。  
   
@@ -188,7 +188,7 @@ ms.locfileid: "96972785"
   
 - 本地化的资源 DLL 的版本需与主程序集进行同步。
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [WPF 的全球化](globalization-for-wpf.md)
 - [使用自动布局概述](use-automatic-layout-overview.md)

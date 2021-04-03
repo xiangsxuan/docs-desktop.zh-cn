@@ -39,7 +39,7 @@ ms.locfileid: "96971796"
   
  [!code-xaml[CollectionViewSource#Attribute](~/samples/snippets/csharp/VS_Snippets_Wpf/CollectionViewSource/CS/window1.xaml#attribute)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Data.CollectionViewSource>
 - [获取数据集合的默认视图](how-to-get-the-default-view-of-a-data-collection.md)

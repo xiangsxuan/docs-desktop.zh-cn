@@ -20,7 +20,7 @@ ms.locfileid: "96973093"
   
 ## <a name="example"></a>示例  
   
-## <a name="description"></a>描述  
+## <a name="description"></a>说明  
 下面的示例创建一个 <xref:System.Windows.Controls.ListBox> ，并将 `VirtualizingStackPanel.VirtualizationMode` 附加属性设置为， <xref:System.Windows.Controls.VirtualizationMode.Recycling?displayProperty=nameWithType> 以在滚动过程中提高性能。  
   
 ## <a name="code"></a>代码  

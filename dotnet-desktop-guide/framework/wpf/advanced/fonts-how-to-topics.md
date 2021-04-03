@@ -20,7 +20,7 @@ ms.locfileid: "96973340"
  [枚举系统字体](how-to-enumerate-system-fonts.md)  
  [使用 FontSizeConverter 类](how-to-use-the-fontsizeconverter-class.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FontStyle>
 - <xref:System.Windows.SystemFonts>

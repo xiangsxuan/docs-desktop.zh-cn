@@ -22,7 +22,7 @@ Windows Vista 和 Microsoft .NET 框架引入了一个新的打印路径（Micro
  [操作指南主题](printing-how-to-topics.md)  
  演示如何使用新的打印路径和 Api 的一组文章。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Printing>
 - <xref:System.Printing.IndexedProperties>

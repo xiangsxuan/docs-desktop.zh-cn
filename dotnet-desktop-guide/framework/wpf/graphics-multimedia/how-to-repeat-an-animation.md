@@ -28,7 +28,7 @@ ms.locfileid: "96973920"
   
  有关完整示例，请参阅 [动画计时行为示例](https://github.com/Microsoft/WPF-Samples/tree/master/Animation/AnimationTiming)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [在重复循环过程中累积动画值](how-to-accumulate-animation-values-during-repeat-cycles.md)
 - [指定时间线是否自动反转](how-to-specify-whether-a-timeline-automatically-reverses.md)

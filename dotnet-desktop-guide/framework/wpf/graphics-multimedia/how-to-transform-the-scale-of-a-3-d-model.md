@@ -22,7 +22,7 @@ ms.locfileid: "96972763"
   
  [!code-xaml[3DGallery_snip#ScaleTransform3DExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/3DGallery_snip/CS/ScaleTransform3DExample.xaml#scaletransform3dexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [对三维转换进行动画处理](how-to-animate-3-d-translations.md)
 - [创建三维场景](how-to-create-a-3-d-scene.md)

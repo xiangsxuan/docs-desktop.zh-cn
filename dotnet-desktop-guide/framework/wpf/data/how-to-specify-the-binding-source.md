@@ -38,7 +38,7 @@ ms.locfileid: "96973370"
   
  另外，如果希望在个别绑定上显式指定源，可以选择以下选项。 这些选项优先于继承的数据上下文。  
   
-|属性|描述|  
+|属性|说明|  
 |--------------|-----------------|  
 |<xref:System.Windows.Data.Binding.Source%2A>|使用此属性将源设置为对象的实例。 如果不需要建立作用域的功能，其中有多个属性继承相同的数据上下文，则可以使用属性， <xref:System.Windows.Data.Binding.Source%2A> 而不是 `DataContext` 属性。 有关详细信息，请参阅 <xref:System.Windows.Data.Binding.Source%2A>。|  
 |<xref:System.Windows.Data.Binding.RelativeSource%2A>|当希望指定相对于绑定目标位置的源时，这很有用。 当想要将元素的一个属性绑定到同一元素的另一个属性时，或者如果要在样式或模板中定义绑定，则可能需要使用此属性。 有关详细信息，请参阅 <xref:System.Windows.Data.Binding.RelativeSource%2A>。|  

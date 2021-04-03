@@ -305,7 +305,7 @@ ms.locfileid: "96972711"
 [!code-csharp[Calling the Close method](~/samples/snippets/csharp/VS_Snippets_Wpf/DialogBoxSample/CSharp/FindDialogBox.xaml.cs?range=1-9,119-126)]
 [!code-vb[Calling the Close method](~/samples/snippets/visualbasic/VS_Snippets_Wpf/DialogBoxSample/VisualBasic/FindDialogBox.xaml.vb?range=1-9,99-103)]  
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [Popup 概述](../controls/popup-overview.md)
 - [对话框示例](https://github.com/Microsoft/WPF-Samples/tree/master/Windows/DialogBox)

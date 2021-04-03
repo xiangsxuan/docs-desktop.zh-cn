@@ -43,7 +43,7 @@ ms.locfileid: "96973562"
 </Page>  
 ```  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.StackPanel>
 - [面板概述](panels-overview.md)

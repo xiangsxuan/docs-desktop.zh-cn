@@ -65,6 +65,6 @@ ms.locfileid: "96971961"
   
  [ClearType 调谐器 PowerToy](https://www.microsoft.com/typography/ClearTypePowerToy.mspx)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [ClearType 注册表设置](cleartype-registry-settings.md)

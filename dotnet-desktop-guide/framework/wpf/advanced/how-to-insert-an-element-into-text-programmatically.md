@@ -29,6 +29,6 @@ ms.locfileid: "96973200"
   
  ![应用于一定范围文本的 Span 元素](./media/flow-insertelementintotextprogrammatically.png "Flow_InsertElementIntoTextProgrammatically")  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [流文档概述](flow-document-overview.md)

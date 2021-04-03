@@ -18,7 +18,7 @@ ms.locfileid: "96973371"
 
 本节中的主题介绍如何使用数据绑定，以公共语言运行时 (CLR) 对象和 XML 格式将元素绑定到各种数据源中的数据。
 
-## <a name="in-this-section"></a>本节内容
+## <a name="in-this-section"></a>在本节中
 
 - [创建简单绑定](how-to-create-a-simple-binding.md)
 - [指定绑定源](how-to-specify-the-binding-source.md)

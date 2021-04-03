@@ -33,6 +33,6 @@ ms.locfileid: "96972944"
 > [!NOTE]
 > 目前不支持使用 [!INCLUDE[TLA#tla_xaml](../../../includes/tlasharptla-xaml-md.md)] 将装饰器绑定到另一个元素。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [装饰器概述](adorners-overview.md)

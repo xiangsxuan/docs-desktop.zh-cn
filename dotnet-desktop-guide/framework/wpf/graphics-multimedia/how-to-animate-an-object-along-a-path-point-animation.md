@@ -30,7 +30,7 @@ ms.locfileid: "96973179"
   
  前面示例的代码版本使用 <xref:System.Windows.Media.Animation.Storyboard> 对进行动画处理 <xref:System.Windows.Media.EllipseGeometry> ，即使只应用了一个动画也是如此。 <xref:System.Windows.Media.Animation.Storyboard>通常是应用多个动画的最简单方法，因为这些动画可以通过相同的方式控制 <xref:System.Windows.Media.Animation.Storyboard> 。 但是，使用代码时，将单个动画应用于属性的更简单方法是使用 <xref:System.Windows.Media.Animation.Animatable.BeginAnimation%2A> 方法。 有关示例，请参阅[在不使用情节提要的情况下对属性进行动画处理](how-to-animate-a-property-without-using-a-storyboard.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [路径动画示例](https://github.com/Microsoft/WPF-Samples/tree/master/Animation/PathAnimations)
 - [动画概述](animation-overview.md)

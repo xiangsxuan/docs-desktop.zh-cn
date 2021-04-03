@@ -49,6 +49,6 @@ ms.locfileid: "96972075"
   
  此代码示例是为类提供的更大示例的一部分 <xref:System.Windows.Media.SolidColorBrush> 。 有关完整示例，请参阅[画笔示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/Brushes)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Brushes>

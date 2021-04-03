@@ -58,7 +58,7 @@ ms.locfileid: "96972467"
 ## <a name="using-the-alignment-properties"></a>使用对齐属性  
  可以通过设置控件的和属性来对齐内容 <xref:System.Windows.Controls.Control.HorizontalContentAlignment%2A> <xref:System.Windows.Controls.Control.VerticalContentAlignment%2A> <xref:System.Windows.Controls.Expander> 。 当设置这些属性时，对齐将同时应用于标头和展开的内容。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Expander>
 - <xref:System.Windows.Controls.ExpandDirection>

@@ -33,7 +33,7 @@ ms.locfileid: "96973583"
  [使用 RectangleGeometry 定义矩形](how-to-define-a-rectangle-using-a-rectanglegeometry.md)  
  [圆化 RectangleGeometry 的角](how-to-round-the-corners-of-a-rectanglegeometry.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Brushes>
 - <xref:System.Windows.Shapes.Shape>

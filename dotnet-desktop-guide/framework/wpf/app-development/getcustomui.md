@@ -40,11 +40,11 @@ HRESULT GetCustomUI( [out] BSTR* pwzProgressAssemblyName, [out] BSTR* pwzProgres
 ## <a name="property-valuereturn-value"></a>属性值/返回值  
  HRESULT：已忽略。  
   
-## <a name="remarks"></a>备注  
+## <a name="remarks"></a>注解  
  宿主应用程序可能有 PresentationHost.exe 默认用户界面不符合的特定主题。 如果是这种情况，主机应用程序可以实现 [GetCustomUI](getcustomui.md) ，以将进度和错误用户界面返回到 PresentationHost.exe。 PresentationHost.exe 将始终在使用其默认用户界面之前调用 [GetCustomUI](getcustomui.md) 。  
   
  此函数在 Presentationhost.exe 的初始化过程中调用一次。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [IWpfHostSupport](iwpfhostsupport.md)

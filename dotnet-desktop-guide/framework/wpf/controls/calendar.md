@@ -51,7 +51,7 @@ ms.locfileid: "96973264"
 |CTRL + 向下箭头|任意|切换到下一个较小的 <xref:System.Windows.Controls.Calendar.DisplayMode%2A> 。 如果 <xref:System.Windows.Controls.Calendar.DisplayMode%2A> 已存在 <xref:System.Windows.Controls.CalendarMode.Month> ，则不执行任何操作。|  
 |空格键或 ENTER|<xref:System.Windows.Controls.CalendarMode.Year> 或 <xref:System.Windows.Controls.CalendarMode.Decade>|切换 <xref:System.Windows.Controls.Calendar.DisplayMode%2A> 到 <xref:System.Windows.Controls.CalendarMode.Month> 或 <xref:System.Windows.Controls.CalendarMode.Year> 由重点项表示。|  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [控件](index.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

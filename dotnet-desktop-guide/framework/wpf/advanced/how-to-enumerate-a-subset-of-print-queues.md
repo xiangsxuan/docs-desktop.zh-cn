@@ -34,7 +34,7 @@ ms.locfileid: "96973447"
   
  您可以通过使 `foreach` 每个打印队列步骤逐步进行筛选的循环来扩展此示例。 例如，您可以通过循环调用每个打印队列的 <xref:System.Printing.PrintQueue.GetPrintCapabilities%2A> 方法，并测试是否存在双工的返回值，来使不支持双面打印的打印机出现。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Printing.PrintServer.GetPrintQueues%2A>
 - <xref:System.Printing.PrintServer>

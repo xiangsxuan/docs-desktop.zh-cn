@@ -67,7 +67,7 @@ ms.locfileid: "96973535"
 
 有关完整示例，请参阅[关键帧动画示例](https://github.com/microsoft/WPF-Samples/tree/master/Animation/KeyFrameAnimation)。 有关关键帧动画的详细信息，请参阅 [关键帧动画概述](key-frame-animations-overview.md)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [关键帧动画概述](key-frame-animations-overview.md)
 - [动画概述](animation-overview.md)

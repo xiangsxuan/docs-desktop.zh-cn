@@ -25,6 +25,6 @@ ms.locfileid: "96972762"
   
  有关完整示例，请参阅 [2D 转换示例](https://github.com/Microsoft/WPF-Samples/tree/master/Graphics/2DTransforms)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [转换概述](transforms-overview.md)

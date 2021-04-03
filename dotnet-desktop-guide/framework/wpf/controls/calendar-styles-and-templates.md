@@ -22,7 +22,7 @@ ms.locfileid: "96973267"
 ## <a name="calendar-parts"></a>日历部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.Calendar> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_CalendarItem|<xref:System.Windows.Controls.Primitives.CalendarItem>|上当前显示的月份或年份 <xref:System.Windows.Controls.Calendar> 。|  
 |PART_Root|<xref:System.Windows.Controls.Panel>|包含的面板 <xref:System.Windows.Controls.Primitives.CalendarItem> 。|  
@@ -39,7 +39,7 @@ ms.locfileid: "96973267"
 ## <a name="calendaritem-parts"></a>CalendarItem 部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.Primitives.CalendarItem> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_Root|<xref:System.Windows.FrameworkElement>|控件的根。|  
 |PART_PreviousButton|<xref:System.Windows.Controls.Button>|单击此按钮将显示日历的上一页。|  
@@ -127,7 +127,7 @@ ms.locfileid: "96973267"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

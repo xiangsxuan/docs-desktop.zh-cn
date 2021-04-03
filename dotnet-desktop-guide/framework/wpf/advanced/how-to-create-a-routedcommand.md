@@ -47,7 +47,7 @@ ms.locfileid: "96973455"
   
  单击该按钮时，将 <xref:System.Windows.Input.RoutedCommand.Execute%2A> 调用自定义的方法 <xref:System.Windows.Input.RoutedCommand> 。  <xref:System.Windows.Input.RoutedCommand>引发 <xref:System.Windows.Input.CommandManager.PreviewExecuted> 和 <xref:System.Windows.Input.CommandManager.Executed> 路由事件。  这些事件遍历元素树， <xref:System.Windows.Input.CommandBinding> 以便查找此特定命令的。  如果 <xref:System.Windows.Input.CommandBinding> 找到，则 <xref:System.Windows.Input.ExecutedRoutedEventHandler> 调用与关联的 <xref:System.Windows.Input.CommandBinding> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Input.RoutedCommand>
 - [命令概述](commanding-overview.md)

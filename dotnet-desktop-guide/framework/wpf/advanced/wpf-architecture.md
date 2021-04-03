@@ -142,7 +142,7 @@ ms.locfileid: "96973564"
   
  开始开发基于 WPF 的应用程序时，应该非常熟悉。 可以设置属性、使用对象和数据绑定，其方式与使用 Windows 窗体或 ASP.NET 的方式大致相同。 通过更深入地调查 WPF 的体系结构，你会发现创建更丰富的应用程序的可能性，这些应用程序在本质上将数据视为应用程序的核心驱动程序。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Visual>
 - <xref:System.Windows.UIElement>

@@ -33,7 +33,7 @@ ms.locfileid: "96973233"
   
  有关完整示例，请参阅 [路径动画示例](https://github.com/Microsoft/WPF-Samples/tree/master/Animation/PathAnimations)。 有关演示如何在 <xref:System.Windows.Media.Matrix> 不累积偏移量的情况下沿着路径对值进行动画处理的示例，请参阅按 [路径对对象进行动画处理 (矩阵动画) ](how-to-animate-an-object-along-a-path-matrix-animation.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [动画概述](animation-overview.md)
 - [路径动画帮助主题](path-animation-how-to-topics.md)

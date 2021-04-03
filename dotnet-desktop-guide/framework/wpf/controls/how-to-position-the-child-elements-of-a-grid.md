@@ -31,7 +31,7 @@ ms.locfileid: "96974055"
 
  ![屏幕截图描述了一个具有两列的 WPF 用户界面，右侧有一个 3 x 3 网格，左侧有一些按钮用于在网格的列和行之间移动彩色矩形](././media/grid-methods-sample.png)
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Grid>
 - [面板概述](panels-overview.md)

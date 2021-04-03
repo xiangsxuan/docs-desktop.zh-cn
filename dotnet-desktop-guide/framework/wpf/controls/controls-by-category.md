@@ -178,6 +178,6 @@ Windows Presentation Foundation (WPF) 控件可以逻辑分组为多个类别。
   
 - <xref:System.Windows.Controls.InkPresenter>  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [控件库](control-library.md)

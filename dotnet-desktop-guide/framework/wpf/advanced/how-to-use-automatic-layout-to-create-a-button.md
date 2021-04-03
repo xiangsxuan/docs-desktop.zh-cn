@@ -29,7 +29,7 @@ ms.locfileid: "96971807"
   
  ![具有不同语言的文本的同一按钮](./media/use-automatic-layout-overview/auto-resizable-button.png)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用自动布局概述](use-automatic-layout-overview.md)
 - [使用网格进行自动布局](how-to-use-a-grid-for-automatic-layout.md)

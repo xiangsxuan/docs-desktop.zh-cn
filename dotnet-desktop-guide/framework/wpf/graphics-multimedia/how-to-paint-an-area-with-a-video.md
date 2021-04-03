@@ -37,7 +37,7 @@ ms.locfileid: "96973757"
   
  有关如何向应用程序添加内容文件（例如媒体文件）的信息，请参阅 [WPF 应用程序资源、内容和数据文件](../app-development/wpf-application-resource-content-and-data-files.md)。 添加媒体文件时，必须将其添加为内容文件，而不是资源文件。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.VisualBrush>
 - [使用图像、图形和视觉对象进行绘制](painting-with-images-drawings-and-visuals.md)

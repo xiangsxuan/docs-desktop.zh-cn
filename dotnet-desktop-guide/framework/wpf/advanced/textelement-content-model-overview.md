@@ -101,7 +101,7 @@ ms.locfileid: "96973379"
 ## <a name="types-that-can-contain-textelement-objects"></a>可包含 TextElement 对象的类型  
  请参阅 [WPF 内容模型](../controls/wpf-content-model.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [通过 Blocks 属性操作 FlowDocument](how-to-manipulate-a-flowdocument-through-the-blocks-property.md)
 - [通过 Blocks 属性操作流内容元素](how-to-manipulate-flow-content-elements-through-the-blocks-property.md)

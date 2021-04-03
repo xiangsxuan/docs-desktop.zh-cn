@@ -17,7 +17,7 @@ ms.locfileid: "96973834"
 # <a name="flowdocumentreader"></a>FlowDocumentReader
 <xref:System.Windows.Controls.FlowDocumentReader>控件用于查看 <xref:System.Windows.Documents.FlowDocument> 内容。 它支持多个查看模式。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.FlowDocumentReader>
 - <xref:System.Windows.Controls.FlowDocumentPageViewer>

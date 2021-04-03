@@ -30,7 +30,7 @@ ms.locfileid: "96973979"
 
 ![生成的控件的屏幕截图](././media/how-to-create-a-complex-grid/wpf-manual-calendar.png)
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Grid?displayProperty=nameWithType>
 - <xref:System.Windows.Documents.TableCell?displayProperty=nameWithType>

@@ -81,7 +81,7 @@ ms.locfileid: "96973199"
 ## <a name="creating-a-custom-view-mode"></a>创建自定义视图模式  
  自定义的视图（如） <xref:System.Windows.Controls.GridView> 派生自 <xref:System.Windows.Controls.ViewBase> 抽象类，该类提供了用于显示作为对象表示的数据项的工具 <xref:System.Windows.Controls.ListViewItem> 。
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.GridView>
 - <xref:System.Windows.Controls.ListView>

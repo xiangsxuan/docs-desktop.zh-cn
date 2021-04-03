@@ -23,11 +23,11 @@ elem.Value
 
 一个 <xref:System.String>，表示元素的串联内容。
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 此属性等效于 <xref:System.Xml.Linq.XElement.Value%2A> 类的 <xref:System.Xml.Linq.XElement?displayProperty=fullName> 属性，但此动态属性还支持更改通知。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Xml.Linq.XElement.Value%2A?displayProperty=fullName>
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)

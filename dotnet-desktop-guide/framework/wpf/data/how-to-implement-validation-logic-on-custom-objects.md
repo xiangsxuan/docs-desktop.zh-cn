@@ -32,7 +32,7 @@ ms.locfileid: "96973701"
   
  或者， <xref:System.Windows.Controls.DataErrorValidationRule> 您可以将属性设置为，而不是使用 <xref:System.Windows.Data.Binding.ValidatesOnDataErrors%2A> `true` 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.ExceptionValidationRule>
 - [实现绑定验证](how-to-implement-binding-validation.md)

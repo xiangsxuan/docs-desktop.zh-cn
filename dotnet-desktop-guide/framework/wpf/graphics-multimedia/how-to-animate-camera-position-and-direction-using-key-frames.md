@@ -28,7 +28,7 @@ ms.locfileid: "96973671"
 ## <a name="example"></a>示例  
  [!code-xaml[Animation3DGallery_snip#PointVector3DAnimationUsingKeyFramesExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/Animation3DGallery_snip/CS/PointVector3DAnimationUsingKeyFramesExample.xaml#pointvector3danimationusingkeyframesexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [在三维场景中对照相机位置和方向进行动画处理](how-to-animate-camera-position-and-direction-in-a-3d-scene.md)
 - [三维图形概述](3-d-graphics-overview.md)

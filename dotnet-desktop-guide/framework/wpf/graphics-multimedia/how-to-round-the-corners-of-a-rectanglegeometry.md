@@ -25,7 +25,7 @@ ms.locfileid: "96973173"
  ![具有不同 RadiusX&#47;RadiusY 设置的矩形](./media/graphicsmm-rounded.png "graphicsmm_rounded")  
 带圆角的矩形  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [Geometry 概述](geometry-overview.md)
 - [创建复合形状](how-to-create-a-composite-shape.md)

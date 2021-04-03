@@ -122,7 +122,7 @@ ms.locfileid: "96973154"
 ## <a name="set-data-binding-programmatically"></a>以编程方式设置数据绑定  
  <xref:System.Windows.FrameworkElement.DataContext%2A>请考虑在方法中以编程方式设置主窗口，而不是使用 XAML 以声明方式设置 <xref:System.Windows.Application.OnActivated%2A> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.SplashScreen>
 - <xref:System.AppDomain>

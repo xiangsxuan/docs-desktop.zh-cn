@@ -32,11 +32,11 @@ attrib.Value
 | - |---------------|
 |<xref:System.ArgumentNullException>|设置时，`value` 为 `null`。|
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 此属性等效于 <xref:System.Xml.Linq.XAttribute.Value%2A> 类的 <xref:System.Xml.Linq.XAttribute?displayProperty=fullName> 属性，但此动态属性还支持更改通知。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Xml.Linq.XAttribute.Value%2A?displayProperty=fullName>
 - [XAttribute 类动态属性](value-xattribute-dynamic-property.md)

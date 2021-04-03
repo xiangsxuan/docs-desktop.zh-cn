@@ -73,7 +73,7 @@ ms.locfileid: "96973408"
   
  另一个示例方案包括允许通过电子邮件在文档读取器之间交换批注和便笺的应用程序。 凭借此功能，这些应用程序可以将读取器导航到包含要交换的批注的页面。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Primitives.DocumentViewerBase>
 - <xref:System.Windows.Controls.DocumentViewer>

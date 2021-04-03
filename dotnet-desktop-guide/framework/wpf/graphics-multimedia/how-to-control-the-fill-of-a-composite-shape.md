@@ -63,7 +63,7 @@ ms.locfileid: "96973530"
 
 ## <a name="example"></a>示例
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [创建复合形状](how-to-create-a-composite-shape.md)
 - [Geometry 概述](geometry-overview.md)

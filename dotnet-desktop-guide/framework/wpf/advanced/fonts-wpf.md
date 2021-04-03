@@ -22,7 +22,7 @@ ms.locfileid: "96973339"
  [示例 OpenType 字体包](sample-opentype-font-pack.md)  
  [操作指南主题](fonts-how-to-topics.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FontStyle>
 - <xref:System.Windows.SystemFonts>

@@ -33,7 +33,7 @@ RectangleGeometry
   
  其他简单的 geometry 类包括 <xref:System.Windows.Media.LineGeometry> 和 <xref:System.Windows.Media.EllipseGeometry> 。 还可以使用或创建这些几何图形以及更复杂的几何图形 <xref:System.Windows.Media.PathGeometry> <xref:System.Windows.Media.StreamGeometry> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [Geometry 概述](geometry-overview.md)
 - [创建复合形状](how-to-create-a-composite-shape.md)

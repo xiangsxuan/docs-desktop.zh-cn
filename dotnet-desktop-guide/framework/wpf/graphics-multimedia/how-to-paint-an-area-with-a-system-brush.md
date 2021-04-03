@@ -47,7 +47,7 @@ ms.locfileid: "96972775"
   
  有关演示如何在渐变中使用系统颜色的示例，请参阅 [在渐变中使用系统颜色](how-to-use-system-colors-in-a-gradient.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [在渐变中使用系统颜色](how-to-use-system-colors-in-a-gradient.md)
 - [使用纯色和渐变进行绘制概述](painting-with-solid-colors-and-gradients-overview.md)

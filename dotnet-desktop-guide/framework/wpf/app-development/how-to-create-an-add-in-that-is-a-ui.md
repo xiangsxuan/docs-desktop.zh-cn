@@ -127,7 +127,7 @@ ms.locfileid: "96973029"
   
  此活动完全独立于主机应用程序。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [外接程序和扩展性](/previous-versions/dotnet/netframework-4.0/bb384200(v%3dvs.100))
 - [WPF 外接程序概述](wpf-add-ins-overview.md)

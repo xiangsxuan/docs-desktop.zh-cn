@@ -111,7 +111,7 @@ ms.locfileid: "96973140"
   
  有多种类型的线段。  
   
-|线段类型|描述|示例|  
+|线段类型|说明|示例|  
 |------------------|-----------------|-------------|  
 |<xref:System.Windows.Media.ArcSegment>|在两点之间创建一条椭圆弧。|[创建椭圆弧](how-to-create-an-elliptical-arc.md)。|  
 |<xref:System.Windows.Media.BezierSegment>|在两点之间创建一个三次方贝塞尔曲线。|[创建三次方贝塞尔曲线](how-to-create-a-cubic-bezier-curve.md)。|  

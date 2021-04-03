@@ -32,7 +32,7 @@ ms.locfileid: "96973016"
   
  请注意，当你使用时 <xref:System.Windows.Media.MediaTimeline> ，你将使用 <xref:System.Windows.Media.Animation.ClockController> 从的属性返回的交互式 <xref:System.Windows.Media.Animation.Clock.Controller%2A> <xref:System.Windows.Media.MediaClock> 来控制媒体播放，而不是的交互式方法 <xref:System.Windows.Media.MediaPlayer> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.VideoDrawing>
 - [Drawing 对象概述](drawing-objects-overview.md)

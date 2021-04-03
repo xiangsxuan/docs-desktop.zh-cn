@@ -28,7 +28,7 @@ ms.locfileid: "96973373"
   
  [!code-xaml[AnimatedPopup#RotateTransform1](~/samples/snippets/csharp/VS_Snippets_Wpf/AnimatedPopup/CS/Window1.xaml#rotatetransform1)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.UIElement.RenderTransform%2A>
 - <xref:System.Windows.Controls.Primitives.BulletDecorator>

@@ -64,6 +64,6 @@ ms.locfileid: "96971921"
 > [!NOTE]
 > <xref:System.Windows.Media.Effects.DropShadowBitmapEffect>提供了一组丰富的功能，用于提供阴影效果。 有关详细信息，请参阅 [使用阴影创建文本](how-to-create-text-with-a-shadow.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [向文本应用动画](how-to-apply-animations-to-text.md)

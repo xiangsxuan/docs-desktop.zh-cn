@@ -22,7 +22,7 @@ ms.locfileid: "96972931"
 ## <a name="progressbar-parts"></a>ProgressBar 部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.ProgressBar> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_Indicator|<xref:System.Windows.FrameworkElement>|指示进度的对象。|  
 |PART_Track|<xref:System.Windows.FrameworkElement>|定义进度指示器的路径的对象。|  
@@ -50,7 +50,7 @@ ms.locfileid: "96972931"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

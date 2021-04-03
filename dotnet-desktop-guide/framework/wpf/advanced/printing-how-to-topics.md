@@ -43,7 +43,7 @@ ms.locfileid: "96973878"
  [验证和合并 PrintTicket](how-to-validate-and-merge-printtickets.md)  
  用于检查打印票证是否有效且未请求打印机不支持的任何内容的说明。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Printing>
 - <xref:System.Printing.IndexedProperties>

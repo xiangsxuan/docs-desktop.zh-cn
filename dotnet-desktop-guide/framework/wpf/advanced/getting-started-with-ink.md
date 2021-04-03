@@ -85,7 +85,7 @@ Windows Presentation Foundation (WPF) 包含一项墨迹功能，使你可以轻
    [!code-csharp[DigitalInkTopics#4](~/samples/snippets/csharp/VS_Snippets_Wpf/DigitalInkTopics/CSharp/Window2.xaml.cs#4)]
    [!code-vb[DigitalInkTopics#4](~/samples/snippets/visualbasic/VS_Snippets_Wpf/DigitalInkTopics/VisualBasic/Window2.xaml.vb#4)]
 
-1. 运行应用程序。 添加一些墨迹，然后用鼠标右键单击或执行与触笔等效的按压操作。
+1. 运行该应用程序。 添加一些墨迹，然后用鼠标右键单击或执行与触笔等效的按压操作。
 
    每次单击鼠标右键时，都会显示 "放大"。
 
@@ -108,7 +108,7 @@ Windows Presentation Foundation (WPF) 包含一项墨迹功能，使你可以轻
 
 1. 按 **F5** 生成应用程序。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [数字墨迹](digital-ink.md)
 - [收集墨迹](collecting-ink.md)

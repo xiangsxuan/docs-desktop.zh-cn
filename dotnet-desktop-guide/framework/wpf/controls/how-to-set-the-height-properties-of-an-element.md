@@ -33,7 +33,7 @@ ms.locfileid: "96973809"
   
  有关完整示例，请参阅 [高度属性示例](https://github.com/microsoft/WPF-Samples/tree/master/Elements/HeightProperties)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement>
 - <xref:System.Windows.Controls.ListBox>

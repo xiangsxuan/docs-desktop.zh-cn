@@ -52,7 +52,7 @@ ms.locfileid: "96973288"
 
  生成 XBAP 时，输出将包括以下三个文件：
 
-|文件|描述|
+|文件|说明|
 |----------|-----------------|
 |可执行文件 (.exe)|此文件包含已编译的代码且具有 .exe 扩展名。|
 |应用程序清单 (.manifest)|此文件包含与应用程序关联的元数据且具有 .manifest 扩展名。|
@@ -202,7 +202,7 @@ ms.locfileid: "96973288"
 
  此外，改进后的 ClickOnce 下载顺序并发性将开始时间提高了10%。 ClickOnce 下载并验证清单后，将启动应用程序下载，并开始更新进度栏。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [配置 Visual Studio 以调试 XAML 浏览器应用程序来调用 Web 服务](configure-vs-to-debug-a-xaml-browser-to-call-a-web-service.md)
 - [部署 WPF 应用程序](deploying-a-wpf-application-wpf.md)

@@ -38,6 +38,6 @@ ms.locfileid: "96973980"
   
  [!code-xaml[LabelSnippet#4](~/samples/snippets/csharp/VS_Snippets_Wpf/LabelSnippet/CS/Pane1.xaml#4)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [如何：设置 Label 的目标属性](/previous-versions/dotnet/netframework-3.5/ms752101(v=vs.90))

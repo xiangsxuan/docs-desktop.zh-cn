@@ -37,7 +37,7 @@ ms.locfileid: "96973087"
   
  上述示例中引用的样式资源在资源部分中定义，而不会显示在本主题中。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [实现绑定验证](how-to-implement-binding-validation.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

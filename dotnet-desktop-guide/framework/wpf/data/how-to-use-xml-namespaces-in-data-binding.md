@@ -29,7 +29,7 @@ ms.locfileid: "96972083"
 
  在此特定示例中，XML 数据来自 web 服务，但该 <xref:System.Windows.Data.XmlNamespaceMapping> 元素还适用于嵌入式 XML 或嵌入文件中的 xml 数据。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用 XMLDataProvider 和 XPath 查询绑定到 XML 数据](how-to-bind-to-xml-data-using-an-xmldataprovider-and-xpath-queries.md)
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

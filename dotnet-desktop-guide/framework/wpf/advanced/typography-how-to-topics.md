@@ -27,7 +27,7 @@ ms.locfileid: "96974005"
  [向视觉对象绘制文本](how-to-draw-text-to-a-visual.md)  
  [在 XAML 中使用特殊字符](how-to-use-special-characters-in-xaml.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Documents.Typography>
 - [WPF 中的文档](documents-in-wpf.md)

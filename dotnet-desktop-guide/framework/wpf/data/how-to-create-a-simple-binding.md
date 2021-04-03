@@ -26,7 +26,7 @@ ms.locfileid: "96973085"
   
  包含元素的突出显示行将 `<TextBlock>` <xref:System.Windows.Controls.TextBlock> 控件绑定到 `PersonName` 属性。 因此，将 <xref:System.Windows.Controls.TextBlock> 显示值 "Joe"。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)
 - [操作指南主题](data-binding-how-to-topics.md)

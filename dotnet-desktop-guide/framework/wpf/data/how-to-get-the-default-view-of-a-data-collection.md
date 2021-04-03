@@ -32,7 +32,7 @@ ms.locfileid: "96974046"
   
  有关集合视图提供的功能的示例，请参阅 [在视图中对数据进行排序](how-to-sort-data-in-a-view.md)、 [筛选视图中的数据](how-to-filter-data-in-a-view.md)，以及 [在数据 CollectionView 中的对象](how-to-navigate-through-the-objects-in-a-data-collectionview.md)之间进行导航。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [在 XAML 中使用视图对数据进行排序和分组](how-to-sort-and-group-data-using-a-view-in-xaml.md)
 - [操作指南主题](data-binding-how-to-topics.md)

@@ -26,7 +26,7 @@ ms.locfileid: "96973001"
  [版式](typography.md)  
  [打印和打印系统管理](printing-and-print-system-management.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.DocumentViewer>
 - <xref:System.Windows.Documents.FlowDocument>

@@ -437,7 +437,7 @@ ms.locfileid: "96973926"
 
 - 用于响应用户操作的按钮的自定义行为 (如 <xref:System.Windows.UIElement.MouseEnter> <xref:System.Windows.UIElement.MouseLeave> <xref:System.Windows.Controls.Primitives.ButtonBase.Click> 包含动画效果的、和) 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用 Microsoft Expression Blend 创建按钮](walkthrough-create-a-button-by-using-microsoft-expression-blend.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

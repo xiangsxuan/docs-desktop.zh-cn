@@ -33,7 +33,7 @@ ms.locfileid: "96972890"
 ### <a name="setting-the-datagrid-size"></a>设置 DataGrid 大小  
  <xref:System.Windows.Controls.DataGrid>可以设置为指定边界内的自动大小，也可以 <xref:System.Windows.Controls.DataGrid> 设置为特定大小。 下表显示可以设置以控制大小的属性 <xref:System.Windows.Controls.DataGrid> 。  
   
-|属性|描述|  
+|属性|说明|  
 |--------------|-----------------|  
 |<xref:System.Windows.FrameworkElement.Height%2A>|设置的特定高度 <xref:System.Windows.Controls.DataGrid> 。|  
 |<xref:System.Windows.FrameworkElement.MaxHeight%2A>|设置的高度上限 <xref:System.Windows.Controls.DataGrid> 。 <xref:System.Windows.Controls.DataGrid>将垂直增长，直到达到此高度。|  
@@ -57,7 +57,7 @@ ms.locfileid: "96972890"
   
  下表显示了结构提供的值 <xref:System.Windows.Controls.DataGridLengthUnitType> 。  
   
-|名称|描述|  
+|名称|说明|  
 |----------|-----------------|  
 |<xref:System.Windows.Controls.DataGridLengthUnitType.Auto>|默认的自动调整大小模式根据 <xref:System.Windows.Controls.DataGrid> 单元格和列标题的内容调整列的大小。|  
 |<xref:System.Windows.Controls.DataGridLengthUnitType.SizeToCells>|基于单元格的自动调整大小模式根据 <xref:System.Windows.Controls.DataGrid> 列中单元格的内容（不包括列标题）来调整列的大小。|  
@@ -71,7 +71,7 @@ ms.locfileid: "96972890"
   
  还可以将中的列 <xref:System.Windows.Controls.DataGrid> 设置为仅在指定边界内自动调整大小，或者可以将列设置为特定大小。 下表显示了可设置为控制列大小的属性。  
   
-|属性|描述|  
+|属性|说明|  
 |--------------|-----------------|  
 |<xref:System.Windows.Controls.DataGrid.MaxColumnWidth%2A?displayProperty=nameWithType>|设置中所有列的上限 <xref:System.Windows.Controls.DataGrid> 。|  
 |<xref:System.Windows.Controls.DataGridColumn.MaxWidth%2A?displayProperty=nameWithType>|设置单个列的上限。 重写 <xref:System.Windows.Controls.DataGrid.MaxColumnWidth%2A?displayProperty=nameWithType>。|  
@@ -86,7 +86,7 @@ ms.locfileid: "96972890"
 ### <a name="resizing-with-the-mouse"></a>用鼠标调整大小  
  用户可以 <xref:System.Windows.Controls.DataGrid> 通过拖动行标题或列标题分隔线来调整行和列的大小。 <xref:System.Windows.Controls.DataGrid>还支持通过双击行标题或列标题分隔符来自动调整行和列的大小。 若要防止用户调整特定列的大小，请将 <xref:System.Windows.Controls.DataGridColumn.CanUserResize%2A?displayProperty=nameWithType> 单个列的属性设置为 `false` 。 若要防止用户调整所有列的大小，请将 <xref:System.Windows.Controls.DataGrid.CanUserResizeColumns%2A?displayProperty=nameWithType> 属性设置为 `false` 。 若要防止用户调整所有行的大小，请将 <xref:System.Windows.Controls.DataGrid.CanUserResizeRows%2A?displayProperty=nameWithType> 属性设置为 `false` 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.DataGrid>
 - <xref:System.Windows.Controls.DataGridColumn>

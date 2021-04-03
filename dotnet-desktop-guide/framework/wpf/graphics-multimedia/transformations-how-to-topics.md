@@ -30,7 +30,7 @@ ms.locfileid: "96973832"
  [转换元素](how-to-translate-an-element.md)  
  [使用 MatrixTransform 创建自定义转换](how-to-use-a-matrixtransform-to-create-custom-transforms.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Transform>
 - [图形和多媒体](index.md)

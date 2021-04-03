@@ -27,6 +27,6 @@ ms.locfileid: "96972865"
 ## <a name="net-framework-security"></a>.NET Framework 安全性  
  调用 <xref:System.Windows.Window.ShowDialog%2A> 需要权限以在没有限制的情况下使用所有窗口和用户输入事件。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [返回对话框结果](how-to-return-a-dialog-box-result.md)

@@ -30,7 +30,7 @@ ms.locfileid: "96973471"
  [转换概述](transforms-overview.md)  
  [操作指南主题](transformations-how-to-topics.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Transform>
 - [图形和多媒体](index.md)

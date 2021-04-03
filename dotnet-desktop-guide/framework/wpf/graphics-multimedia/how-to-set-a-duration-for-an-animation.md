@@ -23,7 +23,7 @@ ms.locfileid: "96973843"
 ## <a name="example"></a>示例  
  [!code-xaml[timingbehaviors_snip#DurationExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/timingbehaviors_snip/CSharp/DurationExample.xaml#durationexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Duration>
 - [动画概述](animation-overview.md)

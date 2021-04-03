@@ -588,7 +588,7 @@ ms.locfileid: "96973156"
 </anc:Annotations>
 ```
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Annotations>
 - <xref:System.Windows.Annotations.Storage>

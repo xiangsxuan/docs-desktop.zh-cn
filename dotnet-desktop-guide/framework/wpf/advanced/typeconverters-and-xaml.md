@@ -108,7 +108,7 @@ ms.locfileid: "96974009"
   
  还可以基于每个属性提供类型转换器。 不是将应用于 <xref:System.ComponentModel.TypeConverterAttribute> 类定义，而是将其应用于主定义 (属性定义，而不是 `get` / `set`) 中的实现。 属性的类型必须与自定义类型转换器处理的类型匹配。 应用此特性时，当 XAML 处理器处理该属性的值时，它可以处理输入字符串并返回对象实例。 如果选择使用 Microsoft .NET 框架中的属性类型或不能控制类定义并且无法应用此类定义的其他库，则每属性类型转换器方法特别有用 <xref:System.ComponentModel.TypeConverterAttribute> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.ComponentModel.TypeConverter>
 - [XAML 概述 (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)

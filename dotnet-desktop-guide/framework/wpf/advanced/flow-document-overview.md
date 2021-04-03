@@ -369,7 +369,7 @@ Flow 元素是使用 <xref:System.Windows.Documents.InlineCollection> (Inlines) 
 
 有关版式的详细信息，请参阅 [WPF 中的版式](typography-in-wpf.md) 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [文本](optimizing-performance-text.md)
 - [WPF 中的版式](typography-in-wpf.md)

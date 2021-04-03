@@ -252,7 +252,7 @@ ms.locfileid: "96973946"
 
 - 其他：创建渐变、添加 BitmapEffects、使用转换，并设置对象的基本属性。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用 XAML 创建按钮](walkthrough-create-a-button-by-using-xaml.md)
 - [样式设置和模板化](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)

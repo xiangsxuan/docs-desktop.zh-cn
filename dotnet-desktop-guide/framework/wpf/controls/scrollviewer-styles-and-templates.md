@@ -22,7 +22,7 @@ ms.locfileid: "96971798"
 ## <a name="scrollviewer-parts"></a>ScrollViewer 部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.ScrollViewer> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_ScrollContentPresenter|<xref:System.Windows.Controls.ScrollContentPresenter>|中的内容的占位符 <xref:System.Windows.Controls.ScrollViewer> 。|  
 |PART_HorizontalScrollBar|<xref:System.Windows.Controls.Primitives.ScrollBar>|<xref:System.Windows.Controls.Primitives.ScrollBar>用于水平滚动内容的。|  
@@ -48,7 +48,7 @@ ms.locfileid: "96971798"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

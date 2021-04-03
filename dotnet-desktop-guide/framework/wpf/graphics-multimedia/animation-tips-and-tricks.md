@@ -140,6 +140,6 @@ ms.locfileid: "96973782"
   
  有关时钟对象的详细信息，请参阅 [动画和计时系统概述](animation-and-timing-system-overview.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [动画概述](animation-overview.md)

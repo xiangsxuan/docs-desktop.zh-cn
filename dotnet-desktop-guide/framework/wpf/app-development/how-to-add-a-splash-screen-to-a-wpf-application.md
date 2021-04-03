@@ -45,7 +45,7 @@ ms.locfileid: "96973033"
 
 在 **解决方案资源管理器** 中，删除初始屏幕图像。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.SplashScreen>
 - [如何：向项目中添加现有项](/previous-versions/visualstudio/visual-studio-2010/9f4t9t92(v=vs.100))

@@ -22,7 +22,7 @@ ms.locfileid: "96973718"
   
  [!code-xaml[GroupBoxSnippet#GroupBoxTemplate](~/samples/snippets/csharp/VS_Snippets_Wpf/GroupBoxSnippet/CS/Window1.xaml#groupboxtemplate)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.GroupBox>
 - [如何：创建分组框](/previous-versions/dotnet/netframework-3.5/ms748321(v=vs.90))

@@ -109,7 +109,7 @@ ms.locfileid: "96971946"
 
  可以通过重写触笔事件方法来创建一个用于收集和呈现墨迹的控件。 通过创建自己的控件，派生你自己 <xref:System.Windows.Input.StylusPlugIns.StylusPlugIn> 的类并将它们插入到中 <xref:System.Windows.Input.StylusPlugIns.StylusPlugInCollection> ，你可以使用数字墨迹实现几乎任何行为想象。 你可以在生成数据时对其进行访问 <xref:System.Windows.Input.StylusPoint> ，使你可以自定义 <xref:System.Windows.Input.Stylus> 输入，并根据应用程序将其呈现在屏幕上。 由于你对数据具有此类低级别访问权限 <xref:System.Windows.Input.StylusPoint> ，因此你可以实现墨迹收集，并为应用程序提供最佳性能。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [高级墨迹处理](advanced-ink-handling.md)
 - [访问和操作笔输入](/previous-versions/ms818317(v=msdn.10))

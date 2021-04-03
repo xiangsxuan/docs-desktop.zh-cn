@@ -24,7 +24,7 @@ ms.locfileid: "96973090"
   
  的默认值 <xref:System.Windows.Controls.Primitives.TextBoxBase.IsReadOnly%2A> 为 **false**。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [TextBox 概述](textbox-overview.md)
 - [RichTextBox 概述](richtextbox-overview.md)

@@ -41,7 +41,7 @@ ms.locfileid: "96973844"
 
      Win32 应用程序向导将打开并显示欢迎屏幕。
 
-2. 单击 **“下一步”** 。
+2. 单击“下一步”。
 
      此时将显示 "应用程序设置" 屏幕。
 
@@ -139,7 +139,7 @@ ms.locfileid: "96973844"
 
 - 在 WPF 应用程序中托管 Direct3D9 内容。 有关详细信息，请参阅 [演练：在 WPF 中承载 Direct3D9 内容](walkthrough-hosting-direct3d9-content-in-wpf.md)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Interop.D3DImage>
 - [Direct3D9 和 WPF 互操作性的性能注意事项](performance-considerations-for-direct3d9-and-wpf-interoperability.md)

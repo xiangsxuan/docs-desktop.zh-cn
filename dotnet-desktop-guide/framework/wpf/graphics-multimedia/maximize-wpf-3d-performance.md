@@ -59,6 +59,6 @@ ms.locfileid: "96973171"
 |亮|黑色光源不可见，但会将其添加到渲染时间;请考虑省略它们。|  
 |<xref:System.Windows.Media.Media3D.MeshGeometry3D>|若要最大程度地减少中大型集合的构造时间 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] ，如 MeshGeometry3D's <xref:System.Windows.Media.Media3D.MeshGeometry3D.Positions%2A> 、 <xref:System.Windows.Media.Media3D.MeshGeometry3D.Normals%2A> 、 <xref:System.Windows.Media.Media3D.MeshGeometry3D.TextureCoordinates%2A> 和 <xref:System.Windows.Media.Media3D.MeshGeometry3D.TriangleIndices%2A> ，请在值填充之前预先调整集合的大小。 如果可能，请传递集合的构造函数预填充的数据结构，例如数组或列表。|  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [三维图形概述](3-d-graphics-overview.md)

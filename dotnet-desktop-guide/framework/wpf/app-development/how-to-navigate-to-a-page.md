@@ -31,7 +31,7 @@ ms.locfileid: "96974071"
 > [!NOTE]
 > 统一资源标识符 (Uri) 可以是相对的，也可以是绝对的。 有关详细信息，请参阅 [WPF 中的 Pack URI](pack-uris-in-wpf.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Frame>
 - <xref:System.Windows.Controls.Page>

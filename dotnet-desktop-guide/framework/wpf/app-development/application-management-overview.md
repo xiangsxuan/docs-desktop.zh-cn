@@ -387,7 +387,7 @@ Windows 允许用户在应用程序之间切换。 最常见的方法是使用 A
 
 ![XBAP &#45; 应用程序对象事件](./media/applicationmodeloverview-applicationobjectevents-xbap.png "ApplicationModelOverview_ApplicationObjectEvents_xbap")
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Application>
 - [WPF Windows 概述](wpf-windows-overview.md)

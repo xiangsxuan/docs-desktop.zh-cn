@@ -148,7 +148,7 @@ ms.locfileid: "96973896"
 > [!NOTE]
 > 如果 WPF 完全在软件中呈现， <xref:System.Windows.Interop.D3DImage> 则不会显示，因为 wpf 没有前台缓冲区。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Interop.D3DImage>
 - [Direct3D9 和 WPF 互操作性的性能注意事项](performance-considerations-for-direct3d9-and-wpf-interoperability.md)

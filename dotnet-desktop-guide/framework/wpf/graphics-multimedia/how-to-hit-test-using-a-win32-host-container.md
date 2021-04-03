@@ -34,7 +34,7 @@ ms.locfileid: "96973507"
   
  有关使用 Win32 主机容器命中测试对象的完整示例，请参阅 [使用 Win32 互操作进行命中测试示例](https://github.com/microsoft/WPF-Samples/tree/master/Visual%20Layer/VisualsHitTesting)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Interop.HwndSource>
 - [可视化层中的命中测试](hit-testing-in-the-visual-layer.md)

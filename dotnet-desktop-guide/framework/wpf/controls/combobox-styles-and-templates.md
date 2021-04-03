@@ -23,7 +23,7 @@ ms.locfileid: "96973250"
 ## <a name="combobox-parts"></a>ComboBox 部分  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.ComboBox> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_EditableTextBox|<xref:System.Windows.Controls.TextBox>|包含的文本 <xref:System.Windows.Controls.ComboBox> 。|  
 |PART_Popup|<xref:System.Windows.Controls.Primitives.Popup>|包含组合框中的项的下拉。|  
@@ -78,7 +78,7 @@ ms.locfileid: "96973250"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

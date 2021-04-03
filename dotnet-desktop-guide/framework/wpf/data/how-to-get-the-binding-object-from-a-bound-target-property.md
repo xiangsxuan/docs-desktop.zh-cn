@@ -30,7 +30,7 @@ ms.locfileid: "96974047"
 > [!NOTE]
 > 如果绑定为 <xref:System.Windows.Data.MultiBinding> ，请使用 <xref:System.Windows.Data.BindingOperations.GetMultiBinding%2A?displayProperty=nameWithType> 。 如果是 <xref:System.Windows.Data.PriorityBinding> ，请使用 <xref:System.Windows.Data.BindingOperations.GetPriorityBinding%2A?displayProperty=nameWithType> 。 如果不确定是否使用、或来绑定目标属性， <xref:System.Windows.Data.Binding> <xref:System.Windows.Data.MultiBinding> <xref:System.Windows.Data.PriorityBinding> 可以使用 <xref:System.Windows.Data.BindingOperations.GetBindingBase%2A?displayProperty=nameWithType> 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [在代码中创建绑定](how-to-create-a-binding-in-code.md)
 - [操作指南主题](data-binding-how-to-topics.md)

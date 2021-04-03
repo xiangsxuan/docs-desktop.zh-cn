@@ -130,7 +130,7 @@ namespace LinqToXmlDataBinding {
 
 有关这些处理程序的关联 XAML 源，请参阅 [l2dbform.xaml 源代码](l2dbform-xaml-source-code.md)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [演练：LinqToXmlDataBinding 示例](linq-to-xml-data-binding-sample.md)
 - [L2DBForm.xaml 源代码](l2dbform-xaml-source-code.md)

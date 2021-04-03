@@ -25,11 +25,11 @@ elem.Xml
 
 表示元素的非格式化 XML 内容的 <xref:System.String>。
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 此属性等效于 <xref:System.Xml.Linq.XNode.ToString(System.Xml.Linq.SaveOptions)> 类的 <xref:System.Xml.Linq.XNode?displayProperty=fullName> 方法，其 `SaveOptions` 参数设置为 <xref:System.Xml.Linq.SaveOptions>。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [XElement 类动态属性](attribute-xelement-dynamic-property.md)
 - [值](value-xelement-dynamic-property.md)

@@ -29,7 +29,7 @@ ms.locfileid: "96971814"
  ![网格示例](./media/glob-grid.png "glob_grid")  
 网格  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [使用自动布局概述](use-automatic-layout-overview.md)
 - [使用自动布局创建按钮](how-to-use-automatic-layout-to-create-a-button.md)

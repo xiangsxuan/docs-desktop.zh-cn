@@ -19,7 +19,7 @@ ms.locfileid: "96973092"
   
 ## <a name="example"></a>示例  
   
-## <a name="description"></a>描述  
+## <a name="description"></a>说明  
 下面的示例创建一个 <xref:System.Windows.Controls.TreeView> ，它将 `VirtualizingStackPanel.IsVirtualizing` 附加属性设置为 true，并将附加属性设置为以 `VirtualizingStackPanel.VirtualizationMode` <xref:System.Windows.Controls.VirtualizationMode.Recycling?displayProperty=nameWithType> 优化其性能。  
   
 ## <a name="code"></a>代码  
@@ -30,6 +30,6 @@ ms.locfileid: "96973092"
  [!code-csharp[RecycleItemContainerShippets#TreeViewData](~/samples/snippets/csharp/VS_Snippets_Wpf/RecycleItemContainerShippets/CSharp/Window1.xaml.cs#treeviewdata)]
  [!code-vb[RecycleItemContainerShippets#TreeViewData](~/samples/snippets/visualbasic/VS_Snippets_Wpf/RecycleItemContainerShippets/visualbasic/window1.xaml.vb#treeviewdata)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [控件](../advanced/optimizing-performance-controls.md)

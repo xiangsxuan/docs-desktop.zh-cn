@@ -29,7 +29,7 @@ ms.locfileid: "96973176"
 
 [!code-xaml[3DGallery_snip#ApplyDrawingToMaterialExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/3DGallery_snip/CS/ApplyDrawingToMaterialExample.xaml#applydrawingtomaterialexamplewholepage)]
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [XAML 资源](/dotnet/desktop-wpf/fundamentals/xaml-resources-define)
 - [创建三维场景](how-to-create-a-3-d-scene.md)

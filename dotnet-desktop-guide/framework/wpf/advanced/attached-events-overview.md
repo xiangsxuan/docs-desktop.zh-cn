@@ -92,7 +92,7 @@ XAML) Extensible Application Markup Language (定义称为 *附加事件* 的语
   
  但是，如果要基于在上建立附加事件的 WPF 模型定义自定义附加事件 <xref:System.Windows.RoutedEvent> ，则可以使用 <xref:System.Windows.UIElement.RaiseEvent%2A> 从任何或引发附加事件 <xref:System.Windows.UIElement> <xref:System.Windows.ContentElement> 。  (附加或不) 引发路由事件，要求您将元素树中的特定元素声明为事件源;该源将报告为 <xref:System.Windows.UIElement.RaiseEvent%2A> 调用方。 服务负责确定将哪个元素报告为元素树中的事件源  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [路由事件概述](routed-events-overview.md)
 - [XAML 语法详述](xaml-syntax-in-detail.md)

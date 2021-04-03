@@ -24,7 +24,7 @@ ms.locfileid: "96972827"
   
  [!code-xaml[brushsamples_snip#GraphicsMMStaticSystemColorGradientExampleWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/brushsamples_snip/CS/StaticSystemColorExample.xaml#graphicsmmstaticsystemcolorgradientexamplewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.SystemColors>
 - [使用系统画笔绘制区域](how-to-paint-an-area-with-a-system-brush.md)

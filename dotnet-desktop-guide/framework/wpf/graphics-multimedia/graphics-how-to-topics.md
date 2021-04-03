@@ -26,7 +26,7 @@ ms.locfileid: "96973131"
  [如何：通过缓存元素来改善呈现性能](how-to-improve-rendering-performance-by-caching-an-element.md)  
  [如何：使用缓存的元素作为画笔](how-to-use-a-cached-element-as-a-brush.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Shapes.Shape>
 - <xref:System.Windows.Media.Transform>

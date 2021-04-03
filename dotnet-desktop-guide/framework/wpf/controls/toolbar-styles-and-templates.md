@@ -22,7 +22,7 @@ ms.locfileid: "96972928"
 ## <a name="toolbar-parts"></a>工具栏部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.ToolBar> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_ToolBarPanel|<xref:System.Windows.Controls.Primitives.ToolBarPanel>|包含上的控件的对象 <xref:System.Windows.Controls.ToolBar> 。|  
 |PART_ToolBarOverflowPanel|<xref:System.Windows.Controls.Primitives.ToolBarOverflowPanel>|对象，包含位于的溢出区中的控件 <xref:System.Windows.Controls.ToolBar> 。|  
@@ -49,7 +49,7 @@ ms.locfileid: "96972928"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

@@ -23,7 +23,7 @@ ms.locfileid: "96973376"
 ## <a name="datagrid-parts"></a>DataGrid 部分  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.DataGrid> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_ColumnHeadersPresenter|<xref:System.Windows.Controls.Primitives.DataGridColumnHeadersPresenter>|包含列标题的行。|  
   
@@ -90,7 +90,7 @@ ms.locfileid: "96973376"
 ## <a name="datagridrowheader-parts"></a>DataGridRowHeader 部件  
  下表列出了元素的命名部分 <xref:System.Windows.Controls.Primitives.DataGridRowHeader> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_TopHeaderGripper|<xref:System.Windows.Controls.Primitives.Thumb>|用于从顶部调整行标题大小的元素。|  
 |PART_BottomHeaderGripper|<xref:System.Windows.Controls.Primitives.Thumb>|用于从底部调整行标题大小的元素。|  
@@ -123,7 +123,7 @@ ms.locfileid: "96973376"
 ## <a name="datagridcolumnheaderspresenter-parts"></a>DataGridColumnHeadersPresenter 部件  
  下表列出了元素的命名部分 <xref:System.Windows.Controls.Primitives.DataGridColumnHeadersPresenter> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_FillerColumnHeader|<xref:System.Windows.Controls.Primitives.DataGridColumnHeader>|列标题的占位符。|  
   
@@ -139,7 +139,7 @@ ms.locfileid: "96973376"
 ## <a name="datagridcolumnheader-parts"></a>DataGridColumnHeader 部件  
  下表列出了元素的命名部分 <xref:System.Windows.Controls.Primitives.DataGridColumnHeader> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_LeftHeaderGripper|<xref:System.Windows.Controls.Primitives.Thumb>|用于从左侧调整列标题大小的元素。|  
 |PART_RightHeaderGripper|<xref:System.Windows.Controls.Primitives.Thumb>|用于从右侧调整列标题大小的元素。|  
@@ -170,7 +170,7 @@ ms.locfileid: "96973376"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

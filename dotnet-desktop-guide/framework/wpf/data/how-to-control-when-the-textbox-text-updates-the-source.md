@@ -46,6 +46,6 @@ ms.locfileid: "96973088"
 > [!NOTE]
 > <xref:System.Windows.Data.Binding.UpdateSourceTrigger%2A>属性用于处理源更新，因此仅适用于 <xref:System.Windows.Data.BindingMode.TwoWay> 或 <xref:System.Windows.Data.BindingMode.OneWayToSource> 绑定。 <xref:System.Windows.Data.BindingMode.TwoWay>要使和 <xref:System.Windows.Data.BindingMode.OneWayToSource> 绑定正常工作，源对象需要提供属性更改通知。 有关详细信息，可以参见本主题中引用的示例。 此外，也可以参见[实现属性更改通知](how-to-implement-property-change-notification.md)。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [操作指南主题](data-binding-how-to-topics.md)

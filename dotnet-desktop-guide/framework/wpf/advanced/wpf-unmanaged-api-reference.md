@@ -22,6 +22,6 @@ Windows Presentation Foundation (WPF) 库公开了一些仅供内部使用的非
  [SaveToHistory 函数](savetohistory-function-wpf-unmanaged-api-reference.md)  
  [SetFakeActiveWindow 函数](setfakeactivewindow-function-wpf-unmanaged-api-reference.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [高级](index.md)

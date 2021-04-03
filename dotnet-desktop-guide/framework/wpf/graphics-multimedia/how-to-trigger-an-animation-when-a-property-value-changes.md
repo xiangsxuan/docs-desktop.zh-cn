@@ -23,7 +23,7 @@ ms.locfileid: "96973508"
   
  属性对象应用的动画的 <xref:System.Windows.Trigger> 行为方式比 <xref:System.Windows.EventTrigger> 使用方法启动动画或动画更复杂 <xref:System.Windows.Media.Animation.Storyboard> 。  它们使用其他对象定义的动画 "切换" <xref:System.Windows.Trigger> ，但使用 <xref:System.Windows.EventTrigger> 和方法触发的动画进行组合。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Trigger>
 - [属性动画技术概述](property-animation-techniques-overview.md)

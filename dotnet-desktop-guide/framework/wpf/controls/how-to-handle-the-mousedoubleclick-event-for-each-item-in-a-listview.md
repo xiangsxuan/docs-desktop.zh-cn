@@ -32,7 +32,7 @@ ms.locfileid: "96973682"
 > [!NOTE]
 > 虽然将绑定 <xref:System.Windows.Controls.ListView> 到数据源最常见，但你可以使用样式将事件处理程序添加到 <xref:System.Windows.Controls.ListViewItem> 非数据绑定中的每个， <xref:System.Windows.Controls.ListView> 无论你是否显式创建 <xref:System.Windows.Controls.ListViewItem> 。  有关显式和隐式创建的控件的详细信息 <xref:System.Windows.Controls.ListViewItem> ，请参阅 <xref:System.Windows.Controls.ItemsControl> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Xml.XmlElement>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

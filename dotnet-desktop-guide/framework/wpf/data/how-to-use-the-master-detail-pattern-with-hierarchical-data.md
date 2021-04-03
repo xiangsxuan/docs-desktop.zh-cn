@@ -33,7 +33,7 @@ ms.locfileid: "96972084"
   
  使用 XML 数据时，技术略有不同。 有关示例，请参阅 [将 Master-Detail 模式用于分层 XML 数据](how-to-use-the-master-detail-pattern-with-hierarchical-xml-data.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.HierarchicalDataTemplate>
 - [绑定到集合并基于选择显示信息](how-to-bind-to-a-collection-and-display-information-based-on-selection.md)

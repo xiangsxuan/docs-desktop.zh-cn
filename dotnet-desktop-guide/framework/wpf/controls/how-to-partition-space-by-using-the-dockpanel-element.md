@@ -35,7 +35,7 @@ ms.locfileid: "96974064"
   
  ![典型的 DockPanel 方案。](./media/panel-intro-dockpanel.PNG "panel_intro_dockpanel")  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.DockPanel>
 - [面板概述](panels-overview.md)

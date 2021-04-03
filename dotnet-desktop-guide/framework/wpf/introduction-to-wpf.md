@@ -672,7 +672,7 @@ WPF 控件的默认用户界面通常是从其他控件和形状构造的。 例
 > [!div class="nextstepaction"]
 > [演练：我的第一个 WPF 桌面应用](getting-started/walkthrough-my-first-wpf-desktop-application.md)
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [WPF 入门](getting-started/index.md)
 - [Windows Presentation Foundation](index.md)

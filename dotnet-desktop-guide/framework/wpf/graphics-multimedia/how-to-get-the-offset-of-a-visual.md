@@ -65,7 +65,7 @@ TextBlock 嵌套在两个 StackPanels 中
   
  偏移量会考虑 <xref:System.Windows.FrameworkElement.Margin%2A> 所有对象的值。 在此示例中， <xref:System.Windows.Vector.X%2A> 为-4，并且 <xref:System.Windows.Vector.Y%2A> 为-4。 偏移量值是负值，因为父对象相对于其子对象是负偏移。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Visual>
 - <xref:System.Windows.Media.VisualTreeHelper>

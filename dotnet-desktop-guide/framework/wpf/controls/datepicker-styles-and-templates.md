@@ -22,7 +22,7 @@ ms.locfileid: "96973377"
 ## <a name="datepicker-parts"></a>DatePicker 部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.DatePicker> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_Root|<xref:System.Windows.Controls.Grid>|控件的根。|  
 |PART_Button|<xref:System.Windows.Controls.Button>|用于打开和关闭的按钮 <xref:System.Windows.Controls.Calendar> 。|  
@@ -43,7 +43,7 @@ ms.locfileid: "96973377"
 ## <a name="datepickertextbox-parts"></a>DatePickerTextBox 部件  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.Primitives.DatePickerTextBox> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_Watermark|<xref:System.Windows.Controls.ContentControl>|包含中的初始文本的元素 <xref:System.Windows.Controls.DatePicker> 。|  
 |PART_ContentElement|<xref:System.Windows.FrameworkElement>|一个可包含的可视元素 <xref:System.Windows.FrameworkElement> 。 的文本 <xref:System.Windows.Controls.TextBox> 显示在此元素中。|  
@@ -76,7 +76,7 @@ ms.locfileid: "96973377"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>

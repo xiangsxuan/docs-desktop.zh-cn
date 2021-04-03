@@ -20,7 +20,7 @@ ms.locfileid: "96973395"
 ## <a name="fonts-in-the-opentype-font-pack"></a>OpenType 字体包中的字体  
  Windows SDK 提供了一组可在创建应用程序时使用的示例 OpenType 字体 [!INCLUDE[TLA#tla_winclient](../../../includes/tlasharptla-winclient-md.md)] 。 这些示例字体在 Ascender Corporation 的许可下提供。 这些字体仅实现由 OpenType 格式定义的全部功能的子集。 下表列出了示例 OpenType 字体的名称。  
   
-|名称 - **|**文件**|  
+|**名称**|**文件**|  
 |--------------|--------------|  
 |Kootenay|Kooten.ttf|  
 |Lindsey|Linds.ttf|  
@@ -51,7 +51,7 @@ ms.locfileid: "96973395"
 ## <a name="using-the-fonts"></a>使用字体  
  可以通过两种方法在应用程序中使用字体。 可以将字体作为项目内容项添加到应用程序中，这些项目内容项不会作为资源嵌入到程序集中。 此外，还可以将字体作为嵌入到应用程序程序集文件中的项目资源项添加到应用程序中。 有关详细信息，请参阅[将字体与应用程序一起打包](packaging-fonts-with-applications.md)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Documents.Typography>
 - [OpenType 字体功能](opentype-font-features.md)

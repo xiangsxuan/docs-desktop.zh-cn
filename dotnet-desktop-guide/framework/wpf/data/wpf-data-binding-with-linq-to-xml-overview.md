@@ -29,7 +29,7 @@ XAML 和 LINQ to XML 的交互有两种主要方式：
 
 WPF 数据绑定可使 UI 元素将其一个属性与一个数据源相关联。 这种情况的一个简单示例是 <xref:System.Windows.Controls.Label>，其文本表示用户定义对象中一个公共属性的值。 WPF 数据绑定依赖于下列组件：
 
-|组件|描述|
+|组件|说明|
 |---------------|-----------------|
 |绑定目标|要与数据源关联的 UI 元素。 WPF 中的可视元素是从 <xref:System.Windows.UIElement> 类派生的。|
 |目标属性|绑定目标的依赖项属性，反映数据绑定源的值。 从中派生 <xref:System.Windows.DependencyObject> 的 <xref:System.Windows.UIElement> 类直接支持依赖项属性。|
@@ -85,7 +85,7 @@ WPF 数据绑定可使 UI 元素将其一个属性与一个数据源相关联。
 
 为了实现 WPF 动态绑定，需要与 <xref:System.Windows.Data> 命名空间提供的功能（特别是 <xref:System.Windows.Data.Binding> 类）一起使用动态属性。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [与 LINQ to XML 的 WPF 数据绑定](wpf-data-binding-with-linq-to-xml-overview.md)
 - [LINQ to XML 动态属性](linq-to-xml-dynamic-properties.md)

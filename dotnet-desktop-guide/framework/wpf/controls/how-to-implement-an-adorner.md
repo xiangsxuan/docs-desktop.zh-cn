@@ -22,13 +22,13 @@ ms.locfileid: "96972812"
   
 ## <a name="example"></a>示例  
   
-### <a name="description"></a>描述  
+### <a name="description"></a>说明  
  通过实现继承自抽象类的类来创建自定义装饰器 <xref:System.Windows.Documents.Adorner> 。  示例装饰器 <xref:System.Windows.UIElement> 通过重写方法，只是装饰的角 <xref:System.Windows.UIElement.OnRender%2A> 。  
   
 ### <a name="code"></a>代码  
  [!code-csharp[Adorners_SimpleCircleAdorner#_SimpleCircleAdornerBody](~/samples/snippets/csharp/VS_Snippets_Wpf/Adorners_SimpleCircleAdorner/CSharp/Window1.xaml.cs#_simplecircleadornerbody)]
  [!code-vb[Adorners_SimpleCircleAdorner#_SimpleCircleAdornerBody](~/samples/snippets/visualbasic/VS_Snippets_Wpf/Adorners_SimpleCircleAdorner/VisualBasic/Window1.xaml.vb#_simplecircleadornerbody)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [装饰器概述](adorners-overview.md)

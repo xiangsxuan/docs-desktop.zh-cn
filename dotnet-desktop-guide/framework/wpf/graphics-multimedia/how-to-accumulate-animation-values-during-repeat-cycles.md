@@ -32,7 +32,7 @@ ms.locfileid: "96973581"
   
  [!code-xaml[timingbehaviors_snip#IsCumulativeWholePage](~/samples/snippets/csharp/VS_Snippets_Wpf/timingbehaviors_snip/CSharp/IsCumulativeExample.xaml#iscumulativewholepage)]  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [向动画起始值添加动画输出值](how-to-add-an-animation-output-value-to-an-animation-starting-value.md)
 - [重复动画](how-to-repeat-an-animation.md)

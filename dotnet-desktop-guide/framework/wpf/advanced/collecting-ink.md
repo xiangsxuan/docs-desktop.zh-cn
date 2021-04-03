@@ -88,7 +88,7 @@ ms.locfileid: "96971958"
 
 请注意如何将 <xref:System.Windows.Controls.StackPanel> 按钮放置在顶部 <xref:System.Windows.Controls.InkCanvas> 。 如果尝试在按钮顶部显示墨迹，则会 <xref:System.Windows.Controls.InkCanvas> 收集按钮并在其后面呈现墨迹。 这是因为按钮是的同级，而不是 <xref:System.Windows.Controls.InkCanvas> 子级。 此外，这些按钮的 Z 顺序较高，所以墨迹呈现在其后面。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Ink.DrawingAttributes>
 - <xref:System.Windows.Controls.InkCanvas.DefaultDrawingAttributes%2A>

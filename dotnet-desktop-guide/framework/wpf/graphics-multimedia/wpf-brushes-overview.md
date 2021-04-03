@@ -161,7 +161,7 @@ ms.locfileid: "96973889"
   
  有关无法冻结对象的原因的详细信息 <xref:System.Windows.Media.VisualBrush> ，请参阅 " <xref:System.Windows.Media.VisualBrush> 类型" 页。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Media.Brush>
 - <xref:System.Windows.Media.Brushes>

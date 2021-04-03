@@ -38,6 +38,6 @@ ms.locfileid: "96973044"
 ### <a name="validation-and-security"></a>验证和安全  
  将需求应用到 <xref:System.Windows.DependencyProperty.ValidateValueCallback%2A> ，并预期在请求失败时验证失败，以防止设置属性的安全机制。 如果执行的设置值无效 <xref:System.Windows.DependencyProperty.ValidateValueCallback%2A> ，则如果这些调用方在应用程序域中运行，则它也会被恶意调用方抑制。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [自定义依赖项属性](custom-dependency-properties.md)

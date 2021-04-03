@@ -87,7 +87,7 @@ ms.locfileid: "96973238"
   
  控件将对 <xref:System.Windows.Controls.Primitives.Popup> 其内容的引用 <xref:System.Windows.Controls.Primitives.Popup.Child%2A> 作为逻辑子级维护。 当创建新窗口时，的内容 <xref:System.Windows.Controls.Primitives.Popup> 将成为窗口的可视子级，并且保持的逻辑子级 <xref:System.Windows.Controls.Primitives.Popup> 。 相反， <xref:System.Windows.Controls.Primitives.Popup> 将保留其内容的逻辑父级 <xref:System.Windows.Controls.Primitives.Popup.Child%2A> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.Primitives.Popup>
 - <xref:System.Windows.Controls.Primitives.PopupPrimaryAxis>

@@ -332,6 +332,6 @@ ms.locfileid: "96972997"
 
      ![按住 Ctrl 键的同时拖动圆形](./media/dragdrop-paneldrop.png "DragDrop_PanelDrop")
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - [拖放概述](drag-and-drop-overview.md)

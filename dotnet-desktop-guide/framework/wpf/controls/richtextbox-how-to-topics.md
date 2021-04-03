@@ -23,7 +23,7 @@ ms.locfileid: "96973798"
  [保存、加载和打印 RichTextBox 内容](how-to-save-load-and-print-richtextbox-content.md)  
  [在 RichTextBox 中确定自定义上下文菜单的位置](how-to-position-a-custom-context-menu-in-a-richtextbox.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.TextBox>
 - [WPF 中的文档](../advanced/documents-in-wpf.md)

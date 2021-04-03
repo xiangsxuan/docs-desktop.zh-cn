@@ -29,7 +29,7 @@ ms.locfileid: "96973091"
   
  若要清除对象的所有可能属性的绑定，请使用 <xref:System.Windows.Data.BindingOperations.ClearAllBindings%2A> 。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Data.BindingOperations>
 - [数据绑定概述](/dotnet/desktop-wpf/data/data-binding-overview)

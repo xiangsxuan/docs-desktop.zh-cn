@@ -21,7 +21,7 @@ ms.locfileid: "96973795"
  [RichTextBox 概述](richtextbox-overview.md)  
  [操作指南主题](richtextbox-how-to-topics.md)  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Controls.TextBox>
 - [WPF 中的文档](../advanced/documents-in-wpf.md)

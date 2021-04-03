@@ -22,7 +22,7 @@ ms.locfileid: "96972891"
 ## <a name="slider-parts"></a>滑块部分  
  下表列出了控件的已命名部件 <xref:System.Windows.Controls.Slider> 。  
   
-|组成部分|类型|描述|  
+|组成部分|类型|说明|  
 |-|-|-|  
 |PART_Track|<xref:System.Windows.Controls.Primitives.Track>|指示的位置的元素的容器 <xref:System.Windows.Controls.Slider> 。|  
 |PART_SelectionRange|<xref:System.Windows.FrameworkElement>|沿显示选择范围的元素 <xref:System.Windows.Controls.Slider> 。  仅当属性为时，选择范围才可见 <xref:System.Windows.Controls.Slider.IsSelectionRangeEnabled%2A> `true` 。|  
@@ -52,7 +52,7 @@ ms.locfileid: "96972891"
   
  有关完整示例，请参阅[使用 ControlTemplates 设置样式示例](https://github.com/Microsoft/WPF-Samples/tree/master/Styles%20&%20Templates/IntroToStylingAndTemplating)。  
   
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.FrameworkElement.Style%2A>
 - <xref:System.Windows.Controls.ControlTemplate>
