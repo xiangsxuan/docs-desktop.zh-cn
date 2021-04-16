@@ -1,16 +1,17 @@
 ---
 title: XAML 2009 语言功能
+description: 描述特定于 XAML 2009 规范的语言功能。
 ms.date: 03/30/2017
 helpviewer_keywords:
 - XAML 2009 [XAML Services]
 - XAML [XAML Services], XAML 2009
 ms.assetid: f6bb18d8-c86a-4549-8862-323e6b32a8dd
-ms.openlocfilehash: 6dbcc1df2b05f25d3e9fd4d8c36e602f281188e8
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: e7342493e573bb28c6253fa2d4acd3960a37ed7e
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96973856"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560378"
 ---
 # <a name="xaml-2009-language-features"></a>XAML 2009 语言功能
 XAML 2009 是新 XAML 语言功能的简写术语，其扩展现有的 XAML 语言规范。 XAML 2009 引入了几个新指令和结构。 其中包括 [X:Arguments 指令](xarguments-directive.md); [X:FactoryMethod 指令](xfactorymethod-directive.md); [X:Reference 标记扩展](xreference-markup-extension.md); [X:TypeArguments 指令](xtypearguments-directive.md);用于公共语言基元的内置类型 (例如 `x:Char`) 。
@@ -37,4 +38,4 @@ XAML 2009 可以支持属性元素上的 XAML 命名空间 (xmlns) 定义，而 
 
 ## <a name="see-also"></a>另请参阅
 
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)

@@ -1,17 +1,18 @@
 ---
 title: x:Shared 特性
+description: 描述 x:Shared 属性及其修改 WPF 资源检索行为的方式。
 ms.date: 03/30/2017
 helpviewer_keywords:
 - XAML [XAML Services], x:Shared attribute
 - x:Shared attribute [XAML Services]
 - Shared attribute in XAML [XAML Services]
 ms.assetid: c8cff434-2785-405f-9f95-16deb34c9e64
-ms.openlocfilehash: 900b138f07e3c153729eb668a0f77e7c4d788ac8
-ms.sourcegitcommit: 069786bcadbf9cd931d7dc3d892262cd852d2ffb
+ms.openlocfilehash: 9cd832e5fbc0facce00f0a38e19bb28662545c09
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "104664023"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560324"
 ---
 # <a name="xshared-attribute"></a>x:Shared 特性
 
@@ -25,7 +26,7 @@ ms.locfileid: "104664023"
 </ResourceDictionary>
 ```
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 `x:Shared` 映射到 XAML 语言 XAML 命名空间，并由 .NET XAML 服务及其 XAML 读取器识别为有效的 XAML 语言元素。 但是，的指定功能 `x:Shared` 仅与 wpf 应用程序和 WPF XAML 分析器相关。 在 WPF 中， `x:Shared` 仅当应用于 wpf 内存在的对象时，它才可用作特性 <xref:System.Windows.ResourceDictionary> 。 其他用法不会引发分析异常或其他错误，但它们不起作用。
 
@@ -35,7 +36,7 @@ ms.locfileid: "104664023"
 
 如果修改通过资源 API 返回的对象（如 <xref:System.Windows.FrameworkElement.FindResource%2A> ），或直接在中修改对象，则会 <xref:System.Windows.ResourceDictionary> 更改原始资源。 如果对该资源的引用是动态资源引用，则该资源的使用者将获取更改的资源。
 
-如果对资源的引用是静态资源引用，则在处理时间之后对资源所做的更改 [!INCLUDE[TLA2#tla_xaml](../includes/tla2sharptla-xaml-md.md)] 是不相关的。 有关静态和动态资源引用的详细信息，请参阅 [XAML 资源](../net/wpf/fundamentals/xaml-resources-define.md)。
+如果对资源的引用是静态资源引用，则在处理时间之后对资源所做的更改 [!INCLUDE[TLA2#tla_xaml](../includes/tla2sharptla-xaml-md.md)] 是不相关的。 有关静态和动态资源引用的详细信息，请参阅 [ (WPF .net) 的 XAML 资源概述 ](../net/wpf/systems/xaml-resources-overview.md)。
 
 显式指定的 `x:Shared="true"` 操作很少完成，因为它已是默认值。 WPF 对象模型中没有等效的直接代码 `x:Shared` ; 它只能在 XAML 用法中指定，并且必须通过默认的 WPF 行为进行处理，或者，如果使用 .NET Xaml 服务及其 XAML 读取器进行处理，则必须使用加载路径上的中间 XAML 节点流进行处理。
 
@@ -51,8 +52,8 @@ ms.locfileid: "104664023"
 
 - <xref:System.Windows.ResourceDictionary>包含项的不能嵌套在另一个中 <xref:System.Windows.ResourceDictionary> 。 例如，你不能使用 `x:Shared` 中已有项的中的项 <xref:System.Windows.ResourceDictionary> <xref:System.Windows.Style> <xref:System.Windows.ResourceDictionary> 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.ResourceDictionary>
-- [XAML 资源](../net/wpf/fundamentals/xaml-resources-define.md)
+- [XAML 资源概述 (WPF .NET)](../net/wpf/systems/xaml-resources-overview.md)
 - [基元素](../framework/wpf/advanced/base-elements.md)

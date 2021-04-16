@@ -1,5 +1,6 @@
 ---
 title: XamlName 语法
+description: 介绍与 XamlName Grammer 相关的 XAML 语言规范。
 ms.date: 03/30/2017
 helpviewer_keywords:
 - DottedXamlName grammar [XAML Services]
@@ -8,12 +9,12 @@ helpviewer_keywords:
 - names in XAML [XAML Services]
 - XamlName grammar [XAML Services]
 ms.assetid: 11e4cada-41d2-494d-9531-0d3df4dfcbe3
-ms.openlocfilehash: 484406ff23c60389d71a638cd516c74d8d7edbe5
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: abc544d9b74f34aa138bba13cc5581554d232607
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96973854"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560174"
 ---
 # <a name="xamlname-grammar"></a>XamlName 语法
 
@@ -36,7 +37,7 @@ CombiningCharacter ::= UnicodeMn | UnicodeMc
 
 它假定 Unicode 字符数据库中定义的以下常规类别值
 
-| Unicode 类别   | 描述                   |
+| Unicode 类别   | 说明                   |
 |--------------------|-------------------------------|
 | Lu                 | 字母，大写             |
 | Ll                 | 字母，小写             |
@@ -48,7 +49,7 @@ CombiningCharacter ::= UnicodeMn | UnicodeMc
 | Nd                 | Number、Decimal               |
 | Nl                 | 数字，字母                |
 
-XAML 定义了第二个语法 DottedXamlName，用于属性和事件限定引用，还用于附加成员。 有关详细信息，请参阅 <xref:System.Windows.DependencyProperty> 和 [XAML 概述 (WPF) ](../net/wpf/fundamentals/xaml.md)。
+XAML 定义了第二个语法 DottedXamlName，用于属性和事件限定引用，还用于附加成员。 有关详细信息，请参阅 <xref:System.Windows.DependencyProperty> 和 [XAML 概述 (WPF .net) ](../net/wpf/xaml/index.md)。
 
 DottedXamlName 类型的字符串值必须符合以下语法：
 
@@ -56,6 +57,6 @@ DottedXamlName 类型的字符串值必须符合以下语法：
 DottedXamlName ::= XamlName '.' XamlName
 ```
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 有关完整规范，请参阅 " [ \[ MS- \] XAML](/previous-versions/msp-n-p/ff650760(v=pandp.10))"。

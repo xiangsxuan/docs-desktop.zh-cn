@@ -1,5 +1,6 @@
 ---
 title: x:Code 内部 XAML 类型
+description: 介绍 x:Code XML 类型如何允许 XAML 处理器编译代码。
 ms.date: 03/30/2017
 f1_keywords:
 - Code
@@ -10,12 +11,12 @@ helpviewer_keywords:
 - x:Code XAML directive element [XAML Services]
 - XAML [XAML Services], x:Code directive element
 ms.assetid: 87986b13-1a2e-4830-ae36-15f9dc5629e8
-ms.openlocfilehash: 1e44ac3fec76ef6f5041d712110ff40c2ec3de03
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 593b26e7246a3b7f20f0357962a708fe0a9c8833
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970933"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560424"
 ---
 # <a name="xcode-intrinsic-xaml-type"></a>x:Code 内部 XAML 类型
 允许在 XAML 生产中放置代码。 此类代码可由编译 XAML 的任何 XAML 处理器实现进行编译，或在 XAML 生产环境中保留，以供以后使用（如运行时的解释）使用。
@@ -28,7 +29,7 @@ ms.locfileid: "96970933"
 </x:Code>
 ```
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 `x:Code`Xaml 指令元素中的代码仍会在提供的常规 XML 命名空间和 xaml 命名空间中进行解释。 因此，通常需要将用于段内的代码括起来 `x:Code` `CDATA` 。
 
@@ -54,4 +55,4 @@ ms.locfileid: "96970933"
 
 - [x:Class 指令](xclass-directive.md)
 - [WPF 中的代码隐藏和 XAML](../framework/wpf/advanced/code-behind-and-xaml-in-wpf.md)
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)

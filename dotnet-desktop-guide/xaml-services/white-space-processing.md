@@ -1,5 +1,6 @@
 ---
 title: XAML 中的空白处理
+description: 本文介绍有关如何处理空白的 XAML 语言规则。
 ms.date: 03/30/2017
 helpviewer_keywords:
 - East Asian characters [XAML Services]
@@ -7,12 +8,12 @@ helpviewer_keywords:
 - white-space processing in XAML [XAML Services]
 - characters [XAML Services], East Asian
 ms.assetid: cc9cc377-7544-4fd0-b65b-117b90bb0b23
-ms.openlocfilehash: 4bba980f69800c85b9f3b443f4965ca52f5abf19
-ms.sourcegitcommit: 069786bcadbf9cd931d7dc3d892262cd852d2ffb
+ms.openlocfilehash: d409f56752d2077b8576244f9af3f3287ac89287
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "104667658"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560085"
 ---
 # <a name="white-space-processing-in-xaml"></a>XAML 中的空白处理
 
@@ -76,8 +77,8 @@ XAML 的语言规则状态必须由处理器实现处理有效空白 [!INCLUDE[T
 
 此外，流文档模型中换行符换行符的某些内联元素应特意不会引入额外的空间，即使是在空白有意义的集合中。 例如，元素与 <xref:System.Windows.Documents.LineBreak> HTML 中的标记具有相同的用途， \<BR/> 为标记可读性，通常 <xref:System.Windows.Documents.LineBreak> 是由创作的换行符与任何后续文本分隔开。 不应标准化该换行符以使它成为后续行中的前导空格。 若要启用此行为，则元素的类定义 <xref:System.Windows.Documents.LineBreak> 将应用 <xref:System.Windows.Markup.TrimSurroundingWhitespaceAttribute> ，然后由处理器进行解释， [!INCLUDE[TLA2#tla_xaml](../includes/tla2sharptla-xaml-md.md)] 以表示始终修整周围的空格 <xref:System.Windows.Documents.LineBreak> 。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
-- [XAML 概述 (WPF)](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)
 - [XML 字符实体和 XAML](xml-character-entities.md)
 - [xml：在 XAML 中处理空间](xml-space-handling.md)

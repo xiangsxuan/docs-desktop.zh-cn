@@ -1,17 +1,18 @@
 ---
 title: x:Arguments 指令
+description: X:Arguments 指令为 XAML 中的非参数构造函数对象元素打包构造参数。
 ms.date: 03/30/2017
 helpviewer_keywords:
 - x:Arguments directive [XAML Services]
 - Arguments directive in XAML [XAML Services]
 - XAML [XAML Services], x:Arguments directive
 ms.assetid: 87cc10b0-b610-4025-b6b0-ab27ca27c92e
-ms.openlocfilehash: 5aaa14cb3edfcba21814681dfaedd076274f6f66
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 21b7b2b13c0255445f9b838b3b115a42d5af119a
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96973855"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560239"
 ---
 # <a name="xarguments-directive"></a>x:Arguments 指令
 
@@ -39,12 +40,12 @@ ms.locfileid: "96973855"
 
 ## <a name="xaml-values"></a>XAML 值
 
-|||
+| 值 | 说明 |
 |-|-|
 |`oneOrMoreObjectElements`|一个或多个对象元素，用于指定要传递给支持的非参数构造函数或工厂方法的参数。<br /><br /> 典型用法是使用对象元素中的初始化文本来指定实际参数值。 请参阅“示例”部分。<br /><br /> 元素的顺序非常重要。 按顺序排列的 XAML 类型必须与后备构造函数或工厂方法重载的类型和类型顺序相匹配。|
 |`methodName`|应处理任何参数的工厂方法的名称 `x:Arguments` 。|
 
-## <a name="dependencies"></a>依赖项
+## <a name="dependencies"></a>依赖关系
 
 `x:FactoryMethod` 可以修改应用的作用域和行为 `x:Arguments` 。
 
@@ -52,7 +53,7 @@ ms.locfileid: "96973855"
 
 如果 `x:FactoryMethod` 指定，则 `x:Arguments` 应用于命名方法的重载。
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 XAML 2006 可以通过初始化文本支持非默认初始化。 但是，初始化文本构造技术的实际应用程序是有限的。 初始化文本被视为单个文本字符串;因此，它仅添加单个参数初始化的功能，除非为构造行为定义了一个类型转换器，此构造行为可分析自定义信息项和字符串中的自定义分隔符。 此外，文本字符串到对象逻辑可能是给定的 XAML 分析器用于处理除 true 字符串以外的基元的本机默认类型转换器。
 
@@ -113,4 +114,4 @@ switch (name) {
 ## <a name="see-also"></a>另请参阅
 
 - [定义与 .NET XAML 服务一起使用的自定义类型](define-custom-types.md)
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)

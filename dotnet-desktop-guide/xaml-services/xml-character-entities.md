@@ -1,5 +1,6 @@
 ---
 title: XML 字符实体和 XAML
+description: 介绍如何在 XAML 中处理特殊字符以及 XAML 中其他 XML 概念的一般注意事项。
 ms.date: 03/30/2017
 f1_keywords:
 - '&'
@@ -20,12 +21,12 @@ helpviewer_keywords:
 - quotation mark (") [XAML Services]
 - less-than (<) character [XAML Services]
 ms.assetid: 6896d0ce-74f7-420a-9ab4-de9bbf390e8d
-ms.openlocfilehash: 9691e7a5207cebe5668852d485441637ae75177c
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 45dda0b7d8caa552d782786ce2e26658360f48c3
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970924"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560107"
 ---
 # <a name="xml-character-entities-and-xaml"></a>XML 字符实体和 XAML
 
@@ -52,7 +53,7 @@ XAML 标记通常使用相同的字符实体和在 XML 中定义的转义序列�
 |< (小于号) |\&lt;|必须用于属性值，但不 \< is acceptable as the content of an element as long as > 跟随。|
 |"（直双引号）|\&quot;|必须用于属性值，但直双引号 (") 可作为元素内容。 请注意，属性值可能括在直单引号 (') 或直双引号 (") 内；首先出现的字符定义属性值的引号，另一个引号则可用作值内部的文字。|
 |'（直单引号）|\&apos;|必须用于属性值，但直单引号 (') 可作为元素内容。 请注意，属性值可能括在直单引号 (') 或直双引号 (") 内；首先出现的字符定义属性值的引号，另一个引号则可用作值内部的文字。|
-|（数字字符映射）|&#*[integer]*;或 & # x *[hex]*;|XAML 支持向处于活动状态的编码的数字字符映射。|
+|（数字字符映射）|&#*[integer]*;或 &#x *[hex]*;|XAML 支持向处于活动状态的编码的数字字符映射。|
 |（不间断空格）|&\#160; (假设 UTF-8 编码) |对于流文档元素或采用文本（如 WPF <xref:System.Windows.Controls.TextBox>）的元素，不间断空格没有超出标记范围进行规范化，甚至是对于 `xml:space="default"` 也是如此。  (有关详细信息，请参阅 [XAML 中的空白处理](white-space-processing.md)。 ) |
 
 ## <a name="xml-comment-format"></a>XML 注释格式
@@ -65,7 +66,7 @@ XAML 根据 XML 规范处理 XML 处理指令，该规范说明必须传递指�
 
 ## <a name="see-also"></a>另请参阅
 
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)
 - [标记扩展和 WPF XAML](../framework/wpf/advanced/markup-extensions-and-wpf-xaml.md)
 - [XamlName 语法](xamlname-grammar.md)
 - [XAML 中的空白处理](white-space-processing.md)

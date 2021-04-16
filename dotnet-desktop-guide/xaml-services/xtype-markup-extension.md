@@ -1,5 +1,6 @@
 ---
 title: x:Type 标记扩展
+description: 介绍如何在 XAML 中使用 x:Type 标记扩展。 X:Type 标记扩展指定 CLR 对象。
 ms.date: 03/30/2017
 f1_keywords:
 - x:TypeExtension
@@ -14,12 +15,12 @@ helpviewer_keywords:
 - TargetType attribute [XAML Services]
 - Type markup extension in XAML [XAML Services]
 ms.assetid: e0e0ce6f-e873-49c7-8ad7-8b840eb353ec
-ms.openlocfilehash: dae1fe820b2baa32b5519b6ac8c9b103baded300
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 73b45d8c8ec10c133549755492663dcab1b2c454
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96971788"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560165"
 ---
 # <a name="xtype-markup-extension"></a>x:Type 标记扩展
 
@@ -39,12 +40,12 @@ ms.locfileid: "96971788"
 
 ## <a name="xaml-values"></a>XAML 值
 
-|||
+| 值 | 说明 |
 |-|-|
 |`prefix`|可选。 映射非默认 XAML 命名空间的前缀。 通常不需要指定前缀。 请参阅“备注”。|
 |`typeNameValue`|必需。 可解析为当前默认 XAML 命名空间的类型名称;如果提供，则为指定的映射前缀 `prefix` 。|
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 `x:Type`标记扩展的函数与 `typeof()` c # 中的运算符或 `GetType` Microsoft Visual Basic 中的运算符类似。
 
@@ -87,6 +88,6 @@ XAML 2009 提供对泛型类型的其他支持，并修改和的功能行为 `x:
 ## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.Style>
-- [样式设置和模板化](../net/wpf/fundamentals/styles-templates-overview.md)
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [样式和模板 (WPF .NET)](../net/wpf/controls/styles-templates-overview.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)
 - [标记扩展和 WPF XAML](../framework/wpf/advanced/markup-extensions-and-wpf-xaml.md)

@@ -1,5 +1,6 @@
 ---
 title: x:Null 标记扩展
+description: 说明 XAML 如何处理 x:Null 标记扩展。
 ms.date: 03/30/2017
 f1_keywords:
 - NullExtension
@@ -12,12 +13,12 @@ helpviewer_keywords:
 - x:Null markup extension [XAML Services]
 - XAML [XAML Services], x:Null markup extension
 ms.assetid: 2e3ccc21-4996-481d-91b5-3910d8b3bfa3
-ms.openlocfilehash: 7f7c4cd44448b6e4e8b8934a63b56b910ce0428a
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: ad204ff850343d5893a3952105a007c236e07e3f
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970912"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560354"
 ---
 # <a name="xnull-markup-extension"></a>x:Null 标记扩展
 
@@ -29,7 +30,7 @@ ms.locfileid: "96970912"
 <object property="{x:Null}" .../>
 ```
 
-## <a name="remarks"></a>备注
+## <a name="remarks"></a>注解
 
 C # 和 c + + 中的空引用的关键字为 null。 Microsoft Visual Basic 关键字用于空引用 `Nothing` ，但你始终使用 `{x:Null}` 作为 xaml 用法，而不考虑与 xaml 关联的代码隐藏语言。
 
@@ -50,5 +51,5 @@ Null 用法通常与 CLR 值的 XAML 成员公开关联 <xref:System.Nullable%60
 ## <a name="see-also"></a>另请参阅
 
 - <xref:System.Windows.DependencyProperty.UnsetValue>
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)
 - [标记扩展和 WPF XAML](../framework/wpf/advanced/markup-extensions-and-wpf-xaml.md)

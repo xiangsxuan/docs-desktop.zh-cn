@@ -1,6 +1,7 @@
 ---
 title: x:Key 指令
 ms.date: 03/30/2017
+description: X：Key 指令标识在 XAML 定义的字典中创建和引用的元素。
 f1_keywords:
 - xKey
 - Key
@@ -10,12 +11,12 @@ helpviewer_keywords:
 - Key attribute in XAML [XAML Services]
 - XAML [XAML Services], x:Key attribute
 ms.assetid: 1985cd45-f197-42d5-b75e-886add64b248
-ms.openlocfilehash: 6664aeffcbf087512bf082b563a20a53a622c98f
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 7affda67f6fd2df7694e5334babb4589df1debbe
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96970927"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560302"
 ---
 # <a name="xkey-directive"></a>x:Key 指令
 
@@ -43,14 +44,14 @@ ms.locfileid: "96970927"
   
 ## <a name="xaml-values"></a>XAML 值  
   
-|||  
+| 值 | 说明 |  
 |-|-|  
 |`stringKeyValue`|要用作键的文本字符串。 文本字符串必须符合 [XamlName 语法](xamlname-grammar.md)。|  
 |`markupExtensionUsage`|标记扩展分隔符中的 {} 标记扩展用法，提供要用作键的对象。 请参阅“备注”。|  
   
-## <a name="remarks"></a>备注  
+## <a name="remarks"></a>注解  
 
- `x:Key` 支持 XAML 资源字典概念。 作为语言的 XAML 不会定义资源字典实现，该实现留给特定的 UI 框架。 若要了解有关如何在 WPF 中实现 XAML 资源字典的详细信息，请参阅 [Xaml 资源](../net/wpf/fundamentals/xaml-resources-define.md)。  
+ `x:Key` 支持 XAML 资源字典概念。 作为语言的 XAML 不会定义资源字典实现，该实现留给特定的 UI 框架。 若要了解有关如何在 WPF 中实现 XAML 资源字典的详细信息，请参阅 [ (wpf .net) 的 xaml 资源概述 ](../net/wpf/systems/xaml-resources-overview.md)。  
   
  在 XAML 2006 和 WPF 中， `x:Key` 必须作为属性提供。 你仍可以使用非字符串键，但这需要使用标记扩展用法来提供属性窗体中的非字符串值。 如果你使用的是 XAML 2009，则 `x:Key` 可将指定为元素，以显式支持由对象类型（而非字符串）键控的字典，而不需要标记扩展中间。 请参阅本主题中的 "XAML 2009" 部分。 备注部分的剩余部分专门适用于 XAML 2006 实现。  
   
@@ -66,7 +67,7 @@ ms.locfileid: "96970927"
   
 - 一些 WPF 类型声明了字典使用的隐式键。 例如， <xref:System.Windows.Style> 具有 <xref:System.Windows.Style.TargetType%2A> 、或的 <xref:System.Windows.DataTemplate> <xref:System.Windows.DataTemplate.DataType%2A> 可以位于， <xref:System.Windows.ResourceDictionary> 并使用隐式键。  
   
-- WPF 支持合并资源字典概念。 可以在合并字典之间共享密钥，并可以使用访问共享密钥行为 <xref:System.Windows.FrameworkContentElement.FindResource%2A> 。 有关详细信息，请参阅 [合并资源字典](../framework/wpf/advanced/merged-resource-dictionaries.md)。  
+- WPF 支持合并资源字典概念。 可以在合并字典之间共享密钥，并可以使用访问共享密钥行为 <xref:System.Windows.FrameworkContentElement.FindResource%2A> 。 有关详细信息，请参阅[合并资源字典](../net/wpf/systems/xaml-resources-merged-dictionaries.md)。
   
  在整个 WPF XAML 实现和应用程序模型中，XAML 标记编译器不会检查密钥的唯一性。 相反，缺少值或非唯一 `x:Key` 值会导致加载时 XAML 分析器错误。 但是，Visual Studio for WPF 字典处理通常会在设计阶段记录此类错误。  
   
@@ -78,7 +79,7 @@ ms.locfileid: "96970927"
   
  如前所述，密钥的值可以通过标记扩展提供，也可以是字符串值以外的值。 WPF 方案的一个示例是，的值 `x:Key` 可以是 [ComponentResourceKey](../framework/wpf/advanced/componentresourcekey-markup-extension.md)。 某些控件为自定义样式资源公开该类型的样式键，该资源会影响该控件的外观和行为的一部分，而不会完全替换样式。 此类键的一个示例是 <xref:System.Windows.Controls.ToolBar.ButtonStyleKey%2A> 。  
   
- WPF 合并字典功能引入了有关密钥唯一性和键查找行为的其他注意事项。 有关详细信息，请参阅 [合并资源字典](../framework/wpf/advanced/merged-resource-dictionaries.md)。  
+ WPF 合并字典功能引入了有关密钥唯一性和键查找行为的其他注意事项。 有关详细信息，请参阅[合并资源字典](../net/wpf/systems/xaml-resources-merged-dictionaries.md)。  
   
 ## <a name="xaml-2009"></a>XAML 2009  
 
@@ -101,7 +102,7 @@ keyObject
   
 ### <a name="xaml-values"></a>XAML 值  
   
-|||  
+| 值 | 说明 |
 |-|-|  
 |`keyObject`|对象的对象元素，该对象用作专用字典中给定的的键 `object` 。|  
   
@@ -117,6 +118,6 @@ keyObject
   
 ## <a name="see-also"></a>另请参阅
 
-- [XAML 资源](../net/wpf/fundamentals/xaml-resources-define.md)
-- [资源和代码](../framework/wpf/advanced/resources-and-code.md)
+- [XAML 资源概述 (WPF .NET)](../net/wpf/systems/xaml-resources-overview.md)
+- [代码 (WPF .NET) 中的资源 ](../net/wpf/systems/xaml-resources-and-code.md)
 - [StaticResource 标记扩展](../framework/wpf/advanced/staticresource-markup-extension.md)

@@ -1,17 +1,18 @@
 ---
 title: XAML 的类型转换器概述
+description: 类型转换器为对象编写器提供逻辑，用于将 XAML 标记中的字符串值转换为对象图中的特定对象。
 ms.date: 03/30/2017
 helpviewer_keywords:
 - XAML [XAML Services], type converters
 - XAML [XAML Services], TypeConverter
 - type conversion for XAML [XAML Services]
 ms.assetid: 51a65860-efcb-4fe0-95a0-1c679cde66b7
-ms.openlocfilehash: 5ed7f96c6765f5cec0d63ace2cb15fd3f38b72a8
-ms.sourcegitcommit: 9f6df084c53a3da0ea657ed0d708a72213683084
+ms.openlocfilehash: 995a254b312fd5908f53fa4c8c5f4c28196f48de
+ms.sourcegitcommit: 32616f61a7b001efcc8567fee5fdf01f83da76cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96973161"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107560433"
 ---
 # <a name="overview-of-type-converters-for-xaml"></a>适用于 XAML 的类型转换器概述
 
@@ -121,4 +122,4 @@ ms.locfileid: "96973161"
 
 - <xref:System.ComponentModel.TypeConverterAttribute>
 - [XAML 的类型转换器和标记扩展](type-converters-and-markup-extensions.md)
-- [WPF)  (XAML 概述 ](../net/wpf/fundamentals/xaml.md)
+- [XAML 概述 (WPF .NET)](../net/wpf/xaml/index.md)
