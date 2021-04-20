@@ -2,6 +2,7 @@ items:
   - name: 适用于 .NET Core 的 Windows Presentation Foundation
     href: index.yml
   - name: 入门
+    expanded: true
     items:
       - name: 概述
         href: overview/index.md
@@ -11,25 +12,67 @@ items:
     items:
       - name: 与 .NET Framework 的差异
         href: migration/differences-from-net-framework.md
-      - name: 从 Framework 迁移到 Core
+      - name: 从 .NET Framework 迁移
         href: migration/convert-project-from-net-framework.md
-  - name: 基础知识
+  - name: 基础
+    expanded: true
     items:
-      - name: XAML
-        href: fundamentals/xaml.md
-      - name: 定义资源
-        href: fundamentals/xaml-resources-define.md
-      - name: 样式和模板
+      - name: Windows
         items:
           - name: 概述
-            href: fundamentals/styles-templates-overview.md
-          - name: 创建和应用样式
-            href: fundamentals/styles-templates-create-apply-style.md
-          - name: 创建和应用模板
-            href: themes/how-to-create-apply-template.md
-      - name: XAML 语言参考
-        href: ../../xaml-services/
-  - name: 使用数据
+            href: windows/index.md
+          - name: 对话框
+            href: windows/dialog-boxes-overview.md
+          - name: 常见任务
+            items:
+              - name: 显示消息框
+                href: windows/how-to-open-message-box.md
+              - name: 打开窗口
+                href: windows/how-to-open-window-dialog-box.md
+              - name: 关闭窗口
+                href: windows/how-to-close-window-dialog-box.md
+              - name: 显示系统对话框
+                href: windows/how-to-open-common-system-dialog-box.md
+              - name: 获取或设置主窗口
+                href: windows/how-to-get-set-main-application-window.md
+      - name: 控制
+        items:
+          - name: 样式和模板
+            items:
+              - name: 概述
+                href: controls/styles-templates-overview.md
+              - name: 常见任务
+                items:
+                  - name: 创建和应用样式
+                    href: controls/how-to-create-apply-style.md
+                  - name: 创建和应用模板
+                    href: controls/how-to-create-apply-template.md
+      - name: 数据绑定
+        items:
+          - name: 概述
+            href: data/index.md
+  - name: 系统
+    expanded: true
     items:
-      - name: 数据绑定概述
-        href: data/data-binding-overview.md
+      - name: 资源
+        items:
+          - name: 概述
+            href: systems/xaml-resources-overview.md
+          - name: 合并字典
+            href: systems/xaml-resources-merged-dictionaries.md
+          - name: 代码中的资源
+            href: systems/xaml-resources-and-code.md
+          - name: 常见任务
+            items:
+              - name: 定义和引用资源
+                href: systems/xaml-resources-how-to-define-and-reference.md
+              - name: 使用应用程序资源
+                href: systems/xaml-resources-how-to-use-application.md
+              - name: 使用系统资源
+                href: systems/xaml-resources-how-to-use-system.md
+  - name: XAML 与 WPF
+    items:
+      - name: 概述
+        href: xaml/index.md
+  - name: XAML 语言参考
+    href: ../../xaml-services/
