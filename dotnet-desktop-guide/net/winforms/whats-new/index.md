@@ -36,7 +36,7 @@ ms.locfileid: "96992772"
 
 - <xref:Microsoft.Web.WebView2.WinForms.WebView2?displayProperty=fullName>
 
-  具有新式 Web 支持的新 Web 浏览器控件。 基于 Edge (Chromium)。 有关详细信息，请参阅 [Windows 窗体中的 WebView2 入门](/microsoft-edge/webview2/gettingstarted/winforms)。
+  具有新式 Web 支持的新 Web 浏览器控件。 基于 Microsoft Edge (Chromium)。 有关详细信息，请参阅 [Windows 窗体中的 WebView2 入门](/microsoft-edge/webview2/gettingstarted/winforms)。
 
 ## <a name="enhanced-controls"></a>增强的控件
 
